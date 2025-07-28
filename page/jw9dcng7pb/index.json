@@ -1,0 +1,37 @@
+{
+  "name": {
+    "tr": "İletişim",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "ru": "",
+    "es": ""
+  },
+  "status": "play",
+  "category": "",
+  "id": "jw9dcng7pb",
+  "url": "",
+  "path": "iletisim",
+  "index": 4,
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": ""
+  },
+  "keyword": {
+    "tr": ""
+  },
+  "text": {
+    "tr": ""
+  },
+  "spot": {
+    "tr": ""
+  },
+  "update": "2025-07-28T18:25:25.648Z",
+  "date": "2025-07-28T18:25:25.648Z"
+}

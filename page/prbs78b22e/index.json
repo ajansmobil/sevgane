@@ -1,0 +1,37 @@
+{
+  "name": {
+    "tr": "Blog",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "ru": "",
+    "es": ""
+  },
+  "status": "play",
+  "category": "",
+  "id": "prbs78b22e",
+  "url": "",
+  "path": "blog",
+  "index": 2,
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": ""
+  },
+  "keyword": {
+    "tr": ""
+  },
+  "text": {
+    "tr": ""
+  },
+  "spot": {
+    "tr": ""
+  },
+  "update": "2025-07-28T18:25:33.456Z",
+  "date": "2025-07-28T18:25:33.456Z"
+}
