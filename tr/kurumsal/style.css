@@ -1,7 +1,7 @@
 
  
 
-  .yihts {
+  .n53um {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -9,7 +9,7 @@
     justify-content: center;
   }
 
-  .yihtstitle {
+  .n53umtitle {
     width: 100%;
     display: flex;
     align-items: center;
@@ -18,12 +18,12 @@
     z-index: 1;
   }
 
-  .yihtstitle:has(.yihtstitlebodylang:empty),
-  .yihtstitle:has(.yihtstitlebodylang ul:empty) {
+  .n53umtitle:has(.n53umtitlebodylang:empty),
+  .n53umtitle:has(.n53umtitlebodylang ul:empty) {
     display: none;
   }
 
-  .yihtstitlebody {
+  .n53umtitlebody {
     color: #ffffff;
     width: var(--max);
     display: flex;
@@ -31,29 +31,29 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .yihtstitlebodytitle {
+  .n53umtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .yihtstitlebodylang {
+  .n53umtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .yihtstitlebodylang:empty,
-  .yihtstitlebodylang ul:empty {
+  .n53umtitlebodylang:empty,
+  .n53umtitlebodylang ul:empty {
     display: none;
   }
 
-  .yihtstitlebodylang ul {
+  .n53umtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .yihtsbody {
+  .n53umbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -62,7 +62,7 @@
     position: relative;
   }
 
-  .yihts-mobile-toggle {
+  .n53um-mobile-toggle {
     display: none;
     background: #1e3046;
     color: #ffffff;
@@ -76,18 +76,18 @@
     right: 0;
   }
 
-  .yihts-mobile-toggle span {
+  .n53um-mobile-toggle span {
     font-size: 24px;
   }
 
-  .yihtsmenu {
+  .n53ummenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .yihtsmenulist {
+  .n53ummenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -96,7 +96,7 @@
     display: flex;
   }
 
-  .yihtsmenubody {
+  .n53ummenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -104,7 +104,7 @@
     justify-content: center;
   }
 
-  .yihtsmenulist ul {
+  .n53ummenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -113,7 +113,7 @@
     padding: 0;
   }
 
-  .yihtsmenulist ul a {
+  .n53ummenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #ffffff !important;
@@ -125,18 +125,18 @@
     white-space: nowrap;
   }
 
-  .yihtsmenulist ul a:hover {
+  .n53ummenulist ul a:hover {
     background-color: #ffffff;
     border-radius: 5px;
     color: #000000 !important;
     cursor: pointer;
   }
 
-  .yihtsmenulist ul a.yihts-menu-list-active {
+  .n53ummenulist ul a.n53um-menu-list-active {
     color: #000000 !important;
   }
 
-  .yihts-menu-list-active {
+  .n53um-menu-list-active {
     background-color: #ffffff;
     border-radius: 5px;
     color: #000000 !important;
@@ -144,22 +144,22 @@
     cursor: pointer;
   }
 
-  .yihtsmenulistbody {
+  .n53ummenulistbody {
     width: 100%;
   }
 
-  .yihtslanguages-mobile {
+  .n53umlanguages-mobile {
     display: none;
     padding-top: 15px;
     border-top: 1px solid rgba(0, 0, 0, 0.1);
   }
 
-  .yihtslanguages-mobile:empty,
-  .yihtslanguages-mobile ul:empty {
+  .n53umlanguages-mobile:empty,
+  .n53umlanguages-mobile ul:empty {
     display: none !important;
   }
 
-  .yihtslanguages-mobile ul {
+  .n53umlanguages-mobile ul {
     display: flex;
     gap: 8px;
     margin: 0;
@@ -168,7 +168,7 @@
     justify-content: center;
   }
 
-  .yihtslanguages-mobile li {
+  .n53umlanguages-mobile li {
     list-style: none;
     border: 1px solid rgba(0, 0, 0, 0.1);
     padding: 8px;
@@ -183,25 +183,25 @@
     transition: all 0.3s ease;
   }
 
-  .yihtslanguages-mobile li a {
+  .n53umlanguages-mobile li a {
     display: flex;
     align-items: center;
     justify-content: center;
   }
 
-  .yihtslanguages-mobile li:hover {
+  .n53umlanguages-mobile li:hover {
     background-color: #ffffff;
     border-color: #000000;
   }
 
   @media screen and (min-width: 1024px) {
-    .yihtsbodylogo {
+    .n53umbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
     }
 
-    .yihtstitle {
+    .n53umtitle {
     margin-bottom: -30px;
   }
 
@@ -209,77 +209,77 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .yihtsbody {
+    .n53umbody {
       width: calc(100% - 20px);
       padding: 0 10px;
       justify-content: center;
     }
 
-    .yihtsmenulist ul {
+    .n53ummenulist ul {
       flex-direction: row;
     }
 
-    .yihtsbodylogo {
+    .n53umbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
     }
 
-    .yihtstitlebody {
+    .n53umtitlebody {
       flex-direction: column;
       gap: 10px;
       align-items: center;
       display: none;
     }
 
-    .yihtstitlebodytitle {
+    .n53umtitlebodytitle {
       text-align: center;
       font-size: 14px;
     }
   }
 
   @media screen and (max-width: 768px) {
-    .yihtstitlebodylang {
+    .n53umtitlebodylang {
       display: none;
     }
 
-    .yihtsbody {
+    .n53umbody {
       width: calc(100% - 20px);
       padding: 0 10px;
       justify-content: space-between;
     }
 
-    .yihts-mobile-toggle {
+    .n53um-mobile-toggle {
       display: inline-flex;
     }
 
-    .yihtsbodylogo {
+    .n53umbodylogo {
       width: 40vw;
       max-width: 40vw;
       max-height: 80px;
     }
 
-    .yihtsmenulist {
+    .n53ummenulist {
       display: none;
       flex-direction: column;
       width: calc(100% - 24px);
       padding: 12px;
     }
 
-    .yihtsmenu.yihtsmenu-open .yihtsmenulist {
+    .n53ummenu.n53ummenu-open .n53ummenulist {
       display: flex;
     }
 
-    .yihtsmenu.yihtsmenu-open .yihtslanguages-mobile {
+    .n53ummenu.n53ummenu-open .n53umlanguages-mobile {
       display: block;
     }
 
-    .yihtsmenulist ul {
+    .n53ummenulist ul {
       flex-direction: column;
       gap: 0;
     }
 
-    .yihtsmenulist ul a {
+    .n53ummenulist ul a {
       font-size: 14px;
       width: 100%;
       padding: 12px;
@@ -288,16 +288,16 @@
       border-radius: 0;
     }
 
-    .yihtsmenulist ul a:last-child {
+    .n53ummenulist ul a:last-child {
       border-bottom: none;
     }
 
-    .yihtsmenulist ul a:hover {
+    .n53ummenulist ul a:hover {
       background-color: #ffffff;
       border-radius: 0;
     }
 
-    .yihtstitlebodytitle {
+    .n53umtitlebodytitle {
       font-size: 12px;
     }
   }

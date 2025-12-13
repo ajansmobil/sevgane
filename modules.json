@@ -39,6 +39,7 @@
       "icon": "view_carousel"
     },
     {
+      "index": 2,
       "name": "İletişim",
       "path": "contact-3",
       "local": "body",
@@ -60,7 +61,7 @@
         {
           "icon": "email",
           "text": "yunus@webyapar.com",
-          "url": "mailto:yunus@webyapar.com"
+          "url": "mailto:yunus@sevgane.com"
         },
         {
           "icon": "map",
@@ -78,8 +79,7 @@
         }
       ],
       "version": "1.0.0",
-      "icon": "contact_mail",
-      "index": 2
+      "icon": "contact_mail"
     },
     {
       "index": 3,
