@@ -1,0 +1,35 @@
+{
+  "name": {
+    "tr": "Hizmetlerim"
+  },
+  "status": "play",
+  "category": "",
+  "id": "hs54qzyeyo",
+  "url": "",
+  "path": "services",
+  "index": 1,
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [
+      "z51zay"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Web geliştirme, mobil uygulama, yapay zeka, backend, DevOps, bilgi güvenliği, IT danışmanlık ve pazaryeri entegrasyonu hizmetleri. Profesyonel yazılım çözümleri."
+  },
+  "spot": {
+    "tr": "8 farklı alanda profesyonel hizmetler"
+  },
+  "desc": {},
+  "keyword": {
+    "tr": "hizmetler, web geliştirme, mobil uygulama, yapay zeka, backend, DevOps, IT danışmanlık, Gaziantep"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Hizmetlerim</h2><p style=\"font-size: 16px;\">Web geliştirme, mobil uygulama geliştirme, yapay zeka çözümleri, backend ve sistem mimarisi, DevOps ve altyapı, bilgi güvenliği, IT danışmanlık ve pazaryeri entegrasyonları konularında profesyonel hizmetler sunuyorum.</p>"
+  },
+  "update": "2025-12-13T03:35:33.238Z",
+  "date": "2025-12-13T03:26:04.282Z"
+}

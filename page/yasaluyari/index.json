@@ -1,0 +1,31 @@
+{
+  "name": {
+    "tr": "Yasal Uyarı"
+  },
+  "status": "play",
+  "id": "yasaluyari",
+  "path": "yasal-uyari",
+  "category": "",
+  "text": {
+    "tr": "<h2 style=\"font-size: 28px; font-weight: bold; color: #1e3046; margin-bottom: 20px;\">Yasal Uyarı</h2><p style=\"font-size: 18px; line-height: 1.8; color: #333; margin-bottom: 20px;\">Sitemizde yer alan tüm içerik, 5846 sayılı Fikir ve Sanat Eserleri Kanunu ile 5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun'un hükümleri uyarınca korunmaktadır. Sitemizde yer alan hiçbir içeriğin kopyalanması, çoğaltılması, yayılması, satılması, dağıtılması, sergilenmesi, yayımlanması, herhangi bir şekilde ticari amaçla kullanılması veya başka platformlarda izinsiz olarak paylaşılması yasaktır.</p><h3 style=\"font-size: 22px; font-weight: bold; color: #1e3046; margin-top: 30px; margin-bottom: 15px;\">Telif Hakları ve Fikri Mülkiyet</h3><p style=\"font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;\">Sitemizde yer alan tüm metin, görsel, logo, tasarım, kod ve diğer içerikler, telif hakkı koruması altındadır. Bu içerikler, Yunus SEVĞANE ve Webyapar Yazılım ve Danışmanlık'a aittir. İçeriklerin izinsiz kullanımı, 5846 sayılı Fikir ve Sanat Eserleri Kanunu kapsamında suç teşkil eder.</p><p style=\"font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;\">Bu kurallara aykırı hareket edenler, ilgili kanunlar kapsamında hukuki ve cezai yaptırımlarla karşılaşabilirler. Telif hakkı ihlali durumunda, maddi ve manevi tazminat davaları açılabilir. Ayrıca, 5237 sayılı Türk Ceza Kanunu kapsamında cezai yaptırımlar uygulanabilir.</p><h3 style=\"font-size: 22px; font-weight: bold; color: #1e3046; margin-top: 30px; margin-bottom: 15px;\">İçerik Kullanımı ve İzinler</h3><p style=\"font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;\">Sitemizdeki içerikleri kullanmak için önceden yazılı izin alınması gerekmektedir. İçerik kullanım izinleri, kullanım amacı, kapsamı ve süresi belirtilerek verilir. Ticari kullanım için ayrı lisans anlaşmaları yapılması gerekebilir.</p><p style=\"font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;\">Eğitim, araştırma veya kişisel kullanım amaçlı içerik kullanımı için, kaynak gösterilmesi ve yazılı izin alınması şarttır. İçeriklerin değiştirilmesi, düzenlenmesi veya türev eserler oluşturulması için ayrı izin gereklidir.</p><h3 style=\"font-size: 22px; font-weight: bold; color: #1e3046; margin-top: 30px; margin-bottom: 15px;\">Hukuki Süreçler ve Yaptırımlar</h3><p style=\"font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;\">Sitemizde yer alan içeriğin hukuka aykırı bir şekilde kullanılması veya dağıtılması durumunda, sitemiz yetkili mercilere başvurma ve yasal haklarını koruma hakkını saklı tutar. İnternet ortamında yer alan içeriklerin izinsiz paylaşımı, hukuki olarak ağır yaptırımlar doğurabileceği gibi, eser sahiplerinin haklarını ihlal eder.</p><p style=\"font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;\">5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi Hakkında Kanun kapsamında, içerik kaldırma talepleri yapılabilir. Eser sahibi olarak haklarınızı korumanız gerektiği durumda, hukuki süreç başlatma hakkınız mevcuttur. Avukatlar aracılığıyla ihtarname gönderilebilir ve dava açılabilir.</p><h3 style=\"font-size: 22px; font-weight: bold; color: #1e3046; margin-top: 30px; margin-bottom: 15px;\">İletişim ve Bildirim</h3><p style=\"font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;\">Sitemizde yer alan içeriklerin izinsiz kullanımını veya paylaşımını fark ederseniz, lütfen bizimle iletişime geçin. E-posta: yunus@webyapar.com, Telefon: 0090 531 679 10 14 adreslerinden bize ulaşabilirsiniz. Bildirimleriniz, yasal süreçler çerçevesinde değerlendirilir ve gerekli önlemler alınır.</p><p style=\"font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 20px;\">Sitemizi kullanmaya devam ederek, bu yasal uyarıyı kabul etmiş sayılırsınız. Yasal uyarı ve telif hakları konularında sorularınız için bizimle iletişime geçebilirsiniz. Gaziantep ve Türkiye genelinde, fikri mülkiyet haklarını koruma ve yasal uyumluluk prensibiyle çalışıyoruz.</p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 7,
+  "icon": "home",
+  "description": {
+    "tr": "Sitemizde yer alan tüm içerik, 5846 sayılı Fikir ve Sanat Eserleri Kanunu ile 5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi Hakkında Kanun'un hükümleri uyarınca korunmaktadır."
+  },
+  "keyword": {
+    "tr": "yasal uyarı, telif hakları, fikir ve sanat eserleri, içerik koruma, yasal haklar, Gaziantep"
+  },
+  "spot": {
+    "tr": "Tüm içerikler yasal koruma altındadır"
+  },
+  "update": "2025-12-13T03:35:33.305Z",
+  "date": "2025-12-13T03:26:52.558Z"
+}

@@ -1,0 +1,98 @@
+{
+  "name": "Sayfalar",
+  "path": "page",
+  "desc": [],
+  "data": [
+    {
+      "name": {
+        "tr": "Kurumsal"
+      },
+      "status": "play",
+      "category": "",
+      "id": "yvi9dlb59o",
+      "url": "",
+      "path": "kurumsal",
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "hakkimizda",
+      "description": {
+        "tr": ""
+      },
+      "spot": {
+        "tr": ""
+      },
+      "icon": "home",
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Hizmetlerim"
+      },
+      "status": "play",
+      "category": "",
+      "id": "hs54qzyeyo",
+      "url": "",
+      "path": "services",
+      "index": 1,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "z51zay"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": ""
+      },
+      "spot": {
+        "tr": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "İletişim"
+      },
+      "status": "play",
+      "category": "",
+      "id": "xnzu5au0ag",
+      "url": "",
+      "path": "iletisim",
+      "index": 2,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "fhxr98"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": ""
+      },
+      "spot": {
+        "tr": ""
+      },
+      "desc": {}
+    }
+  ],
+  "index": 0,
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "modulestatus": {
+    "page": true,
+    "bgimg": true,
+    "detail": true,
+    "body": true
+  }
+}

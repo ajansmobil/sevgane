@@ -1,0 +1,168 @@
+{
+  "name": "Hizmetler",
+  "path": "services",
+  "desc": [],
+  "data": [
+    {
+      "name": {
+        "tr": "Web Geliştirme"
+      },
+      "status": "play",
+      "id": "web-gelistirme",
+      "path": "web-gelistirme",
+      "category": "",
+      "description": {
+        "tr": "200'den fazla kurumsal web sitesi geliştirme deneyimi. Modern teknolojiler kullanarak ölçeklenebilir ve performanslı web uygulamaları geliştiriyorum."
+      },
+      "spot": {
+        "tr": "Kurumsal web siteleri, e-ticaret platformları, kurumsal portallar"
+      },
+      "index": 0,
+      "icon": "web",
+      "img": "p6r0w.png",
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Mobil Uygulama Geliştirme"
+      },
+      "status": "play",
+      "id": "mobil-uygulama",
+      "path": "mobil-uygulama-gelistirme",
+      "category": "",
+      "description": {
+        "tr": "10'dan fazla mobil uygulama geliştirme deneyimi. iOS ve Android platformları için native ve cross-platform çözümler sunuyorum."
+      },
+      "spot": {
+        "tr": "iOS, Android, React Native, Flutter uygulamaları"
+      },
+      "index": 1,
+      "icon": "phone_android",
+      "img": "mgqv4.png",
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Yapay Zeka Çözümleri"
+      },
+      "status": "play",
+      "id": "yapay-zeka",
+      "path": "yapay-zeka-cozumleri",
+      "category": "",
+      "description": {
+        "tr": "Yapay zeka tabanlı çözümler ve sistem entegrasyonları oluşturma. AI destekli uygulamalar ve otomasyon sistemleri geliştiriyorum."
+      },
+      "spot": {
+        "tr": "AI entegrasyonları, makine öğrenmesi, otomasyon sistemleri"
+      },
+      "index": 2,
+      "icon": "psychology",
+      "img": "onk2a.png",
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Backend & Sistem Mimarisi"
+      },
+      "status": "play",
+      "id": "backend-mimari",
+      "path": "backend-sistem-mimarisi",
+      "category": "",
+      "description": {
+        "tr": "Veritabanı yönetimi, sistem mimarisi ve backend çözümleri geliştirme. Ölçeklenebilir ve güvenli altyapılar tasarlıyorum."
+      },
+      "spot": {
+        "tr": "API geliştirme, veritabanı tasarımı, mikroservis mimarisi"
+      },
+      "index": 3,
+      "icon": "storage",
+      "img": "mcln2.png",
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "DevOps & Altyapı"
+      },
+      "status": "play",
+      "id": "devops",
+      "path": "devops-altyapi",
+      "category": "",
+      "description": {
+        "tr": "DevOps süreçleri ve altyapı yönetimi. CI/CD pipeline'ları, containerization ve cloud çözümleri sunuyorum."
+      },
+      "spot": {
+        "tr": "CI/CD, Docker, Kubernetes, Cloud deployment"
+      },
+      "index": 4,
+      "icon": "settings",
+      "img": "twgx4.png",
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Bilgi Güvenliği & ISO 27001"
+      },
+      "status": "play",
+      "id": "bilgi-guvenligi",
+      "path": "bilgi-guvenligi-iso-27001",
+      "category": "",
+      "description": {
+        "tr": "ISO 27001 Bilgi Güvenliği Yönetim Sistemi prensiplerine uygun projeler yürütme. Güvenli yazılım geliştirme ve güvenlik denetimleri."
+      },
+      "spot": {
+        "tr": "ISO 27001 uyumluluk, güvenlik denetimi, güvenli kod geliştirme"
+      },
+      "index": 5,
+      "icon": "security",
+      "img": "f3mmj.png",
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "IT Danışmanlık"
+      },
+      "status": "play",
+      "id": "it-danismanlik",
+      "path": "it-danismanlik",
+      "category": "",
+      "description": {
+        "tr": "Kurumsal müşterilere yazılım geliştirme ve IT danışmanlık hizmetleri. Teknoloji stratejisi ve dijital dönüşüm danışmanlığı."
+      },
+      "spot": {
+        "tr": "Teknoloji danışmanlığı, dijital dönüşüm, proje yönetimi"
+      },
+      "index": 6,
+      "icon": "business_center",
+      "img": "bd5di.png",
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Pazaryeri Entegrasyonları"
+      },
+      "status": "play",
+      "id": "pazaryeri",
+      "path": "pazaryeri-entegrasyonlari",
+      "category": "",
+      "description": {
+        "tr": "3'ten fazla pazaryeri entegrasyonu deneyimi. E-ticaret platformları ve pazaryeri API entegrasyonları geliştiriyorum."
+      },
+      "spot": {
+        "tr": "E-ticaret entegrasyonları, API geliştirme, sistem entegrasyonu"
+      },
+      "index": 7,
+      "icon": "shopping_cart",
+      "img": "ds2cu.png",
+      "desc": {}
+    }
+  ],
+  "active": true,
+  "index": 2,
+  "desing": {
+    "header": [],
+    "body": [
+      "tp5jo4"
+    ],
+    "footer": []
+  }
+}

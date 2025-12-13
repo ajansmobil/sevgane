@@ -1,0 +1,31 @@
+{
+  "name": {
+    "tr": "Kullanıcı Hakları"
+  },
+  "status": "play",
+  "id": "kullanicahaklari",
+  "path": "kullanici-haklari",
+  "category": "",
+  "text": {
+    "tr": "<h2 style=\"font-size: 28px; font-weight: bold; color: #1e3046; margin-bottom: 20px;\">Kullanıcı Hakları</h2><p style=\"font-size: 18px; line-height: 1.8; color: #333; margin-bottom: 20px;\">Herkes, kişisel verilerinin korunmasını isteme hakkına sahiptir. Kişisel verilerinizin korunması bizim için çok önemlidir ve bu doğrultuda 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) ve ilgili mevzuat çerçevesinde hareket etmekteyiz. Kullanıcılar, verilerinin hangi amaçlarla toplandığı, nasıl saklandığı ve kimlerle paylaşıldığı konusunda bilgilendirilme hakkına sahiptir.</p><h3 style=\"font-size: 22px; font-weight: bold; color: #1e3046; margin-top: 30px; margin-bottom: 15px;\">Bilgilendirilme Hakkı</h3><p style=\"font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;\">Kişisel verilerinizin hangi amaçlarla toplandığını, nasıl işlendiğini, kimlerle paylaşıldığını ve ne kadar süre saklandığını öğrenme hakkına sahipsiniz. Veri işleme faaliyetleri hakkında detaylı bilgi talep edebilir, veri işleme amacını ve yasal dayanağını öğrenebilirsiniz.</p><p style=\"font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;\">Veri işleme süreçlerinde yer alan üçüncü taraflar, veri transferleri ve uluslararası veri transferleri hakkında bilgi alabilirsiniz. Veri güvenliği önlemleri, veri saklama süreleri ve veri silme politikaları hakkında bilgilendirilme hakkınız bulunmaktadır.</p><h3 style=\"font-size: 22px; font-weight: bold; color: #1e3046; margin-top: 30px; margin-bottom: 15px;\">Erişim ve Düzeltme Hakkı</h3><p style=\"font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;\">Kişisel verilerinize erişim talep edebilir, verilerinizin bir kopyasını alabilirsiniz. Verilerinizin eksik, yanlış veya güncel olmadığını düşünüyorsanız, düzeltme talebinde bulunabilirsiniz. Düzeltme talepleriniz, yasal süreler içinde (en geç 30 gün) değerlendirilir ve gerekli düzeltmeler yapılır.</p><p style=\"font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;\">Düzeltme işlemleri, veri doğruluğunu sağlamak ve güncel bilgileri korumak için önemlidir. Düzeltme talepleriniz, kimlik doğrulama sonrasında işleme alınır. Düzeltme işlemleri, tüm sistemlerde ve yedeklerde senkronize olarak gerçekleştirilir.</p><h3 style=\"font-size: 22px; font-weight: bold; color: #1e3046; margin-top: 30px; margin-bottom: 15px;\">Silme ve Anonimleştirme Hakkı</h3><p style=\"font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;\">Kişisel verilerinizin silinmesini veya anonim hale getirilmesini talep edebilirsiniz. Silme talepleriniz, yasal saklama yükümlülükleri ve meşru menfaatler çerçevesinde değerlendirilir. İşleme amacı ortadan kalktığında veya saklama süresi dolduğunda, verileriniz silinir veya anonim hale getirilir.</p><p style=\"font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;\">Anonimleştirme, kişisel verilerin kimliği belirli veya belirlenebilir gerçek kişiyle ilişkilendirilemeyecek şekilde işlenmesidir. Anonimleştirilmiş veriler, istatistiksel analiz ve araştırma amaçları için kullanılabilir. Silme ve anonimleştirme işlemleri, güvenli bir şekilde, geri getirilemeyecek şekilde gerçekleştirilir.</p><h3 style=\"font-size: 22px; font-weight: bold; color: #1e3046; margin-top: 30px; margin-bottom: 15px;\">İtiraz ve Veri Taşınabilirliği Hakkı</h3><p style=\"font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;\">Kişisel verilerinizin işlenmesine itiraz etme hakkına sahipsiniz. Özellikle, doğrudan pazarlama amaçlı işleme faaliyetlerine itiraz edebilirsiniz. İtiraz talepleriniz, yasal gereklilikler ve meşru menfaatler çerçevesinde değerlendirilir.</p><p style=\"font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;\">Veri taşınabilirliği hakkı, kişisel verilerinizin yapılandırılmış, yaygın kullanılan ve makine tarafından okunabilir bir formatta size veya başka bir veri sorumlusuna aktarılmasını talep etme hakkıdır. Bu hak, otomatik işleme faaliyetleri için geçerlidir ve sözleşme gereklilikleri çerçevesinde kullanılabilir.</p><h3 style=\"font-size: 22px; font-weight: bold; color: #1e3046; margin-top: 30px; margin-bottom: 15px;\">Zararın Giderilmesi ve Şikayet Hakkı</h3><p style=\"font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;\">Kişisel verilerinizin hukuka aykırı işlenmesi nedeniyle zarara uğradığınızı düşünüyorsanız, zararın giderilmesini talep edebilirsiniz. Zarar tazminatı talepleri, hukuki süreçler çerçevesinde değerlendirilir.</p><p style=\"font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;\">KVKK kapsamında haklarınızın ihlal edildiğini düşünüyorsanız, Kişisel Verileri Koruma Kurulu'na şikayette bulunabilirsiniz. Şikayetler, yasal süreler içinde değerlendirilir ve sonuçlandırılır. Şikayet süreci ve başvuru yöntemleri, Kişisel Verileri Koruma Kurulu'nun resmi web sitesinden öğrenilebilir.</p><h3 style=\"font-size: 22px; font-weight: bold; color: #1e3046; margin-top: 30px; margin-bottom: 15px;\">Haklarınızı Kullanma</h3><p style=\"font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 20px;\">KVKK kapsamındaki haklarınızı kullanmak için bizimle iletişime geçebilirsiniz. E-posta: yunus@webyapar.com, Telefon: 0090 531 679 10 14 adreslerinden bize ulaşabilirsiniz. Başvurularınız, kimlik doğrulama sonrasında işleme alınır ve yasal süreler içinde (en geç 30 gün) sonuçlandırılır. Gaziantep ve Türkiye genelinde, kullanıcı haklarını koruma ve şeffaf hizmet sunma prensibiyle çalışıyoruz.</p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 6,
+  "icon": "home",
+  "description": {
+    "tr": "Kullanıcılar, kişisel verilerinin korunması, bilgilendirilme, erişim, düzeltme, silme ve anonimleştirme haklarına sahiptir. KVKK ve ilgili mevzuat çerçevesinde haklarınızı kullanabilirsiniz."
+  },
+  "keyword": {
+    "tr": "kullanıcı hakları, KVKK hakları, veri erişim hakkı, veri düzeltme hakkı, veri silme hakkı, Gaziantep"
+  },
+  "spot": {
+    "tr": "KVKK kapsamında kullanıcı haklarınızı kullanabilirsiniz"
+  },
+  "update": "2025-12-13T03:35:33.298Z",
+  "date": "2025-12-13T03:26:52.549Z"
+}

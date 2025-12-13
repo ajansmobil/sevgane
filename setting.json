@@ -1,0 +1,30 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Yunus SEVĞANE - Senior Software Developer. Web, mobil ve yapay zeka alanlarında ölçeklenebilir çözümler geliştiren yazılım geliştirici. 19+ yıl sektör deneyimi, 200+ kurumsal web sitesi, 10+ mobil uygulama. Frontend, backend, DevOps ve yapay zeka geliştirme."
+  },
+  "keyword": {
+    "tr": "Yunus SEVĞANE, Senior Software Developer, Web Geliştirme, Mobil Uygulama, Yapay Zeka, Frontend, Backend, DevOps, Yazılım Geliştirme, Webyapar, Gaziantep"
+  },
+  "category": "Kurumsal",
+  "name": "Yunus SEVĞANE",
+  "domain": "sevgane.com",
+  "langs": {
+    "tr": true,
+    "en": false,
+    "ar": false,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "firebaseCollection": ""
+}

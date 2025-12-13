@@ -1,0 +1,31 @@
+{
+  "name": {
+    "tr": "Hakkımızda"
+  },
+  "status": "play",
+  "id": "hakkimizda",
+  "path": "hakkimizda",
+  "category": "",
+  "text": {
+    "tr": "<h2 style=\"font-size: 28px; font-weight: bold; color: #1e3046; margin-bottom: 20px;\">Hakkımda</h2><p style=\"font-size: 18px; line-height: 1.8; color: #333; margin-bottom: 20px;\">Ben <strong>Yunus SEVĞANE</strong>, Senior Software Developer olarak yeni teknolojilere hızla uyum sağlayan, web, mobil ve yapay zeka alanlarında ölçeklenebilir ve verimli çözümler geliştiren bir yazılım geliştiriciyim. Gaziantep merkezli olarak, Türkiye genelinde ve uluslararası projelerde çalışıyorum. Sürekli öğrenmeyi ve yenilikçi yaklaşımları benimserim. Frontend, backend, DevOps ve yapay zeka geliştirme süreçlerinde güçlü yazılım geliştirme prensiplerini uygularım.</p><h3 style=\"font-size: 22px; font-weight: bold; color: #1e3046; margin-top: 30px; margin-bottom: 15px;\">Profesyonel Kariyer ve Deneyim</h3><p style=\"font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;\"><strong>2014 yılından itibaren</strong> Webyapar Yazılım ve Danışmanlık adı altında faaliyet göstermekteyim. Bu süre zarfında yazılım geliştirme, bilgi güvenliği, web ve mobil uygulama geliştirme, yapay zeka çözümleri ve DevOps alanlarında aktif olarak çalıştım. <strong>19 yılı aşkın süredir</strong> sektörde edindiğim bilgi ve deneyimle yazılım geliştirme ve bilgi güvenliği alanlarında faaliyet göstermeye devam etmekteyim.</p><p style=\"font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;\">Kariyerim boyunca, küçük işletmelerden büyük kurumsal şirketlere kadar geniş bir müşteri portföyüne hizmet verdim. Her projede müşteri ihtiyaçlarını anlamak, en uygun teknoloji çözümlerini belirlemek ve başarılı proje teslimatları yapmak için çalıştım. ISO 27001 Bilgi Güvenliği Yönetim Sistemi prensiplerine uygun projeler yürüterek, güvenli ve kaliteli yazılım çözümleri geliştirdim.</p><h3 style=\"font-size: 22px; font-weight: bold; color: #1e3046; margin-top: 30px; margin-bottom: 15px;\">Başarılar ve Proje Deneyimi</h3><p style=\"font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;\">Kariyerim boyunca birçok başarılı projeye imza attım:</p><ul style=\"font-size: 16px; line-height: 1.8; color: #555; padding-left: 20px; margin-bottom: 15px;\"><li><strong>200'den fazla kurumsal web sitesi</strong> geliştirdim. Kurumsal web siteleri, e-ticaret platformları ve kurumsal portallar konusunda geniş deneyime sahibim.</li><li><strong>3'ten fazla pazaryeri entegrasyonu</strong> gerçekleştirdim. Trendyol, Hepsiburada, GittiGidiyor gibi büyük pazaryerleriyle entegrasyon projeleri yürüttüm.</li><li><strong>10'dan fazla mobil uygulama</strong> geliştirdim. iOS ve Android platformları için native ve cross-platform çözümler sundum.</li><li><strong>ISO 27001 Bilgi Güvenliği Yönetim Sistemi</strong> prensiplerine uygun projeler yürüttüm. Güvenli yazılım geliştirme ve güvenlik denetimleri konularında uzmanım.</li><li><strong>Kurumsal müşterilere yazılım geliştirme ve IT danışmanlık</strong> hizmetleri sağladım. Teknoloji stratejisi ve dijital dönüşüm danışmanlığı yaptım.</li><li><strong>Veritabanı yönetimi, sistem mimarisi ve backend çözümleri</strong> geliştirdim. Ölçeklenebilir ve güvenli altyapılar tasarladım.</li><li><strong>Ekip ve proje yönetimi</strong> süreçlerini yürüttüm. Agile, Scrum metodolojileri ile başarılı proje teslimatları gerçekleştirdim.</li></ul><h3 style=\"font-size: 22px; font-weight: bold; color: #1e3046; margin-top: 30px; margin-bottom: 15px;\">Teknik Yetkinlikler</h3><p style=\"font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;\">Web geliştirme alanında React, Vue.js, Angular gibi modern frontend framework'leri, Node.js, Python, PHP gibi backend teknolojileri kullanıyorum. Mobil uygulama geliştirmede React Native, Flutter, Swift, Kotlin gibi teknolojilerle deneyimim var. Yapay zeka ve makine öğrenmesi konularında TensorFlow, PyTorch ile projeler geliştirdim.</p><p style=\"font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;\">DevOps alanında Docker, Kubernetes, CI/CD pipeline'ları, cloud platformları (AWS, Azure, GCP) konularında uzmanım. Veritabanı yönetiminde MySQL, PostgreSQL, MongoDB, Redis gibi teknolojilerle çalışıyorum. Güvenlik konularında ISO 27001, OWASP standartları, penetrasyon testi ve güvenli kod geliştirme prensiplerini uyguluyorum.</p><h3 style=\"font-size: 22px; font-weight: bold; color: #1e3046; margin-top: 30px; margin-bottom: 15px;\">Eğitim ve Sertifikalar</h3><p style=\"font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;\">Sürekli öğrenme prensibiyle, sektördeki gelişmeleri takip ediyor ve kendimi geliştirmeye devam ediyorum. ISO/IEC 27001:2022 Baş Denetçilik, ISO/IEC 42001:2023 Baş Denetçilik, ISO/IEC 9001 Baş Denetçilik sertifikalarına sahibim. Siber Güvenlik Uzmanlığı, Etik Hacker Uzmanlığı, Adli Bilişim Uzmanlığı gibi alanlarda eğitimler aldım.</p><p style=\"font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 20px;\">Gaziantep ve Türkiye genelinde yazılım geliştirme hizmetleri sunuyorum. Projeleriniz için ücretsiz danışmanlık ve fiyat teklifi almak için benimle iletişime geçebilirsiniz. 19 yılı aşkın deneyimimle, işletmenizin dijital dönüşüm sürecinde yanınızdayım.</p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 0,
+  "icon": "home",
+  "description": {
+    "tr": "Yunus SEVĞANE - Senior Software Developer. 19+ yıl sektör deneyimi, 200+ kurumsal web sitesi, 10+ mobil uygulama. Web, mobil ve yapay zeka alanlarında uzman yazılım geliştirici."
+  },
+  "keyword": {
+    "tr": "Yunus SEVĞANE, Senior Software Developer, yazılım geliştirici, web geliştirme, mobil uygulama, yapay zeka, Gaziantep, Webyapar"
+  },
+  "spot": {
+    "tr": "19+ yıl deneyim, 200+ web sitesi, 10+ mobil uygulama"
+  },
+  "update": "2025-12-13T03:35:33.251Z",
+  "date": "2025-12-13T03:26:52.499Z"
+}
