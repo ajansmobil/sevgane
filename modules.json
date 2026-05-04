@@ -111,7 +111,8 @@
         "opacity": "0.5",
         "font-size": "32",
         "backgroundcolor": "#000",
-        "menu-active": "#000"
+        "menu-active": "#000",
+        "textcolor": "#fff"
       },
       "version": "1.0.0",
       "icon": "web"
@@ -138,7 +139,7 @@
       "name": "Sayfa Listesi Column",
       "path": "page-column",
       "local": "body",
-      "category": "page list",
+      "category": "page-list",
       "id": "z51zay",
       "desing": {
         "page": "services",

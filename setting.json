@@ -25,6 +25,5 @@
     "pt": false
   },
   "logo": "logo.png",
-  "multi": false,
-  "firebaseCollection": ""
+  "multi": false
 }

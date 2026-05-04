@@ -1,7 +1,6 @@
 {
   "name": "Sayfalar",
   "path": "page",
-  "desc": [],
   "data": [
     {
       "name": {
@@ -20,13 +19,9 @@
       },
       "pathnext": "hakkimizda",
       "description": {
-        "tr": ""
+        "tr": "Kurumsal kimlik, misyon, vizyon ve değerlerimiz hakkında bilgi edinin."
       },
-      "spot": {
-        "tr": ""
-      },
-      "icon": "home",
-      "desc": {}
+      "icon": "home"
     },
     {
       "name": {
@@ -48,12 +43,8 @@
       },
       "pathnext": "",
       "description": {
-        "tr": ""
-      },
-      "spot": {
-        "tr": ""
-      },
-      "desc": {}
+        "tr": "Web geliştirme, mobil uygulama, yapay zeka ve IT danışmanlık hizmetleri."
+      }
     },
     {
       "name": {
@@ -75,12 +66,8 @@
       },
       "pathnext": "",
       "description": {
-        "tr": ""
-      },
-      "spot": {
-        "tr": ""
-      },
-      "desc": {}
+        "tr": "Bizimle iletişime geçin. Projeniz için ücretsiz danışmanlık alın."
+      }
     }
   ],
   "index": 0,

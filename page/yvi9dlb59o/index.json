@@ -15,12 +15,8 @@
   },
   "pathnext": "hakkimizda",
   "description": {
-    "tr": "Kurumsal bilgiler, hakkımızda, misyon, vizyon, kalite politikası ve yasal bilgiler. Yunus SEVĞANE - Senior Software Developer hakkında detaylı bilgiler."
+    "tr": "Kurumsal kimlik, misyon, vizyon ve değerlerimiz hakkında bilgi edinin."
   },
-  "spot": {
-    "tr": "Kurumsal bilgiler ve yasal dokümanlar"
-  },
-  "desc": {},
   "icon": "home",
   "keyword": {
     "tr": "kurumsal, hakkımızda, misyon, vizyon, kalite politikası, yasal bilgiler, Yunus SEVĞANE, Gaziantep"
@@ -28,6 +24,9 @@
   "text": {
     "tr": "<h2 style=\"font-size: 24px;\">Kurumsal</h2><p style=\"font-size: 16px;\">Kurumsal bilgiler, hakkımızda, misyon, vizyon, kalite politikası ve yasal bilgiler sayfalarına buradan ulaşabilirsiniz.</p>"
   },
-  "update": "2025-12-13T03:35:33.232Z",
-  "date": "2025-12-13T03:26:52.462Z"
+  "update": "2026-05-04T02:23:44.974Z",
+  "date": "2025-12-13T03:26:52.462Z",
+  "title": {
+    "tr": "Kurumsal"
+  }
 }

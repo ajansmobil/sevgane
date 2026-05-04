@@ -14,18 +14,17 @@
     "body": [],
     "footer": []
   },
-  "desc": {},
   "index": 4,
   "icon": "home",
   "description": {
-    "tr": "Gizlilik politikamız, kişisel bilgilerinizin güvenliğini sağlamak için gerekli teknik ve idari önlemleri almayı içerir. Çerezler ve veri toplama konularında şeffaf bir yaklaşım benimseriz."
+    "tr": "6698 sayılı KVKK uyumlu kişisel verilerin korunması ve gizlilik politikası hakkında bilgilendirme."
   },
   "keyword": {
     "tr": "gizlilik politikası, kişisel veri, çerez politikası, veri güvenliği, KVKK, Gaziantep"
   },
-  "spot": {
-    "tr": "Kişisel bilgilerinizin güvenliği bizim için önceliklidir"
-  },
-  "update": "2025-12-13T03:35:33.279Z",
-  "date": "2025-12-13T03:26:52.533Z"
+  "update": "2026-05-04T02:23:45.016Z",
+  "date": "2025-12-13T03:26:52.533Z",
+  "title": {
+    "tr": "Gizlilik Politikası"
+  }
 }

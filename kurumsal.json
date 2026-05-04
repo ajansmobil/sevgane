@@ -1,7 +1,6 @@
 {
   "name": "Kurumsal",
   "path": "kurumsal",
-  "desc": [],
   "data": [
     {
       "name": {
@@ -19,12 +18,8 @@
       "index": 0,
       "icon": "home",
       "description": {
-        "tr": ""
-      },
-      "spot": {
-        "tr": ""
-      },
-      "desc": {}
+        "tr": "Firmamız hakkında bilgi edinin. Misyonumuz, vizyonumuz ve değerlerimiz."
+      }
     },
     {
       "name": {
@@ -42,12 +37,8 @@
       "index": 1,
       "icon": "home",
       "description": {
-        "tr": ""
-      },
-      "spot": {
-        "tr": ""
-      },
-      "desc": {}
+        "tr": "Misyonumuz: Müşterilerimize en kaliteli yazılım çözümlerini sunmak."
+      }
     },
     {
       "name": {
@@ -65,12 +56,8 @@
       "index": 2,
       "icon": "home",
       "description": {
-        "tr": ""
-      },
-      "spot": {
-        "tr": ""
-      },
-      "desc": {}
+        "tr": "Vizyonumuz: Türkiye'nin lider yazılım ve teknoloji şirketi olmak."
+      }
     },
     {
       "name": {
@@ -88,12 +75,8 @@
       "index": 3,
       "icon": "home",
       "description": {
-        "tr": ""
-      },
-      "spot": {
-        "tr": ""
-      },
-      "desc": {}
+        "tr": "Kalite politikamız: Sürekli iyileştirme ve müşteri memnuniyeti odaklı çalışma."
+      }
     },
     {
       "name": {
@@ -111,12 +94,8 @@
       "index": 4,
       "icon": "home",
       "description": {
-        "tr": ""
-      },
-      "spot": {
-        "tr": ""
-      },
-      "desc": {}
+        "tr": "Kişisel verilerinizin gizliliği ve korunması hakkında politika ve ilkelerimiz."
+      }
     },
     {
       "name": {
@@ -134,12 +113,8 @@
       "index": 5,
       "icon": "home",
       "description": {
-        "tr": ""
-      },
-      "spot": {
-        "tr": ""
-      },
-      "desc": {}
+        "tr": "Kişisel verilerinizin işlenme ve korunması hakkında bilgilendirme."
+      }
     },
     {
       "name": {
@@ -157,12 +132,8 @@
       "index": 6,
       "icon": "home",
       "description": {
-        "tr": ""
-      },
-      "spot": {
-        "tr": ""
-      },
-      "desc": {}
+        "tr": "Kullanıcı haklarınız ve bunları nasıl kullanacağınız hakkında bilgi."
+      }
     },
     {
       "name": {
@@ -180,12 +151,8 @@
       "index": 7,
       "icon": "home",
       "description": {
-        "tr": ""
-      },
-      "spot": {
-        "tr": ""
-      },
-      "desc": {}
+        "tr": "Yasal uyarılar ve sorumluluk sınırları hakkında bilgi."
+      }
     }
   ],
   "index": 2,

@@ -14,18 +14,17 @@
     "body": [],
     "footer": []
   },
-  "desc": {},
   "index": 5,
   "icon": "home",
   "description": {
-    "tr": "Kişisel verileriniz, 6698 sayılı KVKK ve ilgili mevzuat çerçevesinde korunmaktadır. Verilerinize erişim, düzeltme, silme ve anonimleştirme haklarınız bulunmaktadır."
+    "tr": "6698 sayılı KVKK kapsamında kişisel verilerinizin işlenme, saklama ve korunma ilkeleri hakkında bilgilendirme."
   },
   "keyword": {
     "tr": "kişisel veriler, KVKK, veri koruma, kişisel veri güvenliği, veri hakları, Gaziantep"
   },
-  "spot": {
-    "tr": "KVKK uyumlu kişisel veri koruma ve yönetimi"
-  },
-  "update": "2025-12-13T03:35:33.289Z",
-  "date": "2025-12-13T03:26:52.541Z"
+  "update": "2026-05-04T02:23:45.021Z",
+  "date": "2025-12-13T03:26:52.541Z",
+  "title": {
+    "tr": "Kişisel Veriler"
+  }
 }

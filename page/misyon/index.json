@@ -14,18 +14,17 @@
     "body": [],
     "footer": []
   },
-  "desc": {},
   "index": 1,
   "icon": "home",
   "description": {
-    "tr": "Yazılım geliştirme alanında ölçeklenebilir, verimli ve yenilikçi çözümler sunarak müşterilerin dijital dönüşüm süreçlerine katkıda bulunmak. ISO 27001 prensiplerine uygun güvenli yazılım çözümleri."
+    "tr": "Müşterilerin dijital dönüşüm süreçlerine güvenli, ölçeklenebilir ve yenilikçi yazılım çözümleri sunarak katkıda bulunmak."
   },
   "keyword": {
     "tr": "misyon, yazılım geliştirme, dijital dönüşüm, ISO 27001, güvenli yazılım, Gaziantep"
   },
-  "spot": {
-    "tr": "Ölçeklenebilir ve güvenli yazılım çözümleri ile dijital dönüşüm"
-  },
-  "update": "2025-12-13T03:35:33.258Z",
-  "date": "2025-12-13T03:26:52.507Z"
+  "update": "2026-05-04T02:23:44.998Z",
+  "date": "2025-12-13T03:26:52.507Z",
+  "title": {
+    "tr": "Misyon"
+  }
 }

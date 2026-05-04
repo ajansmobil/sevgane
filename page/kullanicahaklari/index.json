@@ -14,18 +14,17 @@
     "body": [],
     "footer": []
   },
-  "desc": {},
   "index": 6,
   "icon": "home",
   "description": {
-    "tr": "Kullanıcılar, kişisel verilerinin korunması, bilgilendirilme, erişim, düzeltme, silme ve anonimleştirme haklarına sahiptir. KVKK ve ilgili mevzuat çerçevesinde haklarınızı kullanabilirsiniz."
+    "tr": "KVKK kapsamında kullanıcıların kişisel verileriyle ilgili erişim, düzeltme, silme ve itiraz hakları hakkında bilgi."
   },
   "keyword": {
     "tr": "kullanıcı hakları, KVKK hakları, veri erişim hakkı, veri düzeltme hakkı, veri silme hakkı, Gaziantep"
   },
-  "spot": {
-    "tr": "KVKK kapsamında kullanıcı haklarınızı kullanabilirsiniz"
-  },
-  "update": "2025-12-13T03:35:33.298Z",
-  "date": "2025-12-13T03:26:52.549Z"
+  "update": "2026-05-04T02:23:45.026Z",
+  "date": "2025-12-13T03:26:52.549Z",
+  "title": {
+    "tr": "Kullanıcı Hakları"
+  }
 }
