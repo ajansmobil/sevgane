@@ -1,27 +1,26 @@
 {
-  "name": "Sayfalar",
-  "path": "page",
   "data": [
     {
+      "id": "ssih4bmxzd",
       "name": {
-        "tr": "Kurumsal"
+        "tr": "Özgeçmiş"
       },
-      "status": "play",
+      "description": {
+        "tr": "Yunus Sevğane özgeçmişi: 2006'dan bugüne çalışma geçmişi, aldığı eğitimler, yetkinlikleri ve kullandığı teknik araçlar."
+      },
+      "path": "ozgecmis",
+      "icon": "description",
       "category": "",
-      "id": "yvi9dlb59o",
-      "url": "",
-      "path": "kurumsal",
-      "index": 0,
+      "status": "play",
       "desing": {
         "header": [],
-        "body": [],
+        "body": [
+          "wis0b2",
+          "gnvhv4"
+        ],
         "footer": []
       },
-      "pathnext": "hakkimizda",
-      "description": {
-        "tr": "Kurumsal kimlik, misyon, vizyon ve değerlerimiz hakkında bilgi edinin."
-      },
-      "icon": "home"
+      "index": 0
     },
     {
       "name": {
@@ -37,14 +36,56 @@
       "desing": {
         "header": [],
         "body": [
-          "z51zay"
+          "wis0b2"
         ],
         "footer": []
       },
       "pathnext": "",
       "description": {
-        "tr": "Web geliştirme, mobil uygulama, yapay zeka ve IT danışmanlık hizmetleri."
+        "tr": "Web geliştirme, mobil uygulama, yapay zeka, backend, DevOps, bilgi güvenliği, IT danışmanlık ve pazaryeri entegrasyonu hizmetleri."
       }
+    },
+    {
+      "id": "gs6oawb05w",
+      "name": {
+        "tr": "Sertifikalar"
+      },
+      "description": {
+        "tr": "Eğitim ve sertifikalar: ISO 27001, 42001, 9001, 20000-1 baş denetçi eğitimleri; siber güvenlik, etik hacker, adli bilişim ve daha fazlası."
+      },
+      "path": "sertifikalar",
+      "icon": "description",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "wis0b2"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "name": {
+        "tr": "Kurumsal"
+      },
+      "status": "play",
+      "category": "",
+      "id": "yvi9dlb59o",
+      "url": "",
+      "path": "kurumsal",
+      "index": 3,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "hakkimizda",
+      "description": {
+        "tr": "Kurumsal bilgiler: hakkımda, misyon, vizyon, kalite politikası, gizlilik, kişisel veriler, kullanıcı hakları, yasal uyarı ve çerez politikası."
+      },
+      "icon": "home"
     },
     {
       "name": {
@@ -55,22 +96,23 @@
       "id": "xnzu5au0ag",
       "url": "",
       "path": "iletisim",
-      "index": 2,
+      "index": 4,
       "icon": "home",
       "desing": {
         "header": [],
         "body": [
-          "fhxr98"
+          "tp5jo4",
+          "9tyvhx"
         ],
         "footer": []
       },
       "pathnext": "",
       "description": {
-        "tr": "Bizimle iletişime geçin. Projeniz için ücretsiz danışmanlık alın."
+        "tr": "Yunus Sevğane ile iletişim: WhatsApp (+90 531 679 10 14) ve iletişim formu. Web, mobil, yapay zeka ve bilgi güvenliği projeleri için yazın."
       }
     }
   ],
-  "index": 0,
+  "desc": [],
   "desing": {
     "header": [],
     "body": [],

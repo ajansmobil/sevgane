@@ -2,10 +2,10 @@
   "order": false,
   "user": false,
   "description": {
-    "tr": "Yunus SEVĞANE - Senior Software Developer. Web, mobil ve yapay zeka alanlarında ölçeklenebilir çözümler geliştiren yazılım geliştirici. 19+ yıl sektör deneyimi, 200+ kurumsal web sitesi, 10+ mobil uygulama. Frontend, backend, DevOps ve yapay zeka geliştirme."
+    "tr": "Yunus Sevğane: Gaziantep'te yazılım geliştirici. 200+ kurumsal web sitesi, 10+ mobil uygulama, yapay zeka; ISO baş denetçi ve siber güvenlik eğitimleri."
   },
   "keyword": {
-    "tr": "Yunus SEVĞANE, Senior Software Developer, Web Geliştirme, Mobil Uygulama, Yapay Zeka, Frontend, Backend, DevOps, Yazılım Geliştirme, Webyapar, Gaziantep"
+    "tr": "Yunus Sevğane, yazılım geliştirici, Gaziantep, web geliştirme, mobil uygulama, yapay zeka, siber güvenlik, ISO 27001, Webyapar"
   },
   "category": "Kurumsal",
   "name": "Yunus SEVĞANE",
@@ -25,5 +25,24 @@
     "pt": false
   },
   "logo": "logo.png",
-  "multi": false
+  "multi": false,
+  "city": "Gaziantep",
+  "country": "Türkiye",
+  "social": {
+    "instagram": "https://instagram.com/yunusevgane",
+    "linkedin": "https://linkedin.com/in/yunusevgane",
+    "x": "https://twitter.com/yunusevgane",
+    "whatsapp": "https://wa.me/905316791014"
+  },
+  "font": {
+    "body": "inter",
+    "heading": "montserrat"
+  },
+  "colorScheme": "auto",
+  "firma": {
+    "unvan": "Yunus Sevğane (Webyapar Yazılım ve Danışmanlık)",
+    "telefon": "+90 531 679 10 14",
+    "site": "https://sevgane.com"
+  },
+  "phone": "+90 531 679 10 14"
 }

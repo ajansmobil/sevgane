@@ -1,7 +1,7 @@
 {
   "name": "Yunus SEVĞANE",
   "short_name": "Yunus SEVĞAN",
-  "description": "Yunus SEVĞANE - Senior Software Developer. Web, mobil ve yapay zeka alanlarında ölçeklenebilir çözümler geliştiren yazılım geliştirici. 19+ yıl sektör deneyimi, 200+ kurumsal web sitesi, 10+ mobil uygulama. Frontend, backend, DevOps ve yapay zeka geliştirme.",
+  "description": "Yunus Sevğane: Gaziantep'te yazılım geliştirici. 200+ kurumsal web sitesi, 10+ mobil uygulama, yapay zeka; ISO baş denetçi ve siber güvenlik eğitimleri.",
   "start_url": "/tr/",
   "scope": "/",
   "display": "standalone",
@@ -10,12 +10,12 @@
   "lang": "tr",
   "icons": [
     {
-      "src": "/img/icon.png",
+      "src": "/img/logo.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/img/icon.png",
+      "src": "/img/logo.png",
       "sizes": "512x512",
       "type": "image/png"
     },

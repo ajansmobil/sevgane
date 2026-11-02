@@ -5,104 +5,200 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
-  <title>Backend & Sistem Mimarisi</title>
-  <meta name="description" content="Veritabanı yönetimi, sistem mimarisi ve backend çözümleri geliştirme. Ölçeklenebilir ve güvenli altyapılar tasarlıyorum." />
-  <meta name="keywords" content="backend, sistem mimarisi, API geliştirme, veritabanı, mikroservis, backend çözümleri, Gaziantep" />
-  <meta name="robots" content="index, follow" />
+  <title>Backend ve Sistem Mimarisi — Yunus Sevğane</title>
+  <meta name="description" content="Veritabanı yönetimi, sistem mimarisi ve backend çözümleri: Node.js, ASP, MongoDB, Redis ve T-SQL ile ölçeklenebilir ve güvenli altyapı tasarımı." />
+  <meta name="keywords" content="backend, sistem mimarisi, veritabanı, Node.js, MongoDB, Redis, T-SQL" />
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
   <link rel="canonical" href="https://sevgane.com/tr/backend-sistem-mimarisi/" />
-
-  <meta property="og:type" content="article" />
-  <meta property="og:title" content="Backend & Sistem Mimarisi" />
-  <meta property="og:description" content="Veritabanı yönetimi, sistem mimarisi ve backend çözümleri geliştirme. Ölçeklenebilir ve güvenli altyapılar tasarlıyorum." />
-  <meta property="og:image" content="https://sevgane.com/page/backend-mimari/mcln2.png" />
+  <link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/backend-sistem-mimarisi/" />
+  <link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/backend-sistem-mimarisi/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Backend ve Sistem Mimarisi — Yunus Sevğane" />
+  <meta property="og:description" content="Veritabanı yönetimi, sistem mimarisi ve backend çözümleri: Node.js, ASP, MongoDB, Redis ve T-SQL ile ölçeklenebilir ve güvenli altyapı tasarımı." />
   <meta property="og:url" content="https://sevgane.com/tr/backend-sistem-mimarisi/" />
+  <meta property="og:image" content="https://sevgane.com/page/backend-mimari/mcln2.png" />
+  <meta property="og:image:alt" content="Backend ve Sistem Mimarisi" />
   <meta property="og:site_name" content="Yunus SEVĞANE" />
   <meta property="og:locale" content="tr_TR" />
 
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Backend & Sistem Mimarisi" />
-  <meta name="twitter:description" content="Veritabanı yönetimi, sistem mimarisi ve backend çözümleri geliştirme. Ölçeklenebilir ve güvenli altyapılar tasarlıyorum." />
+  <meta name="twitter:title" content="Backend ve Sistem Mimarisi — Yunus Sevğane" />
+  <meta name="twitter:description" content="Veritabanı yönetimi, sistem mimarisi ve backend çözümleri: Node.js, ASP, MongoDB, Redis ve T-SQL ile ölçeklenebilir ve güvenli altyapı tasarımı." />
   <meta name="twitter:image" content="https://sevgane.com/page/backend-mimari/mcln2.png" />
 
-  <link rel="preload" href="/src/fonts/rubik/rubik-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="preload" href="/src/fonts/rubik/rubik-latin-500-normal.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="preload" href="/src/fonts/rubik/rubik-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin />
-
-  <link rel="stylesheet" href="/src/rubik.css" />
-  <link rel="stylesheet" href="/src/css.css?v=zog2d" />
-  <link rel="preload" href="/src/cookie.css?v=zog2d" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-  <link rel="preload" href="/src/swiper-bundle.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-  <link rel="preload" href="/src/material-symbols-outlined.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-  <noscript>
-    <link rel="stylesheet" href="/src/cookie.css?v=zog2d" />
-    <link rel="stylesheet" href="/src/swiper-bundle.min.css" />
-    <link rel="stylesheet" href="/src/material-symbols-outlined.css" />
-  </noscript>
-  <link rel="shortcut icon" href="/img/icon.png?v=zog2d" type="image/png" />
+  <meta name="theme-color" content="#1E3046" />
+  <meta name="mx-api-base" content="none" />
+  <link rel="manifest" href="/manifest.json" />
+  <link rel="preload" href="/src/fonts/inter/inter-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href="/src/fonts/inter/inter-latin-500-normal.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href="/src/fonts/inter/inter-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href="/src/fonts/inter/inter-latin-ext-400-normal.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href="/src/fonts/inter/inter-latin-ext-500-normal.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href="/src/fonts/inter/inter-latin-ext-700-normal.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="stylesheet" href="/src/fonts/inter.css?v=ndtd1" />
+  <link rel="stylesheet" href="/src/fonts/montserrat.css?v=ndtd1" />
+  <link rel="stylesheet" href="/src/rubik.css?v=ndtd1" />
+  <link rel="stylesheet" href="/src/css.css?v=ndtd1" />
+  <link rel="stylesheet" href="/src/mx-ds.css?v=ndtd1" />
+  
+  <link rel="stylesheet" href="/src/mx-ui.css?v=ndtd1" />
+  <link rel="preload" href="/src/material-symbols-outlined.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=ndtd1" />
+  
+  <link rel="stylesheet" href="/src/cookie.css?v=ndtd1" />
+  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=ndtd1" />
+  <link rel="shortcut icon" href="/img/icon.png?v=ndtd1" type="image/png" />
   <link rel="apple-touch-icon" href="/img/icon.png" />
   <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "LocalBusiness",
-  "name": "Yunus SEVĞANE",
-  "description": "Yunus SEVĞANE - Senior Software Developer. Web, mobil ve yapay zeka alanlarında ölçeklenebilir çözümler geliştiren yazılım geliştirici. 19+ yıl sektör deneyimi, 200+ kurumsal web sitesi, 10+ mobil uygulama. Frontend, backend, DevOps ve yapay zeka geliştirme.",
-  "url": "https://sevgane.com",
-  "logo": "https://sevgane.com/img/logo.png",
-  "image": "https://sevgane.com/img/logo.png"
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Yunus SEVĞANE",
-  "url": "https://sevgane.com",
-  "logo": "https://sevgane.com/img/logo.png"
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://sevgane.com/#website",
+      "url": "https://sevgane.com/",
+      "name": "Yunus SEVĞANE",
+      "description": "Yunus Sevğane: Gaziantep'te yazılım geliştirici. 200+ kurumsal web sitesi, 10+ mobil uygulama, yapay zeka; ISO baş denetçi ve siber güvenlik eğitimleri.",
+      "inLanguage": "tr",
+      "publisher": {
+        "@id": "https://sevgane.com/#organization"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://sevgane.com/#organization",
+      "name": "Yunus SEVĞANE",
+      "url": "https://sevgane.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://sevgane.com/img/logo.png"
+      },
+      "image": "https://sevgane.com/img/logo.png",
+      "description": "Yunus Sevğane: Gaziantep'te yazılım geliştirici. 200+ kurumsal web sitesi, 10+ mobil uygulama, yapay zeka; ISO baş denetçi ve siber güvenlik eğitimleri.",
+      "telephone": "+90 531 679 10 14",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Gaziantep",
+        "addressCountry": "Türkiye"
+      },
+      "sameAs": [
+        "https://instagram.com/yunusevgane",
+        "https://twitter.com/yunusevgane",
+        "https://linkedin.com/in/yunusevgane",
+        "https://wa.me/905316791014"
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer service",
+        "telephone": "+90 531 679 10 14"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://sevgane.com/tr/backend-sistem-mimarisi/#webpage",
+      "url": "https://sevgane.com/tr/backend-sistem-mimarisi/",
+      "name": "Backend ve Sistem Mimarisi",
+      "description": "Veritabanı yönetimi, sistem mimarisi ve backend çözümleri: Node.js, ASP, MongoDB, Redis ve T-SQL ile ölçeklenebilir ve güvenli altyapı tasarımı.",
+      "inLanguage": "tr",
+      "isPartOf": {
+        "@id": "https://sevgane.com/#website"
+      },
+      "about": {
+        "@id": "https://sevgane.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://sevgane.com/page/backend-mimari/mcln2.png"
+      },
+      "dateModified": "2026-11-02T09:03:49.512Z",
+      "breadcrumb": {
+        "@id": "https://sevgane.com/tr/backend-sistem-mimarisi/#breadcrumb"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://sevgane.com/tr/backend-sistem-mimarisi/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Yunus SEVĞANE",
+          "item": "https://sevgane.com/tr/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Backend ve Sistem Mimarisi",
+          "item": "https://sevgane.com/tr/backend-sistem-mimarisi/"
+        }
+      ]
+    }
+  ]
 }
 </script>
   
-<link rel="manifest" href="/manifest.json">
-<meta name="theme-color" content="#2196f3">
-<link rel="stylesheet" href="style.css?v=zog2d">
+<link rel="stylesheet" href="style.css?v=ndtd1">
 </head>
 
 <body>
-  <div id="header">
-<div class="asrnp">
-  <div class="asrnptitle">
-    <div class="asrnptitlebody">
-      <div class="asrnptitlebodylang">
+  <a class="mx-skip-link" href="#content">İçeriğe atla</a>
+  <script>
+    (function () {
+      window.user = window.user || { id: null, email: null, name: null, isLoggedIn: false, loginMethod: null };
+      var emptySnapshot = { empty: true, forEach: function () {} };
+      var emptyDoc = { exists: false, data: function () { return null; } };
+      if (typeof window.dataAddWeb !== "function") window.dataAddWeb = function () { return Promise.resolve(); };
+      if (typeof window.dataDeleteWeb !== "function") window.dataDeleteWeb = function () { return Promise.resolve(); };
+      if (typeof window.dataUpdateWeb !== "function") window.dataUpdateWeb = function () { return Promise.resolve(); };
+      if (typeof window.dataGetWeb !== "function") window.dataGetWeb = function () { return Promise.resolve(emptyDoc); };
+      if (typeof window.dataListWeb !== "function") window.dataListWeb = function () { return Promise.resolve(emptySnapshot); };
+      if (typeof window.authStateListenerWeb !== "function") {
+        window.authStateListenerWeb = function (cb) {
+          if (typeof cb === "function") setTimeout(function () { cb(null); }, 0);
+        };
+      }
+    })();
+  </script>
+  <div id="header"><div class="h0000">
+  <div class="h0000title">
+    <div class="h0000titlebody">
+      <div class="h0000titlebodylang">
         <ul>
           
         </ul>
       </div>
     </div>
   </div>
-  <div class="asrnpbody">
-    <a href="/tr/"
-      ><img
-        src="/img/logo.png?v=bgss3"
+  <div class="h0000body">
+    <a href="/tr/">
+      <img
+        src="/img/logo.png?v=wvlh5"
         alt="Yunus SEVĞANE Logo"
-        class="asrnpbodylogo"
+        class="h0000bodylogo"
         loading="lazy"
-    /></a>
-    <button type="button" class="asrnp-mobile-toggle" onclick="menu2_toggle()" aria-label="Menüyü aç/kapat">
+      />
+    </a>
+    
+    <button type="button" class="h0000-mobile-toggle" onclick="menu2_toggle()" aria-label="Menüyü aç/kapat">
       <span class="material-symbols-outlined" aria-hidden="true">menu</span>
     </button>
   </div>
   
-  <div class="asrnp-menu-backdrop" onclick="menu2_toggle()" aria-hidden="true"></div>
-  <div class="asrnpmenubody">
-    <div class="asrnpmenu" id="menu-2-root">
-      <div class="asrnpmenulistbody">
-        <div class="asrnpmenulist">
+  <div class="h0000-menu-backdrop" onclick="menu2_toggle()" aria-hidden="true"></div>
+  <div class="h0000menubody">
+    <div class="h0000menu" id="menu-2-root">
+      <button type="button" class="h0000-menu2-drawer-close" onclick="menu2_toggle()" aria-label="Menüyü kapat">
+        <span class="material-symbols-outlined" aria-hidden="true">close</span>
+      </button>
+      <div class="h0000menulistbody">
+        <div class="h0000menulist">
           <ul>
-            <a href="/tr/">Anasayfa </a><a href="/tr/hakkimizda/">Kurumsal</a><a href="/tr/services/">Hizmetlerim</a><a href="/tr/iletisim/">İletişim</a>
+            <a href="/tr/">Anasayfa</a><a href="/tr/ozgecmis/">Özgeçmiş</a><div class="h0000menulist-menu dropdown-content-active-h0000"><a class="h0000-menu-list-active" href="/tr/services/">Hizmetlerim</a><div class="dropdown-content-h0000"><a href="/tr/web-gelistirme/">Web Geliştirme</a><a href="/tr/mobil-uygulama-gelistirme/">Mobil Uygulama Geliştirme</a><a href="/tr/yapay-zeka-cozumleri/">Yapay Zeka Çözümleri</a><a class="h0000-menu-list-active" href="/tr/backend-sistem-mimarisi/">Backend ve Sistem Mimarisi</a><a href="/tr/devops-altyapi/">DevOps ve Altyapı</a><a href="/tr/bilgi-guvenligi-iso-27001/">Bilgi Güvenliği ve ISO 27001</a><a href="/tr/it-danismanlik/">IT Danışmanlık</a><a href="/tr/pazaryeri-entegrasyonlari/">Pazaryeri Entegrasyonları</a></div></div><a href="/tr/sertifikalar/">Sertifikalar</a><div class="h0000menulist-menu"><a href="/tr/hakkimizda/">Kurumsal</a><div class="dropdown-content-h0000"><a href="/tr/hakkimizda/">Hakkımızda</a><a href="/tr/misyon/">Misyon</a><a href="/tr/vizyon/">Vizyon</a><a href="/tr/kalite-politikamiz/">Kalite Politikamız</a><a href="/tr/gizlilik-politikasi/">Gizlilik Politikası</a><a href="/tr/kisisel-veriler/">Kişisel Veriler</a><a href="/tr/kullanici-haklari/">Kullanıcı Hakları</a><a href="/tr/yasal-uyari/">Yasal Uyarı</a><a href="/tr/cerez-politikasi/">Çerez Politikası</a></div></div><a href="/tr/iletisim/">İletişim</a>
           </ul>
         </div>
       </div>
       
-      <div class="asrnplanguages-mobile">
+      <div class="h0000languages-mobile">
         <ul>
           
         </ul>
@@ -113,86 +209,224 @@
 
 <script>
   
+  if (typeof menu2_isMobileLayout === "undefined") {
+    
+    function menu2_isMobileLayout() {
+      return window.innerWidth <= 1024;
+    }
+  }
+  if (typeof menu2_isTouchNav === "undefined") {
+    function menu2_isTouchNav() {
+      return window.innerWidth <= 1024;
+    }
+  }
+  if (typeof menu2_setBodyScroll === "undefined") {
+    function menu2_setBodyScroll(lock) {
+      if (!menu2_isMobileLayout()) {
+        document.body.style.overflow = "";
+        return;
+      }
+      document.body.style.overflow = lock ? "hidden" : "";
+    }
+  }
   if (typeof menu2_toggle === "undefined") {
     function menu2_toggle() {
       var root = document.getElementById("menu-2-root");
       if (!root) {
         return;
       }
-      var wrapper = root.closest ? root.closest(".asrnp") : null;
+      var wrapper = root.closest ? root.closest(".h0000") : null;
       var target = wrapper || root;
-      if (target.classList.contains("asrnpmenu-open")) {
-        target.classList.remove("asrnpmenu-open");
+      if (target.classList.contains("h0000menu-open")) {
+        target.classList.remove("h0000menu-open");
+        menu2_setBodyScroll(false);
       } else {
-        target.classList.add("asrnpmenu-open");
+        target.classList.add("h0000menu-open");
+        menu2_setBodyScroll(true);
+        menu2_openActiveBranch();
       }
+    }
+  }
+  if (typeof menu2_closeDrawer === "undefined") {
+    function menu2_closeDrawer() {
+      var root = document.getElementById("menu-2-root");
+      if (!root) {
+        return;
+      }
+      var wrapper = root.closest ? root.closest(".h0000") : null;
+      var target = wrapper || root;
+      target.classList.remove("h0000menu-open");
+      menu2_setBodyScroll(false);
+    }
+  }
+  if (typeof menu2_openActiveBranch === "undefined") {
+    function menu2_openActiveBranch() {
+      if (!menu2_isMobileLayout()) {
+        return;
+      }
+      var root = document.getElementById("menu-2-root");
+      if (!root) {
+        return;
+      }
+      var activeWrap = root.querySelector(".h0000menulist-menu.dropdown-content-active-h0000");
+      if (activeWrap) {
+        activeWrap.classList.add("h0000-dropdown-open");
+      }
+    }
+  }
+  if (typeof menu2_setup === "undefined") {
+    function menu2_setup() {
+      var root = document.getElementById("menu-2-root");
+      if (!root) {
+        return;
+      }
+      var dropdownLinks = root.querySelectorAll(".h0000menulist-menu > a");
+      for (var i = 0; i < dropdownLinks.length; i++) {
+        if (dropdownLinks[i].getAttribute("data-menu2-listener") === "true") {
+          continue;
+        }
+        dropdownLinks[i].setAttribute("data-menu2-listener", "true");
+        dropdownLinks[i].addEventListener("click", function(event) {
+          if (!menu2_isTouchNav()) {
+            return;
+          }
+          var parent = this.parentNode;
+          if (!parent || !parent.querySelector(".dropdown-content-h0000")) {
+            return;
+          }
+          event.preventDefault();
+          var menuRoot = parent.parentNode;
+          var toggled = parent.classList.contains("h0000-dropdown-open");
+          var siblings = menuRoot.querySelectorAll(".h0000menulist-menu");
+          for (var j = 0; j < siblings.length; j++) {
+            siblings[j].classList.remove("h0000-dropdown-open");
+          }
+          if (!toggled) {
+            parent.classList.add("h0000-dropdown-open");
+          }
+        });
+      }
+      var navLinks = root.querySelectorAll(".h0000menulist a[href]");
+      for (var k = 0; k < navLinks.length; k++) {
+        if (navLinks[k].getAttribute("data-menu2-nav-close") === "true") {
+          continue;
+        }
+        navLinks[k].setAttribute("data-menu2-nav-close", "true");
+        navLinks[k].addEventListener("click", function(event) {
+          if (!menu2_isMobileLayout()) {
+            return;
+          }
+          if (event.defaultPrevented) {
+            return;
+          }
+          menu2_closeDrawer();
+        });
+      }
+      menu2_openActiveBranch();
+    }
+    function menu2_resetDropdowns() {
+      if (!menu2_isTouchNav()) {
+        var root = document.getElementById("menu-2-root");
+        if (!root) {
+          return;
+        }
+        var items = root.querySelectorAll(".h0000menulist-menu");
+        for (var i = 0; i < items.length; i++) {
+          items[i].classList.remove("h0000-dropdown-open");
+        }
+      }
+      if (!menu2_isMobileLayout()) {
+        menu2_setBodyScroll(false);
+        menu2_closeDrawer();
+      }
+    }
+    setTimeout(menu2_setup, 150);
+    window.addEventListener("resize", menu2_resetDropdowns);
+  }
+  if (typeof menu2_sigdir === "undefined") {
+    
+    function menu2_sigdir() {
+      var root = document.getElementById("menu-2-root");
+      var ul = root ? root.querySelector(".h0000menulist ul") : null;
+      if (!ul || !ul.firstElementChild) {
+        return;
+      }
+      ul.classList.remove("h0000-menu-sar");
+      if (!menu2_isMobileLayout() && ul.lastElementChild.offsetTop > ul.firstElementChild.offsetTop) {
+        ul.classList.add("h0000-menu-sar");
+      }
+    }
+    menu2_sigdir();
+    window.addEventListener("resize", menu2_sigdir);
+    if (document.fonts && document.fonts.ready) {
+      document.fonts.ready.then(menu2_sigdir);
     }
   }
 </script>
 </div>
-  <div id="content"><div class="r4pge-title f36">
-  <h1>Backend & Sistem Mimarisi</h1>
+  <div id="content"><div class="b0000-title f36" data-stil="">
+  <h1>Backend ve Sistem Mimarisi</h1>
 </div>
-<div class="r4pge">
-  <div class="r4pge-menu-btn">
-    <span>Menü</span>
-    <span class="material-symbols-outlined r4pge-icon">menu</span>
-  </div>
-  <div class="r4pge-menu-overlay" id="r4pge-menu-overlay" aria-hidden="true"></div>
-  <div class="r4pge-menu" id="r4pge-menu">
-    <button class="r4pge-menu-close" type="button" aria-label="Menüyü Kapat" aria-controls="r4pge-menu">
+<div class="b0000" data-stil="">
+  <button
+    type="button"
+    class="b0000-menu-btn"
+    aria-expanded="false"
+    aria-controls="b0000-menu"
+  >
+    <span class="b0000-menu-btn-label">Menü</span>
+    <span class="material-symbols-outlined b0000-icon" aria-hidden="true">menu</span>
+  </button>
+  <div class="b0000-menu-overlay" id="b0000-menu-overlay" aria-hidden="true"></div>
+  <nav class="b0000-menu" id="b0000-menu" aria-label="Menü">
+    <button class="b0000-menu-close" type="button" aria-label="Menüyü Kapat" aria-controls="b0000-menu">
       <span class="material-symbols-outlined" aria-hidden="true">close</span>
     </button>
-    <a class="r4pge-menu-link" href="/tr/web-gelistirme/">Web Geliştirme</a><a class="r4pge-menu-link" href="/tr/mobil-uygulama-gelistirme/">Mobil Uygulama Geliştirme</a><a class="r4pge-menu-link" href="/tr/yapay-zeka-cozumleri/">Yapay Zeka Çözümleri</a><a class="r4pge-menu-link active" href="/tr/backend-sistem-mimarisi/">Backend & Sistem Mimarisi</a><a class="r4pge-menu-link" href="/tr/devops-altyapi/">DevOps & Altyapı</a><a class="r4pge-menu-link" href="/tr/bilgi-guvenligi-iso-27001/">Bilgi Güvenliği & ISO 27001</a><a class="r4pge-menu-link" href="/tr/it-danismanlik/">IT Danışmanlık</a><a class="r4pge-menu-link" href="/tr/pazaryeri-entegrasyonlari/">Pazaryeri Entegrasyonları</a>
-  </div>
-  <div class="r4pge-desc">
-    <div class="r4pge-desc-body"><img src="/page/backend-mimari/mcln2.png?v=qvvj7" width="100%" alt="Backend & Sistem Mimarisi" loading="lazy" /></div>
-    <div class="r4pge-body"><h2 style="font-size: 28px; font-weight: bold; color: #1e3046; margin-bottom: 20px;">Backend Geliştirme ve Sistem Mimarisi</h2><p style="font-size: 18px; line-height: 1.8; color: #333; margin-bottom: 20px;">Veritabanı yönetimi, sistem mimarisi ve backend çözümleri geliştiriyorum. Ölçeklenebilir ve güvenli altyapılar tasarlayarak, yüksek performanslı sistemler oluşturuyorum. Gaziantep ve Türkiye genelinde, 19 yılı aşkın deneyimimle kurumsal backend çözümleri sunuyorum.</p><h3 style="font-size: 22px; font-weight: bold; color: #1e3046; margin-top: 30px; margin-bottom: 15px;">API Geliştirme ve Entegrasyon</h3><p style="font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;">RESTful API ve GraphQL API geliştirme hizmetleri sunuyorum. Node.js, Python, PHP, Java gibi teknolojilerle modern ve esnek API'ler geliştiriyorum. API dokümantasyonu, versiyonlama ve rate limiting gibi best practice'leri uyguluyorum.</p><p style="font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;">Üçüncü parti servis entegrasyonları yapıyorum. Ödeme sistemleri, e-posta servisleri, SMS servisleri, harita servisleri ve sosyal medya API'leri ile entegrasyonlar kuruyorum. Webhook ve event-driven mimariler ile gerçek zamanlı veri işleme sistemleri geliştiriyorum.</p><h3 style="font-size: 22px; font-weight: bold; color: #1e3046; margin-top: 30px; margin-bottom: 15px;">Veritabanı Tasarımı ve Yönetimi</h3><p style="font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;">MySQL, PostgreSQL, MongoDB, Redis gibi veritabanı sistemleri ile veritabanı tasarımı ve yönetimi hizmetleri sunuyorum. İlişkisel ve NoSQL veritabanı çözümleri ile ihtiyaçlarınıza uygun veri yönetimi sistemleri kuruyorum. Veritabanı optimizasyonu, indexleme ve sorgu optimizasyonu ile performans artırıyorum.</p><p style="font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;">Veri yedekleme, replikasyon ve yüksek erişilebilirlik çözümleri sunuyorum. Master-slave replikasyon, sharding ve clustering ile ölçeklenebilir veritabanı mimarileri kuruyorum. Veri güvenliği, şifreleme ve erişim kontrolü ile güvenli veritabanı sistemleri tasarlıyorum.</p><h3 style="font-size: 22px; font-weight: bold; color: #1e3046; margin-top: 30px; margin-bottom: 15px;">Mikroservis Mimarisi ve Containerization</h3><p style="font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;">Mikroservis mimarisi ile modüler ve ölçeklenebilir sistemler tasarlıyorum. Docker ve Kubernetes ile containerization ve orchestration çözümleri sunuyorum. Service mesh (Istio, Linkerd) ile mikroservis iletişimi ve yönetimi sağlıyorum.</p><p style="font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;">API Gateway, service discovery ve load balancing ile mikroservis altyapısı kuruyorum. Event-driven architecture ile asenkron işleme ve mesajlaşma sistemleri geliştiriyorum. Circuit breaker, retry mekanizmaları ve distributed tracing ile dayanıklı sistemler oluşturuyorum.</p><h3 style="font-size: 22px; font-weight: bold; color: #1e3046; margin-top: 30px; margin-bottom: 15px;">Güvenlik ve Performans Optimizasyonu</h3><p style="font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;">Backend sistemlerinizin güvenliğini sağlamak için authentication, authorization, JWT token yönetimi ve OAuth entegrasyonları yapıyorum. SQL injection, XSS, CSRF gibi güvenlik açıklarını önlemek için güvenli kod geliştirme prensipleri uyguluyorum. ISO 27001 standartlarına uygun güvenlik kontrolleri uyguluyorum.</p><p style="font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;">Performans optimizasyonu için caching stratejileri (Redis, Memcached), database query optimization ve connection pooling uyguluyorum. Load balancing, horizontal scaling ve auto-scaling çözümleri ile yüksek trafikli sistemlere hazır altyapılar kuruyorum. Monitoring, logging ve alerting sistemleri ile sistem sağlığını izliyorum.</p><h3 style="font-size: 22px; font-weight: bold; color: #1e3046; margin-top: 30px; margin-bottom: 15px;">Cloud ve Serverless Mimari</h3><p style="font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 15px;">AWS, Azure, Google Cloud gibi cloud platformlarında backend çözümleri sunuyorum. Serverless mimari ile AWS Lambda, Azure Functions ve Google Cloud Functions kullanarak maliyet-etkin çözümler geliştiriyorum. Cloud-native uygulamalar ile ölçeklenebilir ve esnek sistemler kuruyorum.</p><p style="font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 20px;">CI/CD pipeline'ları, infrastructure as code (Terraform, CloudFormation) ve automated deployment ile DevOps süreçlerini entegre ediyorum. Monitoring ve observability (CloudWatch, Azure Monitor, Stackdriver) ile sistem performansını izliyorum. Gaziantep ve Türkiye genelinde backend geliştirme hizmetleri için benimle iletişime geçebilirsiniz.</p></div>
+    <a class="b0000-menu-link" href="/tr/web-gelistirme/">Web Geliştirme</a><a class="b0000-menu-link" href="/tr/mobil-uygulama-gelistirme/">Mobil Uygulama Geliştirme</a><a class="b0000-menu-link" href="/tr/yapay-zeka-cozumleri/">Yapay Zeka Çözümleri</a><a class="b0000-menu-link active" href="/tr/backend-sistem-mimarisi/">Backend ve Sistem Mimarisi</a><a class="b0000-menu-link" href="/tr/devops-altyapi/">DevOps ve Altyapı</a><a class="b0000-menu-link" href="/tr/bilgi-guvenligi-iso-27001/">Bilgi Güvenliği ve ISO 27001</a><a class="b0000-menu-link" href="/tr/it-danismanlik/">IT Danışmanlık</a><a class="b0000-menu-link" href="/tr/pazaryeri-entegrasyonlari/">Pazaryeri Entegrasyonları</a>
+  </nav>
+  <div class="b0000-main">
+    
+    <div class="b0000-desc-body"><img src="/page/backend-mimari/mcln2.png?v=krrum" width="100%" alt="Backend ve Sistem Mimarisi" loading="lazy" /></div>
+    <div class="b0000-body"><section><h2>Backend ve Sistem Mimarisi</h2><p>Veritabanı yönetimi, sistem mimarisi ve backend çözümleri geliştiriyorum. Ölçeklenebilir ve güvenli altyapıyı, işin büyümesini kaldıracak şekilde baştan tasarlamaya özen gösteririm.</p><h3>Neler yapıyorum?</h3><ul><li>API ve servis katmanı tasarımı</li><li>Veritabanı modelleme, yönetim ve performans çalışmaları</li><li>Önbellekleme ve oturum yönetimi</li><li>Mevcut sistemlerle entegrasyon ve veri aktarımı</li></ul><p>Kullandığım başlıca teknolojiler: Node.js, ASP, MongoDB, Redis, T-SQL, JSON Server ve Firebase.</p><p>Mimari kararları gerekçeleriyle dokümante eder, devri ve bakımı kolaylaştırırım.</p><h3>Nasıl çalışırım?</h3><ul><li>Önce ihtiyacı ve kapsamı yazılı olarak netleştiririm.</li><li>Geliştirmeyi aşamalara bölüp her aşamada çalışan sonucu paylaşırım.</li><li>Teslimde kullanım bilgisini verir, sonraki bakım ihtiyacını birlikte planlarız.</li></ul><p>Bu alanda bir ihtiyacınız varsa <a href="https://wa.me/905316791014">WhatsApp (+90 531 679 10 14)</a> üzerinden kısaca yazın; kapsamı birlikte netleştirelim.</p></section></div>
+    
   </div>
 </div>
 
 <script>
   setTimeout(function() {
-    var menuToggleBtn = document.querySelector(".r4pge-menu-btn");
-    var menu = document.querySelector(".r4pge-menu");
-    var overlay = document.querySelector(".r4pge-menu-overlay");
-    var closeButton = document.querySelector(".r4pge-menu-close");
-    
+    var menuToggleBtn = document.querySelector(".b0000-menu-btn");
+    var menu = document.querySelector(".b0000-menu");
+    var overlay = document.querySelector(".b0000-menu-overlay");
+    var closeButton = document.querySelector(".b0000-menu-close");
+
     if (!menuToggleBtn || !menu) {
       return;
     }
-    
+
     var mql = window.matchMedia("(max-width: 1024px)");
 
     function openMenu() {
-      if (menu) {
-        menu.classList.add("active");
-      }
+      menu.classList.add("active");
       if (overlay) {
         overlay.classList.add("active");
         overlay.setAttribute("aria-hidden", "false");
       }
-
       document.body.style.overflow = "hidden";
     }
 
     function closeMenu() {
-      if (menu) {
-        menu.classList.remove("active");
-      }
+      menu.classList.remove("active");
       if (overlay) {
         overlay.classList.remove("active");
         overlay.setAttribute("aria-hidden", "true");
       }
-
       document.body.style.overflow = "";
-
       if (menuToggleBtn) {
         menuToggleBtn.focus();
       }
     }
 
-    menuToggleBtn.addEventListener("click", function (e) {
+    menuToggleBtn.addEventListener("click", function(e) {
       e.preventDefault();
       e.stopPropagation();
       if (menu.classList.contains("active")) {
@@ -203,7 +437,7 @@
     });
 
     if (closeButton) {
-      closeButton.addEventListener("click", function (e) {
+      closeButton.addEventListener("click", function(e) {
         e.preventDefault();
         e.stopPropagation();
         closeMenu();
@@ -211,28 +445,28 @@
     }
 
     if (overlay) {
-      overlay.addEventListener("click", function (e) {
+      overlay.addEventListener("click", function(e) {
         e.preventDefault();
         e.stopPropagation();
         closeMenu();
       });
     }
 
-    menu.addEventListener("click", function (event) {
+    menu.addEventListener("click", function(event) {
       var link = event.target.closest("a");
-      var closeBtn = event.target.closest(".r4pge-menu-close");
+      var closeBtn = event.target.closest(".b0000-menu-close");
       if (link && !closeBtn) {
         closeMenu();
       }
     });
 
-    document.addEventListener("keydown", function (e) {
-      if (e.key === "Escape" && menu && menu.classList.contains("active")) {
+    document.addEventListener("keydown", function(e) {
+      if (e.key === "Escape" && menu.classList.contains("active")) {
         closeMenu();
       }
     });
 
-    menuToggleBtn.addEventListener("keydown", function (e) {
+    menuToggleBtn.addEventListener("keydown", function(e) {
       if (e.key === "Enter" || e.key === " ") {
         e.preventDefault();
         if (menu.classList.contains("active")) {
@@ -245,10 +479,7 @@
 
     function handleBreakpoint() {
       if (!mql.matches) {
-
-        if (menu) {
-          menu.classList.remove("active");
-        }
+        menu.classList.remove("active");
         if (overlay) {
           overlay.classList.remove("active");
           overlay.setAttribute("aria-hidden", "true");
@@ -256,7 +487,7 @@
         document.body.style.overflow = "";
       }
     }
-    
+
     if (typeof mql.addEventListener === "function") {
       mql.addEventListener("change", handleBreakpoint);
     } else if (typeof mql.addListener === "function") {
@@ -264,15 +495,19 @@
     }
     handleBreakpoint();
 
-    document.querySelectorAll(".r4pge-top").forEach(function (button) {
-      button.addEventListener("click", function (e) {
+    var topButtons = document.querySelectorAll(".b0000-top");
+    var bi;
+    for (bi = 0; bi < topButtons.length; bi++) {
+      topButtons[bi].addEventListener("click", function(e) {
         e.stopPropagation();
-        var group = this.closest(".r4pge-menu-group");
-        if (!group) return;
-        var sub = group.querySelector(".r4pge-sub");
+        var group = this.closest(".b0000-menu-group");
+        if (!group) {
+          return;
+        }
+        var sub = group.querySelector(".b0000-sub");
         var isOpen = group.classList.toggle("open");
         this.classList.toggle("active", isOpen);
-        var icon = this.querySelector(".r4pge-icon");
+        var icon = this.querySelector(".b0000-icon");
         if (icon) {
           icon.textContent = isOpen ? "expand_less" : "expand_more";
         }
@@ -280,76 +515,59 @@
           sub.classList.toggle("show", isOpen);
         }
       });
-    });
+    }
   }, 100);
 </script>
-
 </div>
   <div id="footer"><footer class="footer">
-  <div class="waves">
-    <div class="wave" id="wave1"></div>
-    <div class="wave" id="wave2"></div>
-    <div class="wave" id="wave3"></div>
-    <div class="wave" id="wave4"></div>
+  <div class="footer-top">
+    <div class="footer-logo footer-logo--plate">
+      <img src="/img/logo.png" height="60"   alt="Yunus SEVĞANE Logo"  loading="lazy"/>
+    </div>
+    <ul class="menu">
+      <li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/">Anasayfa</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/ozgecmis/">Özgeçmiş</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/services/">Hizmetlerim</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/sertifikalar/">Sertifikalar</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/kurumsal/">Kurumsal</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/iletisim/">İletişim</a></li>
+    </ul>
   </div>
-  <ul class="social-icon">
-
-
-
+  <div class="footer-contact"><a href="tel:+905316791014" dir="ltr">+90 531 679 10 14</a></div>
+  <div class="footer-bottom">
     
-    
-
- 
-
-
-    <li class="social-icon__item">
-      <a class="social-icon__link" href="#">
-        <ion-icon name="logo-facebook"></ion-icon>
-      </a>
-    </li>
-    <li class="social-icon__item">
-      <a class="social-icon__link" href="#">
-        <ion-icon name="logo-x"></ion-icon>
-      </a>
-    </li>
-    <li class="social-icon__item">
-      <a class="social-icon__link" href="#">
-        <ion-icon name="logo-linkedin"></ion-icon>
-      </a>
-    </li>
-    <li class="social-icon__item">
-      <a class="social-icon__link" href="#">
-        <ion-icon name="logo-instagram"></ion-icon>
-      </a>
-    </li>
-  </ul>
-  <ul class="menu">
-    <li class="menu__item"><a class="menu__link" href="/tr/">Anasayfa</a></li><li class="menu__item"><a class="menu__link" href="/tr/kurumsal">Kurumsal</a></li><li class="menu__item"><a class="menu__link" href="/tr/services">Hizmetlerim</a></li><li class="menu__item"><a class="menu__link" href="/tr/iletisim">İletişim</a></li>
-  </ul>
-  <p>Yunus SEVĞANE 2025 cognite. &copy;</p>
+    <p>&copy; Yunus SEVĞANE 2026. Tüm hakları saklıdır.</p>
+  </div>
 </footer>
+
+<a
+  href="https://api.whatsapp.com/send/?phone=905316791014&text=&app_absent=0"
+  target="_blank"
+  class="whatsapp"
+>
+  <div class="whatsappicon">
+    <svg
+      _ngcontent-cty-c90=""
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      viewBox="0 0 32 32"
+      class="wa-messenger-svg-whatsapp wh-svg-icon"
+    >
+      <path
+        _ngcontent-cty-c90=""
+        d=" M19.11 17.205c-.372 0-1.088 1.39-1.518 1.39a.63.63 0 0 1-.315-.1c-.802-.402-1.504-.817-2.163-1.447-.545-.516-1.146-1.29-1.46-1.963a.426.426 0 0 1-.073-.215c0-.33.99-.945.99-1.49 0-.143-.73-2.09-.832-2.335-.143-.372-.214-.487-.6-.487-.187 0-.36-.043-.53-.043-.302 0-.53.115-.746.315-.688.645-1.032 1.318-1.06 2.264v.114c-.015.99.472 1.977 1.017 2.78 1.23 1.82 2.506 3.41 4.554 4.34.616.287 2.035.888 2.722.888.817 0 2.15-.515 2.478-1.318.13-.33.244-.73.244-1.088 0-.058 0-.144-.03-.215-.1-.172-2.434-1.39-2.678-1.39zm-2.908 7.593c-1.747 0-3.48-.53-4.942-1.49L7.793 24.41l1.132-3.337a8.955 8.955 0 0 1-1.72-5.272c0-4.955 4.04-8.995 8.997-8.995S25.2 10.845 25.2 15.8c0 4.958-4.04 8.998-8.998 8.998zm0-19.798c-5.96 0-10.8 4.842-10.8 10.8 0 1.964.53 3.898 1.546 5.574L5 27.176l5.974-1.92a10.807 10.807 0 0 0 16.03-9.455c0-5.958-4.842-10.8-10.802-10.8z"
+        fill-rule="evenodd"
+      ></path>
+    </svg>
+  </div>
+  WhatsApp ile yaz
+</a>
 
 </div>
 
   
 
   <script defer src="/src/swiper-bundle.min.js"></script>
-  <script defer type="text/javascript" src="/src/js.js?v=zog2d"></script>
-  <script defer src="/src/cookie.js?v=zog2d"></script>
+  <script defer src="/src/mx-ui.js?v=ndtd1"></script>
+  <script defer src="/src/mx-store.js?v=ndtd1"></script>
+  <script defer type="text/javascript" src="/src/js.js?v=ndtd1"></script>
+  <script defer src="/src/cookie.js?v=ndtd1"></script>
 
-  <script>
-    setTimeout(function() {
-      var currentPath = window.location.pathname;
-      var rtlLanguages = ['ar', 'he', 'fa'];
-      var langMatch = currentPath.match(/^\/([a-z]{2})\//);
-      var currentLang = langMatch ? langMatch[1] : '';
-      if (rtlLanguages.indexOf(currentLang) !== -1) {
-        document.documentElement.setAttribute('dir', 'rtl');
-      } else {
-        document.documentElement.setAttribute('dir', 'ltr');
-      }
-    }, 100);
-  </script>
 </body>
 
 </html>

@@ -11,7 +11,7 @@
       "path": "web-gelistirme",
       "category": "",
       "description": {
-        "tr": "200'den fazla kurumsal web sitesi geliştirme deneyimi. Modern teknolojiler kullanarak ölçeklenebilir ve performanslı web uygulamaları geliştiriyorum."
+        "tr": "200'den fazla kurumsal web sitesi geliştirme deneyimi: HTML, CSS, JavaScript, Node.js ve ASP ile hızlı, güvenli ve aramaya uygun web çözümleri."
       },
       "index": 0,
       "icon": "web",
@@ -26,7 +26,7 @@
       "path": "mobil-uygulama-gelistirme",
       "category": "",
       "description": {
-        "tr": "10'dan fazla mobil uygulama geliştirme deneyimi. iOS ve Android platformları için native ve cross-platform çözümler sunuyorum."
+        "tr": "10'dan fazla mobil uygulama geliştirme deneyimi: Flutter, React Native, Java ve Swift ile Android ve iOS uygulamaları; backend ve Firebase entegrasyonu."
       },
       "index": 1,
       "icon": "phone_android",
@@ -41,7 +41,7 @@
       "path": "yapay-zeka-cozumleri",
       "category": "",
       "description": {
-        "tr": "Yapay zeka tabanlı çözümler ve sistem entegrasyonları oluşturma. AI destekli uygulamalar ve otomasyon sistemleri geliştiriyorum."
+        "tr": "AI agent süreçleri, LLM RAG uygulamaları ve LLM ince ayarı; ISO/IEC 42001 baş denetçi eğitimi bakışıyla iş süreçlerine yapay zeka entegrasyonu."
       },
       "index": 2,
       "icon": "psychology",
@@ -49,14 +49,14 @@
     },
     {
       "name": {
-        "tr": "Backend & Sistem Mimarisi"
+        "tr": "Backend ve Sistem Mimarisi"
       },
       "status": "play",
       "id": "backend-mimari",
       "path": "backend-sistem-mimarisi",
       "category": "",
       "description": {
-        "tr": "Veritabanı yönetimi, sistem mimarisi ve backend çözümleri geliştirme. Ölçeklenebilir ve güvenli altyapılar tasarlıyorum."
+        "tr": "Veritabanı yönetimi, sistem mimarisi ve backend çözümleri: Node.js, ASP, MongoDB, Redis ve T-SQL ile ölçeklenebilir ve güvenli altyapı tasarımı."
       },
       "index": 3,
       "icon": "storage",
@@ -64,14 +64,14 @@
     },
     {
       "name": {
-        "tr": "DevOps & Altyapı"
+        "tr": "DevOps ve Altyapı"
       },
       "status": "play",
       "id": "devops",
       "path": "devops-altyapi",
       "category": "",
       "description": {
-        "tr": "DevOps süreçleri ve altyapı yönetimi. CI/CD pipeline'ları, containerization ve cloud çözümleri sunuyorum."
+        "tr": "Full stack DevOps: uygulamaların yayına alınması, altyapı kurulumu, yedekleme ve sürekli işleyiş; geliştirme ve yayın süreçlerinin birlikte yönetimi."
       },
       "index": 4,
       "icon": "settings",
@@ -79,14 +79,14 @@
     },
     {
       "name": {
-        "tr": "Bilgi Güvenliği & ISO 27001"
+        "tr": "Bilgi Güvenliği ve ISO 27001"
       },
       "status": "play",
       "id": "bilgi-guvenligi",
       "path": "bilgi-guvenligi-iso-27001",
       "category": "",
       "description": {
-        "tr": "ISO 27001 Bilgi Güvenliği Yönetim Sistemi prensiplerine uygun projeler yürütme. Güvenli yazılım geliştirme ve güvenlik denetimleri."
+        "tr": "Penetrasyon testi, siber güvenlik, adli bilişim ve ISO/IEC 27001:2022 baş denetçi eğitimi ile güvenliği yazılım sürecinin içinde ele alan hizmetler."
       },
       "index": 5,
       "icon": "security",
@@ -101,7 +101,7 @@
       "path": "it-danismanlik",
       "category": "",
       "description": {
-        "tr": "Kurumsal müşterilere yazılım geliştirme ve IT danışmanlık hizmetleri. Teknoloji stratejisi ve dijital dönüşüm danışmanlığı."
+        "tr": "Kurumsal müşterilere yazılım geliştirme ve IT danışmanlık: teknoloji seçimi, proje ve ekip yönetimi, ISO yönetim sistemleri bakış açısı."
       },
       "index": 6,
       "icon": "business_center",
@@ -116,7 +116,7 @@
       "path": "pazaryeri-entegrasyonlari",
       "category": "",
       "description": {
-        "tr": "3'ten fazla pazaryeri entegrasyonu deneyimi. E-ticaret platformları ve pazaryeri API entegrasyonları geliştiriyorum."
+        "tr": "3'ten fazla pazaryeri entegrasyonu deneyimi: ürün, stok, fiyat ve sipariş akışlarının pazaryerleri ile kendi sisteminiz arasında düzenli akışı."
       },
       "index": 7,
       "icon": "shopping_cart",

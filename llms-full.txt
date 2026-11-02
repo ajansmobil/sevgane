@@ -1,0 +1,602 @@
+# Yunus SEVĞANE
+
+> Yunus Sevğane: Gaziantep'te yazılım geliştirici. 200+ kurumsal web sitesi, 10+ mobil uygulama, yapay zeka; ISO baş denetçi ve siber güvenlik eğitimleri.
+
+---
+
+## Yunus SEVĞANE
+https://sevgane.com/tr/
+
+Yunus Sevğane: Gaziantep'te yazılım geliştirici. 200+ kurumsal web sitesi, 10+ mobil uygulama, yapay zeka; ISO baş denetçi ve siber güvenlik eğitimleri.
+
+Gaziantep · Senior Software Developer
+Yunus Sevğane
+Web, mobil ve yapay zeka alanlarında ölçeklenebilir çözümler geliştiriyorum. 2014'ten beri Webyapar Yazılım ve Danışmanlık çatısı altında 200'den fazla kurumsal web sitesi ve 10'dan fazla mobil uygulama; 2025'te siber güvenlik, adli bilişim ve ISO baş denetçi eğitimleri.
+WhatsApp ile yaz Özgeçmişi incele
+0 +
+Yıl sektör deneyimi
+0 +
+Kurumsal web sitesi
+0 +
+Mobil uygulama
+0 +
+Pazaryeri entegrasyonu
+Hakkımda
+Tasarımdan yazılıma, yazılımdan güvenliğe
+2006'da grafik tasarımcı olarak başladım; Cemre Teknoloji ve Mor Medya'da yazılım geliştirdim, 2014'ten beri kendi şirketim Webyapar Yazılım ve Danışmanlık'ı yönetiyorum. Bugün web, mobil, yapay zeka ve DevOps projelerini bilgi güvenliği bakışıyla yürütüyorum.
+Devamını oku
+Uzmanlık alanlarım
+Geliştirmeden güvenliğe uçtan uca
+Projeyi tasarlayan, kodlayan, yayına alan ve güvenliğini düşünen tek bir muhatap.
+Web ve mobil geliştirme
+Kurumsal web siteleri, Flutter ve React Native ile mobil uygulamalar, Node.js tabanlı backend.
+Yapay zeka çözümleri
+AI agent süreçleri, LLM RAG uygulamaları ve LLM ince ayarı; sistem entegrasyonları.
+DevOps ve entegrasyon
+Full stack DevOps, veritabanı yönetimi ve sistem mimarisi; 3'ten fazla pazaryeri entegrasyonu.
+Bilgi güvenliği
+Penetrasyon testi, adli bilişim ve ISO 27001 / 42001 / 9001 baş denetçi eğitimleri.
+Projenizi konuşalım
+Web, mobil, yapay zeka ya da bilgi güvenliği: ihtiyacınızı WhatsApp'tan iki cümleyle yazın, size döneyim.
+WhatsApp ile yaz İletişim sayfası
+
+---
+
+## Özgeçmiş
+https://sevgane.com/tr/ozgecmis/
+
+Yunus Sevğane özgeçmişi: 2006'dan bugüne çalışma geçmişi, aldığı eğitimler, yetkinlikleri ve kullandığı teknik araçlar.
+
+Özgeçmiş
+Yetkinlikler ve Teknik Beceriler
+Bu sayfada önce günlük işlerimde kullandığım yetkinlikleri ve araçları gruplandırdım; seviye puanı vermiyorum, yalnızca kullandıklarımı yazıyorum. Çalışma geçmişim ve aldığım eğitimler hemen altındaki zaman çizelgesinde yer alıyor.
+Yetkinlikler
+Proje yönetimi
+Full stack DevOps
+ISO yönetim sistemleri
+Penetrasyon testi ve siber güvenlik
+Adli bilişim
+AI agent süreçleri, LLM RAG ve LLM ince ayarı
+Web, mobil ve backend
+HTML, CSS, JavaScript
+Node.js, ASP
+Flutter, React Native, Java, Swift
+Veri tabanı ve altyapı
+MongoDB, Redis, T-SQL
+JSON Server, Firebase
+Tasarım
+Adobe Photoshop, Adobe Illustrator, Adobe XD
+Çalışma geçmişimde grafik tasarımdan yazılım geliştirmeye, oradan altyapı ve bilgi güvenliğine uzanan bir çizgi var; bu geniş bakış, projeleri hem görsel hem teknik açıdan bütün olarak ele almamı sağlar.
+Daha ayrıntılı bilgi için Sertifikalar sayfasına bakabilir ya da WhatsApp (+90 531 679 10 14) üzerinden yazabilirsiniz.
+Özgeçmiş
+Çalıştığım yerler ve aldığım eğitimler, en yeniden eskiye.
+Deneyim 2014 – Halen
+Senior Engineering Manager
+Webyapar Yazılım ve Danışmanlık (kendi şirketim) · Gaziantep
+200'den fazla kurumsal web sitesi, 3'ten fazla pazaryeri entegrasyonu ve 10'dan fazla mobil uygulama; altyapı geliştirme, ekip kurma ve proje yönetimi.
+Web
+Mobil
+DevOps
+Yapay zeka
+Eğitim Ağu 2025 – Eyl 2025
+ISO/IEC 20000-1:2018 BT Hizmet Yönetim Sistemi Baş Denetçilik Eğitimi (120 saat)
+Mudanya Üniversitesi SEM
+ISO
+Eğitim Tem 2025 – Ağu 2025
+Siber Güvenlik, Etik (Beyaz Şapkalı) Hacker ve Siber Suçlar Uzmanlığı (180'er saat)
+Türk Hava Kurumu Üniversitesi SEM
+Üç ayrı uzmanlık eğitimi.
+Siber güvenlik
+Eğitim May 2025 – Haz 2025
+ISO/IEC 42001:2023 Yapay Zeka Yönetim Sistemi ve ISO 9001:2015 Kalite Yönetim Sistemi Baş Denetçi Eğitimleri
+Sigmacert Global
+ISO
+Yapay zeka
+Eğitim Nis 2025 – Haz 2025
+Adli Bilişim Uzmanlığı Sertifika Eğitimi (100 saat)
+Fırat Üniversitesi SEM
+Adli bilişim
+Eğitim Şub 2025 – Mar 2025
+ISO/IEC 27001:2022 Bilgi Güvenliği Yönetim Sistemi Baş Denetçi Eğitimi
+Sigmacert Global
+ISO
+Bilgi güvenliği
+Deneyim 2012 – 2014
+Senior Developer
+Mor Medya
+Yazılım geliştirme.
+Yazılım
+Deneyim 2010 – 2012
+Software Developer
+Cemre Teknoloji
+Yazılım geliştirme.
+Yazılım
+Deneyim 2006 – 2007
+Grafik tasarımcı
+Emre Carpet Design
+Grafik tasarım.
+Tasarım
+
+---
+
+## Hizmetlerim
+https://sevgane.com/tr/services/
+
+Web geliştirme, mobil uygulama, yapay zeka, backend, DevOps, bilgi güvenliği, IT danışmanlık ve pazaryeri entegrasyonu hizmetleri.
+
+Hizmetlerim
+Hizmetlerim
+2014'ten beri Webyapar Yazılım ve Danışmanlık çatısı altında verdiğim hizmetler aşağıda özetlenmiştir. Her hizmetin sayfasında ne yaptığımı ve hangi teknolojilerle çalıştığımı bulabilirsiniz.
+Alanlar
+Web Geliştirme — 200'den fazla kurumsal web sitesi
+Mobil Uygulama Geliştirme — 10'dan fazla uygulama
+Yapay Zeka Çözümleri — AI agent, LLM RAG, ince ayar
+Backend ve Sistem Mimarisi
+DevOps ve Altyapı
+Bilgi Güvenliği ve ISO 27001
+IT Danışmanlık
+Pazaryeri Entegrasyonları — 3'ten fazla entegrasyon
+Hizmetlerin hepsi aynı ilkeyle yürür: ihtiyacı netleştirmek, güvenliği baştan düşünmek ve teslim sonrasında da sürdürülebilir bir yapı bırakmak. Küçük bir kurumsal tanıtım sitesinden çok katmanlı bir entegrasyon projesine kadar kapsamı birlikte belirleriz.
+İhtiyacınız bu listede tam yer almıyorsa da yazın; birlikte uygun bir yol bulabiliriz. WhatsApp (+90 531 679 10 14) üzerinden ulaşabilirsiniz.
+Nasıl ilerlerim?
+Ücretsiz bir ön görüşmede ihtiyacı ve hedefi birlikte netleştiririz.
+Kapsam, süre ve teslimler yazılı hâle getirilir; belirsiz maddeler baştan konuşulur.
+Geliştirme aşamalı ilerler, her aşamada çalışan sonucu görürsünüz.
+Yayına alma sonrasında bakım, güncelleme ve güvenlik ihtiyacı için destek planlanır.
+Hizmetlerimin hiçbiri hazır paket değildir; her projede ihtiyaca göre teknoloji ve yöntem seçilir. Referans ve geçmiş çalışmalar hakkında bilgi için doğrudan yazmanız yeterlidir.
+
+---
+
+## Sertifikalar
+https://sevgane.com/tr/sertifikalar/
+
+Eğitim ve sertifikalar: ISO 27001, 42001, 9001, 20000-1 baş denetçi eğitimleri; siber güvenlik, etik hacker, adli bilişim ve daha fazlası.
+
+Sertifikalar
+Eğitim ve Sertifikalar
+Aşağıdaki liste, katıldığım eğitimleri kurumlarıyla ve tarihleriyle özetler. Belge numaraları ve kişisel bilgiler bu sayfada yayınlanmaz; doğrulama için ilgili kuruma başvurulabilir.
+Yönetim sistemleri baş denetçi eğitimleri (2025)
+ISO/IEC 27001:2022 Bilgi Güvenliği Yönetim Sistemi Baş Denetçi Eğitimi — Sigmacert Global, Mart 2025
+ISO/IEC 42001:2023 Yapay Zeka Yönetim Sistemi Baş Denetçi Eğitimi — Sigmacert Global, Haziran 2025
+ISO 9001:2015 Kalite Yönetim Sistemi Baş Denetçi Eğitimi — Sigmacert Global, Haziran 2025
+ISO/IEC 20000-1:2018 Bilgi Teknolojileri Hizmet Yönetim Sistemi Baş Denetçilik Eğitimi (120 saat) — Mudanya Üniversitesi Sürekli Eğitim Uygulama ve Araştırma Merkezi, Eylül 2025
+ISO/IEC 17021-1:2015 yönetim sistemleri tetkik ve belgelendirme kuruluşları için şartlar eğitimi, Temmuz 2025; Zorunlu Dokümanlar Eğitimi, Ağustos 2025
+Siber güvenlik ve adli bilişim (2025)
+Siber Güvenlik Uzmanlığı Eğitimi (180 saat) — Türk Hava Kurumu Üniversitesi Sürekli Eğitim Uygulama ve Araştırma Merkezi
+Etik / Beyaz Şapkalı Hacker Uzmanlığı (180 saat) — Türk Hava Kurumu Üniversitesi
+Siber Suçlar Uzmanlığı (180 saat) — Türk Hava Kurumu Üniversitesi
+Adli Bilişim Uzmanlığı Sertifika Eğitimi (100 saat) — Fırat Üniversitesi Sürekli Eğitim Merkezi, Nisan–Haziran 2025
+Temel Bilirkişilik — Ankara Medipol Üniversitesi, 2025
+Diğer eğitimler (2025)
+Python Programlama Temel Seviye Eğitimi (120 saat)
+Eğiticinin Eğitimi (40 saat)
+Grafoloji (İmza ve Yazı İnceleme) Eğitimi (80 saat)
+Gaziantep Ticaret Odası eğitimleri
+2023: Yeni Yöntemlerle Satış Pazarlama Teknikleri; Dış Ticaret İngilizce
+2022: Mikro İş Oyunları
+2019: Marka Yönetimi ve Pazarlamada Markanın Önemi; Etkili Sunum Teknikleri
+2017: Pazarlama Stratejileri ve Müşteri İlişkileri Yönetimi; Diksiyon, Etkili Konuşma ve Topluluğa Hitabet
+Bu eğitimler baş denetçi eğitimi ve katılım belgeleridir; kurum adına verilmiş bir belgelendirme anlamına gelmez. Tüm çalışma geçmişi için Özgeçmiş sayfasına bakınız.
+
+---
+
+## Kurumsal
+https://sevgane.com/tr/hakkimizda/
+
+Kurumsal bilgiler: hakkımda, misyon, vizyon, kalite politikası, gizlilik, kişisel veriler, kullanıcı hakları, yasal uyarı ve çerez politikası.
+
+Hakkımızda
+Yunus Sevğane
+Gaziantep merkezli bir yazılım geliştiriciyim. Yeni teknolojilere hızla uyum sağlayan, web, mobil ve yapay zeka alanlarında ölçeklenebilir ve verimli çözümler geliştiren bir yaklaşımı benimserim; sürekli öğrenmeyi ve yenilikçi yöntemleri işimin parçası olarak görürüm.
+Frontend, backend, DevOps ve yapay zeka geliştirme süreçlerinde sağlam yazılım geliştirme ilkelerini uygularım. 2025 itibarıyla siber güvenlik, etik hacker, adli bilişim ve ISO yönetim sistemleri denetçiliği alanlarında aldığım eğitimlerle bu bakışı bilgi güvenliği tarafına da taşıdım.
+Çalışma hayatım
+2014 – günümüz: Webyapar Yazılım ve Danışmanlık (kendi şirketim) — Senior Engineering Manager
+2012 – 2014: Mor Medya — Senior Developer
+2010 – 2012: Cemre Teknoloji — Software Developer
+2006 – 2007: Emre Carpet Design — Grafik tasarımcı
+Webyapar Yazılım ve Danışmanlık çatısı altında 200'den fazla kurumsal web sitesi, 3'ten fazla pazaryeri entegrasyonu ve 10'dan fazla mobil uygulama geliştirdim. Birçok özel projede altyapı geliştirme ve ekip kurma sorumluluğu aldım.
+Uzmanlık alanlarım
+Proje yönetimi ve full stack DevOps
+Penetrasyon testi, siber güvenlik ve adli bilişim
+ISO yönetim sistemleri (27001, 42001, 9001, 20000-1)
+AI agent süreçleri, LLM RAG ve LLM ince ayarı
+Eğitim ve sertifika ayrıntıları için Sertifikalar , çalışma geçmişi için Özgeçmiş sayfasına bakabilirsiniz. Projeniz için WhatsApp (+90 531 679 10 14) üzerinden yazabilirsiniz.
+
+---
+
+## İletişim
+https://sevgane.com/tr/iletisim/
+
+Yunus Sevğane ile iletişim: WhatsApp (+90 531 679 10 14) ve iletişim formu.
+
+İletişim
+İletişim bilgileri
+En hızlı ulaşım yolu WhatsApp'tır. Merak ettiğiniz bir konu varsa doğrudan yazabilirsiniz.
+Adres Gaziantep, Türkiye
+Telefon +90 531 679 10 14
+Yanıt Mesajlarınıza WhatsApp üzerinden dönüş yapılır.
+Haritada gör
+Bizi takip edin
+GitHub LinkedIn Instagram X
+Mesaj Gönderin
+Ad Soyad
+E-posta
+Telefon (isteğe bağlı)
+Konu Konu seçin Web sitesi Mobil uygulama Yapay zeka Bilgi güvenliği / ISO Diğer
+Mesajınız
+Kişisel verilerimin iletişim amacıyla işlenmesine ilişkin aydınlatma metnini okudum, onaylıyorum. Aydınlatma metni
+
+---
+
+## Hakkımızda
+https://sevgane.com/tr/hakkimizda/
+
+Yunus Sevğane kimdir?
+
+Hakkımızda
+Yunus Sevğane
+Gaziantep merkezli bir yazılım geliştiriciyim. Yeni teknolojilere hızla uyum sağlayan, web, mobil ve yapay zeka alanlarında ölçeklenebilir ve verimli çözümler geliştiren bir yaklaşımı benimserim; sürekli öğrenmeyi ve yenilikçi yöntemleri işimin parçası olarak görürüm.
+Frontend, backend, DevOps ve yapay zeka geliştirme süreçlerinde sağlam yazılım geliştirme ilkelerini uygularım. 2025 itibarıyla siber güvenlik, etik hacker, adli bilişim ve ISO yönetim sistemleri denetçiliği alanlarında aldığım eğitimlerle bu bakışı bilgi güvenliği tarafına da taşıdım.
+Çalışma hayatım
+2014 – günümüz: Webyapar Yazılım ve Danışmanlık (kendi şirketim) — Senior Engineering Manager
+2012 – 2014: Mor Medya — Senior Developer
+2010 – 2012: Cemre Teknoloji — Software Developer
+2006 – 2007: Emre Carpet Design — Grafik tasarımcı
+Webyapar Yazılım ve Danışmanlık çatısı altında 200'den fazla kurumsal web sitesi, 3'ten fazla pazaryeri entegrasyonu ve 10'dan fazla mobil uygulama geliştirdim. Birçok özel projede altyapı geliştirme ve ekip kurma sorumluluğu aldım.
+Uzmanlık alanlarım
+Proje yönetimi ve full stack DevOps
+Penetrasyon testi, siber güvenlik ve adli bilişim
+ISO yönetim sistemleri (27001, 42001, 9001, 20000-1)
+AI agent süreçleri, LLM RAG ve LLM ince ayarı
+Eğitim ve sertifika ayrıntıları için Sertifikalar , çalışma geçmişi için Özgeçmiş sayfasına bakabilirsiniz. Projeniz için WhatsApp (+90 531 679 10 14) üzerinden yazabilirsiniz.
+
+---
+
+## Misyon
+https://sevgane.com/tr/misyon/
+
+Misyonum: web, mobil ve yapay zeka alanlarında ölçeklenebilir, verimli ve güvenli yazılım çözümleri üreterek müşterilerimin işini dijitalde güçlendirmek.
+
+Misyon
+Misyonum
+Misyonum; web, mobil ve yapay zeka alanlarında ölçeklenebilir ve verimli çözümler geliştirerek müşterilerimin işini dijitalde güçlendirmektir. Her projede önce ihtiyacı anlar, sonra en sade ve sürdürülebilir çözümü kurarım.
+Yazılımı yalnızca çalışan bir ürün olarak değil; güvenli, bakımı yapılabilir ve zamanla büyüyebilen bir sistem olarak ele alırım. Bu yüzden bilgi güvenliği ve kalite yönetimi ilkelerini geliştirme sürecinin başından itibaren hesaba katarım.
+Çalışma ilkelerim
+Öğrenmeye açık olmak: yeni teknolojileri hızla öğrenip projeye uygun olanı seçmek
+Güvenlik ve veri korumayı tasarımın bir parçası saymak
+Açık iletişim: kapsamı, süreci ve teslimleri baştan netleştirmek
+Ölçeklenebilir ve bakımı kolay mimari kurmak
+Yirmi yıla yakın deneyimim boyunca edindiğim bu yaklaşımı, ISO 27001 bilgi güvenliği yönetim sistemi ilkelerine uygun projeler yürüterek sürdürüyorum.
+Misyonum doğrultusunda bir proje fikriniz varsa WhatsApp (+90 531 679 10 14) üzerinden kısaca anlatmanız yeterli.
+
+---
+
+## Vizyon
+https://sevgane.com/tr/vizyon/
+
+Vizyonum: yazılım geliştirme ile bilgi güvenliğini birlikte düşünen, güvenilir ve tercih edilen bir profesyonel olmak; yapay zekada öncü çözümler üretmek.
+
+Vizyon
+Vizyonum
+Vizyonum; yazılım geliştirme ile bilgi güvenliğini birlikte düşünen, güvenilir ve tercih edilen bir profesyonel olmaktır. Web ve mobil çözümlerin yanında yapay zeka ve güvenlik alanındaki gelişmeleri yakından izleyerek müşterilerime bugünün ve yarının ihtiyacına uygun çözümler sunmayı hedefliyorum.
+Yapay zeka destekli uygulamalar, AI agent süreçleri ve LLM tabanlı sistemler işletmelerin çalışma biçimini hızla değiştiriyor. Bu dönüşümü, güvenlik ve yönetim sistemleri bakışıyla birlikte ele alan çözümler üretmek istiyorum.
+Önümdeki hedefler
+Yapay zeka ve otomasyon alanındaki bilgi birikimimi gerçek projelere dönüştürmek
+Bilgi güvenliği ve ISO yönetim sistemleri alanındaki yetkinliğimi derinleştirmek
+Gaziantep'ten Türkiye geneline ve uzaktan çalışarak daha geniş bir müşteri kitlesine hizmet vermek
+Sürekli öğrenme benim için bir tercih değil, mesleğin gereği; bu nedenle her yıl yeni bir uzmanlık alanında eğitim almayı sürdürüyorum.
+Birlikte çalışmak için WhatsApp (+90 531 679 10 14) üzerinden yazabilirsiniz.
+
+---
+
+## Kalite Politikamız
+https://sevgane.com/tr/kalite-politikamiz/
+
+Kalite politikam: müşteri odaklılık, süreç yaklaşımı ve sürekli iyileştirme; ISO 9001:2015 baş denetçi eğitimi ilkeleri.
+
+Kalite Politikamız
+Kalite Politikamız
+Hizmetlerimi; müşteri ihtiyacını doğru anlamaya, işi planlı ve izlenebilir yürütmeye ve her teslimden sonra öğrenip iyileştirmeye dayalı bir kalite anlayışıyla sunarım. Bu anlayışın dayanağı, 2025'te Sigmacert Global'den aldığım ISO 9001:2015 Kalite Yönetim Sistemi Baş Denetçi Eğitimi'dir.
+Aşağıdaki ilkeler, kendi çalışma düzenimde referans aldığım kalite yönetimi ilkeleridir. Bu sayfa, Webyapar Yazılım ve Danışmanlık için alınmış bir ISO 9001 belgelendirmesi iddiası taşımaz; yalnızca çalışma biçimimi açıklar.
+İlkelerim
+Müşteri odağı: beklentiyi baştan yazılı netleştirmek, geri bildirimi işin parçası saymak
+Süreç yaklaşımı: analiz, geliştirme, test ve teslim adımlarını tanımlı yürütmek
+Risk temelli düşünme: güvenlik ve süreklilik risklerini projenin başında ele almak
+Sürekli iyileştirme: her proje sonunda yöntemi ve araçları gözden geçirmek
+Memnuniyetsizlik, şikâyet ya da iyileştirme önerilerinizi WhatsApp (+90 531 679 10 14) veya iletişim formu üzerinden iletebilirsiniz; her bildirimi inceler ve dönüş yaparım.
+
+---
+
+## Gizlilik Politikası
+https://sevgane.com/tr/gizlilik-politikasi/
+
+sevgane.com gizlilik politikası: Yunus Sevğane tarafından hangi verilerin işlendiği, hangi amaçla kullanıldığı, ne kadar saklandığı ve nasıl korunduğu.
+
+Gizlilik Politikası
+Gizlilik Politikası
+Bu politika, Yunus Sevğane (Webyapar Yazılım ve Danışmanlık) tarafından işletilen https://sevgane.com sitesini ziyaret ettiğinizde hangi verilerin işlendiğini, hangi amaçla kullanıldığını ve nasıl korunduğunu açıklar. Veri sorumlusu Yunus Sevğane'dir.
+Hangi veriler işlenir?
+Teknik erişim verileri: siteyi barındıran altyapı, güvenlik ve işleyiş için IP adresi, tarayıcı türü ve erişim zamanı gibi kayıtları tutabilir.
+İletişim verileri: iletişim formunu doldurup WhatsApp ile gönderdiğinizde ya da doğrudan WhatsApp'tan yazdığınızda paylaştığınız ad, telefon ve mesaj içeriği.
+Çerez tercihleriniz: çerez bildiriminde yaptığınız seçim, tarayıcınızda saklanır.
+Verileri hangi amaçla kullanırım?
+Verileriniz yalnızca sorularınızı yanıtlamak, teklif ve proje görüşmelerini yürütmek, sitenin güvenliğini sağlamak ve yasal yükümlülükleri yerine getirmek için kullanılır. Verileriniz satılmaz; yasal bir zorunluluk olmadıkça üçüncü kişilerle paylaşılmaz.
+Sitedeki iletişim formu bir sunucuda saklanmaz: gönder düğmesi sizi mesajı hazır hâlde WhatsApp'a yönlendirir ve mesajı siz gönderirsiniz. WhatsApp üzerindeki işleme, WhatsApp'ın kendi gizlilik koşullarına tabidir.
+Saklama ve güvenlik
+Yazışmalar, görüşme amacı sürdüğü ve yasal saklama süreleri gerektirdiği kadar tutulur; ardından silinir ya da anonim hâle getirilir. Verilerin korunması için makul teknik ve idari tedbirler uygulanır. Haklarınız için Kullanıcı Hakları , ayrıntılı aydınlatma için Kişisel Veriler sayfalarına bakabilirsiniz.
+Başvuru ve sorularınız için WhatsApp (+90 531 679 10 14) üzerinden ya da iletişim formu aracılığıyla bana ulaşabilirsiniz.
+
+---
+
+## Kişisel Veriler
+https://sevgane.com/tr/kisisel-veriler/
+
+6698 sayılı KVKK kapsamında aydınlatma metni: veri sorumlusu Yunus Sevğane, işlenen kişisel veriler, amaçlar, hukuki sebepler ve veri aktarımı.
+
+Kişisel Veriler
+Kişisel Verilerin Korunması ve Aydınlatma Metni
+Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu'nun 10. maddesi kapsamında sevgane.com ziyaretçilerini ve benimle iletişime geçen kişileri bilgilendirmek amacıyla hazırlanmıştır.
+Veri sorumlusu
+Veri sorumlusu Yunus Sevğane'dir (Webyapar Yazılım ve Danışmanlık, Gaziantep). İletişim kanalları: WhatsApp (+90 531 679 10 14) ve sitedeki iletişim formu .
+İşlenen kişisel veriler ve amaçlar
+Kimlik ve iletişim: ad soyad, telefon numarası, paylaştığınız e-posta — sorularınızı yanıtlamak ve teklif görüşmesi yürütmek için
+Talep içeriği: mesajınızda yazdığınız proje ve ihtiyaç bilgileri — talebinizi değerlendirmek için
+İşlem güvenliği: IP adresi ve erişim kayıtları — sitenin güvenliği ve işleyişi için
+Hukuki sebep ve aktarım
+Veriler; sözleşme öncesi talebinizin yürütülmesi, hukuki yükümlülüğün yerine getirilmesi, meşru menfaat ve gerektiğinde açık rızanız hukuki sebeplerine dayanılarak işlenir. Yasal zorunluluk dışında üçüncü kişilere aktarılmaz; WhatsApp üzerinden yaptığınız yazışmalar WhatsApp'ın kendi koşullarına tabidir.
+Toplama yöntemi ve haklarınız
+Veriler, siteyi ziyaretiniz, iletişim formu ve WhatsApp yazışması yoluyla elektronik ortamda toplanır. KVKK'nın 11. maddesi uyarınca sahip olduğunuz haklar Kullanıcı Hakları sayfasında açıklanmıştır.
+Başvuru ve sorularınız için WhatsApp (+90 531 679 10 14) üzerinden ya da iletişim formu aracılığıyla bana ulaşabilirsiniz.
+
+---
+
+## Kullanıcı Hakları
+https://sevgane.com/tr/kullanici-haklari/
+
+KVKK 11.
+
+Kullanıcı Hakları
+Kullanıcı Hakları
+6698 sayılı Kanun'un 11. maddesi uyarınca kişisel verisi işlenen herkes, veri sorumlusu olan Yunus Sevğane'ye başvurarak aşağıdaki haklarını kullanabilir.
+Haklarınız
+Kişisel verinizin işlenip işlenmediğini öğrenme
+İşlenmişse buna ilişkin bilgi talep etme
+İşlenme amacını ve amaca uygun kullanılıp kullanılmadığını öğrenme
+Yurt içinde veya yurt dışında aktarıldığı üçüncü kişileri bilme
+Eksik ya da yanlış işlenmişse düzeltilmesini isteme
+Kanun'daki şartlar çerçevesinde silinmesini veya yok edilmesini isteme
+Düzeltme, silme ve yok etme işlemlerinin aktarılan üçüncü kişilere bildirilmesini isteme
+İşlenen verilerin yalnızca otomatik sistemlerle analiz edilmesi sonucu aleyhinize bir sonuç çıkmasına itiraz etme
+Kanuna aykırı işleme nedeniyle zarara uğramanız hâlinde zararın giderilmesini talep etme
+Başvuru yolu
+Başvurunuzda kimliğinizi ve talebinizi açıkça belirtmeniz gerekir. Başvurular WhatsApp (+90 531 679 10 14) ya da iletişim formu üzerinden alınır. Talebiniz, niteliğine göre en geç otuz gün içinde yanıtlanır.
+Yanıtımızdan memnun kalmazsanız Kanun kapsamında Kişisel Verileri Koruma Kurulu'na şikâyette bulunma hakkınız saklıdır. Ayrıntılı bilgi için Kişisel Veriler ve Gizlilik Politikası sayfalarına bakabilirsiniz.
+
+---
+
+## Yasal Uyarı
+https://sevgane.com/tr/yasal-uyari/
+
+sevgane.com yasal uyarı: kullanım koşulları, fikri mülkiyet hakları, üçüncü taraf bağlantılar ve sorumluluk sınırları hakkında bilgilendirme.
+
+Yasal Uyarı
+Yasal Uyarı
+sevgane.com sitesine erişerek bu koşulları kabul etmiş sayılırsınız. Site, Yunus Sevğane (Webyapar Yazılım ve Danışmanlık) tarafından bilgilendirme amacıyla yayınlanır.
+Fikri mülkiyet
+Sitedeki metin, tasarım, logo ve görseller Yunus Sevğane'ye aittir ve 5846 sayılı Fikir ve Sanat Eserleri Kanunu kapsamında korunur. İzin alınmadan kopyalanamaz, çoğaltılamaz veya ticari amaçla kullanılamaz.
+Sorumluluk sınırı
+İçerik bilgilendirme amaçlıdır; doğruluğu ve güncelliği için özen gösterilir ancak hata ya da eksiksizlik garantisi verilmez.
+Sitede yer alan üçüncü taraf bağlantılarının (WhatsApp, GitHub, LinkedIn, Instagram, X) içeriğinden ilgili platformlar sorumludur.
+Eğitim ve sertifika bilgileri, ilgili kurumların belgelerine göre özetlenmiştir; resmî doğrulama için ilgili kuruma başvurulmalıdır.
+Bu metin zaman zaman güncellenebilir; geçerli sürüm bu sayfadadır. İlgili mevzuat için Gizlilik Politikası ve Çerez Politikası sayfalarına da bakabilirsiniz.
+Sorularınız için WhatsApp (+90 531 679 10 14) ya da iletişim formu kullanılabilir.
+
+---
+
+## Çerez Politikası
+https://sevgane.com/tr/cerez-politikasi/
+
+Bu politika, Yunus Sevğane (Webyapar Yazılım ve Danışmanlık) tarafından işletilen https://sevgane.com internet sitesinde kullanılan çerezleri, bunların…
+
+Çerez Politikası
+Çerez Politikası
+Bu politika, Yunus Sevğane (Webyapar Yazılım ve Danışmanlık) tarafından işletilen https://sevgane.com internet sitesinde kullanılan çerezleri, bunların hangi amaçlarla kullanıldığını ve tercihlerinizi nasıl yönetebileceğinizi açıklar. Çerezler aracılığıyla elde edilen kişisel veriler 6698 sayılı Kişisel Verilerin Korunması Kanunu’na uygun olarak işlenir.
+Çerez nedir?
+Çerezler, bir internet sitesini ziyaret ettiğinizde tarayıcınız aracılığıyla cihazınıza kaydedilen küçük metin dosyalarıdır. Oturumunuzun sürdürülmesi, tercihlerinizin hatırlanması ve sitenin nasıl kullanıldığının anlaşılması gibi amaçlara hizmet eder. Çerezler, tarayıcı kapatıldığında silinen oturum çerezleri veya belirli bir süre cihazda kalan kalıcı çerezler olabilir.
+Kullandığımız çerez türleri
+Sitemizde aşağıdaki kategorilerde çerezler kullanılabilir:
+Zorunlu çerezler: Sitenin temel işlevlerinin, güvenliğin ve oturumun sağlanması için gereklidir; devre dışı bırakılmaları sitenin çalışmasını engelleyebilir.
+İşlevsel çerezler: Dil, bölge veya görünüm gibi tercihlerinizi hatırlayarak daha kişisel bir deneyim sunar.
+Analitik çerezler: Ziyaretçilerin siteyi nasıl kullandığını toplu olarak ölçerek sitenin iyileştirilmesine yardımcı olur.
+Pazarlama çerezleri: İlgi alanlarınıza uygun içerik ve reklamların gösterilmesi amacıyla kullanılır.
+Onay ve tercihlerin yönetimi
+Zorunlu çerezler dışındaki çerezler yalnızca açık rızanız alınarak kullanılır. Sitemizi ilk ziyaretinizde gösterilen çerez bildirimi üzerinden tercihlerinizi belirleyebilir, verdiğiniz onayı dilediğiniz zaman geri alabilirsiniz.
+Ayrıca tarayıcınızın ayarlar bölümündeki gizlilik veya site verileri seçenekleri aracılığıyla çerezleri görüntüleyebilir, silebilir ya da engelleyebilirsiniz. Çerezleri tamamen engellemeniz hâlinde sitenin bazı bölümleri beklendiği gibi çalışmayabilir.
+Haklarınız
+Çerezler aracılığıyla işlenen kişisel verilerinize ilişkin olarak Kanun’un 11. maddesindeki haklarınızı kullanmak için +90 531 679 10 14 numaralı telefon hattımız üzerinden başvurabilirsiniz.
+Son güncelleme: 2026-11-02. Kullandığımız çerezlerde değişiklik olduğunda bu politika güncellenir.
+
+---
+
+## Web Geliştirme
+https://sevgane.com/tr/web-gelistirme/
+
+200'den fazla kurumsal web sitesi geliştirme deneyimi: HTML, CSS, JavaScript, Node.js ve ASP ile hızlı, güvenli ve aramaya uygun web çözümleri.
+
+Web Geliştirme
+Web Geliştirme
+2014'ten beri Webyapar Yazılım ve Danışmanlık çatısı altında 200'den fazla kurumsal web sitesi geliştirdim. Tasarımdan yayına kadar süreci tek elden yürütür; siteyi hızlı, erişilebilir ve arama motorlarına uygun kurarım.
+Neler yapıyorum?
+Kurumsal web sitesi tasarımı ve geliştirmesi
+Frontend arayüz geliştirme (HTML, CSS, JavaScript)
+Node.js ve ASP tabanlı backend ve yönetim panelleri
+Veritabanı bağlantısı, API ve üçüncü taraf entegrasyonları
+Yayına alma, bakım ve güvenlik güncellemeleri
+Kullandığım başlıca teknolojiler: HTML, CSS, JavaScript, Node.js, ASP; veri tarafında MongoDB, Redis, T-SQL ve Firebase.
+Grafik tasarım geçmişim (Adobe Photoshop, Illustrator, XD) sayesinde görsel kimliği ve kullanıcı arayüzünü birlikte ele alabiliyorum.
+Nasıl çalışırım?
+Önce ihtiyacı ve kapsamı yazılı olarak netleştiririm.
+Geliştirmeyi aşamalara bölüp her aşamada çalışan sonucu paylaşırım.
+Teslimde kullanım bilgisini verir, sonraki bakım ihtiyacını birlikte planlarız.
+Bu alanda bir ihtiyacınız varsa WhatsApp (+90 531 679 10 14) üzerinden kısaca yazın; kapsamı birlikte netleştirelim.
+
+---
+
+## Mobil Uygulama Geliştirme
+https://sevgane.com/tr/mobil-uygulama-gelistirme/
+
+10'dan fazla mobil uygulama geliştirme deneyimi: Flutter, React Native, Java ve Swift ile Android ve iOS uygulamaları; backend ve Firebase entegrasyonu.
+
+Mobil Uygulama Geliştirme
+Mobil Uygulama Geliştirme
+10'dan fazla mobil uygulamayı fikirden yayına taşıdım. Hem tek kod tabanlı hem platforma özel geliştirme yapabiliyor, uygulamayı backend ve veri altyapısıyla birlikte kuruyorum.
+Neler yapıyorum?
+Flutter ve React Native ile çapraz platform uygulama geliştirme
+Java (Android) ve Swift (iOS) ile platforma özel çalışma
+Firebase ve kendi API'leriniz ile veri ve kimlik doğrulama entegrasyonu
+Web sitesi ya da yönetim paneliyle uyumlu uygulama mimarisi
+Kullandığım başlıca araçlar: Flutter, React Native, Java, Swift ve Firebase.
+Uygulamanın mağaza süreçleri, sürüm yönetimi ve sonraki bakım adımlarını da proje kapsamında planlarım.
+Nasıl çalışırım?
+Önce ihtiyacı ve kapsamı yazılı olarak netleştiririm.
+Geliştirmeyi aşamalara bölüp her aşamada çalışan sonucu paylaşırım.
+Teslimde kullanım bilgisini verir, sonraki bakım ihtiyacını birlikte planlarız.
+Bu alanda bir ihtiyacınız varsa WhatsApp (+90 531 679 10 14) üzerinden kısaca yazın; kapsamı birlikte netleştirelim.
+
+---
+
+## Yapay Zeka Çözümleri
+https://sevgane.com/tr/yapay-zeka-cozumleri/
+
+AI agent süreçleri, LLM RAG uygulamaları ve LLM ince ayarı; ISO/IEC 42001 baş denetçi eğitimi bakışıyla iş süreçlerine yapay zeka entegrasyonu.
+
+Yapay Zeka Çözümleri
+Yapay Zeka Çözümleri
+Yapay zeka tabanlı çözümler ve sistem entegrasyonları geliştiriyorum. Amacım, yapay zekayı gösteriş için değil iş süreçlerinde ölçülebilir fayda sağlayan bir araç olarak kullanmaktır.
+Neler yapıyorum?
+AI agent süreçlerinin tasarımı ve kurulumu
+LLM RAG: kurum belgelerinden yanıt üreten bilgi tabanlı uygulamalar
+LLM ince ayarı (fine tuning) çalışmaları
+Mevcut web, mobil ve backend sistemlerine yapay zeka entegrasyonu
+Yapay zeka yönetim sistemleri konusunda ISO/IEC 42001:2023 Baş Denetçi Eğitimi aldım; bu sayede çözümleri güvenlik ve yönetişim açısından da değerlendirebiliyorum.
+Veri gizliliği ve yetkilendirme konularını projenin ilk aşamasında ele alırım.
+Nasıl çalışırım?
+Önce ihtiyacı ve kapsamı yazılı olarak netleştiririm.
+Geliştirmeyi aşamalara bölüp her aşamada çalışan sonucu paylaşırım.
+Teslimde kullanım bilgisini verir, sonraki bakım ihtiyacını birlikte planlarız.
+Bu alanda bir ihtiyacınız varsa WhatsApp (+90 531 679 10 14) üzerinden kısaca yazın; kapsamı birlikte netleştirelim.
+
+---
+
+## Backend ve Sistem Mimarisi
+https://sevgane.com/tr/backend-sistem-mimarisi/
+
+Veritabanı yönetimi, sistem mimarisi ve backend çözümleri: Node.js, ASP, MongoDB, Redis ve T-SQL ile ölçeklenebilir ve güvenli altyapı tasarımı.
+
+Backend ve Sistem Mimarisi
+Backend ve Sistem Mimarisi
+Veritabanı yönetimi, sistem mimarisi ve backend çözümleri geliştiriyorum. Ölçeklenebilir ve güvenli altyapıyı, işin büyümesini kaldıracak şekilde baştan tasarlamaya özen gösteririm.
+Neler yapıyorum?
+API ve servis katmanı tasarımı
+Veritabanı modelleme, yönetim ve performans çalışmaları
+Önbellekleme ve oturum yönetimi
+Mevcut sistemlerle entegrasyon ve veri aktarımı
+Kullandığım başlıca teknolojiler: Node.js, ASP, MongoDB, Redis, T-SQL, JSON Server ve Firebase.
+Mimari kararları gerekçeleriyle dokümante eder, devri ve bakımı kolaylaştırırım.
+Nasıl çalışırım?
+Önce ihtiyacı ve kapsamı yazılı olarak netleştiririm.
+Geliştirmeyi aşamalara bölüp her aşamada çalışan sonucu paylaşırım.
+Teslimde kullanım bilgisini verir, sonraki bakım ihtiyacını birlikte planlarız.
+Bu alanda bir ihtiyacınız varsa WhatsApp (+90 531 679 10 14) üzerinden kısaca yazın; kapsamı birlikte netleştirelim.
+
+---
+
+## DevOps ve Altyapı
+https://sevgane.com/tr/devops-altyapi/
+
+Full stack DevOps: uygulamaların yayına alınması, altyapı kurulumu, yedekleme ve sürekli işleyiş; geliştirme ve yayın süreçlerinin birlikte yönetimi.
+
+DevOps ve Altyapı
+DevOps ve Altyapı
+Full stack DevOps yaklaşımıyla geliştirme ile yayına alma süreçlerini birbirinden ayırmadan yürütürüm. Bu, bir sürümün planlı, tekrarlanabilir ve geri alınabilir biçimde yayına çıkması anlamına gelir.
+Neler yapıyorum?
+Uygulamaların yayına alınması ve sürüm süreçleri
+Altyapı kurulumu ve bakım
+Yedekleme, izleme ve süreklilik planlaması
+Geliştirme ve yayın sürecinin güvenlik açısından gözden geçirilmesi
+Altyapı işlerini, aldığım bilgi güvenliği eğitimleri (ISO 27001 baş denetçi eğitimi, siber güvenlik ve etik hacker eğitimleri) ışığında planlarım.
+Her altyapı değişikliğini önce test ortamında denemeyi ilke edinirim.
+Nasıl çalışırım?
+Önce ihtiyacı ve kapsamı yazılı olarak netleştiririm.
+Geliştirmeyi aşamalara bölüp her aşamada çalışan sonucu paylaşırım.
+Teslimde kullanım bilgisini verir, sonraki bakım ihtiyacını birlikte planlarız.
+Bu alanda bir ihtiyacınız varsa WhatsApp (+90 531 679 10 14) üzerinden kısaca yazın; kapsamı birlikte netleştirelim.
+
+---
+
+## Bilgi Güvenliği ve ISO 27001
+https://sevgane.com/tr/bilgi-guvenligi-iso-27001/
+
+Penetrasyon testi, siber güvenlik, adli bilişim ve ISO/IEC 27001:2022 baş denetçi eğitimi ile güvenliği yazılım sürecinin içinde ele alan hizmetler.
+
+Bilgi Güvenliği ve ISO 27001
+Bilgi Güvenliği ve ISO 27001
+Bilgi güvenliğini yazılım geliştirmeden ayrı bir adım olarak değil, sürecin içinde ele alırım. 2025'te bu alanda yoğun eğitim aldım ve ISO 27001 bilgi güvenliği yönetim sistemi ilkelerine uygun projeler yürütüyorum.
+Neler yapıyorum?
+Penetrasyon testi ve güvenlik değerlendirmesi
+Güvenli yazılım geliştirme ilkelerinin uygulanması
+Bilgi güvenliği yönetim sistemi (ISO/IEC 27001:2022) konusunda danışmanlık bakışı
+Adli bilişim: olay sonrası inceleme ve delil bütünlüğü bakışı
+Aldığım eğitimler: ISO/IEC 27001:2022 Baş Denetçi Eğitimi, Siber Güvenlik Uzmanlığı, Etik (Beyaz Şapkalı) Hacker Uzmanlığı, Siber Suçlar Uzmanlığı ve Adli Bilişim Uzmanlığı. Ayrıntılar Sertifikalar sayfasındadır.
+Bu sayfa, kurum için verilmiş bir ISO 27001 belgelendirmesi anlamına gelmez; bireysel eğitim ve uygulama deneyimimi anlatır.
+Nasıl çalışırım?
+Önce ihtiyacı ve kapsamı yazılı olarak netleştiririm.
+Geliştirmeyi aşamalara bölüp her aşamada çalışan sonucu paylaşırım.
+Teslimde kullanım bilgisini verir, sonraki bakım ihtiyacını birlikte planlarız.
+Bu alanda bir ihtiyacınız varsa WhatsApp (+90 531 679 10 14) üzerinden kısaca yazın; kapsamı birlikte netleştirelim.
+
+---
+
+## IT Danışmanlık
+https://sevgane.com/tr/it-danismanlik/
+
+Kurumsal müşterilere yazılım geliştirme ve IT danışmanlık: teknoloji seçimi, proje ve ekip yönetimi, ISO yönetim sistemleri bakış açısı.
+
+IT Danışmanlık
+IT Danışmanlık
+Kurumsal müşterilere yazılım geliştirme ve IT danışmanlık hizmeti veriyorum. Teknoloji seçiminden proje yönetimine kadar karar aşamalarında yanınızda olur, kurulu düzeni de sürdürülebilir hâle getirmeye çalışırım.
+Neler yapıyorum?
+Teknoloji ve mimari seçiminde danışmanlık
+Proje ve ekip yönetimi süreçlerinin yürütülmesi
+Birçok özel projede altyapı kurulumu ve ekip oluşturma
+BT hizmet yönetimi (ISO/IEC 20000-1) ve kalite yönetimi (ISO 9001) bakış açısı
+ISO/IEC 20000-1:2018, 27001:2022, 42001:2023 ve ISO 9001:2015 alanlarında baş denetçi eğitimleri aldım; bu bilgi, süreçleri düzenleme ve denetime hazırlama işlerinde yol göstericidir.
+Danışmanlık öncesi kısa bir ihtiyaç görüşmesiyle kapsamı netleştiririm.
+Nasıl çalışırım?
+Önce ihtiyacı ve kapsamı yazılı olarak netleştiririm.
+Geliştirmeyi aşamalara bölüp her aşamada çalışan sonucu paylaşırım.
+Teslimde kullanım bilgisini verir, sonraki bakım ihtiyacını birlikte planlarız.
+Bu alanda bir ihtiyacınız varsa WhatsApp (+90 531 679 10 14) üzerinden kısaca yazın; kapsamı birlikte netleştirelim.
+
+---
+
+## Pazaryeri Entegrasyonları
+https://sevgane.com/tr/pazaryeri-entegrasyonlari/
+
+3'ten fazla pazaryeri entegrasyonu deneyimi: ürün, stok, fiyat ve sipariş akışlarının pazaryerleri ile kendi sisteminiz arasında düzenli akışı.
+
+Pazaryeri Entegrasyonları
+Pazaryeri Entegrasyonları
+Webyapar Yazılım ve Danışmanlık çatısı altında 3'ten fazla pazaryeri entegrasyonu gerçekleştirdim. Ürün, stok, fiyat ve sipariş bilgilerinin pazaryeri ile kendi sisteminiz arasında düzenli akmasını sağlarım.
+Neler yapıyorum?
+Pazaryeri API'leri ile ürün, stok ve fiyat aktarımı
+Sipariş ve kargo bilgisinin kendi sisteminize alınması
+Hata, yeniden deneme ve kayıt (log) mekanizmaları
+Mevcut e-ticaret ya da yönetim panelinizle uyumlu entegrasyon tasarımı
+Entegrasyonlarda backend tarafında Node.js ve ASP, veri tarafında MongoDB, Redis ve T-SQL kullanıyorum.
+Her pazaryerinin kural ve sınırları farklıdır; kapsamı ve süreyi ihtiyacınız netleştikten sonra paylaşırım.
+Nasıl çalışırım?
+Önce ihtiyacı ve kapsamı yazılı olarak netleştiririm.
+Geliştirmeyi aşamalara bölüp her aşamada çalışan sonucu paylaşırım.
+Teslimde kullanım bilgisini verir, sonraki bakım ihtiyacını birlikte planlarız.
+Bu alanda bir ihtiyacınız varsa WhatsApp (+90 531 679 10 14) üzerinden kısaca yazın; kapsamı birlikte netleştirelim.

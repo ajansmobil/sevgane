@@ -1,7 +1,9 @@
 {
   "data": [
     {
-      "name": "Sayfalar",
+      "name": {
+        "tr": "Sayfalar"
+      },
       "path": "page",
       "desc": [],
       "data": [],
@@ -22,7 +24,9 @@
       "activeclass": "buttonGreen"
     },
     {
-      "name": "Kurumsal",
+      "name": {
+        "tr": "Kurumsal"
+      },
       "path": "kurumsal",
       "desc": [],
       "data": [],
@@ -36,10 +40,17 @@
       },
       "active": true,
       "activeicon": "pause",
-      "activeclass": "buttonGreen"
+      "activeclass": "buttonGreen",
+      "modulestatus": {
+        "page": true,
+        "body": true,
+        "detail": true
+      }
     },
     {
-      "name": "Hizmetler",
+      "name": {
+        "tr": "Hizmetler"
+      },
       "path": "services",
       "desc": [],
       "data": [],

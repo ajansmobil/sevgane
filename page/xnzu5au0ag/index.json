@@ -7,28 +7,26 @@
   "id": "xnzu5au0ag",
   "url": "",
   "path": "iletisim",
-  "index": 2,
+  "index": 4,
   "icon": "home",
   "desing": {
     "header": [],
     "body": [
-      "fhxr98"
+      "tp5jo4",
+      "9tyvhx"
     ],
     "footer": []
   },
   "pathnext": "",
   "description": {
-    "tr": "Bizimle iletişime geçin. Projeniz için ücretsiz danışmanlık alın."
+    "tr": "Yunus Sevğane ile iletişim: WhatsApp (+90 531 679 10 14) ve iletişim formu. Web, mobil, yapay zeka ve bilgi güvenliği projeleri için yazın."
   },
   "keyword": {
-    "tr": "iletişim, telefon, email, adres, sosyal medya, GitHub, LinkedIn, Gaziantep, yunus@webyapar.com"
+    "tr": "iletişim, WhatsApp, Yunus Sevğane, Gaziantep, yazılım geliştirici"
   },
-  "text": {
-    "tr": "<h2 style=\"font-size: 24px;\">İletişim</h2><p style=\"font-size: 16px;\">Projeleriniz için benimle iletişime geçebilirsiniz. Telefon, email ve sosyal medya hesaplarım üzerinden bana ulaşabilirsiniz.</p>"
-  },
-  "update": "2026-05-04T02:23:44.988Z",
+  "update": "2026-11-02T09:03:49.532Z",
   "date": "2025-12-13T03:26:52.490Z",
   "title": {
-    "tr": "İletişim"
+    "tr": "İletişim — Yunus Sevğane | WhatsApp ile yazın"
   }
 }
