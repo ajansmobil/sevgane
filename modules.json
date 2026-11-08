@@ -8,10 +8,10 @@
       "category": "menu",
       "id": "vey1el",
       "desing": {
-        "bgcolor": "#1e3046",
-        "color": "#ffffff",
-        "activebgcolor": "#ffffff",
-        "activecolor": "#000000",
+        "bgcolor": "#0B1220",
+        "color": "#E9EDF5",
+        "activebgcolor": "#E3B65C",
+        "activecolor": "#0B1220",
         "height": "100px",
         "ariaToggle": {
           "tr": "Menüyü aç/kapat",
@@ -23,7 +23,7 @@
           "en": "Close menu"
         },
         "logobg": "#ffffff",
-        "logoborder": "1px solid rgba(30,48,70,0.18)",
+        "logoborder": "1px solid rgba(233,237,245,0.18)",
         "logoradius": "14px",
         "logopad": "4px 16px",
         "logopadmobil": "4px 10px",
@@ -66,14 +66,14 @@
       "category": "contact",
       "id": "fhxr98",
       "desing": {
-        "color": "#1e3046",
+        "color": "var(--mx-site-text)",
         "name": {
           "tr": "Bize Ulaşın",
           "en": "Contact"
         },
         "margin": "30px 0px 30px 0px",
         "stil": "",
-        "linkcolor": "#1B3A6B"
+        "linkcolor": "var(--mx-site-primary)"
       },
       "data": [
         {
@@ -106,7 +106,7 @@
         "height": "200",
         "opacity": "0.5",
         "backgroundcolor": "#ffffff",
-        "color": "#1e3046",
+        "color": "var(--mx-site-text)",
         "img": "map.png",
         "externalUrl": "",
         "stil": "",
@@ -143,9 +143,9 @@
         "height": "200",
         "opacity": "0.5",
         "font-size": "32",
-        "backgroundcolor": "#1e3046",
+        "backgroundcolor": "var(--mx-site-surface)",
         "menu-active": "var(--mx-site-primary)",
-        "textcolor": "#ffffff",
+        "textcolor": "var(--mx-site-text)",
         "stil": "",
         "activetext": "var(--mx-site-primary-contrast)",
         "bgcolor": "var(--mx-site-surface)",
@@ -207,8 +207,8 @@
       "category": "footer",
       "id": "txt39m",
       "desing": {
-        "bgcolor": "#1e3046",
-        "color": "#fff",
+        "bgcolor": "#080E1A",
+        "color": "#E9EDF5",
         "img": "",
         "imgwidth": "250px",
         "stil": "",
@@ -231,13 +231,13 @@
       "id": "z51zay",
       "desing": {
         "page": "services",
-        "bgcolor": "#1e3046",
-        "color": "#fff",
+        "bgcolor": "var(--mx-site-surface)",
+        "color": "var(--mx-site-text)",
         "height": "200px",
         "font-size": "18px",
         "opacity": "0.5",
-        "chilebgcolor": "#000",
-        "chilecolor": "#fff",
+        "chilebgcolor": "var(--mx-site-surface-2)",
+        "chilecolor": "var(--mx-site-text)",
         "chilesize": "16px"
       }
     },
@@ -247,8 +247,8 @@
         "height": "100",
         "opacity": "0.5",
         "font-size": "50",
-        "backgroundcolor": "#000",
-        "textcolor": "#fff",
+        "backgroundcolor": "var(--mx-site-surface)",
+        "textcolor": "var(--mx-site-text)",
         "category": "page"
       },
       "category": "page",
@@ -268,11 +268,11 @@
       "name": "Hero 2 (Ortalanmış)",
       "desing": {
         "max": "1200px",
-        "gradient": "linear-gradient(150deg, #0f1c2b 0%, #1e3046 55%, #2a4560 100%)",
-        "glow1": "rgba(148, 166, 190, 0.30)",
-        "glow2": "rgba(125, 125, 153, 0.30)",
-        "btnbg": "#ffffff",
-        "btncolor": "#1e3046",
+        "gradient": "radial-gradient(900px 480px at 86% -8%, rgba(227,182,92,0.15), transparent 62%), radial-gradient(760px 460px at 0% 108%, rgba(64,96,170,0.24), transparent 62%), #0B1220",
+        "glow1": "rgba(0,0,0,0)",
+        "glow2": "rgba(0,0,0,0)",
+        "btnbg": "#E3B65C",
+        "btncolor": "#0B1220",
         "badge": {
           "tr": "Yazılım kökenli Proje Yöneticisi",
           "en": "Project Manager with a software engineering background"
@@ -316,9 +316,9 @@
       "desing": {
         "stil": "",
         "max": "1200px",
-        "gradient": "linear-gradient(135deg, #1e3046 0%, #2a4560 100%)",
-        "numbercolor": "#c9d6e6",
-        "labelcolor": "#e2e8f0",
+        "gradient": "linear-gradient(180deg, #0E1830 0%, #0B1220 100%)",
+        "numbercolor": "#E3B65C",
+        "labelcolor": "#A9B4C8",
         "iconsize": "56px",
         "iconbox": "88px"
       },
@@ -554,8 +554,8 @@
             "en": "Remote work"
           },
           "description": {
-            "tr": "Kanada, Dubai (BAE), Almanya ve İngiltere'deki projelerde uzaktan çalıştım.",
-            "en": "I have worked remotely on projects in Canada, Dubai (UAE), Germany and the United Kingdom."
+            "tr": "Kanada, Dubai (BAE) ve Almanya'daki projelerde uzaktan çalıştım.",
+            "en": "I have worked remotely on projects in Canada, Dubai (UAE) and Germany."
           }
         }
       ],
@@ -578,9 +578,9 @@
       "desing": {
         "stil": "",
         "max": "1200px",
-        "gradient": "linear-gradient(135deg, #1e3046 0%, #2a4560 100%)",
-        "btnbg": "#ffffff",
-        "btncolor": "#1e3046",
+        "gradient": "radial-gradient(800px 360px at 100% 0%, rgba(227,182,92,0.13), transparent 62%), linear-gradient(135deg, #14213A 0%, #0F1A30 100%)",
+        "btnbg": "#E3B65C",
+        "btncolor": "#0B1220",
         "title": {
           "tr": "AI projeniz için konuşalım",
           "en": "Let's talk about your AI project"
@@ -1016,8 +1016,8 @@
         "height": "100",
         "opacity": "0.5",
         "font-size": "50",
-        "backgroundcolor": "#1e3046",
-        "textcolor": "#ffffff",
+        "backgroundcolor": "var(--mx-site-surface)",
+        "textcolor": "var(--mx-site-text)",
         "category": "page"
       },
       "category": "page",
@@ -1043,7 +1043,7 @@
         },
         "position": "fixed",
         "bottom": "30px",
-        "color": "#075E54",
+        "color": "#E3B65C",
         "z_index": 10000,
         "responsive": true,
         "message": {
@@ -1400,11 +1400,11 @@
         "layout": "",
         "titlecolor": "#ffffff",
         "desccolor": "rgba(255, 255, 255, 0.88)",
-        "btncolor": "#ffffff",
-        "btnbg": "#0a58ca",
+        "btncolor": "#0B1220",
+        "btnbg": "#E3B65C",
         "border_radius": "0",
         "margin": "0",
-        "bgcolor": "#13243a",
+        "bgcolor": "#0B1220",
         "prevLabel": {
           "tr": "Önceki slayt",
           "en": "Previous slide"
@@ -1459,9 +1459,9 @@
       "name": "Footer 3",
       "desing": {
         "showlang": true,
-        "bgcolor": "#1e3046",
-        "color": "#ffffff",
-        "bordercolor": "rgba(255,255,255,0.25)",
+        "bgcolor": "#080E1A",
+        "color": "#E9EDF5",
+        "bordercolor": "rgba(233,237,245,0.14)",
         "minimal_design": false,
         "social_media": true,
         "logo_maxh": "64px",
@@ -1485,13 +1485,13 @@
       "name": "SSS Akordeon 1",
       "desing": {
         "max": "900px",
-        "bgcolor": "#ffffff",
-        "cardbg": "#f8fafc",
-        "bordercolor": "#cbd5e1",
-        "titlecolor": "#1e293b",
-        "textcolor": "#334155",
-        "accent": "#1e3046",
-        "accentText": "#ffffff",
+        "bgcolor": "var(--mx-site-bg)",
+        "cardbg": "var(--mx-site-surface)",
+        "bordercolor": "rgba(233,237,245,0.14)",
+        "titlecolor": "var(--mx-site-text)",
+        "textcolor": "#B7C1D4",
+        "accent": "var(--mx-site-primary)",
+        "accentText": "var(--mx-site-primary-contrast)",
         "badge": {
           "tr": "SSS",
           "en": "FAQ"
@@ -1522,8 +1522,8 @@
             "en": "Do you work remotely and across time zones?"
           },
           "answer": {
-            "tr": "Evet. Kanada, Dubai (BAE), Almanya ve İngiltere'deki projelerde uzaktan çalıştım. Farklı saat dilimlerinde çalışmaya alışkınım: iletişim ritmini, toplantı saatlerini ve karar kayıtlarını proje başında birlikte belirleriz; yazılı ve kayıtlı iletişime ağırlık veririm. Yüz yüze görüşme gereken durumlarda planlarız.",
-            "en": "Yes. I have worked remotely on projects in Canada, Dubai (UAE), Germany and the United Kingdom. I am used to working across time zones: we agree the communication rhythm, meeting times and decision records at the start of the project, and I lean on written, recorded communication. Where an in-person meeting is needed, we plan it."
+            "tr": "Evet. Kanada, Dubai (BAE) ve Almanya'daki projelerde uzaktan çalıştım. Farklı saat dilimlerinde çalışmaya alışkınım: iletişim ritmini, toplantı saatlerini ve karar kayıtlarını proje başında birlikte belirleriz; yazılı ve kayıtlı iletişime ağırlık veririm. Yüz yüze görüşme gereken durumlarda planlarız.",
+            "en": "Yes. I have worked remotely on projects in Canada, Dubai (UAE) and Germany. I am used to working across time zones: we agree the communication rhythm, meeting times and decision records at the start of the project, and I lean on written, recorded communication. Where an in-person meeting is needed, we plan it."
           }
         },
         {
@@ -1650,8 +1650,8 @@
           "en": "Write about your AI project or a role"
         },
         "description": {
-          "tr": "Yapay zekâ, web, mobil ya da bilgi güvenliği/ISO uyum projeniz için bir proje lideri arıyorsanız ya da C-level bir AI rolü için görüşmek istiyorsanız bana doğrudan yazabilirsiniz. Uzaktan çalışmaya açığım; Kanada, Dubai (BAE), Almanya ve İngiltere'deki projelerde uzaktan çalıştım. En hızlı ulaşım yolu WhatsApp (+90 531 679 10 14); e-posta için yunus@webyapar.com.",
-          "en": "If you are looking for a project lead for an AI, web, mobile or information-security/ISO compliance project — or would like to talk about a C-level AI role — write to me directly. I work remotely, and have worked on projects in Canada, Dubai (UAE), Germany and the United Kingdom. WhatsApp (+90 531 679 10 14) is the fastest way; for e-mail use yunus@webyapar.com."
+          "tr": "Yapay zekâ, web, mobil ya da bilgi güvenliği/ISO uyum projeniz için bir proje lideri arıyorsanız ya da C-level bir AI rolü için görüşmek istiyorsanız bana doğrudan yazabilirsiniz. Uzaktan çalışmaya açığım; Kanada, Dubai (BAE) ve Almanya'daki projelerde uzaktan çalıştım. En hızlı ulaşım yolu WhatsApp (+90 531 679 10 14); e-posta için yunus@webyapar.com.",
+          "en": "If you are looking for a project lead for an AI, web, mobile or information-security/ISO compliance project — or would like to talk about a C-level AI role — write to me directly. I work remotely, and have worked on projects in Canada, Dubai (UAE) and Germany. WhatsApp (+90 531 679 10 14) is the fastest way; for e-mail use yunus@webyapar.com."
         },
         "btn1Text": {
           "tr": "WhatsApp ile yaz",
@@ -1881,8 +1881,8 @@
           "en": "Remote work experience"
         },
         "title": {
-          "tr": "Kanada · Dubai (BAE) · Almanya · İngiltere",
-          "en": "Canada · Dubai (UAE) · Germany · United Kingdom"
+          "tr": "Kanada · Dubai (BAE) · Almanya",
+          "en": "Canada · Dubai (UAE) · Germany"
         },
         "description": {
           "tr": "Bu ülkelerdeki projelerde uzaktan çalıştım; farklı saat dilimlerinde çalışmaya alışkınım. Açık olduğum roller: Head of AI, AI Program Director ve CTO düzeyinde uzaktan pozisyonlar.",

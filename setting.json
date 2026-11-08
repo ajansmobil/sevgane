@@ -3,7 +3,7 @@
   "user": false,
   "description": {
     "tr": "Yapay zekâ projelerinde proje lideri / ekip kaptanı; Head of AI ve AI Program Director gibi uzaktan C-level rollere açığım. AI agent, LLM RAG, ISO 42001.",
-    "en": "AI project manager and team lead open to remote C-level roles (Head of AI, AI Program Director). Agents, RAG, ISO/IEC 42001. Remote: Canada, UAE, Germany, UK."
+    "en": "AI project manager and team lead open to remote C-level roles (Head of AI, AI Program Director). Agents, RAG, ISO/IEC 42001. Remote: Canada, UAE, Germany."
   },
   "keyword": {
     "tr": "yapay zekâ proje yöneticisi, AI proje lideri, Head of AI, AI Program Director, uzaktan çalışma, takım kaptanı, LLM RAG, AI agent, ISO 42001, yapay zekâ yönetişimi, Yunus Sevğane",
@@ -40,8 +40,8 @@
     "whatsapp": "https://wa.me/905316791014"
   },
   "font": {
-    "body": "inter",
-    "heading": "montserrat"
+    "heading": "fraunces",
+    "body": "inter"
   },
   "colorScheme": "auto",
   "firma": {
@@ -51,5 +51,6 @@
   },
   "phone": "+90 531 679 10 14",
   "email": "yunus@webyapar.com",
-  "og_image": "og-sevgane.webp"
+  "og_image": "og-sevgane.webp",
+  "theme_color": "#E3B65C"
 }
