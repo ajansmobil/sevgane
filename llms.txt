@@ -1,29 +1,29 @@
 # Yunus SEVĞANE — Proje Yöneticisi
 
-> Gaziantep'te proje yöneticisi: web, mobil, yapay zekâ ve ISO/bilgi güvenliği projelerini keşiften bakıma yönetirim. 19+ yıl yazılım deneyimi. Teklif için yazın.
+> Proje yöneticisi: web, mobil, yapay zekâ ve ISO/bilgi güvenliği projelerini keşiften bakıma yönetirim. 19+ yıl yazılım deneyimi. Teklif için yazın.
 
 Web: https://sevgane.com/tr/ · Telefon: +90 531 679 10 14 · E-posta: yunus@webyapar.com
 
 ## Sayfalar
-- [Yunus SEVĞANE — Proje Yöneticisi](https://sevgane.com/tr/): Gaziantep'te proje yöneticisi: web, mobil, yapay zekâ ve ISO/bilgi güvenliği projelerini keşiften bakıma yönetirim.
+- [Yunus SEVĞANE — Proje Yöneticisi](https://sevgane.com/tr/): Proje yöneticisi: web, mobil, yapay zekâ ve ISO/bilgi güvenliği projelerini keşiften bakıma yönetirim.
 - [Proje Yönetimi](https://sevgane.com/tr/proje-yonetimi/): Web, mobil, yapay zekâ ve ISO uyum projeleri için proje yönetimi: keşif, plan, yürütme, teslim, bakım.
 - [Hizmetlerim](https://sevgane.com/tr/services/): Proje yönetimi, web geliştirme, mobil uygulama, yapay zekâ, backend, DevOps, bilgi güvenliği, IT danışmanlık ve pazaryeri entegrasyonu hizmetleri.
 - [Projeler ve Vaka Çalışmaları](https://sevgane.com/tr/projeler/): 200+ kurumsal web sitesi, 10+ mobil uygulama, 3+ pazaryeri entegrasyonu ve altyapı projeleri: proje türlerine göre yürüttüğüm işler ve rolüm.
 - [Özgeçmiş](https://sevgane.com/tr/ozgecmis/): Yunus Sevğane özgeçmişi: proje yöneticisi ve Senior Engineering Manager, 2006'dan bugüne çalışma geçmişi, eğitimler, yetkinlikler ve teknik araçlar.
 - [Sertifikalar](https://sevgane.com/tr/sertifikalar/): Eğitim ve sertifikalar: ISO 27001, 42001, 9001, 20000-1 baş denetçi eğitimleri; siber güvenlik, etik hacker, adli bilişim.
-- [Kurumsal](https://sevgane.com/tr/kurumsal/): Kurumsal bilgiler: hakkımda, misyon, vizyon, kalite politikası, gizlilik, kişisel veriler, kullanıcı hakları, yasal uyarı ve çerez politikası.
-- [İletişim ve Teklif İste](https://sevgane.com/tr/iletisim/): Proje yöneticisi için teklif isteyin: WhatsApp, telefon ve e-posta.
-- [Hakkımızda](https://sevgane.com/tr/hakkimizda/): Yunus Sevğane kimdir?
+- [Profil](https://sevgane.com/tr/kurumsal/): Profil ve yasal bilgiler: hakkımda, misyon, vizyon, kalite politikası, gizlilik, kişisel veriler, kullanıcı hakları, yasal uyarı ve çerez politikası.
+- [İletişim ve Teklif İste](https://sevgane.com/tr/iletisim/): Proje yöneticisi Yunus Sevğane'den teklif isteyin: WhatsApp, telefon ve e-posta.
+- [Hakkımda](https://sevgane.com/tr/hakkimizda/): Yunus Sevğane kimdir?
 - [Çalışma Biçimi](https://sevgane.com/tr/calisma-bicimi/): Proje yöneticisi olarak nasıl çalıştığım: ön görüşme, yazılı kapsam, düzenli durum bildirimi, aşamalı teslim ve bakım.
 - [Misyon](https://sevgane.com/tr/misyon/): Misyonum: web, mobil ve yapay zeka alanlarında ölçeklenebilir, verimli ve güvenli yazılım çözümleri üreterek müşterilerimin işini dijitalde güçlendirmek.
 - [Vizyon](https://sevgane.com/tr/vizyon/): Vizyonum: yazılım geliştirme ile bilgi güvenliğini birlikte düşünen, güvenilir ve tercih edilen bir profesyonel olmak; yapay zekada öncü çözümler üretmek.
 - [Sıkça Sorulan Sorular](https://sevgane.com/tr/sss/): Proje yöneticisi arayan işverenlerin soruları: uzaktan çalışma, çalışma modeli, sektör deneyimi, yöntemler, ISO uyum projeleri ve teklif süreci.
-- [Kalite Politikamız](https://sevgane.com/tr/kalite-politikamiz/): Kalite politikam: müşteri odaklılık, süreç yaklaşımı ve sürekli iyileştirme; ISO 9001:2015 baş denetçi eğitimi ilkeleri ve proje yönetimi uygulamam.
+- [Kalite Politikam](https://sevgane.com/tr/kalite-politikamiz/): Kalite politikam: müşteri odaklılık, süreç yaklaşımı ve sürekli iyileştirme; ISO 9001:2015 baş denetçi eğitimi ilkeleri ve proje yönetimi uygulamam.
 - [Gizlilik Politikası](https://sevgane.com/tr/gizlilik-politikasi/): sevgane.com gizlilik politikası: Yunus Sevğane tarafından hangi verilerin işlendiği, hangi amaçla kullanıldığı, ne kadar saklandığı ve nasıl korunduğu.
 - [Kişisel Veriler](https://sevgane.com/tr/kisisel-veriler/): 6698 sayılı KVKK kapsamında aydınlatma metni: veri sorumlusu Yunus Sevğane, işlenen kişisel veriler, amaçlar, hukuki sebepler ve veri aktarımı.
 - [Kullanıcı Hakları](https://sevgane.com/tr/kullanici-haklari/): KVKK 11.
 - [Yasal Uyarı](https://sevgane.com/tr/yasal-uyari/): sevgane.com yasal uyarı: kullanım koşulları, fikri mülkiyet hakları, üçüncü taraf bağlantılar ve sorumluluk sınırları hakkında bilgilendirme.
-- [Çerez Politikası](https://sevgane.com/tr/cerez-politikasi/): Bu politika, Yunus Sevğane (Webyapar Yazılım ve Danışmanlık) tarafından işletilen https://sevgane.com internet sitesinde kullanılan çerezleri, bunların…
+- [Çerez Politikası](https://sevgane.com/tr/cerez-politikasi/): Bu politika, Yunus Sevğane tarafından işletilen https://sevgane.com internet sitesinde kullanılan çerezleri, bunların…
 - [Web Geliştirme](https://sevgane.com/tr/web-gelistirme/): 200'den fazla kurumsal web sitesi geliştirme deneyimi: HTML, CSS, JavaScript, Node.js ve ASP ile hızlı, güvenli ve aramaya uygun web çözümleri.
 - [Mobil Uygulama Geliştirme](https://sevgane.com/tr/mobil-uygulama-gelistirme/): 10'dan fazla mobil uygulama geliştirme deneyimi: Flutter, React Native, Java ve Swift ile Android ve iOS uygulamaları; backend ve Firebase entegrasyonu.
 - [Yapay Zeka Çözümleri](https://sevgane.com/tr/yapay-zeka-cozumleri/): AI agent süreçleri, LLM RAG uygulamaları ve LLM ince ayarı; ISO/IEC 42001 baş denetçi eğitimi bakışıyla iş süreçlerine yapay zeka entegrasyonu.

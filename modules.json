@@ -81,10 +81,6 @@
           "url": "https://wa.me/905316791014"
         },
         {
-          "icon": "map",
-          "text": "Gaziantep"
-        },
-        {
           "icon": "code",
           "text": "github.com/yunusevgane",
           "url": "https://github.com/yunusevgane"
@@ -277,13 +273,13 @@
         "btnbg": "#ffffff",
         "btncolor": "#1e3046",
         "badge": {
-          "tr": "Gaziantep · Proje Yöneticisi"
+          "tr": "Senior Software Developer · Proje Yöneticisi"
         },
         "title": {
           "tr": "Yunus Sevğane — Proje Yöneticisi"
         },
         "description": {
-          "tr": "Web, mobil, yapay zekâ ve bilgi güvenliği/ISO projelerini keşiften bakıma yönetiyorum. Yazılım geliştirici geçmişim sayesinde teknik ekiple aynı dili konuşur, kapsamı, bütçeyi ve riski kontrol altında tutarım. 2014'ten beri Webyapar Yazılım ve Danışmanlık: 200'den fazla kurumsal web sitesi, 10'dan fazla mobil uygulama."
+          "tr": "Web, mobil, yapay zekâ ve bilgi güvenliği/ISO projelerini keşiften bakıma yönetiyorum. Yazılım geliştirici geçmişim sayesinde teknik ekiple aynı dili konuşur, kapsamı, bütçeyi ve riski kontrol altında tutarım. 2014'ten beri 200'den fazla kurumsal web sitesi, 10'dan fazla mobil uygulama."
         },
         "btn1Text": {
           "tr": "Teklif iste"
@@ -385,7 +381,7 @@
           "tr": "Proje yöneticisi bakışı, geliştirici derinliği"
         },
         "description": {
-          "tr": "2006'da grafik tasarımcı olarak başladım; Cemre Teknoloji ve Mor Medya'da yazılım geliştirdim. 2014'ten beri kendi şirketim Webyapar Yazılım ve Danışmanlık'ı yönetiyor, ekip ve proje yönetimi süreçlerini yürütüyorum. Bugün web, mobil, yapay zekâ ve DevOps projelerini bilgi güvenliği bakışıyla, kapsam, bütçe ve risk kontrolüyle teslim ediyorum."
+          "tr": "2006'da grafik tasarımcı olarak başladım; Cemre Teknoloji ve Mor Medya'da yazılım geliştirdim. 2014'ten beri serbest çalışarak ekip ve proje yönetimi süreçlerini yürütüyorum. Bugün web, mobil, yapay zekâ ve DevOps projelerini bilgi güvenliği bakışıyla, kapsam, bütçe ve risk kontrolüyle teslim ediyorum."
         },
         "btn1Text": {
           "tr": "Devamını oku"
@@ -393,7 +389,7 @@
         "btn1Url": "/hakkimizda/"
       },
       "category": "module",
-      "description": "Kısa tanıtım şeridi (açık krem zemin): rozet, başlık, kısa metin ve «Devamı» düğmesi; görsel gerektirmez, tüm renkler desing token'ı. module-tanitim-2'nin görselli iki kolon düzenine hafif alternatif (ana sayfa Hakkımızda özeti).",
+      "description": "Kısa tanıtım şeridi (açık krem zemin): rozet, başlık, kısa metin ve «Devamı» düğmesi; görsel gerektirmez, tüm renkler desing token'ı. module-tanitim-2'nin görselli iki kolon düzenine hafif alternatif (ana sayfa Hakkımda özeti).",
       "version": "1.0.0",
       "icon": "info",
       "veri": {
@@ -616,8 +612,8 @@
             "start": "2014",
             "end": "",
             "title": "Senior Engineering Manager",
-            "org": "Webyapar Yazılım ve Danışmanlık (kendi şirketim)",
-            "place": "Gaziantep",
+            "org": "Serbest çalışan",
+            "place": "",
             "desc": "200'den fazla kurumsal web sitesi, 3'ten fazla pazaryeri entegrasyonu ve 10'dan fazla mobil uygulama; altyapı geliştirme, ekip kurma ve proje yönetimi.",
             "tags": [
               "Web",
@@ -938,10 +934,10 @@
           "tr": "İletişim bilgileri"
         },
         "panelText": {
-          "tr": "En hızlı ulaşım yolu WhatsApp'tır. E-posta ve telefon ile de ulaşabilirsiniz; Gaziantep merkezliyim, uzaktan çalışmaya açığım."
+          "tr": "En hızlı ulaşım yolu WhatsApp'tır. E-posta ve telefon ile de ulaşabilirsiniz; uzaktan çalışmaya açığım."
         },
         "address": {
-          "tr": "Gaziantep, Türkiye"
+          "tr": "Türkiye"
         },
         "phone": "+90 531 679 10 14",
         "whatsapp": "905316791014",
@@ -1313,7 +1309,7 @@
             "tr": "Uzaktan çalışır mısınız?"
           },
           "answer": {
-            "tr": "Gaziantep merkezliyim ve uzaktan çalışmaya açığım. İletişim ritmini proje başında birlikte belirleriz; yüz yüze görüşme gereken durumlarda planlarız."
+            "tr": "Uzaktan çalışmaya açığım. İletişim ritmini proje başında birlikte belirleriz; yüz yüze görüşme gereken durumlarda planlarız."
           }
         },
         {
@@ -1321,7 +1317,7 @@
             "tr": "Hangi sözleşme ve çalışma modelleriyle çalışıyorsunuz?"
           },
           "answer": {
-            "tr": "Webyapar Yazılım ve Danışmanlık üzerinden, serbest çalışan olarak proje bazlı ya da süreli danışmanlık şeklinde çalışıyorum. Farklı bir model düşünüyorsanız teklifinizi dinler, uygun olanı ön görüşmede birlikte belirleriz."
+            "tr": "Serbest çalışan olarak proje bazlı ya da süreli danışmanlık şeklinde çalışıyorum. Farklı bir model düşünüyorsanız teklifinizi dinler, uygun olanı ön görüşmede birlikte belirleriz."
           }
         },
         {
@@ -1412,7 +1408,7 @@
           "tr": "Proje yöneticisi için teklif isteyin"
         },
         "description": {
-          "tr": "Web, mobil, yapay zekâ ya da bilgi güvenliği/ISO uyum projeniz için bir proje yöneticisi arıyorsanız bana doğrudan yazabilirsiniz. Gaziantep merkezliyim ve uzaktan çalışmaya açığım. 2014'ten beri Webyapar Yazılım ve Danışmanlık adı altında 200'den fazla kurumsal web sitesi, 10'dan fazla mobil uygulama ve 3'ten fazla pazaryeri entegrasyonu yürüttüm. En hızlı ulaşım yolu WhatsApp (+90 531 679 10 14); e-posta için yunus@webyapar.com."
+          "tr": "Web, mobil, yapay zekâ ya da bilgi güvenliği/ISO uyum projeniz için bir proje yöneticisi arıyorsanız bana doğrudan yazabilirsiniz. Uzaktan çalışmaya açığım. 2014'ten beri 200'den fazla kurumsal web sitesi, 10'dan fazla mobil uygulama ve 3'ten fazla pazaryeri entegrasyonu yürüttüm. En hızlı ulaşım yolu WhatsApp (+90 531 679 10 14); e-posta için yunus@webyapar.com."
         },
         "btn1Text": {
           "tr": "WhatsApp ile yaz"
@@ -1420,7 +1416,7 @@
         "btn1Url": "https://wa.me/905316791014"
       },
       "category": "module",
-      "description": "Kısa tanıtım şeridi (açık krem zemin): rozet, başlık, kısa metin ve «Devamı» düğmesi; görsel gerektirmez, tüm renkler desing token'ı. module-tanitim-2'nin görselli iki kolon düzenine hafif alternatif (ana sayfa Hakkımızda özeti).",
+      "description": "Kısa tanıtım şeridi (açık krem zemin): rozet, başlık, kısa metin ve «Devamı» düğmesi; görsel gerektirmez, tüm renkler desing token'ı. module-tanitim-2'nin görselli iki kolon düzenine hafif alternatif (ana sayfa Hakkımda özeti).",
       "version": "1.0.0",
       "icon": "info",
       "veri": {
@@ -1550,7 +1546,7 @@
         "btn1Url": "/sss/"
       },
       "category": "module",
-      "description": "Kısa tanıtım şeridi (açık krem zemin): rozet, başlık, kısa metin ve «Devamı» düğmesi; görsel gerektirmez, tüm renkler desing token'ı. module-tanitim-2'nin görselli iki kolon düzenine hafif alternatif (ana sayfa Hakkımızda özeti).",
+      "description": "Kısa tanıtım şeridi (açık krem zemin): rozet, başlık, kısa metin ve «Devamı» düğmesi; görsel gerektirmez, tüm renkler desing token'ı. module-tanitim-2'nin görselli iki kolon düzenine hafif alternatif (ana sayfa Hakkımda özeti).",
       "version": "1.0.0",
       "icon": "info",
       "veri": {
@@ -1589,7 +1585,7 @@
         "btn1Url": "/calisma-bicimi/"
       },
       "category": "module",
-      "description": "Kısa tanıtım şeridi (açık krem zemin): rozet, başlık, kısa metin ve «Devamı» düğmesi; görsel gerektirmez, tüm renkler desing token'ı. module-tanitim-2'nin görselli iki kolon düzenine hafif alternatif (ana sayfa Hakkımızda özeti).",
+      "description": "Kısa tanıtım şeridi (açık krem zemin): rozet, başlık, kısa metin ve «Devamı» düğmesi; görsel gerektirmez, tüm renkler desing token'ı. module-tanitim-2'nin görselli iki kolon düzenine hafif alternatif (ana sayfa Hakkımda özeti).",
       "version": "1.0.0",
       "icon": "info",
       "veri": {

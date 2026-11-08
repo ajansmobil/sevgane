@@ -1,13 +1,13 @@
 {
   "name": {
-    "tr": "Hakkımızda"
+    "tr": "Hakkımda"
   },
   "status": "play",
   "id": "hakkimizda",
   "path": "hakkimizda",
   "category": "",
   "text": {
-    "tr": "<section><h2>Yunus Sevğane</h2><p>Gaziantep merkezli bir proje yöneticisiyim. Web, mobil, yapay zekâ ve bilgi güvenliği/ISO uyum projelerini keşiften bakıma kadar yönetiyorum. Yazılım geliştirici geçmişim sayesinde teknik ekiple aynı dili konuşur, kapsam, bütçe ve riski teknik gerçeklikle birlikte ele alırım. Bu yaklaşımın ayrıntısı <a href=\"/tr/proje-yonetimi/\">Proje Yönetimi</a> ve <a href=\"/tr/calisma-bicimi/\">Çalışma Biçimi</a> sayfalarında.</p><p>Frontend, backend, DevOps ve yapay zekâ geliştirme süreçlerinde sağlam yazılım geliştirme ilkelerini uygularım. 2025 itibarıyla siber güvenlik, etik hacker, adli bilişim ve ISO yönetim sistemleri denetçiliği alanlarında aldığım eğitimlerle bu bakışı bilgi güvenliği tarafına da taşıdım.</p><h3>Çalışma hayatım</h3><ul><li><strong>2014 – günümüz:</strong> Webyapar Yazılım ve Danışmanlık (kendi şirketim) — Senior Engineering Manager</li><li><strong>2012 – 2014:</strong> Mor Medya — Senior Developer</li><li><strong>2010 – 2012:</strong> Cemre Teknoloji — Software Developer</li><li><strong>2006 – 2007:</strong> Emre Carpet Design — Grafik tasarımcı</li></ul><p>Webyapar Yazılım ve Danışmanlık çatısı altında 200'den fazla kurumsal web sitesi, 3'ten fazla pazaryeri entegrasyonu ve 10'dan fazla mobil uygulama geliştirdim. Birçok özel projede altyapı geliştirme ve ekip kurma sorumluluğu aldım.</p><h3>Uzmanlık alanlarım</h3><ul><li>Proje yönetimi (kapsam, bütçe, risk, ekip) ve full stack DevOps</li><li>Penetrasyon testi, siber güvenlik ve adli bilişim</li><li>ISO yönetim sistemleri (27001, 42001, 9001, 20000-1)</li><li>AI agent süreçleri, LLM RAG ve LLM ince ayarı</li></ul><p>Eğitim ve sertifika ayrıntıları için <a href=\"/tr/sertifikalar/\">Sertifikalar</a>, çalışma geçmişi için <a href=\"/tr/ozgecmis/\">Özgeçmiş</a> sayfasına bakabilirsiniz. Projeniz için <a href=\"https://wa.me/905316791014\">WhatsApp (+90 531 679 10 14)</a> üzerinden yazabilirsiniz.</p><p>Teklif için <a href=\"/tr/iletisim/\">İletişim ve Teklif İste</a>, yöntem için <a href=\"/tr/proje-yonetimi/\">Proje Yönetimi</a>, iş türleri için <a href=\"/tr/projeler/\">Projeler</a> sayfalarına bakabilirsiniz.</p></section>"
+    "tr": "<section><h2>Yunus Sevğane</h2><p>Proje yöneticisiyim. Web, mobil, yapay zekâ ve bilgi güvenliği/ISO uyum projelerini keşiften bakıma kadar yönetiyorum. Yazılım geliştirici geçmişim sayesinde teknik ekiple aynı dili konuşur, kapsam, bütçe ve riski teknik gerçeklikle birlikte ele alırım. Bu yaklaşımın ayrıntısı <a href=\"/tr/proje-yonetimi/\">Proje Yönetimi</a> ve <a href=\"/tr/calisma-bicimi/\">Çalışma Biçimi</a> sayfalarında.</p><p>Frontend, backend, DevOps ve yapay zekâ geliştirme süreçlerinde sağlam yazılım geliştirme ilkelerini uygularım. 2025 itibarıyla siber güvenlik, etik hacker, adli bilişim ve ISO yönetim sistemleri denetçiliği alanlarında aldığım eğitimlerle bu bakışı bilgi güvenliği tarafına da taşıdım.</p><h3>Çalışma hayatım</h3><ul><li><strong>2014 – günümüz:</strong> Serbest çalışan — Senior Engineering Manager</li><li><strong>2012 – 2014:</strong> Mor Medya — Senior Developer</li><li><strong>2010 – 2012:</strong> Cemre Teknoloji — Software Developer</li><li><strong>2006 – 2007:</strong> Emre Carpet Design — Grafik tasarımcı</li></ul><p>200'den fazla kurumsal web sitesi, 3'ten fazla pazaryeri entegrasyonu ve 10'dan fazla mobil uygulama geliştirdim. Birçok özel projede altyapı geliştirme ve ekip kurma sorumluluğu aldım.</p><h3>Uzmanlık alanlarım</h3><ul><li>Proje yönetimi (kapsam, bütçe, risk, ekip) ve full stack DevOps</li><li>Penetrasyon testi, siber güvenlik ve adli bilişim</li><li>ISO yönetim sistemleri (27001, 42001, 9001, 20000-1)</li><li>AI agent süreçleri, LLM RAG ve LLM ince ayarı</li></ul><p>Eğitim ve sertifika ayrıntıları için <a href=\"/tr/sertifikalar/\">Sertifikalar</a>, çalışma geçmişi için <a href=\"/tr/ozgecmis/\">Özgeçmiş</a> sayfasına bakabilirsiniz. Projeniz için <a href=\"https://wa.me/905316791014\">WhatsApp (+90 531 679 10 14)</a> üzerinden yazabilirsiniz.</p><p>Teklif için <a href=\"/tr/iletisim/\">İletişim ve Teklif İste</a>, yöntem için <a href=\"/tr/proje-yonetimi/\">Proje Yönetimi</a>, iş türleri için <a href=\"/tr/projeler/\">Projeler</a> sayfalarına bakabilirsiniz.</p></section>"
   },
   "desing": {
     "header": [],
@@ -17,10 +17,10 @@
   "index": 0,
   "icon": "home",
   "description": {
-    "tr": "Yunus Sevğane kimdir? Gaziantep merkezli proje yöneticisi; 2014'ten beri Webyapar Yazılım ve Danışmanlık, 200+ kurumsal web sitesi, 10+ mobil uygulama."
+    "tr": "Yunus Sevğane kimdir? Proje yöneticisi ve yazılım geliştirici; 2014'ten beri 200+ kurumsal web sitesi, 10+ mobil uygulama ve 3+ pazaryeri entegrasyonu."
   },
   "keyword": {
-    "tr": "Yunus Sevğane, hakkımda, yazılım geliştirici, Gaziantep, Webyapar Yazılım ve Danışmanlık, özgeçmiş"
+    "tr": "Yunus Sevğane, hakkımda, yazılım geliştirici, proje yöneticisi, özgeçmiş"
   },
   "update": "2026-11-08T03:21:11.759Z",
   "date": "2025-12-13T03:26:52.499Z",

@@ -2,7 +2,7 @@
   "data": [
     {
       "name": {
-        "tr": "Hakkımızda"
+        "tr": "Hakkımda"
       },
       "status": "play",
       "id": "hakkimizda",
@@ -16,7 +16,7 @@
       "index": 0,
       "icon": "home",
       "description": {
-        "tr": "Yunus Sevğane kimdir? Gaziantep merkezli proje yöneticisi; 2014'ten beri Webyapar Yazılım ve Danışmanlık, 200+ kurumsal web sitesi, 10+ mobil uygulama."
+        "tr": "Yunus Sevğane kimdir? Proje yöneticisi ve yazılım geliştirici; 2014'ten beri 200+ kurumsal web sitesi, 10+ mobil uygulama ve 3+ pazaryeri entegrasyonu."
       }
     },
     {
@@ -99,7 +99,7 @@
     },
     {
       "name": {
-        "tr": "Kalite Politikamız"
+        "tr": "Kalite Politikam"
       },
       "status": "play",
       "id": "kalitepolitikamiz",
@@ -198,7 +198,7 @@
         "tr": "Çerez Politikası"
       },
       "description": {
-        "tr": "Bu politika, Yunus Sevğane (Webyapar Yazılım ve Danışmanlık) tarafından işletilen https://sevgane.com internet sitesinde kullanılan çerezleri, bunların…"
+        "tr": "Bu politika, Yunus Sevğane tarafından işletilen https://sevgane.com internet sitesinde kullanılan çerezleri, bunların…"
       },
       "path": "cerez-politikasi",
       "icon": "cookie",

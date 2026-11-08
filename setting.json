@@ -2,10 +2,10 @@
   "order": false,
   "user": false,
   "description": {
-    "tr": "Gaziantep'te proje yöneticisi: web, mobil, yapay zekâ ve ISO/bilgi güvenliği projelerini keşiften bakıma yönetirim. 19+ yıl yazılım deneyimi. Teklif için yazın."
+    "tr": "Proje yöneticisi: web, mobil, yapay zekâ ve ISO/bilgi güvenliği projelerini keşiften bakıma yönetirim. 19+ yıl yazılım deneyimi. Teklif için yazın."
   },
   "keyword": {
-    "tr": "proje yöneticisi Gaziantep, freelance proje yöneticisi, yazılım proje yöneticisi, dijital proje yöneticisi, IT proje yöneticisi, web proje yöneticisi, teknik proje yöneticisi, mobil uygulama proje yöneticisi, ISO 27001 baş denetçi Gaziantep, dijital dönüşüm danışmanı Gaziantep, Yunus Sevğane"
+    "tr": "proje yöneticisi, freelance proje yöneticisi, yazılım proje yöneticisi, dijital proje yöneticisi, IT proje yöneticisi, web proje yöneticisi, teknik proje yöneticisi, mobil uygulama proje yöneticisi, ISO 27001 baş denetçi, dijital dönüşüm danışmanı, Yunus Sevğane"
   },
   "category": "Kurumsal",
   "name": "Yunus SEVĞANE — Proje Yöneticisi",
@@ -26,7 +26,7 @@
   },
   "logo": "logo.png",
   "multi": false,
-  "city": "Gaziantep",
+  "city": "",
   "country": "Türkiye",
   "social": {
     "instagram": "https://instagram.com/yunusevgane",
@@ -40,7 +40,7 @@
   },
   "colorScheme": "auto",
   "firma": {
-    "unvan": "Yunus Sevğane (Webyapar Yazılım ve Danışmanlık)",
+    "unvan": "Yunus Sevğane",
     "telefon": "+90 531 679 10 14",
     "site": "https://sevgane.com"
   },

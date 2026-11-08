@@ -1,13 +1,13 @@
 {
   "name": {
-    "tr": "Kalite Politikamız"
+    "tr": "Kalite Politikam"
   },
   "status": "play",
   "id": "kalitepolitikamiz",
   "path": "kalite-politikamiz",
   "category": "",
   "text": {
-    "tr": "<section><h2>Kalite Politikamız</h2><p>Hizmetlerimi; müşteri ihtiyacını doğru anlamaya, işi planlı ve izlenebilir yürütmeye ve her teslimden sonra öğrenip iyileştirmeye dayalı bir kalite anlayışıyla sunarım. Bu anlayışın dayanağı, 2025'te Sigmacert Global'den aldığım ISO 9001:2015 Kalite Yönetim Sistemi Baş Denetçi Eğitimi'dir.</p><p>Aşağıdaki ilkeler, kendi çalışma düzenimde referans aldığım kalite yönetimi ilkeleridir. Bu sayfa, Webyapar Yazılım ve Danışmanlık için alınmış bir ISO 9001 belgelendirmesi iddiası taşımaz; yalnızca çalışma biçimimi açıklar.</p><h3>İlkelerim</h3><ul><li><strong>Müşteri odağı:</strong> beklentiyi baştan yazılı netleştirmek, geri bildirimi işin parçası saymak</li><li><strong>Süreç yaklaşımı:</strong> analiz, geliştirme, test ve teslim adımlarını tanımlı yürütmek</li><li><strong>Risk temelli düşünme:</strong> güvenlik ve süreklilik risklerini projenin başında ele almak</li><li><strong>Sürekli iyileştirme:</strong> her proje sonunda yöntemi ve araçları gözden geçirmek</li></ul><p>Memnuniyetsizlik, şikâyet ya da iyileştirme önerilerinizi <a href=\"https://wa.me/905316791014\">WhatsApp (+90 531 679 10 14)</a> veya <a href=\"/tr/iletisim/\">iletişim formu</a> üzerinden iletebilirsiniz; her bildirimi inceler ve dönüş yaparım.</p></section>"
+    "tr": "<section><h2>Kalite Politikam</h2><p>Hizmetlerimi; müşteri ihtiyacını doğru anlamaya, işi planlı ve izlenebilir yürütmeye ve her teslimden sonra öğrenip iyileştirmeye dayalı bir kalite anlayışıyla sunarım. Bu anlayışın dayanağı, 2025'te Sigmacert Global'den aldığım ISO 9001:2015 Kalite Yönetim Sistemi Baş Denetçi Eğitimi'dir.</p><p>Aşağıdaki ilkeler, kendi çalışma düzenimde referans aldığım kalite yönetimi ilkeleridir. Bu sayfa, bir ISO 9001 belgelendirmesi iddiası taşımaz; yalnızca çalışma biçimimi açıklar.</p><h3>İlkelerim</h3><ul><li><strong>Müşteri odağı:</strong> beklentiyi baştan yazılı netleştirmek, geri bildirimi işin parçası saymak</li><li><strong>Süreç yaklaşımı:</strong> analiz, geliştirme, test ve teslim adımlarını tanımlı yürütmek</li><li><strong>Risk temelli düşünme:</strong> güvenlik ve süreklilik risklerini projenin başında ele almak</li><li><strong>Sürekli iyileştirme:</strong> her proje sonunda yöntemi ve araçları gözden geçirmek</li></ul><p>Memnuniyetsizlik, şikâyet ya da iyileştirme önerilerinizi <a href=\"https://wa.me/905316791014\">WhatsApp (+90 531 679 10 14)</a> veya <a href=\"/tr/iletisim/\">iletişim formu</a> üzerinden iletebilirsiniz; her bildirimi inceler ve dönüş yaparım.</p></section>"
   },
   "desing": {
     "header": [],
@@ -25,6 +25,6 @@
   "update": "2026-11-08T03:24:53.741Z",
   "date": "2025-12-13T03:26:52.524Z",
   "title": {
-    "tr": "Kalite Politikamız — Yunus Sevğane"
+    "tr": "Kalite Politikam — Yunus Sevğane"
   }
 }

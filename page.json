@@ -6,7 +6,7 @@
         "tr": "Proje Yönetimi"
       },
       "description": {
-        "tr": "Web, mobil, yapay zekâ ve ISO uyum projeleri için proje yönetimi: keşif, plan, yürütme, teslim, bakım. Kapsam, bütçe ve risk kontrolüyle Gaziantep'ten."
+        "tr": "Web, mobil, yapay zekâ ve ISO uyum projeleri için proje yönetimi: keşif, plan, yürütme, teslim, bakım. Kapsam, bütçe ve risk kontrolüyle yürütürüm."
       },
       "path": "proje-yonetimi",
       "icon": "account_tree",
@@ -110,7 +110,7 @@
     },
     {
       "name": {
-        "tr": "Kurumsal"
+        "tr": "Profil"
       },
       "status": "play",
       "category": "",
@@ -127,7 +127,7 @@
       },
       "pathnext": "",
       "description": {
-        "tr": "Kurumsal bilgiler: hakkımda, misyon, vizyon, kalite politikası, gizlilik, kişisel veriler, kullanıcı hakları, yasal uyarı ve çerez politikası."
+        "tr": "Profil ve yasal bilgiler: hakkımda, misyon, vizyon, kalite politikası, gizlilik, kişisel veriler, kullanıcı hakları, yasal uyarı ve çerez politikası."
       },
       "icon": "home"
     },
@@ -156,7 +156,7 @@
       },
       "pathnext": "",
       "description": {
-        "tr": "Proje yöneticisi için teklif isteyin: WhatsApp, telefon ve e-posta. Web, mobil, yapay zekâ ve ISO projeleri; Gaziantep merkezli, uzaktan çalışmaya açık."
+        "tr": "Proje yöneticisi Yunus Sevğane'den teklif isteyin: WhatsApp, telefon ve e-posta. Web, mobil, yapay zekâ ve ISO projeleri; uzaktan çalışmaya açık."
       }
     }
   ],
