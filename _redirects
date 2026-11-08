@@ -1,0 +1,16 @@
+# webmaker — slug yönlendirmeleri (kaynak: redirects.json; elle düzenlemeyin)
+/tr/misyon/ /tr/hakkimizda/ 301
+/en/misyon/ /en/hakkimizda/ 301
+/ar/misyon/ /ar/hakkimizda/ 301
+/de/misyon/ /de/hakkimizda/ 301
+/es/misyon/ /es/hakkimizda/ 301
+/tr/vizyon/ /tr/hakkimizda/ 301
+/en/vizyon/ /en/hakkimizda/ 301
+/ar/vizyon/ /ar/hakkimizda/ 301
+/de/vizyon/ /de/hakkimizda/ 301
+/es/vizyon/ /es/hakkimizda/ 301
+/tr/kalite-politikamiz/ /tr/calisma-bicimi/ 301
+/en/kalite-politikamiz/ /en/calisma-bicimi/ 301
+/ar/kalite-politikamiz/ /ar/calisma-bicimi/ 301
+/de/kalite-politikamiz/ /de/calisma-bicimi/ 301
+/es/kalite-politikamiz/ /es/calisma-bicimi/ 301

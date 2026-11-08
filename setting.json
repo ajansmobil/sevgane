@@ -3,25 +3,34 @@
   "user": false,
   "description": {
     "tr": "Yapay zekâ projelerinde proje lideri / ekip kaptanı; Head of AI ve AI Program Director gibi uzaktan C-level rollere açığım. AI agent, LLM RAG, ISO 42001.",
-    "en": "AI project manager and team lead open to remote C-level roles (Head of AI, AI Program Director). Agents, RAG, ISO/IEC 42001. Remote: Canada, UAE, Germany."
+    "en": "AI project manager and team lead open to remote C-level roles (Head of AI, AI Program Director). Agents, RAG, ISO/IEC 42001. Remote: Canada, UAE, Germany.",
+    "ar": "مدير مشاريع ذكاء اصطناعي وقائد فريق منفتح على أدوار C-level عن بُعد (Head of AI, AI Program Director). وكلاء، RAG، ISO/IEC 42001. عن بُعد: كندا، الإمارات، ألمانيا.",
+    "de": "KI-Projektmanager und Teamleiter, offen für Remote-C-Level-Rollen (Head of AI, AI Program Director). Agents, RAG, ISO/IEC 42001. Remote: Kanada, VAE, Deutschland.",
+    "es": "Director de proyectos de IA y líder de equipo, abierto a puestos C-level remotos (Head of AI, AI Program Director). Agentes, RAG, ISO/IEC 42001. Remoto: Canadá, EAU, Alemania."
   },
   "keyword": {
     "tr": "yapay zekâ proje yöneticisi, AI proje lideri, Head of AI, AI Program Director, uzaktan çalışma, takım kaptanı, LLM RAG, AI agent, ISO 42001, yapay zekâ yönetişimi, Yunus Sevğane",
-    "en": "AI project manager, Head of AI, AI program director, remote AI team lead, remote CTO roles, LLM RAG, AI agents, ISO 42001 AI governance, Yunus Sevğane"
+    "en": "AI project manager, Head of AI, AI program director, remote AI team lead, remote CTO roles, LLM RAG, AI agents, ISO 42001 AI governance, Yunus Sevğane",
+    "ar": "مدير مشروع ذكاء اصطناعي, Head of AI, مدير برنامج ذكاء اصطناعي, قائد فريق ذكاء اصطناعي عن بُعد, أدوار CTO عن بُعد, LLM RAG, وكلاء الذكاء الاصطناعي, حوكمة الذكاء الاصطناعي ISO 42001, Yunus Sevğane",
+    "de": "KI-Projektmanager, Head of AI, AI Program Director, Remote-KI-Teamleiter, Remote-CTO-Rollen, LLM RAG, KI-Agenten, ISO 42001 KI-Governance, Yunus Sevğane",
+    "es": "director de proyectos de IA, Head of AI, director de programas de IA, líder remoto de equipo de IA, puestos de CTO remoto, LLM RAG, agentes de IA, gobernanza de la IA ISO 42001, Yunus Sevğane"
   },
   "category": "Kurumsal",
   "name": {
     "tr": "Yunus Sevğane — AI Proje Lideri ve Ekip Kaptanı",
-    "en": "Yunus Sevğane — AI Project Manager & Remote AI Team Lead"
+    "en": "Yunus Sevğane — AI Project Manager & Remote AI Team Lead",
+    "ar": "Yunus Sevğane — مدير مشروع ذكاء اصطناعي وقائد فريق ذكاء اصطناعي عن بُعد",
+    "de": "Yunus Sevğane — KI-Projektmanager & Remote-KI-Teamleiter",
+    "es": "Yunus Sevğane — Director de proyectos de IA y líder remoto de equipos de IA"
   },
   "domain": "sevgane.com",
   "langs": {
     "tr": true,
     "en": true,
-    "ar": false,
-    "de": false,
+    "ar": true,
+    "de": true,
     "ru": false,
-    "es": false,
+    "es": true,
     "fr": false,
     "it": false,
     "ja": false,
@@ -41,7 +50,11 @@
   },
   "font": {
     "heading": "fraunces",
-    "body": "inter"
+    "body": "inter",
+    "ar": {
+      "heading": "rubik",
+      "body": "rubik"
+    }
   },
   "colorScheme": "auto",
   "firma": {

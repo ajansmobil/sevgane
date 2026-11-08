@@ -4,11 +4,17 @@
       "id": "0pkocj5q9o",
       "name": {
         "tr": "Yapay zekâ projelerinde proje yöneticisinin rolü",
-        "en": "The role of the project manager in AI projects"
+        "en": "The role of the project manager in AI projects",
+        "ar": "دور مدير المشروع في مشاريع الذكاء الاصطناعي",
+        "de": "Die Rolle des Projektmanagers in KI-Projekten",
+        "es": "El papel del director de proyectos en los proyectos de IA"
       },
       "description": {
         "tr": "AI agent, LLM RAG ve ince ayar projelerinde proje yöneticisi ne yapar? Hedef, veri, yetki sınırı, pilot ve karar kayıtlarıyla bir proje liderinin çalışma çerçevesi.",
-        "en": "What does a project manager do in AI agent, LLM RAG and fine-tuning projects? A project lead’s working frame: goal, data, authority limits, pilot and decision records."
+        "en": "What does a project manager do in AI agent, LLM RAG and fine-tuning projects? A project lead’s working frame: goal, data, authority limits, pilot and decision records.",
+        "ar": "ماذا يفعل مدير المشروع في مشاريع وكلاء الذكاء الاصطناعي وLLM RAG والضبط الدقيق؟ إطار عمل قائد المشروع: الهدف والبيانات وحدود الصلاحيات والتجربة التجريبية وسجلات القرارات.",
+        "de": "Was macht ein Projektmanager in KI-Agent-, LLM-RAG- und Fine-Tuning-Projekten? Der Arbeitsrahmen eines Projektleiters: Ziel, Daten, Befugnisgrenzen, Pilot und Entscheidungsprotokolle.",
+        "es": "¿Qué hace un director de proyectos en proyectos de agentes de IA, LLM con RAG y ajuste fino? El marco de trabajo de un líder de proyecto: objetivo, datos, límites de autoridad, piloto y registros de decisiones."
       },
       "path": "yapay-zeka-projelerinde-proje-yoneticisinin-rolu",
       "icon": "groups",
@@ -25,11 +31,17 @@
       "id": "6wdaajmudl",
       "name": {
         "tr": "ISO/IEC 42001 ile yapay zekâ yönetişimi: proje liderinin kontrol listesi",
-        "en": "AI governance with ISO/IEC 42001: a checklist for the project lead"
+        "en": "AI governance with ISO/IEC 42001: a checklist for the project lead",
+        "ar": "حوكمة الذكاء الاصطناعي وفق ISO/IEC 42001: قائمة مراجعة لقائد المشروع",
+        "de": "KI-Governance mit ISO/IEC 42001: eine Checkliste für den Projektleiter",
+        "es": "Gobernanza de la IA con ISO/IEC 42001: una lista de verificación para el líder de proyecto"
       },
       "description": {
         "tr": "ISO/IEC 42001 bakışıyla bir yapay zekâ projesinde proje liderinin sorması gereken sorular: amaç, sorumlu, veri, risk, etki, üçüncü taraflar ve izleme.",
-        "en": "Questions a project lead should ask in an AI project through the lens of ISO/IEC 42001: purpose, ownership, data, risk, impact, third parties and monitoring."
+        "en": "Questions a project lead should ask in an AI project through the lens of ISO/IEC 42001: purpose, ownership, data, risk, impact, third parties and monitoring.",
+        "ar": "أسئلة ينبغي لقائد المشروع طرحها في مشروع ذكاء اصطناعي من منظور ISO/IEC 42001: الغاية والملكية والبيانات والمخاطر والأثر والأطراف الثالثة والمراقبة.",
+        "de": "Fragen, die ein Projektleiter in einem KI-Projekt aus der Sicht von ISO/IEC 42001 stellen sollte: Zweck, Verantwortlichkeit, Daten, Risiko, Auswirkungen, Drittparteien und Überwachung.",
+        "es": "Preguntas que un líder de proyecto debería plantear en un proyecto de IA desde la perspectiva de ISO/IEC 42001: propósito, responsabilidad, datos, riesgo, impacto, terceros y seguimiento."
       },
       "path": "iso-iec-42001-yapay-zeka-yonetisimi-kontrol-listesi",
       "icon": "verified_user",
@@ -46,11 +58,17 @@
       "id": "st8k4gi385",
       "name": {
         "tr": "Uzaktan ve farklı saat dilimlerinde yapay zekâ ekibi yönetmek",
-        "en": "Leading an AI team remotely across time zones"
+        "en": "Leading an AI team remotely across time zones",
+        "ar": "قيادة فريق ذكاء اصطناعي عن بُعد عبر المناطق الزمنية",
+        "de": "Ein KI-Team remote über Zeitzonen hinweg führen",
+        "es": "Cómo liderar un equipo de IA en remoto entre zonas horarias"
       },
       "description": {
         "tr": "Uzaktan çalışan, farklı saat dilimlerine yayılmış bir yapay zekâ ekibini yönetmek: yazılı iletişim, karar kayıtları, iletişim ritmi, gösterim ve devir.",
-        "en": "Managing a remote AI team spread across time zones: written communication, decision records, communication rhythm, demos and handover."
+        "en": "Managing a remote AI team spread across time zones: written communication, decision records, communication rhythm, demos and handover.",
+        "ar": "إدارة فريق ذكاء اصطناعي عن بُعد موزَّع عبر المناطق الزمنية: التواصل الكتابي وسجلات القرارات وإيقاع التواصل والعروض التجريبية والتسليم.",
+        "de": "Ein über Zeitzonen verteiltes Remote-KI-Team führen: schriftliche Kommunikation, Entscheidungsprotokolle, Kommunikationsrhythmus, Demos und Übergabe.",
+        "es": "Dirección de un equipo de IA remoto repartido en distintas zonas horarias: comunicación escrita, registro de decisiones, ritmo de comunicación, demostraciones y traspaso."
       },
       "path": "uzaktan-ve-farkli-saat-dilimlerinde-ai-ekibi-yonetmek",
       "icon": "public",

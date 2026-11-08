@@ -1,7 +1,10 @@
 {
   "name": {
     "tr": "İletişim ve Teklif İste",
-    "en": "Contact and Intro Call"
+    "en": "Contact and Intro Call",
+    "ar": "التواصل والمكالمة التعريفية",
+    "de": "Kontakt und Kennenlerngespräch",
+    "es": "Contacto y llamada introductoria"
   },
   "status": "play",
   "category": "",
@@ -25,16 +28,25 @@
   "pathnext": "",
   "description": {
     "tr": "AI projeleri için proje lideri Yunus Sevğane'den teklif isteyin: WhatsApp, telefon, e-posta. Uzaktan C-level rollere ve proje bazlı işlere açığım.",
-    "en": "Book an intro call with Yunus Sevğane, project lead for AI projects: WhatsApp, phone, e-mail. Open to remote C-level roles and project work."
+    "en": "Book an intro call with Yunus Sevğane, project lead for AI projects: WhatsApp, phone, e-mail. Open to remote C-level roles and project work.",
+    "ar": "احجز مكالمة تعريفية مع Yunus Sevğane، قائد مشاريع الذكاء الاصطناعي: WhatsApp والهاتف والبريد الإلكتروني. منفتح على أدوار C-level عن بُعد والعمل بالمشاريع.",
+    "de": "Kennenlerngespräch buchen bei Yunus Sevğane, Projektleiter für KI-Projekte: WhatsApp, Telefon, E-Mail. Offen für Remote-C-Level-Rollen und Projektarbeit.",
+    "es": "Reserve una llamada introductoria con Yunus Sevğane, líder de proyecto para proyectos de IA: WhatsApp, teléfono, correo electrónico. Abierto a puestos remotos C-level y a trabajo por proyecto."
   },
   "keyword": {
     "tr": "iletişim, teklif iste, AI proje yöneticisi, uzaktan çalışma, WhatsApp",
-    "en": "contact, book an intro call, hire AI project manager, remote AI team lead, WhatsApp"
+    "en": "contact, book an intro call, hire AI project manager, remote AI team lead, WhatsApp",
+    "ar": "تواصل معي, احجز مكالمة تعريفية, توظيف مدير مشاريع ذكاء اصطناعي, قائد فريق ذكاء اصطناعي عن بُعد, WhatsApp",
+    "de": "Kontakt, Kennenlerngespräch buchen, KI-Projektmanager engagieren, Remote-KI-Teamleiter, WhatsApp",
+    "es": "contacto, reservar una llamada introductoria, contratar director de proyectos de IA, líder de equipo de IA remoto, WhatsApp"
   },
-  "update": "2026-11-08T04:45:25.444Z",
+  "update": "2026-11-08T05:20:16.355Z",
   "date": "2025-12-13T03:26:52.490Z",
   "title": {
     "tr": "İletişim ve Teklif İste — Yunus Sevğane, AI Proje Lideri",
-    "en": "Contact — Book an Intro Call | Yunus Sevğane"
+    "en": "Contact — Book an Intro Call | Yunus Sevğane",
+    "ar": "تواصل معي — احجز مكالمة تعريفية | Yunus Sevğane",
+    "de": "Kontakt — Kennenlerngespräch buchen | Yunus Sevğane",
+    "es": "Contacto — Reservar una llamada introductoria | Yunus Sevğane"
   }
 }
