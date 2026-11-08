@@ -272,6 +272,33 @@ Bu eğitimleri proje yönetimi sürecime nasıl yansıttığımı Proje Yönetim
 
 ---
 
+## Blog
+https://sevgane.com/tr/blog/
+
+Yapay zekâ projelerinde proje yönetimi, ISO/IEC 42001 yönetişimi ve uzaktan ekip liderliği üzerine yazılar.
+
+Blog
+Yapay zekâ projelerinde proje yönetimi, ISO/IEC 42001 bakışıyla yönetişim ve uzaktan ekip liderliği üzerine notlar. Yazılar yalnızca kendi çalışma yöntemimi ve bilgi birikimimi anlatır; belirli bir müşteri ya da ölçülmüş sonuç iddiası içermez.
+Proje Yönetimi · 8 Kasım 2026 · 3 dk okuma
+Yapay zekâ projelerinde proje yöneticisinin rolü
+AI agent, LLM RAG ve ince ayar projelerinde proje yöneticisi ne yapar? Hedef, veri, yetki sınırı, pilot ve karar kayıtlarıyla bir proje liderinin çalışma çerçevesi.
+Yazıyı oku →
+Yönetişim · 8 Kasım 2026 · 3 dk okuma
+ISO/IEC 42001 ile yapay zekâ yönetişimi: proje liderinin kontrol listesi
+ISO/IEC 42001 bakışıyla bir yapay zekâ projesinde proje liderinin sorması gereken sorular: amaç, sorumlu, veri, risk, etki, üçüncü taraflar ve izleme.
+Yazıyı oku →
+Ekip Liderliği · 8 Kasım 2026 · 3 dk okuma
+Uzaktan ve farklı saat dilimlerinde yapay zekâ ekibi yönetmek
+Uzaktan çalışan, farklı saat dilimlerine yayılmış bir yapay zekâ ekibini yönetmek: yazılı iletişim, karar kayıtları, iletişim ritmi, gösterim ve devir.
+Yazıyı oku →
+Bu blogda hangi konular var?
+Yapay zekâ projelerinde (AI agent, LLM RAG, ince ayar) proje yöneticisinin rolü ve karar çerçevesi
+ISO/IEC 42001 bakışıyla yapay zekâ yönetişimi: amaç, sorumluluk, veri, risk ve izleme soruları
+Uzaktan ve farklı saat dilimlerinde ekip yönetimi: yazılı karar, ortak pano, iletişim ritmi, devir
+Bir konuyu kendi projenizde konuşmak isterseniz iletişim sayfasından yazabilir, çalışma yöntemimi Çalışma Biçimi sayfasında okuyabilirsiniz.
+
+---
+
 ## İletişim ve Teklif İste
 https://sevgane.com/tr/iletisim/
 
@@ -1006,3 +1033,118 @@ Entegrasyon sayısı üçten fazladır; hangi pazaryeri için ihtiyacınız oldu
 Entegrasyondan sonra bakım gerekir mi?
 Pazaryerleri API'lerini güncelleyebilir; bu yüzden izleme ve bakım düzeni teslimde birlikte planlanır.
 Başlamak için: hedefinizi iki üç cümleyle İletişim ve Teklif İste sayfasından ya da WhatsApp (+90 531 679 10 14) üzerinden yazın. Yöntemimin bütünü için Proje Yönetimi , çalışma ritmim için Çalışma Biçimi , diğer alanlar için Hizmetlerim sayfasına bakabilirsiniz. Uzaktan çalışmaya açığım; farklı saat dilimlerindeki ekiplerle çalışma deneyimim SSS sayfasında.
+
+---
+
+## Yapay zekâ projelerinde proje yöneticisinin rolü
+https://sevgane.com/tr/yapay-zeka-projelerinde-proje-yoneticisinin-rolu/
+
+AI agent, LLM RAG ve ince ayar projelerinde proje yöneticisi ne yapar?
+
+Yapay zekâ projelerinde proje yöneticisinin rolü
+Proje Yönetimi · 8 Kasım 2026 · 3 dk okuma · Yunus Sevğane
+Yapay zekâ projelerinde en sık sorulan soru «hangi model?» sorusudur. Oysa bu projelerin çoğu modelin yeteneğinden önce hedefin, verinin ve sorumluluğun belirsizliğinde tıkanır. Proje yöneticisinin işi tam olarak bu boşlukları kapatmaktır. Aşağıda bu rolü nasıl tarif ettiğimi anlatıyorum; bu bir vaka anlatısı ya da ölçülmüş bir sonuç değil, çalışma yöntemimin özeti.
+Proje yöneticisi modeli seçmez, karar çerçevesini kurar
+Yazılım geliştirici kökenli bir proje yöneticisi olarak şunu görüyorum: yapay zekâ projesinde teknik ekip «ne yapılabilir» sorusuna, iş tarafı «ne işe yarar» sorusuna bakar. Aradaki soruyu, yani «hangi karar ya da süreç hangi göstergeyle iyileşecek?» sorusunu sahiplenen kimse yoksa proje demo aşamasında takılır. Proje yöneticisinin ilk katkısı bu soruyu yazılı hâle getirmek, kapsam dışı kalanları da aynı belgeye eklemektir.
+AI agent projelerinde: yetki sınırı ve insan onayı
+Bir AI agent, araç çağırabilen ve adım adım ilerleyen bir süreçtir. Bu yüzden yönetim sorusu «ne kadar akıllı?» değil «neye dokunabilir?» olur. Proje başında şunları netleştiririm:
+Agent hangi araçlara ve hangi verilere erişebilir; hangi işlemleri yalnızca okuyabilir, hangilerini değiştirebilir?
+Hangi adımlarda insan onayı zorunludur?
+Agent takıldığında ya da yanlış yaptığında ne olur; geri alma ve devralma yolu nedir?
+Çalışma kayıtları nerede tutulur ve kim inceler?
+LLM RAG projelerinde: kaynak, güncellik ve yetkilendirme
+RAG, modelin kurum belgelerinden yanıt üretmesini sağlar; başarısı çoğu zaman modelden çok belgelerin durumuna bağlıdır. Hangi belgeler kaynak olacak, kim güncelleyecek, eski sürümler nasıl ayıklanacak, kullanıcı yalnızca yetkili olduğu belgeden mi yanıt alacak? Bunlar teknik ayrıntı gibi görünse de proje planının ilk haftalarında karara bağlanması gereken iş kararlarıdır. Ayrıca yanıtın dayanağının gösterilebilir olmasını kabul ölçütüne yazarım: kullanıcı «bunu nereden çıkardın?» diye sorduğunda kaynak belge izlenebilmelidir.
+İnce ayar (fine-tuning) projelerinde: önce gerekli mi?
+İnce ayar çoğu zaman ilk akla gelen çözümdür, ama her zaman ilk çözüm olmamalıdır. İstem düzenlemesi ya da RAG ihtiyacı karşılıyorsa ince ayar ek maliyet ve bakım yükü getirir. Karar verilirse proje yöneticisi şunları ister: eğitim verisinin kaynağı ve kullanım hakkı, içinde kişisel veri olup olmadığı, değerlendirme için ayrılmış ayrı bir örnek kümesi ve beklenen sonuca ulaşılamazsa geri dönüş planı.
+Ortak omurga: pilot, ölçüm, karar
+Üç tür projede de aynı sırayı izlerim: hedefi ve başarı ölçütünü yazmak, küçük bir kapsamda pilot kurmak, sonucu gerçek örneklerle ölçmek ve genişletme, durdurma ya da yön değiştirme kararını yazılı almak. Pilotun amacı «çalıştı» demek değil, bir sonraki kararı bilgiyle vermektir. Durdurma kararı da başarılı bir pilot çıktısı olabilir; yanlış bir ürüne yatırım yapmadan öğrenmiş olursunuz.
+Proje yöneticisinin teslimleri
+Kapsam ve kabul ölçütleri belgesi: iş sorusu, kullanıcı, veri, kapsam dışı maddeler.
+Veri, erişim ve risk kaydı: her riskin sahibi ve önlemi yazılı.
+Pilot sonuç özeti: gerçek örneklerle birlikte, genişletme önerisiyle.
+Karar kayıtları: kim, neye, hangi gerekçeyle karar verdi.
+Devir: ekibin sistemi bensiz işletebilmesi için kullanım ve bakım bilgisi.
+Kısacası
+Yapay zekâ projesinde proje yöneticisi, modelin yerine geçen kişi değildir; modelin içinde çalışacağı işi, veriyi, yetkiyi ve kararı tanımlayan kişidir. Bu yaklaşımı kendi çalışmamda nasıl uyguladığımı Yapay Zekâ Projeleri ve Proje Yönetimi sayfalarında bulabilirsiniz.
+Yazar: Yunus Sevğane
+Yazılım kökenli proje yöneticisi. Yapay zekâ projelerinde proje lideri / ekip kaptanı olarak uzaktan C-level rollere (Head of AI, AI Program Director) açığım.
+Hakkımda · Teklif iste
+
+---
+
+## ISO/IEC 42001 ile yapay zekâ yönetişimi: proje liderinin kontrol listesi
+https://sevgane.com/tr/iso-iec-42001-yapay-zeka-yonetisimi-kontrol-listesi/
+
+ISO/IEC 42001 bakışıyla bir yapay zekâ projesinde proje liderinin sorması gereken sorular: amaç, sorumlu, veri, risk, etki, üçüncü taraflar ve izleme.
+
+ISO/IEC 42001 ile yapay zekâ yönetişimi: proje liderinin kontrol listesi
+Yönetişim · 8 Kasım 2026 · 3 dk okuma · Yunus Sevğane
+ISO/IEC 42001:2023, yapay zekâ için bir yönetim sistemi standardıdır; yani tek bir modeli ya da ürünü değil, bir kurumun yapay zekâyı nasıl yönettiğini tarif eder. 2025’te bu standart için baş denetçi eğitimi aldım. Bu yazı bir belgelendirme iddiası ya da standardın yerine geçen bir rehber değil; eğitimden ve proje yönetimi deneyimimden süzdüğüm, proje liderinin işini kolaylaştıran bir soru listesidir.
+Önce bir ayrım: kurum belgesi ve çalışma yöntemi
+ISO/IEC 42001 kurumlar için belgelendirilebilen bir yönetim sistemi standardıdır. Ben bir kurumun belgesini taşımıyorum; baş denetçi eğitiminden edindiğim bakışı, proje seviyesinde bir çalışma yöntemi olarak kullanıyorum. Yani aşağıdaki liste, projenin başında «yönetişim sonradan eklenmesin» diyen bir proje liderinin soru listesidir. Kurumsal bir belgelendirme hedefiniz varsa bu liste yalnızca iyi bir başlangıç noktasıdır, yerine geçmez.
+1. Amaç ve kapsam
+Yapay zekâ sistemi hangi iş sorusuna ya da sürece hizmet ediyor?
+Kim için, hangi bağlamda kullanılacak; kullanılmayacağı durumlar neler?
+Kapsam dışı maddeler yazılı mı?
+2. Sorumluluk ve roller
+Sistemin iş sahibi kim; teknik sahibi kim?
+Çıktıya itiraz edildiğinde ya da hata fark edildiğinde kime gidilir?
+Karar yetkileri (genişletme, durdurma, geri alma) kimde?
+3. Veri
+Veri nereden geliyor, kullanım hakkı ve izni var mı?
+Kişisel veri içeriyor mu; içeriyorsa hangi kural ve koruma uygulanıyor?
+Kim hangi veriye erişebilir; saklama ve silme kuralı nedir?
+Veri kalitesi ve güncelliği kim tarafından, nasıl izleniyor?
+4. Risk ve etki değerlendirmesi
+Sistemin yanlış çalışması kimi, nasıl etkiler?
+Riskler bir kayıtta, sahibi ve önlemiyle birlikte tutuluyor mu?
+İnsan onayı gereken noktalar belirlenmiş mi?
+Yanlış, önyargılı ya da uydurma çıktı olasılığı için nasıl bir kontrol var?
+5. Yaşam döngüsü ve değişiklik
+Tasarım, test, devreye alma, bakım ve emekli etme adımları tanımlı mı?
+Model, istem ya da veri değiştiğinde yeniden değerlendirme yapılıyor mu?
+Değişiklikler kayıt altında mı?
+6. Üçüncü taraflar
+Hangi dış model, servis ya da veri sağlayıcısı kullanılıyor?
+Bu sağlayıcıya hangi veri gidiyor; sözleşme ve gizlilik koşulları bunu karşılıyor mu?
+Sağlayıcı değişirse ya da hizmet durursa ne olur?
+7. İzleme ve iyileştirme
+Sistem canlıdayken neyi, hangi sıklıkla izliyoruz?
+Kullanıcılar sorun bildirebiliyor mu; bildirimler kimin önüne düşüyor?
+Bulgular sonraki iyileştirme kararına nasıl dönüşüyor?
+Bu listeyi projede nasıl kullanıyorum?
+Listeyi bir denetim formu gibi değil, planlamanın bir parçası olarak kullanırım. İlk haftalarda yanıtlar toplanır; cevaplanamayan sorular risk kaydına girer, sahibi ve tarihiyle. Pilot sonrasında liste yeniden gözden geçirilir ve genişletme kararı bu cevaplara bakılarak verilir. Böylece yönetişim, projenin sonunda eklenen bir belge yığını yerine kararları besleyen bir kayıt hâline gelir.
+Standardın kendisini ve kurumunuz için belgelendirme gerekip gerekmediğini değerlendirmek ayrı bir iştir; bu konuda bağımsız bir uzmandan ya da yetkili bir belgelendirme kuruluşundan destek almanızı öneririm. Benim çalışma yaklaşımım için Bilgi Güvenliği ve ISO Uyumu ile Yapay Zekâ Projeleri sayfalarına bakabilirsiniz.
+Yazar: Yunus Sevğane
+Yazılım kökenli proje yöneticisi. Yapay zekâ projelerinde proje lideri / ekip kaptanı olarak uzaktan C-level rollere (Head of AI, AI Program Director) açığım.
+Hakkımda · Teklif iste
+
+---
+
+## Uzaktan ve farklı saat dilimlerinde yapay zekâ ekibi yönetmek
+https://sevgane.com/tr/uzaktan-ve-farkli-saat-dilimlerinde-ai-ekibi-yonetmek/
+
+Uzaktan çalışan, farklı saat dilimlerine yayılmış bir yapay zekâ ekibini yönetmek: yazılı iletişim, karar kayıtları, iletişim ritmi, gösterim ve devir.
+
+Uzaktan ve farklı saat dilimlerinde yapay zekâ ekibi yönetmek
+Ekip Liderliği · 8 Kasım 2026 · 3 dk okuma · Yunus Sevğane
+Uzaktan çalışan bir ekibi yönetmenin zor tarafı ekibin uzakta olması değil, bilginin kişilerin kafasında kalmasıdır. Farklı saat dilimlerinde bu daha da görünür olur: bir kişi uyurken öbürü karar bekler. Aşağıda uzaktan ve farklı saat dilimlerinde ekiplerle çalışırken kullandığım alışkanlıkları sıralıyorum. Bunlar benim çalışma düzenimin özeti; belirli bir müşteri ya da ölçülmüş bir sonuç iddiası değil.
+1. Yazılı olmayan karar, verilmemiş karardır
+Toplantıda alınan karar ancak yazıya dökülünce ekibin ortak bilgisi olur. Her kritik karar için kısa bir kayıt tutarım: ne kararlaştırıldı, kim karar verdi, neden, hangi seçenekler elendi. Bu kayıt hem farklı saat diliminde uyanan kişinin sabah ilk okuyacağı şeydir hem de üç ay sonra «bunu neden böyle yapmıştık?» sorusunun cevabıdır.
+2. Ortak görev panosu
+Kim neyle ilgileniyor sorusunun cevabı tek bir yerde olmalıdır. İşi küçük, tamamlanabilir parçalara bölerim; her parçanın bir sahibi, bir kabul ölçütü ve bir durumu olur. Böylece kimse «şu an ne yapıyorsun?» diye sormak zorunda kalmaz, durum panodan okunur.
+3. İletişim ritmini baştan belirlemek
+Proje başında ritmi birlikte konuşurum: haftalık kısa bir durum özeti, her sprint sonunda bir gösterim ve kritik kararlar için yazılı kayıt. Hızlı sorular için anlık mesajlaşma, kayıt altında kalması gereken konular için e-posta ya da pano kullanırım. Ritim baştan belli olunca «ne zaman haber alacağız?» belirsizliği ortadan kalkar.
+4. Saat dilimi farkını plana katmak
+Ortak çalışma saatleri azsa bu saatleri toplantıya değil, gerçekten eşzamanlı konuşma gerektiren konulara ayırırım. Geri kalan her şey eşzamansız ilerleyebilmelidir: net soru yazmak, karar için gerekli bağlamı mesajın içine koymak, cevabı bekleyen işin ne zaman kritik hâle geleceğini belirtmek. İyi yazılmış bir soru, bir toplantının yerini tutabilir.
+5. Gösterim ve çalışan çıktı
+Uzaktan çalışırken «ilerliyoruz» demek yetmez. Her sprint sonunda çalışan bir çıktıyı gösteririm; yapay zekâ projelerinde bu bir pilot sonucu, bir agent akışının kaydı ya da RAG yanıtlarının kaynaklarıyla birlikte örnekleri olabilir. Gösterim, ekibin ve karar vericilerin aynı şeye bakarak konuşmasını sağlar.
+6. Riskler sahibiyle birlikte görünür olsun
+Uzak ekiplerde sorunlar geç fark edilir, çünkü koridorda karşılaşma yoktur. Bu yüzden riskleri bir kayıtta, sahibi ve önlemiyle tutarım ve durum özetinde en üstte gösteririm. Kötü haber saklandıkça büyür; kaydın amacı onu erken ve sakin biçimde konuşulabilir kılmaktır.
+7. Devir: iş bir kişiye bağlı kalmasın
+Dağınık bir ekipte bir kişinin yokluğu daha pahalıdır. Bu yüzden teknik dokümantasyonu ve kullanım bilgisini işin sonuna bırakmaz, süreç boyunca güncel tutarım; teslimde ekibe kısa bir bilgi aktarımı yaparım. Amaç, sistemin benim olmadan da işletilebilmesidir.
+Özet
+Uzaktan çalışmak, daha çok toplantı değil daha net yazı demektir: yazılı karar, ortak pano, belirli bir ritim, çalışan çıktı ve görünür risk. Uzaktan ve farklı saat dilimlerinde çalışma biçimimi Çalışma Biçimi sayfasında, sık sorulanları SSS sayfasında bulabilirsiniz.
+Yazar: Yunus Sevğane
+Yazılım kökenli proje yöneticisi. Yapay zekâ projelerinde proje lideri / ekip kaptanı olarak uzaktan C-level rollere (Head of AI, AI Program Director) açığım.
+Hakkımda · Teklif iste

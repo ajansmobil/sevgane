@@ -145,6 +145,29 @@
       "menu": null
     },
     {
+      "id": "tc41vihvbd",
+      "name": {
+        "tr": "Blog",
+        "en": "Blog"
+      },
+      "description": {
+        "tr": "Yapay zekâ projelerinde proje yönetimi, ISO/IEC 42001 yönetişimi ve uzaktan ekip liderliği üzerine yazılar. Yazar: Yunus Sevğane.",
+        "en": "Posts on project management in AI projects, ISO/IEC 42001 governance and remote team leadership. Written by Yunus Sevğane."
+      },
+      "path": "blog",
+      "icon": "article",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "wis0b2"
+        ],
+        "footer": []
+      },
+      "index": 6
+    },
+    {
       "name": {
         "tr": "İletişim ve Teklif İste",
         "en": "Contact and Intro Call"
@@ -154,7 +177,7 @@
       "id": "xnzu5au0ag",
       "url": "",
       "path": "iletisim",
-      "index": 6,
+      "index": 7,
       "icon": "home",
       "desing": {
         "header": [],

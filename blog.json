@@ -1,0 +1,75 @@
+{
+  "data": [
+    {
+      "id": "0pkocj5q9o",
+      "name": {
+        "tr": "Yapay zekâ projelerinde proje yöneticisinin rolü",
+        "en": "The role of the project manager in AI projects"
+      },
+      "description": {
+        "tr": "AI agent, LLM RAG ve ince ayar projelerinde proje yöneticisi ne yapar? Hedef, veri, yetki sınırı, pilot ve karar kayıtlarıyla bir proje liderinin çalışma çerçevesi.",
+        "en": "What does a project manager do in AI agent, LLM RAG and fine-tuning projects? A project lead’s working frame: goal, data, authority limits, pilot and decision records."
+      },
+      "path": "yapay-zeka-projelerinde-proje-yoneticisinin-rolu",
+      "icon": "groups",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "id": "6wdaajmudl",
+      "name": {
+        "tr": "ISO/IEC 42001 ile yapay zekâ yönetişimi: proje liderinin kontrol listesi",
+        "en": "AI governance with ISO/IEC 42001: a checklist for the project lead"
+      },
+      "description": {
+        "tr": "ISO/IEC 42001 bakışıyla bir yapay zekâ projesinde proje liderinin sorması gereken sorular: amaç, sorumlu, veri, risk, etki, üçüncü taraflar ve izleme.",
+        "en": "Questions a project lead should ask in an AI project through the lens of ISO/IEC 42001: purpose, ownership, data, risk, impact, third parties and monitoring."
+      },
+      "path": "iso-iec-42001-yapay-zeka-yonetisimi-kontrol-listesi",
+      "icon": "verified_user",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 1
+    },
+    {
+      "id": "st8k4gi385",
+      "name": {
+        "tr": "Uzaktan ve farklı saat dilimlerinde yapay zekâ ekibi yönetmek",
+        "en": "Leading an AI team remotely across time zones"
+      },
+      "description": {
+        "tr": "Uzaktan çalışan, farklı saat dilimlerine yayılmış bir yapay zekâ ekibini yönetmek: yazılı iletişim, karar kayıtları, iletişim ritmi, gösterim ve devir.",
+        "en": "Managing a remote AI team spread across time zones: written communication, decision records, communication rhythm, demos and handover."
+      },
+      "path": "uzaktan-ve-farkli-saat-dilimlerinde-ai-ekibi-yonetmek",
+      "icon": "public",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 2
+    }
+  ],
+  "desc": [],
+  "desing": {
+    "header": [],
+    "body": [
+      "tp5jo4"
+    ],
+    "footer": []
+  }
+}

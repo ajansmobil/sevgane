@@ -120,6 +120,24 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://sevgane.com/tr/blog/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/blog/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/blog/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/blog/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sevgane.com/en/blog/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/blog/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/blog/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/blog/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://sevgane.com/tr/iletisim/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/iletisim/" />
         <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/iletisim/" />
@@ -421,6 +439,60 @@
         <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/pazaryeri-entegrasyonlari/" />
         <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/pazaryeri-entegrasyonlari/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/pazaryeri-entegrasyonlari/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sevgane.com/tr/yapay-zeka-projelerinde-proje-yoneticisinin-rolu/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/yapay-zeka-projelerinde-proje-yoneticisinin-rolu/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/yapay-zeka-projelerinde-proje-yoneticisinin-rolu/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/yapay-zeka-projelerinde-proje-yoneticisinin-rolu/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sevgane.com/en/yapay-zeka-projelerinde-proje-yoneticisinin-rolu/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/yapay-zeka-projelerinde-proje-yoneticisinin-rolu/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/yapay-zeka-projelerinde-proje-yoneticisinin-rolu/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/yapay-zeka-projelerinde-proje-yoneticisinin-rolu/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sevgane.com/tr/iso-iec-42001-yapay-zeka-yonetisimi-kontrol-listesi/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/iso-iec-42001-yapay-zeka-yonetisimi-kontrol-listesi/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/iso-iec-42001-yapay-zeka-yonetisimi-kontrol-listesi/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/iso-iec-42001-yapay-zeka-yonetisimi-kontrol-listesi/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sevgane.com/en/iso-iec-42001-yapay-zeka-yonetisimi-kontrol-listesi/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/iso-iec-42001-yapay-zeka-yonetisimi-kontrol-listesi/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/iso-iec-42001-yapay-zeka-yonetisimi-kontrol-listesi/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/iso-iec-42001-yapay-zeka-yonetisimi-kontrol-listesi/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sevgane.com/tr/uzaktan-ve-farkli-saat-dilimlerinde-ai-ekibi-yonetmek/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/uzaktan-ve-farkli-saat-dilimlerinde-ai-ekibi-yonetmek/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/uzaktan-ve-farkli-saat-dilimlerinde-ai-ekibi-yonetmek/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/uzaktan-ve-farkli-saat-dilimlerinde-ai-ekibi-yonetmek/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sevgane.com/en/uzaktan-ve-farkli-saat-dilimlerinde-ai-ekibi-yonetmek/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/uzaktan-ve-farkli-saat-dilimlerinde-ai-ekibi-yonetmek/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/uzaktan-ve-farkli-saat-dilimlerinde-ai-ekibi-yonetmek/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/uzaktan-ve-farkli-saat-dilimlerinde-ai-ekibi-yonetmek/" />
         <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>

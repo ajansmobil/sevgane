@@ -2,7 +2,8 @@
   "data": [
     {
       "name": {
-        "tr": "Sayfalar"
+        "tr": "Sayfalar",
+        "en": ""
       },
       "path": "page",
       "desc": [],
@@ -25,7 +26,8 @@
     },
     {
       "name": {
-        "tr": "Profil"
+        "tr": "Profil",
+        "en": ""
       },
       "path": "kurumsal",
       "desc": [],
@@ -49,7 +51,8 @@
     },
     {
       "name": {
-        "tr": "Hizmetler"
+        "tr": "Hizmetler",
+        "en": ""
       },
       "path": "services",
       "desc": [],
@@ -63,6 +66,26 @@
         ],
         "footer": []
       }
+    },
+    {
+      "name": {
+        "tr": "Blog",
+        "en": "Blog"
+      },
+      "path": "blog",
+      "icon": "article",
+      "active": true,
+      "desc": [],
+      "data": [],
+      "desing": {
+        "header": [],
+        "body": [
+          "tp5jo4"
+        ],
+        "footer": []
+      },
+      "modulestatus": {},
+      "index": 3
     }
   ]
 }
