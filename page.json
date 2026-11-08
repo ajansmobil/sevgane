@@ -7,8 +7,8 @@
         "en": "Project Management"
       },
       "description": {
-        "tr": "Yapay zekâ projelerinde proje lideri / ekip kaptanı: keşiften bakıma yöntem, kapsam-bütçe-risk kontrolü, ISO/IEC 42001 yönetişimi. Uzaktan C-level rollere açığım.",
-        "en": "AI project manager and team lead: a discovery-to-maintenance method, scope-budget-risk control and ISO/IEC 42001 governance. Open to remote C-level roles such as Head of AI."
+        "tr": "Yapay zekâ projelerinde proje lideri / ekip kaptanı: keşiften bakıma yöntem, kapsam-bütçe-risk kontrolü, ISO 42001. Uzaktan C-level rollere açığım.",
+        "en": "AI project manager and team lead: discovery-to-maintenance method, scope-budget-risk control, ISO 42001 governance. Open to remote C-level roles."
       },
       "path": "proje-yonetimi",
       "icon": "account_tree",
@@ -44,8 +44,8 @@
       },
       "pathnext": "",
       "description": {
-        "tr": "Yapay zekâ projeleri, proje yönetimi, web, mobil, backend, DevOps, bilgi güvenliği/ISO, IT danışmanlık ve pazaryeri entegrasyonu: her alanda adım adım yönetim yöntemim.",
-        "en": "AI projects, project management, web, mobile, backend, DevOps, information security/ISO, IT consulting and marketplace integration — and how I manage each area step by step."
+        "tr": "Yapay zekâ projeleri, proje yönetimi, web, mobil, backend, DevOps, ISO uyumu, IT danışmanlık ve pazaryeri entegrasyonu: her alanda yönetim yöntemim.",
+        "en": "AI projects, project management, web, mobile, backend, DevOps, ISO compliance, IT consulting and marketplace integration — how I manage each area."
       }
     },
     {
@@ -78,7 +78,7 @@
         "en": "Résumé"
       },
       "description": {
-        "tr": "Yunus Sevğane özgeçmişi: 2006'dan bugüne çalışma geçmişi, AI ve ISO eğitimleri, yetkinlikler, teknik araçlar ve uzaktan çalışma deneyimi (Kanada, Dubai, Almanya, İngiltere).",
+        "tr": "Yunus Sevğane özgeçmişi: 2006'dan bugüne çalışma geçmişi, AI ve ISO eğitimleri, yetkinlikler ve uzaktan çalışma deneyimi (Kanada, Dubai, Almanya, İngiltere).",
         "en": "Yunus Sevğane's résumé: work history since 2006, AI and ISO training, skills, technical tools and remote work experience (Canada, Dubai, Germany, UK)."
       },
       "path": "ozgecmis",
@@ -170,8 +170,8 @@
       },
       "pathnext": "",
       "description": {
-        "tr": "AI projeleri için proje lideri / ekip kaptanı Yunus Sevğane'den teklif isteyin: WhatsApp, telefon ve e-posta. Uzaktan C-level rollere ve proje bazlı işlere açığım.",
-        "en": "Book an intro call with Yunus Sevğane, project lead / team captain for AI projects: WhatsApp, phone and e-mail. Open to remote C-level roles and project engagements."
+        "tr": "AI projeleri için proje lideri Yunus Sevğane'den teklif isteyin: WhatsApp, telefon, e-posta. Uzaktan C-level rollere ve proje bazlı işlere açığım.",
+        "en": "Book an intro call with Yunus Sevğane, project lead for AI projects: WhatsApp, phone, e-mail. Open to remote C-level roles and project work."
       }
     }
   ],

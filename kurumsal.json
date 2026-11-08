@@ -17,8 +17,8 @@
       "index": 0,
       "icon": "home",
       "description": {
-        "tr": "Yunus Sevğane kimdir? Yazılım kökenli proje yöneticisi; yapay zekâ projelerinde proje lideri / ekip kaptanı olarak uzaktan C-level rollere açık. 2014'ten beri 200+ web sitesi, 10+ mobil uygulama.",
-        "en": "Who is Yunus Sevğane? A project manager with a software engineering background, open to remote C-level roles leading AI projects. 200+ websites and 10+ mobile apps since 2014."
+        "tr": "Yunus Sevğane kimdir? Yazılım kökenli proje yöneticisi; AI projelerinde proje lideri olarak uzaktan C-level rollere açık. 200+ web sitesi, 10+ mobil uygulama.",
+        "en": "Who is Yunus Sevğane? A project manager with a software background, open to remote C-level roles leading AI projects. 200+ websites, 10+ mobile apps."
       }
     },
     {
@@ -28,7 +28,7 @@
         "en": "How I Work"
       },
       "description": {
-        "tr": "Yapay zekâ ve yazılım projelerinde nasıl çalıştığım: ön görüşme, yazılı kapsam, düzenli durum bildirimi, aşamalı teslim, uzaktan ve farklı saat dilimlerinde çalışma düzeni.",
+        "tr": "AI ve yazılım projelerinde nasıl çalışırım: ön görüşme, yazılı kapsam, düzenli durum bildirimi, aşamalı teslim, uzaktan ve farklı saat dilimlerinde çalışma.",
         "en": "How I work on AI and software projects: intro call, written scope, regular status updates, staged delivery and a remote working routine across time zones."
       },
       "path": "calisma-bicimi",

@@ -6,14 +6,14 @@ Web: https://sevgane.com/tr/ · Telefon: +90 531 679 10 14 · E-posta: yunus@web
 
 ## Sayfalar
 - [Yunus Sevğane — AI Proje Lideri ve Ekip Kaptanı](https://sevgane.com/tr/): Yapay zekâ projelerinde proje lideri / ekip kaptanı; Head of AI ve AI Program Director gibi uzaktan C-level rollere açığım.
-- [Proje Yönetimi](https://sevgane.com/tr/proje-yonetimi/): Yapay zekâ projelerinde proje lideri / ekip kaptanı: keşiften bakıma yöntem, kapsam-bütçe-risk kontrolü, ISO/IEC 42001 yönetişimi.
-- [Hizmetlerim](https://sevgane.com/tr/services/): Yapay zekâ projeleri, proje yönetimi, web, mobil, backend, DevOps, bilgi güvenliği/ISO, IT danışmanlık ve pazaryeri entegrasyonu: her alanda adım adım yönetim yöntemim.
+- [Proje Yönetimi](https://sevgane.com/tr/proje-yonetimi/): Yapay zekâ projelerinde proje lideri / ekip kaptanı: keşiften bakıma yöntem, kapsam-bütçe-risk kontrolü, ISO 42001.
+- [Hizmetlerim](https://sevgane.com/tr/services/): Yapay zekâ projeleri, proje yönetimi, web, mobil, backend, DevOps, ISO uyumu, IT danışmanlık ve pazaryeri entegrasyonu: her alanda yönetim yöntemim.
 - [Projeler ve Vaka Çalışmaları](https://sevgane.com/tr/projeler/): 200+ kurumsal web sitesi, 10+ mobil uygulama, 3+ pazaryeri entegrasyonu, altyapı ve yapay zekâ projeleri: proje türlerine göre yürüttüğüm işler ve rolüm.
-- [Özgeçmiş](https://sevgane.com/tr/ozgecmis/): Yunus Sevğane özgeçmişi: 2006'dan bugüne çalışma geçmişi, AI ve ISO eğitimleri, yetkinlikler, teknik araçlar ve uzaktan çalışma deneyimi (Kanada, Dubai, Almanya, İngiltere).
+- [Özgeçmiş](https://sevgane.com/tr/ozgecmis/): Yunus Sevğane özgeçmişi: 2006'dan bugüne çalışma geçmişi, AI ve ISO eğitimleri, yetkinlikler ve uzaktan çalışma deneyimi (Kanada, Dubai, Almanya, İngiltere).
 - [Sertifikalar](https://sevgane.com/tr/sertifikalar/): Eğitim ve sertifikalar: ISO/IEC 42001 (yapay zekâ yönetişimi), 27001, 9001, 20000-1 baş denetçi eğitimleri; siber güvenlik, etik hacker, adli bilişim.
-- [İletişim ve Teklif İste](https://sevgane.com/tr/iletisim/): AI projeleri için proje lideri / ekip kaptanı Yunus Sevğane'den teklif isteyin: WhatsApp, telefon ve e-posta.
+- [İletişim ve Teklif İste](https://sevgane.com/tr/iletisim/): AI projeleri için proje lideri Yunus Sevğane'den teklif isteyin: WhatsApp, telefon, e-posta.
 - [Hakkımda](https://sevgane.com/tr/hakkimizda/): Yunus Sevğane kimdir?
-- [Çalışma Biçimi](https://sevgane.com/tr/calisma-bicimi/): Yapay zekâ ve yazılım projelerinde nasıl çalıştığım: ön görüşme, yazılı kapsam, düzenli durum bildirimi, aşamalı teslim, uzaktan ve farklı saat dilimlerinde çalışma düzeni.
+- [Çalışma Biçimi](https://sevgane.com/tr/calisma-bicimi/): AI ve yazılım projelerinde nasıl çalışırım: ön görüşme, yazılı kapsam, düzenli durum bildirimi, aşamalı teslim, uzaktan ve farklı saat dilimlerinde çalışma.
 - [Sıkça Sorulan Sorular](https://sevgane.com/tr/sss/): Uzaktan ve farklı saat dilimlerinde çalışma, açık olduğum AI rolleri, ISO 42001, çalışma modeli ve teklif süreci hakkında sık sorulan sorular.
 - [Gizlilik Politikası](https://sevgane.com/tr/gizlilik-politikasi/): sevgane.com gizlilik politikası: Yunus Sevğane tarafından hangi verilerin işlendiği, hangi amaçla kullanıldığı, ne kadar saklandığı ve nasıl korunduğu.
 - [Kişisel Veriler](https://sevgane.com/tr/kisisel-veriler/): 6698 sayılı KVKK kapsamında aydınlatma metni: veri sorumlusu Yunus Sevğane, işlenen kişisel veriler, amaçlar, hukuki sebepler ve veri aktarımı.

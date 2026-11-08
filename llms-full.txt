@@ -57,7 +57,7 @@ Teklif iste WhatsApp ile yaz
 ## Proje Yönetimi
 https://sevgane.com/tr/proje-yonetimi/
 
-Yapay zekâ projelerinde proje lideri / ekip kaptanı: keşiften bakıma yöntem, kapsam-bütçe-risk kontrolü, ISO/IEC 42001 yönetişimi.
+Yapay zekâ projelerinde proje lideri / ekip kaptanı: keşiften bakıma yöntem, kapsam-bütçe-risk kontrolü, ISO 42001.
 
 Proje Yönetimi
 Yapay zekâ projelerinde proje lideri ve ekip kaptanı
@@ -101,7 +101,7 @@ Teklif almak için: Teklif iste sayfasından ya da WhatsApp (+90 531 679 10 14) 
 ## Hizmetlerim
 https://sevgane.com/tr/services/
 
-Yapay zekâ projeleri, proje yönetimi, web, mobil, backend, DevOps, bilgi güvenliği/ISO, IT danışmanlık ve pazaryeri entegrasyonu: her alanda adım adım yönetim yöntemim.
+Yapay zekâ projeleri, proje yönetimi, web, mobil, backend, DevOps, ISO uyumu, IT danışmanlık ve pazaryeri entegrasyonu: her alanda yönetim yöntemim.
 
 Hizmetlerim
 Proje lideri olarak hizmetlerim
@@ -159,7 +159,7 @@ Teklif almak için: Teklif iste sayfasından ya da WhatsApp (+90 531 679 10 14) 
 ## Özgeçmiş
 https://sevgane.com/tr/ozgecmis/
 
-Yunus Sevğane özgeçmişi: 2006'dan bugüne çalışma geçmişi, AI ve ISO eğitimleri, yetkinlikler, teknik araçlar ve uzaktan çalışma deneyimi (Kanada, Dubai, Almanya, İngiltere).
+Yunus Sevğane özgeçmişi: 2006'dan bugüne çalışma geçmişi, AI ve ISO eğitimleri, yetkinlikler ve uzaktan çalışma deneyimi (Kanada, Dubai, Almanya, İngiltere).
 
 Özgeçmiş
 Özgeçmişim
@@ -275,7 +275,7 @@ Bu eğitimleri proje yönetimi sürecime nasıl yansıttığımı Proje Yönetim
 ## İletişim ve Teklif İste
 https://sevgane.com/tr/iletisim/
 
-AI projeleri için proje lideri / ekip kaptanı Yunus Sevğane'den teklif isteyin: WhatsApp, telefon ve e-posta.
+AI projeleri için proje lideri Yunus Sevğane'den teklif isteyin: WhatsApp, telefon, e-posta.
 
 İletişim ve Teklif İste
 Teklif iste
@@ -364,7 +364,7 @@ Eğitim ve sertifika ayrıntıları için Sertifikalar , çalışma geçmişi i�
 ## Çalışma Biçimi
 https://sevgane.com/tr/calisma-bicimi/
 
-Yapay zekâ ve yazılım projelerinde nasıl çalıştığım: ön görüşme, yazılı kapsam, düzenli durum bildirimi, aşamalı teslim, uzaktan ve farklı saat dilimlerinde çalışma düzeni.
+AI ve yazılım projelerinde nasıl çalışırım: ön görüşme, yazılı kapsam, düzenli durum bildirimi, aşamalı teslim, uzaktan ve farklı saat dilimlerinde çalışma.
 
 Çalışma Biçimi
 Birlikte çalışırken ne bekleyebilirsiniz?
