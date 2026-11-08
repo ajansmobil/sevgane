@@ -3,22 +3,22 @@
     <div class="modulextitlebody">
       <div class="modulextitlebodylang">
         <ul>
-          <li class="wm-lang-item wm-lang-active"><a href="/tr/" hreflang="tr" lang="tr" aria-current="true">TR</a></li><li class="wm-lang-item"><a href="/en/" hreflang="en" lang="en">EN</a></li><li class="wm-lang-item"><a href="/ar/" hreflang="ar" lang="ar">AR</a></li><li class="wm-lang-item"><a href="/de/" hreflang="de" lang="de">DE</a></li><li class="wm-lang-item"><a href="/es/" hreflang="es" lang="es">ES</a></li>
+          {{langhtml}}
         </ul>
       </div>
-      <button type="button" class="sv-theme-btn sv-theme-btn--bar" data-sv-theme aria-label="Açık / koyu tema" title="Açık / koyu tema"><svg class="sv-ico-sun" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/></svg><svg class="sv-ico-moon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg></button>
+      <button type="button" class="sv-theme-btn sv-theme-btn--bar" data-sv-theme aria-label="{{themeLabel}}" title="{{themeLabel}}"><svg class="sv-ico-sun" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/></svg><svg class="sv-ico-moon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg></button>
     </div>
   </div>
   <div class="modulexbody">
     <a href="/{{lang}}/">
       <img
-        src="/img/logo.png?v={{random}}"
-        alt="Yunus Sevğane — AI Proje Lideri ve Ekip Kaptanı Logo"
-        class="modulexbodylogo sv-logo-light"
+        src="/img/{{logo}}?v={{random}}"
+        alt="{{web-name}} Logo"
+        class="modulexbodylogo"
         loading="lazy"
-      /><img src="/img/logo-acik.png?v={{random}}" alt="Yunus Sevğane — AI Proje Lideri ve Ekip Kaptanı Logo" class="modulexbodylogo sv-logo-dark" loading="lazy" />
+      />{{logodark}}
     </a>
-    <button type="button" class="sv-theme-btn sv-theme-btn--mob" data-sv-theme aria-label="Açık / koyu tema" title="Açık / koyu tema"><svg class="sv-ico-sun" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/></svg><svg class="sv-ico-moon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg></button>
+    <button type="button" class="sv-theme-btn sv-theme-btn--mob" data-sv-theme aria-label="{{themeLabel}}" title="{{themeLabel}}"><svg class="sv-ico-sun" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/></svg><svg class="sv-ico-moon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg></button>
     
     <details class="modulex-lang-top">
       <summary aria-label="@language-selector@">
@@ -26,10 +26,10 @@
         <span class="material-symbols-outlined" aria-hidden="true">expand_more</span>
       </summary>
       <ul>
-        <li class="wm-lang-item wm-lang-active"><a href="/tr/" hreflang="tr" lang="tr" aria-current="true">TR</a></li><li class="wm-lang-item"><a href="/en/" hreflang="en" lang="en">EN</a></li><li class="wm-lang-item"><a href="/ar/" hreflang="ar" lang="ar">AR</a></li><li class="wm-lang-item"><a href="/de/" hreflang="de" lang="de">DE</a></li><li class="wm-lang-item"><a href="/es/" hreflang="es" lang="es">ES</a></li>
+        {{langhtml}}
       </ul>
     </details>
-    <button type="button" class="modulex-mobile-toggle" onclick="menu2_toggle()" aria-label="Menüyü aç/kapat">
+    <button type="button" class="modulex-mobile-toggle" onclick="menu2_toggle()" aria-label="{{ariaToggle}}">
       <span class="material-symbols-outlined" aria-hidden="true">menu</span>
     </button>
   </div>
@@ -37,20 +37,20 @@
   <div class="modulex-menu-backdrop" onclick="menu2_toggle()" aria-hidden="true"></div>
   <div class="modulexmenubody">
     <div class="modulexmenu" id="menu-2-root">
-      <button type="button" class="modulex-menu2-drawer-close" onclick="menu2_toggle()" aria-label="Menüyü kapat">
+      <button type="button" class="modulex-menu2-drawer-close" onclick="menu2_toggle()" aria-label="{{ariaClose}}">
         <span class="material-symbols-outlined" aria-hidden="true">close</span>
       </button>
       <div class="modulexmenulistbody">
         <div class="modulexmenulist">
           <ul>
-            <a href="/tr/">@home@</a><a href="/tr/proje-yonetimi/">Proje Yönetimi</a><div class="modulexmenulist-menu"><a href="/tr/services/">Hizmetlerim</a><div class="dropdown-content-modulex"><a href="/tr/web-gelistirme/">Web Geliştirme</a><a href="/tr/mobil-uygulama-gelistirme/">Mobil Uygulama Geliştirme</a><a href="/tr/yapay-zeka-cozumleri/">Yapay Zekâ Projeleri</a><a href="/tr/backend-sistem-mimarisi/">Backend ve Sistem Mimarisi</a><a href="/tr/devops-altyapi/">DevOps ve Altyapı</a><a href="/tr/bilgi-guvenligi-iso-27001/">Bilgi Güvenliği ve ISO Uyumu</a><a href="/tr/it-danismanlik/">IT Danışmanlık</a></div></div><a href="/tr/projeler/">Projeler ve Vaka Çalışmaları</a><a href="/tr/ozgecmis/">Özgeçmiş</a><a href="/tr/sertifikalar/">Sertifikalar</a><div class="modulexmenulist-menu"><a href="/tr/blog/">Blog</a><div class="dropdown-content-modulex"><a href="/tr/yapay-zeka-projelerinde-proje-yoneticisinin-rolu/">Yapay zekâ projelerinde proje yöneticisinin rolü</a><a href="/tr/iso-iec-42001-yapay-zeka-yonetisimi-kontrol-listesi/">ISO/IEC 42001 ile yapay zekâ yönetişimi: proje liderinin kontrol listesi</a><a href="/tr/uzaktan-ve-farkli-saat-dilimlerinde-ai-ekibi-yonetmek/">Uzaktan ve farklı saat dilimlerinde yapay zekâ ekibi yönetmek</a></div></div><a href="/tr/iletisim/">İletişim</a>
+            {{html}}
           </ul>
         </div>
       </div>
       
       <div class="modulexlanguages-mobile">
         <ul>
-          <li class="wm-lang-item wm-lang-active"><a href="/tr/" hreflang="tr" lang="tr" aria-current="true">TR</a></li><li class="wm-lang-item"><a href="/en/" hreflang="en" lang="en">EN</a></li><li class="wm-lang-item"><a href="/ar/" hreflang="ar" lang="ar">AR</a></li><li class="wm-lang-item"><a href="/de/" hreflang="de" lang="de">DE</a></li><li class="wm-lang-item"><a href="/es/" hreflang="es" lang="es">ES</a></li>
+          {{langhtml}}
         </ul>
       </div>
     </div>
