@@ -1,0 +1,169 @@
+<footer class="footer">
+  <div class="footer-top">
+    <div class="footer-logo">
+      <img class="sv-logo-light" src="/img/{{logo}}" height="60"   alt="{{web-name}} Logo" /><img class="sv-logo-dark" src="/img/logo-acik.png" height="60" alt="{{web-name}} Logo" />
+    </div>
+    <ul class="menu">
+      <li class="modulex-menu__item"><a class="modulex-menu_link" href="/tr/">@home@</a></li><li class="modulex-menu__item"><a class="modulex-menu_link" href="/tr/proje-yonetimi/">Proje Yönetimi</a></li><li class="modulex-menu__item"><a class="modulex-menu_link" href="/tr/services/">Hizmetlerim</a></li><li class="modulex-menu__item"><a class="modulex-menu_link" href="/tr/projeler/">Projeler ve Vaka Çalışmaları</a></li><li class="modulex-menu__item"><a class="modulex-menu_link" href="/tr/ozgecmis/">Özgeçmiş</a></li><li class="modulex-menu__item"><a class="modulex-menu_link" href="/tr/sertifikalar/">Sertifikalar</a></li><li class="modulex-menu__item"><a class="modulex-menu_link" href="/tr/blog/">Blog</a></li><li class="modulex-menu__item"><a class="modulex-menu_link" href="/tr/iletisim/">İletişim</a></li>
+    </ul>
+  </div>
+  <div class="footer-contact"><a href="tel:+905316791014" dir="ltr">+90 531 679 10 14</a><span class="footer-contact__sep" aria-hidden="true">&middot;</span><a href="mailto:yunus@sevgane.com">yunus@sevgane.com</a></div>
+  <div class="footer-bottom">
+    {{langbar}}
+    <p>&copy; {{web-name}} 2026. @all-rights@.</p>
+  </div>
+</footer>
+<style>
+  .footer {
+    background-color: --bgcolor--;
+    color: --color-- !important;
+    padding: 20px;
+    border-top: 5px solid --bordercolor--;
+  }
+
+  .footer-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .footer-logo {
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+  }
+
+  
+  .footer-logo img {
+    display: block;
+    height: auto;
+    width: auto;
+    max-height: --logo_maxh--;
+    max-width: 180px;
+    object-fit: contain;
+    flex-shrink: 0;
+  }
+
+  
+  .footer-logo.footer-logo--plate {
+    background: #fff;
+    border-radius: 8px;
+    padding: 6px 12px;
+  }
+
+  .menu {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .modulex-menu__item {
+    margin: 0 15px;
+  }
+
+  .modulex-menu_link {
+    color: --color-- !important;
+  }
+
+  .modulex-menu_link:hover {
+    color: var(--mx-site-primary, #2980b9);
+    text-decoration: underline;
+  }
+
+  .modulex-menu__link {
+    color: var(--mx-site-text, #ecf0f1);
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+
+  
+  .footer-contact {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 6px 10px;
+    max-width: 1200px;
+    margin: 16px auto 0;
+    font-size: 14px;
+    opacity: 0.9;
+  }
+
+  .footer-contact a {
+    color: --color--;
+    text-decoration: none;
+  }
+
+  .footer-contact a:hover {
+    text-decoration: underline;
+  }
+
+  .footer-contact .footer-contact__sep {
+    opacity: 0.6;
+  }
+
+  .footer-bottom {
+    text-align: center;
+    margin-top: 20px;
+    border-top: 1px solid #7f8c8d;
+    border-top-color: color-mix(in srgb, var(--mx-site-text, #7f8c8d) 35%, transparent);
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px; 
+  }
+
+  .footer-bottom [class*="lang"] {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 6px;
+  }
+
+  .footer-bottom p {
+    margin: 0;
+    opacity: 0.75;
+  }
+
+  @media (max-width: 768px) {
+    .footer-top {
+      flex-direction: column;
+      text-align: center;
+    }
+
+    .menu {
+      margin-top: 20px;
+    }
+
+    .modulex-menu__item {
+      margin: 6px 10px;
+    }
+
+    .footer-bottom {
+      gap: 14px;
+    }
+  }
+
+  
+  @media (max-width: 768px) {
+    [class*="modulex"] {
+      max-width: 100%;
+      box-sizing: border-box;
+    }
+  }
+
+  
+  @media (prefers-reduced-motion: reduce) {
+    [class*="modulex"],
+    [class*="modulex"] * {
+      animation: none !important;
+      transition: none !important;
+    }
+  }
+</style>

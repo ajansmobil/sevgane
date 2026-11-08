@@ -12,7 +12,7 @@ Web: https://sevgane.com/tr/ · Telefon: +90 531 679 10 14 · E-posta: yunus@sev
 - [Özgeçmiş](https://sevgane.com/tr/ozgecmis/): Yunus Sevğane özgeçmişi: 2006'dan bugüne çalışma geçmişi, AI ve ISO eğitimleri, yetkinlikler ve uzaktan çalışma deneyimi (Kanada, Dubai, Almanya).
 - [Sertifikalar](https://sevgane.com/tr/sertifikalar/): Eğitim ve sertifikalar: ISO/IEC 42001 (yapay zekâ yönetişimi), 27001, 9001, 20000-1 baş denetçi eğitimleri; siber güvenlik, etik hacker, adli bilişim.
 - [Blog](https://sevgane.com/tr/blog/): Yapay zekâ projelerinde proje yönetimi, ISO/IEC 42001 yönetişimi ve uzaktan ekip liderliği üzerine yazılar.
-- [İletişim ve Teklif İste](https://sevgane.com/tr/iletisim/): AI projeleri için proje lideri Yunus Sevğane'den teklif isteyin: WhatsApp, telefon, e-posta.
+- [İletişim](https://sevgane.com/tr/iletisim/): AI projeleri için proje lideri Yunus Sevğane'den teklif isteyin: WhatsApp, telefon, e-posta.
 - [Hakkımda](https://sevgane.com/tr/hakkimizda/): Yunus Sevğane kimdir?
 - [Çalışma Biçimi](https://sevgane.com/tr/calisma-bicimi/): AI ve yazılım projelerinde nasıl çalışırım: ön görüşme, yazılı kapsam, düzenli durum bildirimi, aşamalı teslim, uzaktan ve farklı saat dilimlerinde çalışma.
 - [Sıkça Sorulan Sorular](https://sevgane.com/tr/sss/): Uzaktan ve farklı saat dilimlerinde çalışma, açık olduğum AI rolleri, ISO 42001, çalışma modeli ve teklif süreci hakkında sık sorulan sorular.
@@ -28,7 +28,6 @@ Web: https://sevgane.com/tr/ · Telefon: +90 531 679 10 14 · E-posta: yunus@sev
 - [DevOps ve Altyapı](https://sevgane.com/tr/devops-altyapi/): Full stack DevOps: planlı, tekrarlanabilir ve geri alınabilir yayınlar; altyapı, yedekleme ve izleme düzenini nasıl yönettiğim.
 - [Bilgi Güvenliği ve ISO Uyumu](https://sevgane.com/tr/bilgi-guvenligi-iso-27001/): ISO/IEC 27001 ve 42001 baş denetçi eğitimi; siber güvenlik ve adli bilişim.
 - [IT Danışmanlık](https://sevgane.com/tr/it-danismanlik/): Teknoloji seçimi, ekip kurma ve tedarikçi koordinasyonu: ihtiyaç görüşmesinden yol haritasına IT danışmanlık yöntemim.
-- [Pazaryeri Entegrasyonları](https://sevgane.com/tr/pazaryeri-entegrasyonlari/): 3'ten fazla pazaryeri entegrasyonu: ürün, stok, fiyat ve sipariş akışı; keşiften canlıya alma ve izlemeye adım adım yöntemim.
 - [Yapay zekâ projelerinde proje yöneticisinin rolü](https://sevgane.com/tr/yapay-zeka-projelerinde-proje-yoneticisinin-rolu/): AI agent, LLM RAG ve ince ayar projelerinde proje yöneticisi ne yapar?
 - [ISO/IEC 42001 ile yapay zekâ yönetişimi: proje liderinin kontrol listesi](https://sevgane.com/tr/iso-iec-42001-yapay-zeka-yonetisimi-kontrol-listesi/): ISO/IEC 42001 bakışıyla bir yapay zekâ projesinde proje liderinin sorması gereken sorular: amaç, sorumlu, veri, risk, etki, üçüncü taraflar ve izleme.
 - [Uzaktan ve farklı saat dilimlerinde yapay zekâ ekibi yönetmek](https://sevgane.com/tr/uzaktan-ve-farkli-saat-dilimlerinde-ai-ekibi-yonetmek/): Uzaktan çalışan, farklı saat dilimlerine yayılmış bir yapay zekâ ekibini yönetmek: yazılı iletişim, karar kayıtları, iletişim ritmi, gösterim ve devir.

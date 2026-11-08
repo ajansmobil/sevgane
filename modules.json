@@ -8,10 +8,10 @@
       "category": "menu",
       "id": "vey1el",
       "desing": {
-        "bgcolor": "#0B1220",
-        "color": "#E9EDF5",
-        "activebgcolor": "#E3B65C",
-        "activecolor": "#0B1220",
+        "bgcolor": "var(--mx-site-bg)",
+        "color": "var(--mx-site-text)",
+        "activebgcolor": "var(--mx-site-primary)",
+        "activecolor": "var(--mx-site-primary-contrast)",
         "height": "100px",
         "ariaToggle": {
           "tr": "Menüyü aç/kapat",
@@ -27,16 +27,17 @@
           "de": "Menü schließen",
           "es": "Cerrar menú"
         },
-        "logobg": "#ffffff",
-        "logoborder": "1px solid rgba(233,237,245,0.18)",
-        "logoradius": "14px",
-        "logopad": "4px 16px",
-        "logopadmobil": "4px 10px",
+        "logobg": "transparent",
+        "logoborder": "0",
+        "logoradius": "0",
+        "logopad": "0",
+        "logopadmobil": "0",
         "logomaxh": "84px",
         "logoimg": "",
-        "langcolor": "currentColor",
+        "langcolor": "var(--mx-site-text)",
         "langbg": "transparent",
-        "tekSatir": ""
+        "tekSatir": "",
+        "logoDark": "logo-acik.png"
       },
       "version": "1.0.0",
       "icon": "menu"
@@ -286,11 +287,11 @@
       "name": "Hero 2 (Ortalanmış)",
       "desing": {
         "max": "1200px",
-        "gradient": "radial-gradient(900px 480px at 86% -8%, rgba(227,182,92,0.15), transparent 62%), radial-gradient(760px 460px at 0% 108%, rgba(64,96,170,0.24), transparent 62%), #0B1220",
+        "gradient": "var(--sv-grad-hero)",
         "glow1": "rgba(0,0,0,0)",
         "glow2": "rgba(0,0,0,0)",
-        "btnbg": "#E3B65C",
-        "btncolor": "#0B1220",
+        "btnbg": "var(--mx-site-primary)",
+        "btncolor": "var(--mx-site-primary-contrast)",
         "badge": {
           "tr": "Yazılım kökenli Proje Yöneticisi",
           "en": "Project Manager with a software engineering background",
@@ -349,9 +350,9 @@
       "desing": {
         "stil": "",
         "max": "1200px",
-        "gradient": "linear-gradient(180deg, #0E1830 0%, #0B1220 100%)",
-        "numbercolor": "#E3B65C",
-        "labelcolor": "#A9B4C8",
+        "gradient": "var(--sv-grad-stats)",
+        "numbercolor": "var(--mx-site-primary)",
+        "labelcolor": "var(--sv-muted)",
         "iconsize": "56px",
         "iconbox": "88px"
       },
@@ -695,9 +696,9 @@
       "desing": {
         "stil": "",
         "max": "1200px",
-        "gradient": "radial-gradient(800px 360px at 100% 0%, rgba(227,182,92,0.13), transparent 62%), linear-gradient(135deg, #14213A 0%, #0F1A30 100%)",
-        "btnbg": "#E3B65C",
-        "btncolor": "#0B1220",
+        "gradient": "var(--sv-grad-cta)",
+        "btnbg": "var(--mx-site-primary)",
+        "btncolor": "var(--mx-site-primary-contrast)",
         "title": {
           "tr": "AI projeniz için konuşalım",
           "en": "Let's talk about your AI project",
@@ -1328,7 +1329,7 @@
         },
         "position": "fixed",
         "bottom": "30px",
-        "color": "#E3B65C",
+        "color": "var(--mx-site-primary)",
         "z_index": 10000,
         "responsive": true,
         "message": {
@@ -1869,14 +1870,15 @@
       "name": "Footer 3",
       "desing": {
         "showlang": true,
-        "bgcolor": "#080E1A",
-        "color": "#E9EDF5",
-        "bordercolor": "rgba(233,237,245,0.14)",
+        "bgcolor": "var(--sv-footer-bg)",
+        "color": "var(--mx-site-text)",
+        "bordercolor": "var(--sv-line)",
         "minimal_design": false,
         "social_media": true,
         "logo_maxh": "64px",
-        "logo_plate": true,
-        "contact_line": "auto"
+        "logo_plate": false,
+        "contact_line": "auto",
+        "logoDark": "logo-acik.png"
       },
       "category": "footer",
       "data": [],
@@ -1897,9 +1899,9 @@
         "max": "900px",
         "bgcolor": "var(--mx-site-bg)",
         "cardbg": "var(--mx-site-surface)",
-        "bordercolor": "rgba(233,237,245,0.14)",
+        "bordercolor": "var(--sv-line)",
         "titlecolor": "var(--mx-site-text)",
-        "textcolor": "#B7C1D4",
+        "textcolor": "var(--sv-soft)",
         "accent": "var(--mx-site-primary)",
         "accentText": "var(--mx-site-primary-contrast)",
         "badge": {
@@ -2636,6 +2638,140 @@
       "data": [],
       "id": "l182h1",
       "index": 28
+    },
+    {
+      "name": "Code",
+      "description": "Özel JavaScript kod modülü. Kargo takibi, özel hesaplamalar gibi projeye özgü fonksiyonları içerir. Esnek yapısı ile her türlü özelleştirmeye uygundur.",
+      "version": "1.0.0",
+      "icon": "code",
+      "category": "code",
+      "desing": {
+        "bgcolor": "var(--mx-site-bg)",
+        "color": "var(--mx-site-text)",
+        "activebgcolor": "var(--mx-site-primary)",
+        "activecolor": "var(--mx-site-primary-contrast)",
+        "logosize": "200px",
+        "aria_lang": {
+          "tr": "Dil seçimi",
+          "en": "Language selection",
+          "ar": "اختيار اللغة",
+          "de": "Sprachauswahl",
+          "es": "Selección de idioma"
+        },
+        "aria_nav": {
+          "tr": "Ana menü",
+          "en": "Main menu",
+          "ar": "القائمة الرئيسية",
+          "de": "Hauptmenü",
+          "es": "Menú principal"
+        },
+        "aria_toggle": {
+          "tr": "Menüyü aç/kapat",
+          "en": "Toggle menu",
+          "ar": "تبديل القائمة",
+          "de": "Menü umschalten",
+          "es": "Mostrar u ocultar menú"
+        },
+        "height": "100px",
+        "ariaToggle": {
+          "tr": "Menüyü aç/kapat",
+          "en": "Toggle menu",
+          "ar": "تبديل القائمة",
+          "de": "Menü umschalten",
+          "es": "Mostrar u ocultar menú"
+        },
+        "ariaClose": {
+          "tr": "Menüyü kapat",
+          "en": "Close menu",
+          "ar": "إغلاق القائمة",
+          "de": "Menü schließen",
+          "es": "Cerrar menú"
+        },
+        "logobg": "transparent",
+        "logoborder": "0",
+        "logoradius": "0",
+        "logopad": "0",
+        "logopadmobil": "0",
+        "logomaxh": "84px",
+        "logoimg": "",
+        "langcolor": "var(--mx-site-text)",
+        "langbg": "transparent",
+        "tekSatir": "",
+        "logoDark": "logo-acik.png"
+      },
+      "data": [],
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "s6u3fu",
+      "path": "code",
+      "local": "header",
+      "index": 29
+    },
+    {
+      "name": "Footer Code",
+      "description": "Footer için özel kod modülü",
+      "version": "1.1.0",
+      "icon": "code",
+      "category": "footer",
+      "desing": {
+        "bgcolor": "var(--sv-footer-bg)",
+        "color": "var(--mx-site-text)",
+        "img": "",
+        "imgwidth": "250px",
+        "aria_nav": {
+          "tr": "Alt menü",
+          "en": "Footer menu",
+          "ar": "القائمة السفلية",
+          "de": "Fußmenü",
+          "es": "Menú del pie de página"
+        },
+        "aria_social": {
+          "tr": "Sosyal medya",
+          "en": "Social media",
+          "ar": "وسائل التواصل الاجتماعي",
+          "de": "Soziale Medien",
+          "es": "Redes sociales"
+        },
+        "showlang": true,
+        "bordercolor": "var(--sv-line)",
+        "minimal_design": false,
+        "social_media": true,
+        "logo_maxh": "64px",
+        "logo_plate": false,
+        "contact_line": "auto",
+        "logoDark": "logo-acik.png"
+      },
+      "data": [],
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "7u56r0",
+      "path": "code",
+      "local": "footer",
+      "index": 30
+    },
+    {
+      "name": "Code",
+      "category": "code",
+      "desing": {},
+      "description": "Projeye özel JavaScript custom kod modülü. Kargo takip sistemleri, özel hesaplamalar, API entegrasyonları gibi benzersiz fonksiyonları içerir. 3 farklı projede kullanılır: ajans, kargo ve medya sektörlerinde. Her projeye özgü özelleştirilmiş script içeriği, dinamik fonksiyon yükleme sistemi ile esnek yapı sunar.",
+      "version": "1.0.0",
+      "icon": "code",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "tbi5fl",
+      "path": "code",
+      "local": "body",
+      "data": [],
+      "index": 31
     }
   ]
 }

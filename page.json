@@ -205,11 +205,11 @@
     },
     {
       "name": {
-        "tr": "İletişim ve Teklif İste",
-        "en": "Contact and Intro Call",
-        "ar": "التواصل والمكالمة التعريفية",
-        "de": "Kontakt und Kennenlerngespräch",
-        "es": "Contacto y llamada introductoria"
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "التواصل",
+        "de": "Kontakt",
+        "es": "Contacto"
       },
       "status": "play",
       "category": "",
@@ -221,12 +221,7 @@
       "desing": {
         "header": [],
         "body": [
-          "tp5jo4",
-          "klxhui",
-          "8n2px8",
-          "qw3yz6",
-          "f3gbsb",
-          "9tyvhx"
+          "tbi5fl"
         ],
         "footer": []
       },
