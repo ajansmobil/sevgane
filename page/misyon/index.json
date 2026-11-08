@@ -2,7 +2,7 @@
   "name": {
     "tr": "Misyon"
   },
-  "status": "play",
+  "status": "pause",
   "id": "misyon",
   "path": "misyon",
   "category": "",
@@ -22,7 +22,7 @@
   "keyword": {
     "tr": "misyon, Yunus Sevğane, yazılım, güvenli yazılım, ölçeklenebilir çözümler"
   },
-  "update": "2026-11-02T09:03:49.488Z",
+  "update": "2026-11-08T04:21:59.206Z",
   "date": "2025-12-13T03:26:52.507Z",
   "title": {
     "tr": "Misyon — Yunus Sevğane | Yazılım ve Güvenlik"

@@ -91,33 +91,9 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://sevgane.com/tr/misyon/</loc>
-        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/misyon/" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/misyon/" />
-        <lastmod>2026-11-02</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sevgane.com/tr/vizyon/</loc>
-        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/vizyon/" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/vizyon/" />
-        <lastmod>2026-11-02</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
         <loc>https://sevgane.com/tr/sss/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/sss/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/sss/" />
-        <lastmod>2026-11-08</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sevgane.com/tr/kalite-politikamiz/</loc>
-        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/kalite-politikamiz/" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/kalite-politikamiz/" />
         <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>

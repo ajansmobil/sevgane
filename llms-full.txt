@@ -254,16 +254,14 @@ Bu eğitimleri proje yönetimi sürecime nasıl yansıttığımı Proje Yönetim
 ## Profil
 https://sevgane.com/tr/kurumsal/
 
-Profil ve yasal bilgiler: hakkımda, misyon, vizyon, kalite politikası, gizlilik, kişisel veriler, kullanıcı hakları, yasal uyarı ve çerez politikası.
+Profil ve yasal bilgiler: hakkımda, çalışma biçimi, gizlilik, kişisel veriler, kullanıcı hakları, yasal uyarı ve çerez politikası.
 
 Profil
 Profil ve Yasal Bilgiler
 Bu bölümde beni, çalışma ilkelerimi ve siteye ilişkin yasal bilgilendirmeleri bulabilirsiniz. Yunus Sevğane 2014'ten beri serbest çalışan olarak faaliyet göstermektedir. Burada anlatılanlar, belgelerime ve çalışma geçmişime dayanır; doğrulanamayan hiçbir bilgi yer almaz.
 Tanıtım
-Hakkımda
-Misyon
-Vizyon
-Kalite Politikam
+Hakkımda : misyonum, vizyonum ve çalışma hayatım
+Çalışma Biçimi : kalite anlayışım ve çalışma ilkelerim
 Gizlilik ve yasal bilgilendirmeler
 Gizlilik Politikası
 Kişisel Veriler
@@ -342,7 +340,7 @@ Yunus Sevğane kimdir?
 
 Hakkımda
 Yunus Sevğane
-Proje yöneticisiyim. Web, mobil, yapay zekâ ve bilgi güvenliği/ISO uyum projelerini keşiften bakıma kadar yönetiyorum. Yazılım geliştirici geçmişim sayesinde teknik ekiple aynı dili konuşur, kapsam, bütçe ve riski teknik gerçeklikle birlikte ele alırım. Bu yaklaşımın ayrıntısı Proje Yönetimi ve Çalışma Biçimi sayfalarında.
+Proje yöneticisiyim. Web, mobil, yapay zekâ ve bilgi güvenliği/ISO uyum projelerini keşiften bakıma kadar yönetiyorum. Yazılım geliştirici geçmişim sayesinde teknik ekiple aynı dili konuşur, kapsam, bütçe ve riski teknik gerçeklikle birlikte ele alırım. Bu yaklaşımın ayrıntısı Proje Yönetimi ve Çalışma Biçimi sayfalarında; kalite anlayışım Çalışma Biçimi sayfasındaki «Kalite anlayışım» bölümünde.
 Frontend, backend, DevOps ve yapay zekâ geliştirme süreçlerinde sağlam yazılım geliştirme ilkelerini uygularım. 2025 itibarıyla siber güvenlik, etik hacker, adli bilişim ve ISO yönetim sistemleri denetçiliği alanlarında aldığım eğitimlerle bu bakışı bilgi güvenliği tarafına da taşıdım.
 Çalışma hayatım
 2014 – günümüz: Serbest çalışan — Senior Engineering Manager
@@ -355,6 +353,10 @@ Proje yönetimi (kapsam, bütçe, risk, ekip) ve full stack DevOps
 Penetrasyon testi, siber güvenlik ve adli bilişim
 ISO yönetim sistemleri (27001, 42001, 9001, 20000-1)
 AI agent süreçleri, LLM RAG ve LLM ince ayarı
+Misyonum
+Web, mobil ve yapay zekâ alanlarında ölçeklenebilir, güvenli ve verimli çözümlerin kurulmasına katkı vermek; her projede önce ihtiyacı anlamak, sonra en sade ve sürdürülebilir çözümü kurmaktır. Yazılımı yalnızca çalışan bir ürün olarak değil; güvenli, bakımı yapılabilir ve zamanla büyüyebilen bir sistem olarak ele alırım. Bu yüzden bilgi güvenliği ve kalite yönetimi ilkelerini sürecin başından itibaren hesaba katarım.
+Vizyonum
+Yazılım geliştirme ile bilgi güvenliğini birlikte düşünen, güvenilir ve tercih edilen bir proje yöneticisi olmak. Yapay zekâ destekli uygulamalar, AI agent süreçleri ve LLM tabanlı sistemler işletmelerin çalışma biçimini hızla değiştiriyor; bu dönüşümü güvenlik ve yönetim sistemleri bakışıyla birlikte ele almak istiyorum. Hedeflerim: yapay zekâ ve otomasyon birikimimi gerçek projelere dönüştürmek, bilgi güvenliği ve ISO yönetim sistemleri yetkinliğimi derinleştirmek, Türkiye genelinde ve uzaktan çalışarak daha geniş bir işveren kitlesine hizmet vermek. Her yıl yeni bir uzmanlık alanında eğitim almayı sürdürüyorum.
 Eğitim ve sertifika ayrıntıları için Sertifikalar , çalışma geçmişi için Özgeçmiş sayfasına bakabilirsiniz. Projeniz için WhatsApp (+90 531 679 10 14) üzerinden yazabilirsiniz.
 Teklif için İletişim ve Teklif İste , yöntem için Proje Yönetimi , iş türleri için Projeler sayfalarına bakabilirsiniz.
 
@@ -384,44 +386,16 @@ Güvenlik ve gizlilik
 Bilgi güvenliği eğitimlerimden (ISO/IEC 27001:2022 baş denetçi eğitimi, siber güvenlik ve etik hacker eğitimleri) gelen alışkanlıkla erişim yetkilerini, veri paylaşımını ve yedeklemeyi projenin başında netleştiririm.
 Çalışma modelleri
 Serbest çalışan olarak proje bazlı ya da süreli danışmanlık şeklinde çalışabilirim. Farklı bir model düşünüyorsanız teklifinizi dinler, uygun olanı birlikte belirleriz. Sık sorulan sorular için SSS sayfasına bakabilirsiniz.
-Teklif almak için: Teklif iste sayfasından ya da WhatsApp (+90 531 679 10 14) üzerinden projenizi iki üç cümleyle yazın. Ayrıca Proje Yönetimi , Çalışma Biçimi ve SSS sayfalarına bakabilirsiniz.
-
----
-
-## Misyon
-https://sevgane.com/tr/misyon/
-
-Misyonum: web, mobil ve yapay zeka alanlarında ölçeklenebilir, verimli ve güvenli yazılım çözümleri üreterek müşterilerimin işini dijitalde güçlendirmek.
-
-Misyon
-Misyonum
-Misyonum; web, mobil ve yapay zeka alanlarında ölçeklenebilir ve verimli çözümler geliştirerek müşterilerimin işini dijitalde güçlendirmektir. Her projede önce ihtiyacı anlar, sonra en sade ve sürdürülebilir çözümü kurarım.
-Yazılımı yalnızca çalışan bir ürün olarak değil; güvenli, bakımı yapılabilir ve zamanla büyüyebilen bir sistem olarak ele alırım. Bu yüzden bilgi güvenliği ve kalite yönetimi ilkelerini geliştirme sürecinin başından itibaren hesaba katarım.
-Çalışma ilkelerim
+Kalite anlayışım ve çalışma ilkelerim
+Çalışmamı müşteri ihtiyacını doğru anlamaya, işi planlı ve izlenebilir yürütmeye ve her teslimden sonra öğrenip iyileştirmeye dayandırırım. Dayanağım, 2025'te Sigmacert Global'den aldığım ISO 9001:2015 Kalite Yönetim Sistemi Baş Denetçi Eğitimi'dir. Bu bölüm bir ISO 9001 belgelendirmesi iddiası taşımaz; yalnızca çalışma biçimimi açıklar.
+Müşteri odağı: beklentiyi baştan yazılı netleştirmek, geri bildirimi işin parçası saymak
+Süreç yaklaşımı: analiz, geliştirme, test ve teslim adımlarını tanımlı yürütmek
+Risk temelli düşünme: güvenlik ve süreklilik risklerini projenin başında ele almak
+Sürekli iyileştirme: her proje sonunda yöntemi ve araçları gözden geçirmek
 Öğrenmeye açık olmak: yeni teknolojileri hızla öğrenip projeye uygun olanı seçmek
-Güvenlik ve veri korumayı tasarımın bir parçası saymak
 Açık iletişim: kapsamı, süreci ve teslimleri baştan netleştirmek
-Ölçeklenebilir ve bakımı kolay mimari kurmak
-Yirmi yıla yakın deneyimim boyunca edindiğim bu yaklaşımı, ISO 27001 bilgi güvenliği yönetim sistemi ilkelerine uygun projeler yürüterek sürdürüyorum.
-Misyonum doğrultusunda bir proje fikriniz varsa WhatsApp (+90 531 679 10 14) üzerinden kısaca anlatmanız yeterli.
-
----
-
-## Vizyon
-https://sevgane.com/tr/vizyon/
-
-Vizyonum: yazılım geliştirme ile bilgi güvenliğini birlikte düşünen, güvenilir ve tercih edilen bir profesyonel olmak; yapay zekada öncü çözümler üretmek.
-
-Vizyon
-Vizyonum
-Vizyonum; yazılım geliştirme ile bilgi güvenliğini birlikte düşünen, güvenilir ve tercih edilen bir profesyonel olmaktır. Web ve mobil çözümlerin yanında yapay zeka ve güvenlik alanındaki gelişmeleri yakından izleyerek müşterilerime bugünün ve yarının ihtiyacına uygun çözümler sunmayı hedefliyorum.
-Yapay zeka destekli uygulamalar, AI agent süreçleri ve LLM tabanlı sistemler işletmelerin çalışma biçimini hızla değiştiriyor. Bu dönüşümü, güvenlik ve yönetim sistemleri bakışıyla birlikte ele alan çözümler üretmek istiyorum.
-Önümdeki hedefler
-Yapay zeka ve otomasyon alanındaki bilgi birikimimi gerçek projelere dönüştürmek
-Bilgi güvenliği ve ISO yönetim sistemleri alanındaki yetkinliğimi derinleştirmek
-Türkiye genelinde ve uzaktan çalışarak daha geniş bir müşteri kitlesine hizmet vermek
-Sürekli öğrenme benim için bir tercih değil, mesleğin gereği; bu nedenle her yıl yeni bir uzmanlık alanında eğitim almayı sürdürüyorum.
-Birlikte çalışmak için WhatsApp (+90 531 679 10 14) üzerinden yazabilirsiniz.
+Memnuniyetsizlik, şikâyet ya da iyileştirme önerilerinizi WhatsApp veya iletişim formu üzerinden iletebilirsiniz; her bildirimi inceler ve dönüş yaparım.
+Teklif almak için: Teklif iste sayfasından ya da WhatsApp (+90 531 679 10 14) üzerinden projenizi iki üç cümleyle yazın. Ayrıca Proje Yönetimi , Çalışma Biçimi ve SSS sayfalarına bakabilirsiniz.
 
 ---
 
@@ -453,24 +427,6 @@ Kapsam yazılı plana bağlanır, değişiklik istekleri süre ve bütçe etkisi
 ISO/IEC 27001:2022, 42001:2023, 9001:2015 ve 20000-1:2018 alanlarında baş denetçi eğitimleri aldım. Uyum projelerinde kapsam, risk ve dokümantasyon planlamasını yönetebilirim. Bu bir kurum belgelendirmesi anlamına gelmez; bireysel eğitim ve uygulama deneyimimdir.
 Evet. AI agent süreçleri, LLM RAG uygulamaları ve ince ayar çalışmalarını hem geliştirici hem proje yöneticisi olarak yürütüyorum; veri gizliliği ve yetkilendirmeyi ilk aşamada ele alırım.
 İletişim sayfasındaki forma, WhatsApp'a (+90 531 679 10 14) ya da yunus@webyapar.com adresine projenizi iki üç cümleyle yazmanız yeterli. Kapsamı birlikte netleştirir, ardından yazılı bir plan ve teklif paylaşırım.
-
----
-
-## Kalite Politikam
-https://sevgane.com/tr/kalite-politikamiz/
-
-Kalite politikam: müşteri odaklılık, süreç yaklaşımı ve sürekli iyileştirme; ISO 9001:2015 baş denetçi eğitimi ilkeleri ve proje yönetimi uygulamam.
-
-Kalite Politikam
-Kalite Politikam
-Hizmetlerimi; müşteri ihtiyacını doğru anlamaya, işi planlı ve izlenebilir yürütmeye ve her teslimden sonra öğrenip iyileştirmeye dayalı bir kalite anlayışıyla sunarım. Bu anlayışın dayanağı, 2025'te Sigmacert Global'den aldığım ISO 9001:2015 Kalite Yönetim Sistemi Baş Denetçi Eğitimi'dir.
-Aşağıdaki ilkeler, kendi çalışma düzenimde referans aldığım kalite yönetimi ilkeleridir. Bu sayfa, bir ISO 9001 belgelendirmesi iddiası taşımaz; yalnızca çalışma biçimimi açıklar.
-İlkelerim
-Müşteri odağı: beklentiyi baştan yazılı netleştirmek, geri bildirimi işin parçası saymak
-Süreç yaklaşımı: analiz, geliştirme, test ve teslim adımlarını tanımlı yürütmek
-Risk temelli düşünme: güvenlik ve süreklilik risklerini projenin başında ele almak
-Sürekli iyileştirme: her proje sonunda yöntemi ve araçları gözden geçirmek
-Memnuniyetsizlik, şikâyet ya da iyileştirme önerilerinizi WhatsApp (+90 531 679 10 14) veya iletişim formu üzerinden iletebilirsiniz; her bildirimi inceler ve dönüş yaparım.
 
 ---
 

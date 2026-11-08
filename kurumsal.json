@@ -42,7 +42,7 @@
       "name": {
         "tr": "Misyon"
       },
-      "status": "play",
+      "status": "pause",
       "id": "misyon",
       "path": "misyon",
       "category": "",
@@ -61,7 +61,7 @@
       "name": {
         "tr": "Vizyon"
       },
-      "status": "play",
+      "status": "pause",
       "id": "vizyon",
       "path": "vizyon",
       "category": "",
@@ -101,7 +101,7 @@
       "name": {
         "tr": "Kalite Politikam"
       },
-      "status": "play",
+      "status": "pause",
       "id": "kalitepolitikamiz",
       "path": "kalite-politikamiz",
       "category": "",

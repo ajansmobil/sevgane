@@ -7,11 +7,11 @@
 <title>404 — Yunus SEVĞANE — Proje Yöneticisi</title>
 </head>
 <body>
-<link rel="stylesheet" href="/src/rubik.css?v=rtyd3" />
+<link rel="stylesheet" href="/src/rubik.css?v=ir27u" />
 <nav>
   <div href="/" class="menu">
     <a href="/" class="website_name"
-      ><img src="/img/logo.png?v=rtyd3" width="300" alt="Yunus SEVĞANE — Proje Yöneticisi Logo"
+      ><img src="/img/logo.png?v=ir27u" width="300" alt="Yunus SEVĞANE — Proje Yöneticisi Logo"
     /></a>
   </div>
 </nav>
@@ -829,10 +829,8 @@
   setTimeout(function() {
     var currentPath = window.location.pathname;
     var rtlLanguages = ['ar', 'he', 'fa']; // RTL diller: Arapça, İbranice, Farsça
-
     var langMatch = currentPath.match(/^\/([a-z]{2})\//);
     var currentLang = langMatch ? langMatch[1] : '';
-
     if (rtlLanguages.indexOf(currentLang) !== -1) {
       document.documentElement.setAttribute('dir', 'rtl');
     } else {

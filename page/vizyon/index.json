@@ -2,7 +2,7 @@
   "name": {
     "tr": "Vizyon"
   },
-  "status": "play",
+  "status": "pause",
   "id": "vizyon",
   "path": "vizyon",
   "category": "",
@@ -22,7 +22,7 @@
   "keyword": {
     "tr": "vizyon, Yunus Sevğane, yazılım, bilgi güvenliği, yapay zeka"
   },
-  "update": "2026-11-02T09:03:56.969Z",
+  "update": "2026-11-08T04:21:59.219Z",
   "date": "2025-12-13T03:26:52.516Z",
   "title": {
     "tr": "Vizyon — Yunus Sevğane | Yazılım ve Güvenlik"
