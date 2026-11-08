@@ -4,7 +4,7 @@
     "tr": "Özgeçmiş"
   },
   "description": {
-    "tr": "Yunus Sevğane özgeçmişi: 2006'dan bugüne çalışma geçmişi, aldığı eğitimler, yetkinlikleri ve kullandığı teknik araçlar."
+    "tr": "Yunus Sevğane özgeçmişi: proje yöneticisi ve Senior Engineering Manager, 2006'dan bugüne çalışma geçmişi, eğitimler, yetkinlikler ve teknik araçlar."
   },
   "keyword": {
     "tr": "özgeçmiş, CV, Yunus Sevğane, yazılım geliştirici, deneyim, beceriler"
@@ -21,14 +21,14 @@
     ],
     "footer": []
   },
-  "index": 0,
+  "index": 3,
   "url": "",
   "text": {
-    "tr": "<section><h2>Yetkinlikler ve Teknik Beceriler</h2><p>Bu sayfada önce günlük işlerimde kullandığım yetkinlikleri ve araçları gruplandırdım; seviye puanı vermiyorum, yalnızca kullandıklarımı yazıyorum. Çalışma geçmişim ve aldığım eğitimler hemen altındaki zaman çizelgesinde yer alıyor.</p><h3>Yetkinlikler</h3><ul><li>Proje yönetimi</li><li>Full stack DevOps</li><li>ISO yönetim sistemleri</li><li>Penetrasyon testi ve siber güvenlik</li><li>Adli bilişim</li><li>AI agent süreçleri, LLM RAG ve LLM ince ayarı</li></ul><h3>Web, mobil ve backend</h3><ul><li>HTML, CSS, JavaScript</li><li>Node.js, ASP</li><li>Flutter, React Native, Java, Swift</li></ul><h3>Veri tabanı ve altyapı</h3><ul><li>MongoDB, Redis, T-SQL</li><li>JSON Server, Firebase</li></ul><h3>Tasarım</h3><ul><li>Adobe Photoshop, Adobe Illustrator, Adobe XD</li></ul><p>Çalışma geçmişimde grafik tasarımdan yazılım geliştirmeye, oradan altyapı ve bilgi güvenliğine uzanan bir çizgi var; bu geniş bakış, projeleri hem görsel hem teknik açıdan bütün olarak ele almamı sağlar.</p><p>Daha ayrıntılı bilgi için <a href=\"/tr/sertifikalar/\">Sertifikalar</a> sayfasına bakabilir ya da <a href=\"https://wa.me/905316791014\">WhatsApp (+90 531 679 10 14)</a> üzerinden yazabilirsiniz.</p></section>"
+    "tr": "<section><h2>Proje yöneticisi olarak özgeçmişim</h2><p>2014'ten beri Webyapar Yazılım ve Danışmanlık adıyla Senior Engineering Manager olarak ekip ve proje yönetimi süreçlerini yürütüyorum. Öncesinde Mor Medya'da Senior Developer, Cemre Teknoloji'de Software Developer ve Emre Carpet Design'da grafik tasarımcı olarak çalıştım. Yöntemim için <a href=\"/tr/proje-yonetimi/\">Proje Yönetimi</a>, iş türleri için <a href=\"/tr/projeler/\">Projeler</a>, teklif için <a href=\"/tr/iletisim/\">İletişim</a> sayfalarına bakabilirsiniz.</p></section><section><h2>Yetkinlikler ve Teknik Beceriler</h2><p>Bu sayfada önce günlük işlerimde kullandığım yetkinlikleri ve araçları gruplandırdım; seviye puanı vermiyorum, yalnızca kullandıklarımı yazıyorum. Çalışma geçmişim ve aldığım eğitimler hemen altındaki zaman çizelgesinde yer alıyor.</p><h3>Yetkinlikler</h3><ul><li>Proje yönetimi</li><li>Full stack DevOps</li><li>ISO yönetim sistemleri</li><li>Penetrasyon testi ve siber güvenlik</li><li>Adli bilişim</li><li>AI agent süreçleri, LLM RAG ve LLM ince ayarı</li></ul><h3>Web, mobil ve backend</h3><ul><li>HTML, CSS, JavaScript</li><li>Node.js, ASP</li><li>Flutter, React Native, Java, Swift</li></ul><h3>Veri tabanı ve altyapı</h3><ul><li>MongoDB, Redis, T-SQL</li><li>JSON Server, Firebase</li></ul><h3>Tasarım</h3><ul><li>Adobe Photoshop, Adobe Illustrator, Adobe XD</li></ul><p>Çalışma geçmişimde grafik tasarımdan yazılım geliştirmeye, oradan altyapı ve bilgi güvenliğine uzanan bir çizgi var; bu geniş bakış, projeleri hem görsel hem teknik açıdan bütün olarak ele almamı sağlar.</p><p>Daha ayrıntılı bilgi için <a href=\"/tr/sertifikalar/\">Sertifikalar</a> sayfasına bakabilir ya da <a href=\"https://wa.me/905316791014\">WhatsApp (+90 531 679 10 14)</a> üzerinden yazabilirsiniz.</p></section>"
   },
   "title": {
-    "tr": "Özgeçmiş — Yunus Sevğane, Yazılım Geliştirici"
+    "tr": "Özgeçmiş — Yunus Sevğane, Proje Yöneticisi"
   },
   "date": "2026-11-02T08:53:17.541Z",
-  "update": "2026-11-02T09:03:49.525Z"
+  "update": "2026-11-08T03:21:11.754Z"
 }

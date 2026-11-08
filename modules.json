@@ -30,7 +30,8 @@
         "logomaxh": "84px",
         "logoimg": "",
         "langcolor": "currentColor",
-        "langbg": "transparent"
+        "langbg": "transparent",
+        "tekSatir": ""
       },
       "version": "1.0.0",
       "icon": "menu"
@@ -276,22 +277,22 @@
         "btnbg": "#ffffff",
         "btncolor": "#1e3046",
         "badge": {
-          "tr": "Gaziantep · Senior Software Developer"
+          "tr": "Gaziantep · Proje Yöneticisi"
         },
         "title": {
-          "tr": "Yunus Sevğane"
+          "tr": "Yunus Sevğane — Proje Yöneticisi"
         },
         "description": {
-          "tr": "Web, mobil ve yapay zeka alanlarında ölçeklenebilir çözümler geliştiriyorum. 2014'ten beri Webyapar Yazılım ve Danışmanlık çatısı altında 200'den fazla kurumsal web sitesi ve 10'dan fazla mobil uygulama; 2025'te siber güvenlik, adli bilişim ve ISO baş denetçi eğitimleri."
+          "tr": "Web, mobil, yapay zekâ ve bilgi güvenliği/ISO projelerini keşiften bakıma yönetiyorum. Yazılım geliştirici geçmişim sayesinde teknik ekiple aynı dili konuşur, kapsamı, bütçeyi ve riski kontrol altında tutarım. 2014'ten beri Webyapar Yazılım ve Danışmanlık: 200'den fazla kurumsal web sitesi, 10'dan fazla mobil uygulama."
         },
         "btn1Text": {
-          "tr": "WhatsApp ile yaz"
+          "tr": "Teklif iste"
         },
-        "btn1Url": "https://wa.me/905316791014",
+        "btn1Url": "/iletisim/",
         "btn2Text": {
-          "tr": "Özgeçmişi incele"
+          "tr": "Proje yönetimi"
         },
-        "btn2Url": "/tr/ozgecmis/"
+        "btn2Url": "/proje-yonetimi/"
       },
       "category": "hero",
       "description": "Ortalanmış hero varyantı (hero-1'in split düzenine alternatif). Blur glow arka plan animasyonları, rozet, büyük başlık ve iki CTA butonu; tamamen desing token'larıyla renklendirilir.",
@@ -381,15 +382,15 @@
           "tr": "Hakkımda"
         },
         "title": {
-          "tr": "Tasarımdan yazılıma, yazılımdan güvenliğe"
+          "tr": "Proje yöneticisi bakışı, geliştirici derinliği"
         },
         "description": {
-          "tr": "2006'da grafik tasarımcı olarak başladım; Cemre Teknoloji ve Mor Medya'da yazılım geliştirdim, 2014'ten beri kendi şirketim Webyapar Yazılım ve Danışmanlık'ı yönetiyorum. Bugün web, mobil, yapay zeka ve DevOps projelerini bilgi güvenliği bakışıyla yürütüyorum."
+          "tr": "2006'da grafik tasarımcı olarak başladım; Cemre Teknoloji ve Mor Medya'da yazılım geliştirdim. 2014'ten beri kendi şirketim Webyapar Yazılım ve Danışmanlık'ı yönetiyor, ekip ve proje yönetimi süreçlerini yürütüyorum. Bugün web, mobil, yapay zekâ ve DevOps projelerini bilgi güvenliği bakışıyla, kapsam, bütçe ve risk kontrolüyle teslim ediyorum."
         },
         "btn1Text": {
           "tr": "Devamını oku"
         },
-        "btn1Url": "/tr/hakkimizda/"
+        "btn1Url": "/hakkimizda/"
       },
       "category": "module",
       "description": "Kısa tanıtım şeridi (açık krem zemin): rozet, başlık, kısa metin ve «Devamı» düğmesi; görsel gerektirmez, tüm renkler desing token'ı. module-tanitim-2'nin görselli iki kolon düzenine hafif alternatif (ana sayfa Hakkımızda özeti).",
@@ -446,50 +447,59 @@
         "badgebg": "var(--mx-site-primary)",
         "badgecolor": "var(--mx-site-primary-contrast)",
         "badge": {
-          "tr": "Uzmanlık alanlarım"
+          "tr": "Proje yönetimi alanlarım"
         },
         "title": {
-          "tr": "Geliştirmeden güvenliğe uçtan uca"
+          "tr": "Keşiften bakıma tek muhatap"
         },
         "description": {
-          "tr": "Projeyi tasarlayan, kodlayan, yayına alan ve güvenliğini düşünen tek bir muhatap."
+          "tr": "Projeyi planlayan, ekibi ve tedarikçileri koordine eden, teknik kararı da anlayan ve güvenliği baştan düşünen bir proje yöneticisi."
         }
       },
       "data": [
         {
-          "icon": "devices",
+          "icon": "account_tree",
           "name": {
-            "tr": "Web ve mobil geliştirme"
+            "tr": "Proje yönetimi"
           },
           "description": {
-            "tr": "Kurumsal web siteleri, Flutter ve React Native ile mobil uygulamalar, Node.js tabanlı backend."
+            "tr": "Keşif, plan, yürütme, teslim ve bakım; çevik (Scrum) çalışma, kapsam, bütçe ve risk takibi, ekip ve tedarikçi koordinasyonu."
+          }
+        },
+        {
+          "icon": "devices",
+          "name": {
+            "tr": "Web ve mobil projeler"
+          },
+          "description": {
+            "tr": "200'den fazla kurumsal web sitesi ve 10'dan fazla mobil uygulamanın yönetimi ve geliştirmesi."
           }
         },
         {
           "icon": "psychology",
           "name": {
-            "tr": "Yapay zeka çözümleri"
+            "tr": "Yapay zekâ projeleri"
           },
           "description": {
-            "tr": "AI agent süreçleri, LLM RAG uygulamaları ve LLM ince ayarı; sistem entegrasyonları."
+            "tr": "AI agent süreçleri, LLM RAG uygulamaları ve ince ayar; veri gizliliği ve yönetişim bakışıyla."
+          }
+        },
+        {
+          "icon": "verified_user",
+          "name": {
+            "tr": "Bilgi güvenliği ve ISO uyumu"
+          },
+          "description": {
+            "tr": "ISO/IEC 27001, 42001, 9001 ve 20000-1 baş denetçi eğitimleriyle uyum projelerinde kapsam ve risk planlaması."
           }
         },
         {
           "icon": "cloud_sync",
           "name": {
-            "tr": "DevOps ve entegrasyon"
+            "tr": "Entegrasyon ve altyapı"
           },
           "description": {
-            "tr": "Full stack DevOps, veritabanı yönetimi ve sistem mimarisi; 3'ten fazla pazaryeri entegrasyonu."
-          }
-        },
-        {
-          "icon": "shield",
-          "name": {
-            "tr": "Bilgi güvenliği"
-          },
-          "description": {
-            "tr": "Penetrasyon testi, adli bilişim ve ISO 27001 / 42001 / 9001 baş denetçi eğitimleri."
+            "tr": "3'ten fazla pazaryeri entegrasyonu, full stack DevOps, veritabanı ve sistem mimarisi."
           }
         }
       ],
@@ -516,19 +526,19 @@
         "btnbg": "#ffffff",
         "btncolor": "#1e3046",
         "title": {
-          "tr": "Projenizi konuşalım"
+          "tr": "Projeniz için teklif alın"
         },
         "description": {
-          "tr": "Web, mobil, yapay zeka ya da bilgi güvenliği: ihtiyacınızı WhatsApp'tan iki cümleyle yazın, size döneyim."
+          "tr": "Hedefinizi iki üç cümleyle yazın; kapsamı, süreyi ve teslim planını birlikte netleştirelim."
         },
         "btn1Text": {
+          "tr": "Teklif iste"
+        },
+        "btn1Url": "/iletisim/",
+        "btn2Text": {
           "tr": "WhatsApp ile yaz"
         },
-        "btn1Url": "https://wa.me/905316791014",
-        "btn2Text": {
-          "tr": "İletişim sayfası"
-        },
-        "btn2Url": "/tr/iletisim/"
+        "btn2Url": "https://wa.me/905316791014"
       },
       "category": "cta",
       "description": "Harekete geçirici çağrı (CTA) şerit modülü. Gradient arka plan üzerinde başlık, açıklama ve iki buton gösterir. Buton URL'leri dil öneki olmadan pathnext (iletisim, urunler) — site routing ekler. Çok dilli metin ve animasyonlu giriş içerir. Görsel varyant desing.stil (31 Eki 2026): \"\" klasik (gradient anahtarı tam genişlik bant, bugünkü görünüm) · \"gradient\" (token gradient primary→koyu, yuvarlak köşeli iç bant, ortalı yığın, ışık daireleri, hap düğmeler) · \"kart-yuzen\" (sayfa zemininde yüzen yüzey kartı, dekoratif primary daireler, sol vurgu çizgisi). Varyant renkleri yalnız var(--mx-site-*) token çiftleri.",
@@ -864,7 +874,8 @@
         "responsive": true,
         "message": {
           "tr": "Merhaba, sevgane.com üzerinden yazıyorum."
-        }
+        },
+        "cerezKacin": ""
       },
       "category": "contact",
       "data": [],
@@ -918,25 +929,25 @@
         "errcolor": "var(--mx-color-danger, #b42318)",
         "radius": "16px",
         "title": {
-          "tr": "Benimle iletişime geçin"
+          "tr": "Teklif formu"
         },
         "description": {
-          "tr": "Projenizi ya da sorunuzu kısaca yazın; form mesajınızı hazır hâlde WhatsApp'a taşır, göndermek size kalır."
+          "tr": "Projenizi ya da sorunuzu kısaca yazın; form mesajınızı hazır hâlde WhatsApp'a taşır, göndermek size kalır. Proje yönetimi, web, mobil, yapay zekâ ve ISO projeleri için yazabilirsiniz."
         },
         "panelTitle": {
           "tr": "İletişim bilgileri"
         },
         "panelText": {
-          "tr": "En hızlı ulaşım yolu WhatsApp'tır. Merak ettiğiniz bir konu varsa doğrudan yazabilirsiniz."
+          "tr": "En hızlı ulaşım yolu WhatsApp'tır. E-posta ve telefon ile de ulaşabilirsiniz; Gaziantep merkezliyim, uzaktan çalışmaya açığım."
         },
         "address": {
           "tr": "Gaziantep, Türkiye"
         },
         "phone": "+90 531 679 10 14",
         "whatsapp": "905316791014",
-        "email": "",
+        "email": "yunus@webyapar.com",
         "hours": {
-          "tr": "Mesajlarınıza WhatsApp üzerinden dönüş yapılır."
+          "tr": "Mesajlarınıza WhatsApp ya da e-posta üzerinden dönüş yapılır."
         },
         "mapUrl": "",
         "mapEmbed": "",
@@ -1266,6 +1277,331 @@
       "path": "footer-3",
       "local": "footer",
       "index": 21
+    },
+    {
+      "name": "SSS Akordeon 1",
+      "desing": {
+        "max": "900px",
+        "bgcolor": "#ffffff",
+        "cardbg": "#f8fafc",
+        "bordercolor": "#cbd5e1",
+        "titlecolor": "#1e293b",
+        "textcolor": "#334155",
+        "accent": "#1e3046",
+        "accentText": "#ffffff",
+        "badge": {
+          "tr": "SSS"
+        },
+        "title": {
+          "tr": "Sıkça sorulan sorular"
+        },
+        "description": {
+          "tr": "Proje yöneticisi ile çalışmadan önce merak edilenler."
+        }
+      },
+      "data": [
+        {
+          "question": {
+            "tr": "Hangi tür projelerde proje yöneticisi olarak çalışıyorsunuz?"
+          },
+          "answer": {
+            "tr": "Web siteleri ve portallar, mobil uygulamalar, yapay zekâ projeleri (AI agent, LLM RAG), pazaryeri ve sistem entegrasyonları, altyapı/DevOps işleri ve ISO 27001 gibi bilgi güvenliği uyum projelerinde çalışıyorum. 2014'ten beri 200'den fazla kurumsal web sitesi, 10'dan fazla mobil uygulama ve 3'ten fazla pazaryeri entegrasyonu yürüttüm."
+          }
+        },
+        {
+          "question": {
+            "tr": "Uzaktan çalışır mısınız?"
+          },
+          "answer": {
+            "tr": "Gaziantep merkezliyim ve uzaktan çalışmaya açığım. İletişim ritmini proje başında birlikte belirleriz; yüz yüze görüşme gereken durumlarda planlarız."
+          }
+        },
+        {
+          "question": {
+            "tr": "Hangi sözleşme ve çalışma modelleriyle çalışıyorsunuz?"
+          },
+          "answer": {
+            "tr": "Webyapar Yazılım ve Danışmanlık üzerinden, serbest çalışan olarak proje bazlı ya da süreli danışmanlık şeklinde çalışıyorum. Farklı bir model düşünüyorsanız teklifinizi dinler, uygun olanı ön görüşmede birlikte belirleriz."
+          }
+        },
+        {
+          "question": {
+            "tr": "Hangi sektörlerde deneyiminiz var?"
+          },
+          "answer": {
+            "tr": "Deneyimim sektörden çok proje türüne göre gruplanır: kurumsal web siteleri, mobil uygulamalar, pazaryeri entegrasyonları, yapay zekâ ve bilgi güvenliği. Sektörünüzü yazarsanız bu alandaki çalışma örneklerimi paylaşırım."
+          }
+        },
+        {
+          "question": {
+            "tr": "Hangi yöntem ve araçları kullanıyorsunuz?"
+          },
+          "answer": {
+            "tr": "Çevik (Scrum) yaklaşımıyla kısa sprintler, öncelikli iş listesi ve her sprint sonunda gösterim kullanırım; kapsam, bütçe ve risk takibini yazılı yaparım. Araç tarafında sizin ya da ekibin mevcut görev panosu ve iletişim kanalına uyum sağlarım."
+          }
+        },
+        {
+          "question": {
+            "tr": "Teknik bilginiz proje yönetimine ne katıyor?"
+          },
+          "answer": {
+            "tr": "Frontend, backend, DevOps ve yapay zekâ süreçlerinde geliştirici olarak çalıştığım için ekibin tahminlerini sorgulayabilir, riskleri erken görebilir ve kapsam kararlarını teknik gerçeklikle verebilirim."
+          }
+        },
+        {
+          "question": {
+            "tr": "Kapsam, bütçe ve riski nasıl kontrol ediyorsunuz?"
+          },
+          "answer": {
+            "tr": "Kapsam yazılı plana bağlanır, değişiklik istekleri süre ve bütçe etkisiyle birlikte onaya sunulur, planlanan ile gerçekleşen düzenli karşılaştırılır. Riskler kayda geçer; sahibi ve önlemi belirlenir."
+          }
+        },
+        {
+          "question": {
+            "tr": "ISO 27001 ve benzeri uyum projelerinde rolünüz nedir?"
+          },
+          "answer": {
+            "tr": "ISO/IEC 27001:2022, 42001:2023, 9001:2015 ve 20000-1:2018 alanlarında baş denetçi eğitimleri aldım. Uyum projelerinde kapsam, risk ve dokümantasyon planlamasını yönetebilirim. Bu bir kurum belgelendirmesi anlamına gelmez; bireysel eğitim ve uygulama deneyimimdir."
+          }
+        },
+        {
+          "question": {
+            "tr": "Yapay zekâ projelerini yönetir misiniz?"
+          },
+          "answer": {
+            "tr": "Evet. AI agent süreçleri, LLM RAG uygulamaları ve ince ayar çalışmalarını hem geliştirici hem proje yöneticisi olarak yürütüyorum; veri gizliliği ve yetkilendirmeyi ilk aşamada ele alırım."
+          }
+        },
+        {
+          "question": {
+            "tr": "Nasıl teklif alırım?"
+          },
+          "answer": {
+            "tr": "İletişim sayfasındaki forma, WhatsApp'a (+90 531 679 10 14) ya da yunus@webyapar.com adresine projenizi iki üç cümleyle yazmanız yeterli. Kapsamı birlikte netleştirir, ardından yazılı bir plan ve teklif paylaşırım."
+          }
+        }
+      ],
+      "category": "faq",
+      "description": "SSS akordeon modülü. Soru-cevap listesini tek seferde bir açık olacak şekilde akordeon düzende gösterir. Çok dilli veri, animasyonlu açılış, mobil uyum ve erişilebilirlik (aria-expanded) desteği içerir.",
+      "version": "1.0.0",
+      "icon": "quiz",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "g7v874",
+      "path": "faq-1",
+      "local": "body",
+      "index": 22
+    },
+    {
+      "name": "Tanıtım Özeti (Açık Zemin)",
+      "desing": {
+        "max": "960px",
+        "bgcolor": "var(--mx-site-surface-2)",
+        "color": "var(--mx-site-text)",
+        "muted": "color-mix(in srgb, var(--mx-site-text) 78%, var(--mx-site-bg))",
+        "accent": "var(--mx-site-accent)",
+        "btnbg": "var(--mx-site-primary)",
+        "btncolor": "var(--mx-site-primary-contrast)",
+        "badge": {
+          "tr": "Teklif iste"
+        },
+        "title": {
+          "tr": "Proje yöneticisi için teklif isteyin"
+        },
+        "description": {
+          "tr": "Web, mobil, yapay zekâ ya da bilgi güvenliği/ISO uyum projeniz için bir proje yöneticisi arıyorsanız bana doğrudan yazabilirsiniz. Gaziantep merkezliyim ve uzaktan çalışmaya açığım. 2014'ten beri Webyapar Yazılım ve Danışmanlık adı altında 200'den fazla kurumsal web sitesi, 10'dan fazla mobil uygulama ve 3'ten fazla pazaryeri entegrasyonu yürüttüm. En hızlı ulaşım yolu WhatsApp (+90 531 679 10 14); e-posta için yunus@webyapar.com."
+        },
+        "btn1Text": {
+          "tr": "WhatsApp ile yaz"
+        },
+        "btn1Url": "https://wa.me/905316791014"
+      },
+      "category": "module",
+      "description": "Kısa tanıtım şeridi (açık krem zemin): rozet, başlık, kısa metin ve «Devamı» düğmesi; görsel gerektirmez, tüm renkler desing token'ı. module-tanitim-2'nin görselli iki kolon düzenine hafif alternatif (ana sayfa Hakkımızda özeti).",
+      "version": "1.0.0",
+      "icon": "info",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "klxhui",
+      "path": "tanitim-ozet",
+      "local": "body",
+      "data": [],
+      "index": 23
+    },
+    {
+      "name": "Kurumsal Değerler 1",
+      "desing": {
+        "max": "1200px",
+        "bgcolor": "var(--mx-site-bg)",
+        "accent": "var(--mx-site-primary)",
+        "titlecolor": "var(--mx-site-text)",
+        "textcolor": "color-mix(in srgb, var(--mx-site-text) 78%, var(--mx-site-bg))",
+        "cardbg": "var(--mx-site-surface)",
+        "badgebg": "var(--mx-site-primary)",
+        "badgecolor": "var(--mx-site-primary-contrast)",
+        "badge": {
+          "tr": "Projeler"
+        },
+        "title": {
+          "tr": "Hangi projelerde çalışıyorum?"
+        },
+        "description": {
+          "tr": "Proje yöneticisi olarak yürüttüğüm başlıca iş türleri."
+        }
+      },
+      "data": [
+        {
+          "icon": "language",
+          "name": {
+            "tr": "Kurumsal web siteleri"
+          },
+          "description": {
+            "tr": "Tasarımdan yayına kurumsal web siteleri ve portallar; 200'den fazla site."
+          }
+        },
+        {
+          "icon": "smartphone",
+          "name": {
+            "tr": "Mobil uygulamalar"
+          },
+          "description": {
+            "tr": "Android ve iOS uygulamaları; Flutter, React Native, Java ve Swift."
+          }
+        },
+        {
+          "icon": "psychology",
+          "name": {
+            "tr": "Yapay zekâ projeleri"
+          },
+          "description": {
+            "tr": "AI agent süreçleri, LLM RAG uygulamaları ve ince ayar çalışmaları."
+          }
+        },
+        {
+          "icon": "hub",
+          "name": {
+            "tr": "Entegrasyonlar"
+          },
+          "description": {
+            "tr": "Pazaryeri ve sistem entegrasyonları; 3'ten fazla pazaryeri."
+          }
+        },
+        {
+          "icon": "cloud_sync",
+          "name": {
+            "tr": "Altyapı ve DevOps"
+          },
+          "description": {
+            "tr": "Altyapı geliştirme, backend mimarisi ve yayın süreçleri."
+          }
+        },
+        {
+          "icon": "verified_user",
+          "name": {
+            "tr": "Bilgi güvenliği ve ISO"
+          },
+          "description": {
+            "tr": "ISO 27001 ilkelerine uygun projeler; uyum planlaması ve risk takibi."
+          }
+        }
+      ],
+      "category": "values",
+      "description": "Kurumsal değer kartları (MLA tarzı dört sütun). Rakam yok; ikon, başlık ve kısa açıklama. Animasyon, mobil tek sütun ve prefers-reduced-motion destekler.",
+      "version": "1.0.0",
+      "icon": "diamond",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "8n2px8",
+      "path": "values-1",
+      "local": "body",
+      "index": 24
+    },
+    {
+      "name": "Tanıtım Özeti (Açık Zemin)",
+      "desing": {
+        "max": "960px",
+        "bgcolor": "var(--mx-site-surface-2)",
+        "color": "var(--mx-site-text)",
+        "muted": "color-mix(in srgb, var(--mx-site-text) 78%, var(--mx-site-bg))",
+        "accent": "var(--mx-site-accent)",
+        "btnbg": "var(--mx-site-primary)",
+        "btncolor": "var(--mx-site-primary-contrast)",
+        "badge": {
+          "tr": "Nasıl başlarız"
+        },
+        "title": {
+          "tr": "Mesajınıza şunları yazın"
+        },
+        "description": {
+          "tr": "Projenin hedefi ve şu anki durumu (sıfırdan mı, devam eden bir proje mi?); tahmini takvim ve varsa bütçe çerçevesi; mevcut ekip ve kullanılan araçlar; beklediğiniz rol (tam sorumlu proje yöneticisi ya da danışmanlık). Eksik bilgi sorun değil; ön görüşmede birlikte tamamlarız. Merak ettiğiniz çalışma modeli, uzaktan çalışma ve yöntem sorularının cevapları SSS sayfasında."
+        },
+        "btn1Text": {
+          "tr": "SSS sayfası"
+        },
+        "btn1Url": "/sss/"
+      },
+      "category": "module",
+      "description": "Kısa tanıtım şeridi (açık krem zemin): rozet, başlık, kısa metin ve «Devamı» düğmesi; görsel gerektirmez, tüm renkler desing token'ı. module-tanitim-2'nin görselli iki kolon düzenine hafif alternatif (ana sayfa Hakkımızda özeti).",
+      "version": "1.0.0",
+      "icon": "info",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "qw3yz6",
+      "path": "tanitim-ozet",
+      "local": "body",
+      "data": [],
+      "index": 25
+    },
+    {
+      "name": "Tanıtım Özeti (Açık Zemin)",
+      "desing": {
+        "max": "960px",
+        "bgcolor": "var(--mx-site-surface-2)",
+        "color": "var(--mx-site-text)",
+        "muted": "color-mix(in srgb, var(--mx-site-text) 78%, var(--mx-site-bg))",
+        "accent": "var(--mx-site-accent)",
+        "btnbg": "var(--mx-site-primary)",
+        "btncolor": "var(--mx-site-primary-contrast)",
+        "badge": {
+          "tr": "Sonrası"
+        },
+        "title": {
+          "tr": "Mesajdan sonra ne olur?"
+        },
+        "description": {
+          "tr": "Mesajınızı okuyup kısa bir ön görüşme için size dönerim. Görüşmede hedefi ve kısıtları netleştirir, ardından kapsam, süre ve teslimleri yazılı bir plana bağlarım. Teklif bu plan üzerinden hazırlanır; belirsiz maddeler baştan konuşulur. Süreci ayrıntılı görmek için çalışma biçimimi okuyabilir, yöntemim için proje yönetimi sayfasına bakabilirsiniz."
+        },
+        "btn1Text": {
+          "tr": "Çalışma biçimi"
+        },
+        "btn1Url": "/calisma-bicimi/"
+      },
+      "category": "module",
+      "description": "Kısa tanıtım şeridi (açık krem zemin): rozet, başlık, kısa metin ve «Devamı» düğmesi; görsel gerektirmez, tüm renkler desing token'ı. module-tanitim-2'nin görselli iki kolon düzenine hafif alternatif (ana sayfa Hakkımızda özeti).",
+      "version": "1.0.0",
+      "icon": "info",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "f3gbsb",
+      "path": "tanitim-ozet",
+      "local": "body",
+      "data": [],
+      "index": 26
     }
   ]
 }

@@ -1,18 +1,18 @@
-# Yunus SEVĞANE
+# Yunus SEVĞANE — Proje Yöneticisi
 
-> Yunus Sevğane: Gaziantep'te yazılım geliştirici. 200+ kurumsal web sitesi, 10+ mobil uygulama, yapay zeka; ISO baş denetçi ve siber güvenlik eğitimleri.
+> Gaziantep'te proje yöneticisi: web, mobil, yapay zekâ ve ISO/bilgi güvenliği projelerini keşiften bakıma yönetirim. 19+ yıl yazılım deneyimi. Teklif için yazın.
 
 ---
 
-## Yunus SEVĞANE
+## Yunus SEVĞANE — Proje Yöneticisi
 https://sevgane.com/tr/
 
-Yunus Sevğane: Gaziantep'te yazılım geliştirici. 200+ kurumsal web sitesi, 10+ mobil uygulama, yapay zeka; ISO baş denetçi ve siber güvenlik eğitimleri.
+Gaziantep'te proje yöneticisi: web, mobil, yapay zekâ ve ISO/bilgi güvenliği projelerini keşiften bakıma yönetirim. 19+ yıl yazılım deneyimi. Teklif için yazın.
 
-Gaziantep · Senior Software Developer
-Yunus Sevğane
-Web, mobil ve yapay zeka alanlarında ölçeklenebilir çözümler geliştiriyorum. 2014'ten beri Webyapar Yazılım ve Danışmanlık çatısı altında 200'den fazla kurumsal web sitesi ve 10'dan fazla mobil uygulama; 2025'te siber güvenlik, adli bilişim ve ISO baş denetçi eğitimleri.
-WhatsApp ile yaz Özgeçmişi incele
+Gaziantep · Proje Yöneticisi
+Yunus Sevğane — Proje Yöneticisi
+Web, mobil, yapay zekâ ve bilgi güvenliği/ISO projelerini keşiften bakıma yönetiyorum. Yazılım geliştirici geçmişim sayesinde teknik ekiple aynı dili konuşur, kapsamı, bütçeyi ve riski kontrol altında tutarım. 2014'ten beri Webyapar Yazılım ve Danışmanlık: 200'den fazla kurumsal web sitesi, 10'dan fazla mobil uygulama.
+Teklif iste Proje yönetimi
 0 +
 Yıl sektör deneyimi
 0 +
@@ -22,32 +22,130 @@ Mobil uygulama
 0 +
 Pazaryeri entegrasyonu
 Hakkımda
-Tasarımdan yazılıma, yazılımdan güvenliğe
-2006'da grafik tasarımcı olarak başladım; Cemre Teknoloji ve Mor Medya'da yazılım geliştirdim, 2014'ten beri kendi şirketim Webyapar Yazılım ve Danışmanlık'ı yönetiyorum. Bugün web, mobil, yapay zeka ve DevOps projelerini bilgi güvenliği bakışıyla yürütüyorum.
+Proje yöneticisi bakışı, geliştirici derinliği
+2006'da grafik tasarımcı olarak başladım; Cemre Teknoloji ve Mor Medya'da yazılım geliştirdim. 2014'ten beri kendi şirketim Webyapar Yazılım ve Danışmanlık'ı yönetiyor, ekip ve proje yönetimi süreçlerini yürütüyorum. Bugün web, mobil, yapay zekâ ve DevOps projelerini bilgi güvenliği bakışıyla, kapsam, bütçe ve risk kontrolüyle teslim ediyorum.
 Devamını oku
-Uzmanlık alanlarım
-Geliştirmeden güvenliğe uçtan uca
-Projeyi tasarlayan, kodlayan, yayına alan ve güvenliğini düşünen tek bir muhatap.
-Web ve mobil geliştirme
-Kurumsal web siteleri, Flutter ve React Native ile mobil uygulamalar, Node.js tabanlı backend.
-Yapay zeka çözümleri
-AI agent süreçleri, LLM RAG uygulamaları ve LLM ince ayarı; sistem entegrasyonları.
-DevOps ve entegrasyon
-Full stack DevOps, veritabanı yönetimi ve sistem mimarisi; 3'ten fazla pazaryeri entegrasyonu.
-Bilgi güvenliği
-Penetrasyon testi, adli bilişim ve ISO 27001 / 42001 / 9001 baş denetçi eğitimleri.
-Projenizi konuşalım
-Web, mobil, yapay zeka ya da bilgi güvenliği: ihtiyacınızı WhatsApp'tan iki cümleyle yazın, size döneyim.
-WhatsApp ile yaz İletişim sayfası
+Proje yönetimi alanlarım
+Keşiften bakıma tek muhatap
+Projeyi planlayan, ekibi ve tedarikçileri koordine eden, teknik kararı da anlayan ve güvenliği baştan düşünen bir proje yöneticisi.
+Proje yönetimi
+Keşif, plan, yürütme, teslim ve bakım; çevik (Scrum) çalışma, kapsam, bütçe ve risk takibi, ekip ve tedarikçi koordinasyonu.
+Web ve mobil projeler
+200'den fazla kurumsal web sitesi ve 10'dan fazla mobil uygulamanın yönetimi ve geliştirmesi.
+Yapay zekâ projeleri
+AI agent süreçleri, LLM RAG uygulamaları ve ince ayar; veri gizliliği ve yönetişim bakışıyla.
+Bilgi güvenliği ve ISO uyumu
+ISO/IEC 27001, 42001, 9001 ve 20000-1 baş denetçi eğitimleriyle uyum projelerinde kapsam ve risk planlaması.
+Entegrasyon ve altyapı
+3'ten fazla pazaryeri entegrasyonu, full stack DevOps, veritabanı ve sistem mimarisi.
+Projeniz için teklif alın
+Hedefinizi iki üç cümleyle yazın; kapsamı, süreyi ve teslim planını birlikte netleştirelim.
+Teklif iste WhatsApp ile yaz
+
+---
+
+## Proje Yönetimi
+https://sevgane.com/tr/proje-yonetimi/
+
+Web, mobil, yapay zekâ ve ISO uyum projeleri için proje yönetimi: keşif, plan, yürütme, teslim, bakım.
+
+Proje Yönetimi
+Dijital ve yazılım projelerinde proje yöneticisi
+Ben Yunus Sevğane. Gaziantep'ten, web, mobil, yapay zekâ ve bilgi güvenliği/ISO uyum projelerini baştan sona yönetiyorum. 2014'ten beri Webyapar Yazılım ve Danışmanlık çatısı altında Senior Engineering Manager olarak ekip ve proje yönetimi süreçlerini yürütüyorum; bu süre içinde 200'den fazla kurumsal web sitesi, 10'dan fazla mobil uygulama ve 3'ten fazla pazaryeri entegrasyonu ortaya çıktı. Yazılımı kendim de geliştirdiğim için teknik ekiple aynı dili konuşur, kapsam ve süre konuşmasını teknik gerçeklikle yaparım.
+Hangi projeleri yönetiyorum?
+Kurumsal web siteleri ve portallar
+Mobil uygulamalar (Android ve iOS)
+Yapay zekâ projeleri : AI agent, LLM RAG, ince ayar
+Pazaryeri ve sistem entegrasyonları
+Altyapı ve DevOps dönüşüm işleri
+Bilgi güvenliği ve ISO 27001 uyum projeleri
+Süreç: keşif, plan, yürütme, teslim, bakım
+Keşif: hedefi, kullanıcıyı, mevcut sistemleri ve kısıtları dinlerim; neyin yapılmayacağını da yazılı hâle getiririm.
+Plan: kapsamı, aşamaları, takvimi, bütçe çerçevesini ve riskleri tek bir planda toplarım; belirsiz maddeler baştan konuşulur.
+Yürütme: işi kısa döngülere bölerim; her döngü sonunda çalışan bir çıktı görür, yön düzeltmesini erken yaparsınız.
+Teslim: kabul ölçütleri önceden yazıldığı için teslim bir sürpriz değil, bir kontrol listesidir; kullanım bilgisi ve devir dokümanı verilir.
+Bakım: yayın sonrası güncelleme, güvenlik ve iyileştirme ihtiyacı için sürdürülebilir bir düzen kurarız.
+Yöntemler
+Çevik (Scrum) çalışma: kısa sprintler, öncelikli iş listesi, sprint sonunda gösterim ve geri bildirim.
+Kapsam yönetimi: değişiklik istekleri yazılı alınır, süreye ve bütçeye etkisi söylenerek karara bağlanır.
+Bütçe ve zaman takibi: planlanan ile gerçekleşen düzenli karşılaştırılır; sapma büyümeden konuşulur.
+Risk yönetimi: riskler kayda geçer, sahibi ve önlemi belirlenir; bilgi güvenliği riskleri sürecin içinde ele alınır.
+Ekip ve tedarikçi koordinasyonu: geliştirici, tasarımcı, test ve dış tedarikçiler arasında tek muhatap olurum.
+Teknik derinlik ve güvenlik bakışı
+Frontend, backend, DevOps ve yapay zekâ süreçlerini bildiğim için ekibin tahminlerini sorgulayabilir, doğru teknik kararı hızlı alabilirim. ISO/IEC 27001:2022, 42001:2023, 9001:2015 ve 20000-1:2018 alanlarında baş denetçi eğitimleri aldım; bu bilgi, uyum gerektiren projelerde kapsam, risk ve dokümantasyon planlamasını kolaylaştırır. Bu sayfa kurum adına bir belgelendirme vaadi değil, çalışma yöntemimin anlatımıdır.
+Nasıl başlarız?
+İlk adım kısa bir ön görüşmedir: hedefi ve beklentiyi dinlerim, sonra kapsam, süre ve teslimleri yazılı bir plana dönüştürürüm. Daha ayrıntısı için çalışma biçimimi okuyabilir, geçmiş işlerin türleri için projeler sayfasına bakabilirsiniz.
+Teklif almak için: Teklif iste sayfasından ya da WhatsApp (+90 531 679 10 14) üzerinden projenizi iki üç cümleyle yazın. Ayrıca Proje Yönetimi , Çalışma Biçimi ve SSS sayfalarına bakabilirsiniz.
+
+---
+
+## Hizmetlerim
+https://sevgane.com/tr/services/
+
+Proje yönetimi, web geliştirme, mobil uygulama, yapay zekâ, backend, DevOps, bilgi güvenliği, IT danışmanlık ve pazaryeri entegrasyonu hizmetleri.
+
+Hizmetlerim
+Proje yöneticisi olarak hizmetlerim
+Ana işim, dijital ve yazılım projelerini proje yöneticisi olarak baştan sona yürütmektir; aşağıdaki teknik hizmetler bu yönetimin altında yer alır. 2014'ten beri Webyapar Yazılım ve Danışmanlık çatısı altında verdiğim hizmetler aşağıda özetlenmiştir. Her hizmetin sayfasında ne yaptığımı ve hangi teknolojilerle çalıştığımı bulabilirsiniz.
+Alanlar
+Proje Yönetimi — keşiften bakıma, kapsam, bütçe ve risk kontrolüyle
+Web Geliştirme — 200'den fazla kurumsal web sitesi
+Mobil Uygulama Geliştirme — 10'dan fazla uygulama
+Yapay Zeka Çözümleri — AI agent, LLM RAG, ince ayar
+Backend ve Sistem Mimarisi
+DevOps ve Altyapı
+Bilgi Güvenliği ve ISO 27001
+IT Danışmanlık
+Pazaryeri Entegrasyonları — 3'ten fazla entegrasyon
+Hizmetlerin hepsi aynı ilkeyle yürür: ihtiyacı netleştirmek, güvenliği baştan düşünmek ve teslim sonrasında da sürdürülebilir bir yapı bırakmak. Küçük bir kurumsal tanıtım sitesinden çok katmanlı bir entegrasyon projesine kadar kapsamı birlikte belirleriz.
+İhtiyacınız bu listede tam yer almıyorsa da yazın; birlikte uygun bir yol bulabiliriz. WhatsApp (+90 531 679 10 14) üzerinden ulaşabilirsiniz.
+Nasıl ilerlerim?
+Ücretsiz bir ön görüşmede ihtiyacı ve hedefi birlikte netleştiririz.
+Kapsam, süre ve teslimler yazılı hâle getirilir; belirsiz maddeler baştan konuşulur.
+Geliştirme aşamalı ilerler, her aşamada çalışan sonucu görürsünüz.
+Yayına alma sonrasında bakım, güncelleme ve güvenlik ihtiyacı için destek planlanır.
+Hizmetlerimin hiçbiri hazır paket değildir; her projede ihtiyaca göre teknoloji ve yöntem seçilir. Referans ve geçmiş çalışmalar hakkında bilgi için doğrudan yazmanız yeterlidir.
+Teklif iste: İletişim ve Teklif İste · Çalışma Biçimi · Projeler · SSS
+
+---
+
+## Projeler ve Vaka Çalışmaları
+https://sevgane.com/tr/projeler/
+
+200+ kurumsal web sitesi, 10+ mobil uygulama, 3+ pazaryeri entegrasyonu ve altyapı projeleri: proje türlerine göre yürüttüğüm işler ve rolüm.
+
+Projeler ve Vaka Çalışmaları
+Yürüttüğüm projelerin türleri
+Bu sayfada yalnızca belgelerimle doğrulanan işleri anlatıyorum: 2014'ten beri Webyapar Yazılım ve Danışmanlık adı altında yürüttüğüm çalışmalar. Müşteri adı, fiyat ya da ölçülmemiş sonuç yazmıyorum; ihtiyaç hâlinde çalıştığım projeler ve hizmet verdiğim müşteriler hakkında ek bilgiyi doğrudan paylaşabilirim.
+Kurumsal web siteleri: 200'den fazla
+Rolüm: tasarımdan yayına süreci yönetmek ve geliştirmek. Yaklaşım: içerik ve tasarım onaylarını takvime bağlamak, siteyi hızlı, erişilebilir ve arama motorlarına uygun kurmak. Ayrıntı: Web Geliştirme .
+Mobil uygulamalar: 10'dan fazla
+Rolüm: fikirden mağaza yayınına kadar proje yönetimi ve geliştirme. Yaklaşım: Flutter, React Native, Java ve Swift ile, backend ve Firebase entegrasyonuyla birlikte planlanan sürümler. Ayrıntı: Mobil Uygulama Geliştirme .
+Pazaryeri entegrasyonları: 3'ten fazla
+Rolüm: entegrasyon kapsamını belirlemek ve geliştirmek. Yaklaşım: ürün, stok, fiyat ve sipariş akışlarını hata ve yeniden deneme mekanizmalarıyla kurmak. Ayrıntı: Pazaryeri Entegrasyonları .
+Altyapı ve ekip kurma
+Birçok özel projede altyapı geliştirme ve ekip kurma sorumluluğu aldım. Bu işlerde hedef, tek bir kişiye bağımlı olmayan, devredilebilir bir yapı bırakmaktır. Ayrıntı: DevOps ve Altyapı , Backend ve Sistem Mimarisi .
+Yapay zekâ ve bilgi güvenliği projeleri
+AI agent süreçleri, LLM RAG ve ince ayar çalışmaları ile ISO 27001 bilgi güvenliği yönetim sistemi ilkelerine uygun projeler yürütüyorum. Ayrıntı: Yapay Zekâ Çözümleri , Bilgi Güvenliği ve ISO 27001 .
+Çalışma geçmişi
+2014 – günümüz: Webyapar Yazılım ve Danışmanlık (kendi şirketim), Senior Engineering Manager
+2012 – 2014: Mor Medya, Senior Developer
+2010 – 2012: Cemre Teknoloji, Software Developer
+2006 – 2007: Emre Carpet Design, grafik tasarımcı
+Vaka çalışması nasıl anlatılır?
+Görüşmelerde bir projeyi dört başlıkla anlatırım: durum, yaklaşım, rolüm ve teslim. Sizin sektörünüze ve proje türünüze yakın örnekleri iletişim sırasında paylaşabilirim. Yöntemim için Proje Yönetimi sayfasına bakabilirsiniz.
+Teklif almak için: Teklif iste sayfasından ya da WhatsApp (+90 531 679 10 14) üzerinden projenizi iki üç cümleyle yazın. Ayrıca Proje Yönetimi , Çalışma Biçimi ve SSS sayfalarına bakabilirsiniz.
 
 ---
 
 ## Özgeçmiş
 https://sevgane.com/tr/ozgecmis/
 
-Yunus Sevğane özgeçmişi: 2006'dan bugüne çalışma geçmişi, aldığı eğitimler, yetkinlikleri ve kullandığı teknik araçlar.
+Yunus Sevğane özgeçmişi: proje yöneticisi ve Senior Engineering Manager, 2006'dan bugüne çalışma geçmişi, eğitimler, yetkinlikler ve teknik araçlar.
 
 Özgeçmiş
+Proje yöneticisi olarak özgeçmişim
+2014'ten beri Webyapar Yazılım ve Danışmanlık adıyla Senior Engineering Manager olarak ekip ve proje yönetimi süreçlerini yürütüyorum. Öncesinde Mor Medya'da Senior Developer, Cemre Teknoloji'de Software Developer ve Emre Carpet Design'da grafik tasarımcı olarak çalıştım. Yöntemim için Proje Yönetimi , iş türleri için Projeler , teklif için İletişim sayfalarına bakabilirsiniz.
 Yetkinlikler ve Teknik Beceriler
 Bu sayfada önce günlük işlerimde kullandığım yetkinlikleri ve araçları gruplandırdım; seviye puanı vermiyorum, yalnızca kullandıklarımı yazıyorum. Çalışma geçmişim ve aldığım eğitimler hemen altındaki zaman çizelgesinde yer alıyor.
 Yetkinlikler
@@ -119,38 +217,10 @@ Tasarım
 
 ---
 
-## Hizmetlerim
-https://sevgane.com/tr/services/
-
-Web geliştirme, mobil uygulama, yapay zeka, backend, DevOps, bilgi güvenliği, IT danışmanlık ve pazaryeri entegrasyonu hizmetleri.
-
-Hizmetlerim
-Hizmetlerim
-2014'ten beri Webyapar Yazılım ve Danışmanlık çatısı altında verdiğim hizmetler aşağıda özetlenmiştir. Her hizmetin sayfasında ne yaptığımı ve hangi teknolojilerle çalıştığımı bulabilirsiniz.
-Alanlar
-Web Geliştirme — 200'den fazla kurumsal web sitesi
-Mobil Uygulama Geliştirme — 10'dan fazla uygulama
-Yapay Zeka Çözümleri — AI agent, LLM RAG, ince ayar
-Backend ve Sistem Mimarisi
-DevOps ve Altyapı
-Bilgi Güvenliği ve ISO 27001
-IT Danışmanlık
-Pazaryeri Entegrasyonları — 3'ten fazla entegrasyon
-Hizmetlerin hepsi aynı ilkeyle yürür: ihtiyacı netleştirmek, güvenliği baştan düşünmek ve teslim sonrasında da sürdürülebilir bir yapı bırakmak. Küçük bir kurumsal tanıtım sitesinden çok katmanlı bir entegrasyon projesine kadar kapsamı birlikte belirleriz.
-İhtiyacınız bu listede tam yer almıyorsa da yazın; birlikte uygun bir yol bulabiliriz. WhatsApp (+90 531 679 10 14) üzerinden ulaşabilirsiniz.
-Nasıl ilerlerim?
-Ücretsiz bir ön görüşmede ihtiyacı ve hedefi birlikte netleştiririz.
-Kapsam, süre ve teslimler yazılı hâle getirilir; belirsiz maddeler baştan konuşulur.
-Geliştirme aşamalı ilerler, her aşamada çalışan sonucu görürsünüz.
-Yayına alma sonrasında bakım, güncelleme ve güvenlik ihtiyacı için destek planlanır.
-Hizmetlerimin hiçbiri hazır paket değildir; her projede ihtiyaca göre teknoloji ve yöntem seçilir. Referans ve geçmiş çalışmalar hakkında bilgi için doğrudan yazmanız yeterlidir.
-
----
-
 ## Sertifikalar
 https://sevgane.com/tr/sertifikalar/
 
-Eğitim ve sertifikalar: ISO 27001, 42001, 9001, 20000-1 baş denetçi eğitimleri; siber güvenlik, etik hacker, adli bilişim ve daha fazlası.
+Eğitim ve sertifikalar: ISO 27001, 42001, 9001, 20000-1 baş denetçi eğitimleri; siber güvenlik, etik hacker, adli bilişim.
 
 Sertifikalar
 Eğitim ve Sertifikalar
@@ -177,6 +247,7 @@ Gaziantep Ticaret Odası eğitimleri
 2019: Marka Yönetimi ve Pazarlamada Markanın Önemi; Etkili Sunum Teknikleri
 2017: Pazarlama Stratejileri ve Müşteri İlişkileri Yönetimi; Diksiyon, Etkili Konuşma ve Topluluğa Hitabet
 Bu eğitimler baş denetçi eğitimi ve katılım belgeleridir; kurum adına verilmiş bir belgelendirme anlamına gelmez. Tüm çalışma geçmişi için Özgeçmiş sayfasına bakınız.
+Bu eğitimleri proje yönetimi sürecime nasıl yansıttığımı Proje Yönetimi sayfasında, teklif için İletişim sayfasında bulabilirsiniz.
 
 ---
 
@@ -187,8 +258,8 @@ Kurumsal bilgiler: hakkımda, misyon, vizyon, kalite politikası, gizlilik, kiş
 
 Hakkımızda
 Yunus Sevğane
-Gaziantep merkezli bir yazılım geliştiriciyim. Yeni teknolojilere hızla uyum sağlayan, web, mobil ve yapay zeka alanlarında ölçeklenebilir ve verimli çözümler geliştiren bir yaklaşımı benimserim; sürekli öğrenmeyi ve yenilikçi yöntemleri işimin parçası olarak görürüm.
-Frontend, backend, DevOps ve yapay zeka geliştirme süreçlerinde sağlam yazılım geliştirme ilkelerini uygularım. 2025 itibarıyla siber güvenlik, etik hacker, adli bilişim ve ISO yönetim sistemleri denetçiliği alanlarında aldığım eğitimlerle bu bakışı bilgi güvenliği tarafına da taşıdım.
+Gaziantep merkezli bir proje yöneticisiyim. Web, mobil, yapay zekâ ve bilgi güvenliği/ISO uyum projelerini keşiften bakıma kadar yönetiyorum. Yazılım geliştirici geçmişim sayesinde teknik ekiple aynı dili konuşur, kapsam, bütçe ve riski teknik gerçeklikle birlikte ele alırım. Bu yaklaşımın ayrıntısı Proje Yönetimi ve Çalışma Biçimi sayfalarında.
+Frontend, backend, DevOps ve yapay zekâ geliştirme süreçlerinde sağlam yazılım geliştirme ilkelerini uygularım. 2025 itibarıyla siber güvenlik, etik hacker, adli bilişim ve ISO yönetim sistemleri denetçiliği alanlarında aldığım eğitimlerle bu bakışı bilgi güvenliği tarafına da taşıdım.
 Çalışma hayatım
 2014 – günümüz: Webyapar Yazılım ve Danışmanlık (kendi şirketim) — Senior Engineering Manager
 2012 – 2014: Mor Medya — Senior Developer
@@ -196,25 +267,54 @@ Frontend, backend, DevOps ve yapay zeka geliştirme süreçlerinde sağlam yazı
 2006 – 2007: Emre Carpet Design — Grafik tasarımcı
 Webyapar Yazılım ve Danışmanlık çatısı altında 200'den fazla kurumsal web sitesi, 3'ten fazla pazaryeri entegrasyonu ve 10'dan fazla mobil uygulama geliştirdim. Birçok özel projede altyapı geliştirme ve ekip kurma sorumluluğu aldım.
 Uzmanlık alanlarım
-Proje yönetimi ve full stack DevOps
+Proje yönetimi (kapsam, bütçe, risk, ekip) ve full stack DevOps
 Penetrasyon testi, siber güvenlik ve adli bilişim
 ISO yönetim sistemleri (27001, 42001, 9001, 20000-1)
 AI agent süreçleri, LLM RAG ve LLM ince ayarı
 Eğitim ve sertifika ayrıntıları için Sertifikalar , çalışma geçmişi için Özgeçmiş sayfasına bakabilirsiniz. Projeniz için WhatsApp (+90 531 679 10 14) üzerinden yazabilirsiniz.
+Teklif için İletişim ve Teklif İste , yöntem için Proje Yönetimi , iş türleri için Projeler sayfalarına bakabilirsiniz.
 
 ---
 
-## İletişim
+## İletişim ve Teklif İste
 https://sevgane.com/tr/iletisim/
 
-Yunus Sevğane ile iletişim: WhatsApp (+90 531 679 10 14) ve iletişim formu.
+Proje yöneticisi için teklif isteyin: WhatsApp, telefon ve e-posta.
 
-İletişim
+İletişim ve Teklif İste
+Teklif iste
+Proje yöneticisi için teklif isteyin
+Web, mobil, yapay zekâ ya da bilgi güvenliği/ISO uyum projeniz için bir proje yöneticisi arıyorsanız bana doğrudan yazabilirsiniz. Gaziantep merkezliyim ve uzaktan çalışmaya açığım. 2014'ten beri Webyapar Yazılım ve Danışmanlık adı altında 200'den fazla kurumsal web sitesi, 10'dan fazla mobil uygulama ve 3'ten fazla pazaryeri entegrasyonu yürüttüm. En hızlı ulaşım yolu WhatsApp (+90 531 679 10 14); e-posta için yunus@webyapar.com.
+WhatsApp ile yaz
+Projeler
+Hangi projelerde çalışıyorum?
+Proje yöneticisi olarak yürüttüğüm başlıca iş türleri.
+Kurumsal web siteleri
+Tasarımdan yayına kurumsal web siteleri ve portallar; 200'den fazla site.
+Mobil uygulamalar
+Android ve iOS uygulamaları; Flutter, React Native, Java ve Swift.
+Yapay zekâ projeleri
+AI agent süreçleri, LLM RAG uygulamaları ve ince ayar çalışmaları.
+Entegrasyonlar
+Pazaryeri ve sistem entegrasyonları; 3'ten fazla pazaryeri.
+Altyapı ve DevOps
+Altyapı geliştirme, backend mimarisi ve yayın süreçleri.
+Bilgi güvenliği ve ISO
+ISO 27001 ilkelerine uygun projeler; uyum planlaması ve risk takibi.
+Nasıl başlarız
+Mesajınıza şunları yazın
+Projenin hedefi ve şu anki durumu (sıfırdan mı, devam eden bir proje mi?); tahmini takvim ve varsa bütçe çerçevesi; mevcut ekip ve kullanılan araçlar; beklediğiniz rol (tam sorumlu proje yöneticisi ya da danışmanlık). Eksik bilgi sorun değil; ön görüşmede birlikte tamamlarız. Merak ettiğiniz çalışma modeli, uzaktan çalışma ve yöntem sorularının cevapları SSS sayfasında.
+SSS sayfası
+Sonrası
+Mesajdan sonra ne olur?
+Mesajınızı okuyup kısa bir ön görüşme için size dönerim. Görüşmede hedefi ve kısıtları netleştirir, ardından kapsam, süre ve teslimleri yazılı bir plana bağlarım. Teklif bu plan üzerinden hazırlanır; belirsiz maddeler baştan konuşulur. Süreci ayrıntılı görmek için çalışma biçimimi okuyabilir, yöntemim için proje yönetimi sayfasına bakabilirsiniz.
+Çalışma biçimi
 İletişim bilgileri
-En hızlı ulaşım yolu WhatsApp'tır. Merak ettiğiniz bir konu varsa doğrudan yazabilirsiniz.
+En hızlı ulaşım yolu WhatsApp'tır. E-posta ve telefon ile de ulaşabilirsiniz; Gaziantep merkezliyim, uzaktan çalışmaya açığım.
 Adres Gaziantep, Türkiye
 Telefon +90 531 679 10 14
-Yanıt Mesajlarınıza WhatsApp üzerinden dönüş yapılır.
+E-posta yunus@webyapar.com
+Yanıt Mesajlarınıza WhatsApp ya da e-posta üzerinden dönüş yapılır.
 Haritada gör
 Bizi takip edin
 GitHub LinkedIn Instagram X
@@ -235,8 +335,8 @@ Yunus Sevğane kimdir?
 
 Hakkımızda
 Yunus Sevğane
-Gaziantep merkezli bir yazılım geliştiriciyim. Yeni teknolojilere hızla uyum sağlayan, web, mobil ve yapay zeka alanlarında ölçeklenebilir ve verimli çözümler geliştiren bir yaklaşımı benimserim; sürekli öğrenmeyi ve yenilikçi yöntemleri işimin parçası olarak görürüm.
-Frontend, backend, DevOps ve yapay zeka geliştirme süreçlerinde sağlam yazılım geliştirme ilkelerini uygularım. 2025 itibarıyla siber güvenlik, etik hacker, adli bilişim ve ISO yönetim sistemleri denetçiliği alanlarında aldığım eğitimlerle bu bakışı bilgi güvenliği tarafına da taşıdım.
+Gaziantep merkezli bir proje yöneticisiyim. Web, mobil, yapay zekâ ve bilgi güvenliği/ISO uyum projelerini keşiften bakıma kadar yönetiyorum. Yazılım geliştirici geçmişim sayesinde teknik ekiple aynı dili konuşur, kapsam, bütçe ve riski teknik gerçeklikle birlikte ele alırım. Bu yaklaşımın ayrıntısı Proje Yönetimi ve Çalışma Biçimi sayfalarında.
+Frontend, backend, DevOps ve yapay zekâ geliştirme süreçlerinde sağlam yazılım geliştirme ilkelerini uygularım. 2025 itibarıyla siber güvenlik, etik hacker, adli bilişim ve ISO yönetim sistemleri denetçiliği alanlarında aldığım eğitimlerle bu bakışı bilgi güvenliği tarafına da taşıdım.
 Çalışma hayatım
 2014 – günümüz: Webyapar Yazılım ve Danışmanlık (kendi şirketim) — Senior Engineering Manager
 2012 – 2014: Mor Medya — Senior Developer
@@ -244,11 +344,40 @@ Frontend, backend, DevOps ve yapay zeka geliştirme süreçlerinde sağlam yazı
 2006 – 2007: Emre Carpet Design — Grafik tasarımcı
 Webyapar Yazılım ve Danışmanlık çatısı altında 200'den fazla kurumsal web sitesi, 3'ten fazla pazaryeri entegrasyonu ve 10'dan fazla mobil uygulama geliştirdim. Birçok özel projede altyapı geliştirme ve ekip kurma sorumluluğu aldım.
 Uzmanlık alanlarım
-Proje yönetimi ve full stack DevOps
+Proje yönetimi (kapsam, bütçe, risk, ekip) ve full stack DevOps
 Penetrasyon testi, siber güvenlik ve adli bilişim
 ISO yönetim sistemleri (27001, 42001, 9001, 20000-1)
 AI agent süreçleri, LLM RAG ve LLM ince ayarı
 Eğitim ve sertifika ayrıntıları için Sertifikalar , çalışma geçmişi için Özgeçmiş sayfasına bakabilirsiniz. Projeniz için WhatsApp (+90 531 679 10 14) üzerinden yazabilirsiniz.
+Teklif için İletişim ve Teklif İste , yöntem için Proje Yönetimi , iş türleri için Projeler sayfalarına bakabilirsiniz.
+
+---
+
+## Çalışma Biçimi
+https://sevgane.com/tr/calisma-bicimi/
+
+Proje yöneticisi olarak nasıl çalıştığım: ön görüşme, yazılı kapsam, düzenli durum bildirimi, aşamalı teslim ve bakım.
+
+Çalışma Biçimi
+Birlikte çalışırken ne bekleyebilirsiniz?
+Proje yönetiminde en pahalı şey belirsizliktir. Bu yüzden çalışma biçimim üç ilkeye dayanır: ne yapılacağı yazılı olur, ilerleme görünür olur ve sorunlar büyümeden konuşulur. Aşağıda bir projenin benimle nasıl ilerlediğini sırasıyla bulabilirsiniz.
+1. Ön görüşme
+Hedefinizi, kullanıcılarınızı, mevcut sistemlerinizi ve varsa kısıtlarınızı (süre, bütçe, mevzuat, ekip) dinlerim. Bu aşamada bir satış sunumu değil, işin gerçekten ne olduğunu anlamaya çalışan bir konuşma yaparız. Projeniz bana uygun değilse bunu da açıkça söylerim.
+2. Yazılı kapsam ve plan
+Konuşulanlar kapsam, aşamalar, teslimler, kabul ölçütleri ve riskler olarak yazıya dökülür. Kapsama girmeyen maddeler de listelenir. Böylece sonradan "bunu da sanıyordum" türünden anlaşmazlıklar azalır.
+3. Düzenli iletişim
+Proje başında iletişim ritmini birlikte belirleriz; örneğin haftalık bir durum özeti ve her aşama sonunda kısa bir gösterim. Hızlı sorular için WhatsApp, kayıt altında kalması gereken kararlar için e-posta kullanırım. Uzaktan çalışmaya açığım; yüz yüze görüşme gereken durumlarda planlarız.
+4. Aşamalı teslim ve değişiklik yönetimi
+İşi küçük parçalara bölerim; her parça çalışan bir sonuç olarak teslim edilir. Yeni bir istek geldiğinde süreye ve bütçeye etkisini söyler, siz onaylayınca plana eklerim. Kapsam yavaş yavaş şişmez; her değişiklik bilinçli bir karardır.
+5. Teslim ve devir
+Teslimde kabul ölçütleri üzerinden ilerleriz. Kullanım bilgisi, teknik dokümantasyon ve gerekiyorsa ekibinize kısa bir bilgi aktarımı yapılır, böylece iş bir kişiye bağımlı kalmaz.
+6. Bakım ve sürdürülebilirlik
+Yayına alınan bir ürünün güncelleme, güvenlik ve iyileştirme ihtiyacı vardır. Bakım kapsamını teslimden önce birlikte planlarız.
+Güvenlik ve gizlilik
+Bilgi güvenliği eğitimlerimden (ISO/IEC 27001:2022 baş denetçi eğitimi, siber güvenlik ve etik hacker eğitimleri) gelen alışkanlıkla erişim yetkilerini, veri paylaşımını ve yedeklemeyi projenin başında netleştiririm.
+Çalışma modelleri
+Webyapar Yazılım ve Danışmanlık üzerinden proje bazlı ya da süreli danışmanlık şeklinde çalışabilirim. Farklı bir model düşünüyorsanız teklifinizi dinler, uygun olanı birlikte belirleriz. Sık sorulan sorular için SSS sayfasına bakabilirsiniz.
+Teklif almak için: Teklif iste sayfasından ya da WhatsApp (+90 531 679 10 14) üzerinden projenizi iki üç cümleyle yazın. Ayrıca Proje Yönetimi , Çalışma Biçimi ve SSS sayfalarına bakabilirsiniz.
 
 ---
 
@@ -289,10 +418,41 @@ Birlikte çalışmak için WhatsApp (+90 531 679 10 14) üzerinden yazabilirsini
 
 ---
 
+## Sıkça Sorulan Sorular
+https://sevgane.com/tr/sss/
+
+Proje yöneticisi arayan işverenlerin soruları: uzaktan çalışma, çalışma modeli, sektör deneyimi, yöntemler, ISO uyum projeleri ve teklif süreci.
+
+Sıkça Sorulan Sorular
+Proje yöneticisi arayan işverenin soruları
+Bir proje yöneticisiyle çalışmadan önce merak edilenleri aşağıda topladım: çalışma modeli, uzaktan çalışma, sektör deneyimi, yöntemler, ISO uyum projeleri ve teklif süreci. Cevabını bulamadığınız soru için iletişim sayfasından yazabilirsiniz.
+Yöntemimin ayrıntısı Proje Yönetimi ve Çalışma Biçimi sayfalarında, yürüttüğüm iş türleri Projeler sayfasındadır. Teknik hizmet alanlarımın tamamı için Hizmetlerim sayfasına bakabilirsiniz.
+Hızlı özet
+Gaziantep merkezli, uzaktan çalışmaya açık proje yöneticisi
+2014'ten beri Webyapar Yazılım ve Danışmanlık: 200+ kurumsal web sitesi, 10+ mobil uygulama, 3+ pazaryeri entegrasyonu
+Çevik (Scrum) çalışma, kapsam, bütçe ve risk yönetimi, ekip ve tedarikçi koordinasyonu
+ISO/IEC 27001, 42001, 9001 ve 20000-1 baş denetçi eğitimleri
+Teklif için İletişim ve Teklif İste sayfasını kullanabilir ya da WhatsApp (+90 531 679 10 14) üzerinden yazabilirsiniz.
+SSS
+Sıkça sorulan sorular
+Proje yöneticisi ile çalışmadan önce merak edilenler.
+Web siteleri ve portallar, mobil uygulamalar, yapay zekâ projeleri (AI agent, LLM RAG), pazaryeri ve sistem entegrasyonları, altyapı/DevOps işleri ve ISO 27001 gibi bilgi güvenliği uyum projelerinde çalışıyorum. 2014'ten beri 200'den fazla kurumsal web sitesi, 10'dan fazla mobil uygulama ve 3'ten fazla pazaryeri entegrasyonu yürüttüm.
+Gaziantep merkezliyim ve uzaktan çalışmaya açığım. İletişim ritmini proje başında birlikte belirleriz; yüz yüze görüşme gereken durumlarda planlarız.
+Webyapar Yazılım ve Danışmanlık üzerinden, serbest çalışan olarak proje bazlı ya da süreli danışmanlık şeklinde çalışıyorum. Farklı bir model düşünüyorsanız teklifinizi dinler, uygun olanı ön görüşmede birlikte belirleriz.
+Deneyimim sektörden çok proje türüne göre gruplanır: kurumsal web siteleri, mobil uygulamalar, pazaryeri entegrasyonları, yapay zekâ ve bilgi güvenliği. Sektörünüzü yazarsanız bu alandaki çalışma örneklerimi paylaşırım.
+Çevik (Scrum) yaklaşımıyla kısa sprintler, öncelikli iş listesi ve her sprint sonunda gösterim kullanırım; kapsam, bütçe ve risk takibini yazılı yaparım. Araç tarafında sizin ya da ekibin mevcut görev panosu ve iletişim kanalına uyum sağlarım.
+Frontend, backend, DevOps ve yapay zekâ süreçlerinde geliştirici olarak çalıştığım için ekibin tahminlerini sorgulayabilir, riskleri erken görebilir ve kapsam kararlarını teknik gerçeklikle verebilirim.
+Kapsam yazılı plana bağlanır, değişiklik istekleri süre ve bütçe etkisiyle birlikte onaya sunulur, planlanan ile gerçekleşen düzenli karşılaştırılır. Riskler kayda geçer; sahibi ve önlemi belirlenir.
+ISO/IEC 27001:2022, 42001:2023, 9001:2015 ve 20000-1:2018 alanlarında baş denetçi eğitimleri aldım. Uyum projelerinde kapsam, risk ve dokümantasyon planlamasını yönetebilirim. Bu bir kurum belgelendirmesi anlamına gelmez; bireysel eğitim ve uygulama deneyimimdir.
+Evet. AI agent süreçleri, LLM RAG uygulamaları ve ince ayar çalışmalarını hem geliştirici hem proje yöneticisi olarak yürütüyorum; veri gizliliği ve yetkilendirmeyi ilk aşamada ele alırım.
+İletişim sayfasındaki forma, WhatsApp'a (+90 531 679 10 14) ya da yunus@webyapar.com adresine projenizi iki üç cümleyle yazmanız yeterli. Kapsamı birlikte netleştirir, ardından yazılı bir plan ve teklif paylaşırım.
+
+---
+
 ## Kalite Politikamız
 https://sevgane.com/tr/kalite-politikamiz/
 
-Kalite politikam: müşteri odaklılık, süreç yaklaşımı ve sürekli iyileştirme; ISO 9001:2015 baş denetçi eğitimi ilkeleri.
+Kalite politikam: müşteri odaklılık, süreç yaklaşımı ve sürekli iyileştirme; ISO 9001:2015 baş denetçi eğitimi ilkeleri ve proje yönetimi uygulamam.
 
 Kalite Politikamız
 Kalite Politikamız
@@ -439,6 +599,9 @@ Nasıl çalışırım?
 Geliştirmeyi aşamalara bölüp her aşamada çalışan sonucu paylaşırım.
 Teslimde kullanım bilgisini verir, sonraki bakım ihtiyacını birlikte planlarız.
 Bu alanda bir ihtiyacınız varsa WhatsApp (+90 531 679 10 14) üzerinden kısaca yazın; kapsamı birlikte netleştirelim.
+Proje yönetimi açısından
+Web projelerinde süreci içerik, tasarım onayı, geliştirme, test ve yayın adımlarına bölerim. İçerik ve onay beklentilerini baştan takvime koyar, SEO ve erişilebilirlik kontrollerini teslim ölçütüne eklerim; böylece site yalnızca yayına çıkmaz, bulunabilir de olur. Yöntemimin tamamı için Proje Yönetimi sayfasına bakabilirsiniz.
+Teklif iste: İletişim ve Teklif İste sayfasından ya da WhatsApp (+90 531 679 10 14) üzerinden yazın.
 
 ---
 
@@ -462,6 +625,9 @@ Nasıl çalışırım?
 Geliştirmeyi aşamalara bölüp her aşamada çalışan sonucu paylaşırım.
 Teslimde kullanım bilgisini verir, sonraki bakım ihtiyacını birlikte planlarız.
 Bu alanda bir ihtiyacınız varsa WhatsApp (+90 531 679 10 14) üzerinden kısaca yazın; kapsamı birlikte netleştirelim.
+Proje yönetimi açısından
+Mobil projelerde sürüm takvimini, mağaza yayın süreçlerini ve backend ile tasarım ekibinin teslimlerini tek planda koordine ederim. Her sürümde çalışan bir uygulama görür, öncelikleri sprint sonunda birlikte güncelleriz. Yöntemimin tamamı için Proje Yönetimi sayfasına bakabilirsiniz.
+Teklif iste: İletişim ve Teklif İste sayfasından ya da WhatsApp (+90 531 679 10 14) üzerinden yazın.
 
 ---
 
@@ -485,6 +651,9 @@ Nasıl çalışırım?
 Geliştirmeyi aşamalara bölüp her aşamada çalışan sonucu paylaşırım.
 Teslimde kullanım bilgisini verir, sonraki bakım ihtiyacını birlikte planlarız.
 Bu alanda bir ihtiyacınız varsa WhatsApp (+90 531 679 10 14) üzerinden kısaca yazın; kapsamı birlikte netleştirelim.
+Proje yönetimi açısından
+Yapay zekâ projelerinde önce küçük bir pilot kurar, sonucu ölçer, sonra genişletirim. Veri gizliliği, yetkilendirme ve kapsam kayması riskini plana yazarım; ISO/IEC 42001 baş denetçi eğitimi bakışı yönetişim sorularında yardımcı olur. Yöntemimin tamamı için Proje Yönetimi sayfasına bakabilirsiniz.
+Teklif iste: İletişim ve Teklif İste sayfasından ya da WhatsApp (+90 531 679 10 14) üzerinden yazın.
 
 ---
 
@@ -508,6 +677,9 @@ Nasıl çalışırım?
 Geliştirmeyi aşamalara bölüp her aşamada çalışan sonucu paylaşırım.
 Teslimde kullanım bilgisini verir, sonraki bakım ihtiyacını birlikte planlarız.
 Bu alanda bir ihtiyacınız varsa WhatsApp (+90 531 679 10 14) üzerinden kısaca yazın; kapsamı birlikte netleştirelim.
+Proje yönetimi açısından
+Mimari kararları gerekçeleriyle kayda geçirir, geçiş ve geri dönüş planını baştan yaparım. Performans ve ölçeklenme hedefleri kabul ölçütü olur, devir için dokümantasyon projenin parçasıdır. Yöntemimin tamamı için Proje Yönetimi sayfasına bakabilirsiniz.
+Teklif iste: İletişim ve Teklif İste sayfasından ya da WhatsApp (+90 531 679 10 14) üzerinden yazın.
 
 ---
 
@@ -531,6 +703,9 @@ Nasıl çalışırım?
 Geliştirmeyi aşamalara bölüp her aşamada çalışan sonucu paylaşırım.
 Teslimde kullanım bilgisini verir, sonraki bakım ihtiyacını birlikte planlarız.
 Bu alanda bir ihtiyacınız varsa WhatsApp (+90 531 679 10 14) üzerinden kısaca yazın; kapsamı birlikte netleştirelim.
+Proje yönetimi açısından
+Altyapı değişikliklerini yayın takvimi, değişiklik kaydı ve geri alma planıyla yönetirim. Kesinti penceresi ve sorumluluklar önceden yazılır; böylece yayın günü sürpriz olmaz. Yöntemimin tamamı için Proje Yönetimi sayfasına bakabilirsiniz.
+Teklif iste: İletişim ve Teklif İste sayfasından ya da WhatsApp (+90 531 679 10 14) üzerinden yazın.
 
 ---
 
@@ -554,13 +729,16 @@ Nasıl çalışırım?
 Geliştirmeyi aşamalara bölüp her aşamada çalışan sonucu paylaşırım.
 Teslimde kullanım bilgisini verir, sonraki bakım ihtiyacını birlikte planlarız.
 Bu alanda bir ihtiyacınız varsa WhatsApp (+90 531 679 10 14) üzerinden kısaca yazın; kapsamı birlikte netleştirelim.
+Proje yönetimi açısından
+ISO 27001 gibi uyum projelerinde kapsamı, risk değerlendirmesini, dokümantasyon işlerini ve tetkike hazırlığı bir proje planına bağlarım. Bu bir belgelendirme vaadi değil, uyum çalışmasını düzenli yürütme hizmetidir. Yöntemimin tamamı için Proje Yönetimi sayfasına bakabilirsiniz.
+Teklif iste: İletişim ve Teklif İste sayfasından ya da WhatsApp (+90 531 679 10 14) üzerinden yazın.
 
 ---
 
 ## IT Danışmanlık
 https://sevgane.com/tr/it-danismanlik/
 
-Kurumsal müşterilere yazılım geliştirme ve IT danışmanlık: teknoloji seçimi, proje ve ekip yönetimi, ISO yönetim sistemleri bakış açısı.
+Kurumsal müşterilere IT danışmanlık ve proje yönetimi: teknoloji seçimi, ekip ve tedarikçi koordinasyonu, ISO yönetim sistemleri bakış açısı.
 
 IT Danışmanlık
 IT Danışmanlık
@@ -577,6 +755,9 @@ Nasıl çalışırım?
 Geliştirmeyi aşamalara bölüp her aşamada çalışan sonucu paylaşırım.
 Teslimde kullanım bilgisini verir, sonraki bakım ihtiyacını birlikte planlarız.
 Bu alanda bir ihtiyacınız varsa WhatsApp (+90 531 679 10 14) üzerinden kısaca yazın; kapsamı birlikte netleştirelim.
+Proje yönetimi açısından
+Danışmanlıkta ihtiyaçtan yol haritasına, yol haritasından tedarikçi ve ekip koordinasyonuna uzanan bir çerçeve kurarım. Teknoloji kararları kapsam, bütçe ve risk açısından birlikte değerlendirilir. Yöntemimin tamamı için Proje Yönetimi sayfasına bakabilirsiniz.
+Teklif iste: İletişim ve Teklif İste sayfasından ya da WhatsApp (+90 531 679 10 14) üzerinden yazın.
 
 ---
 
@@ -600,3 +781,6 @@ Nasıl çalışırım?
 Geliştirmeyi aşamalara bölüp her aşamada çalışan sonucu paylaşırım.
 Teslimde kullanım bilgisini verir, sonraki bakım ihtiyacını birlikte planlarız.
 Bu alanda bir ihtiyacınız varsa WhatsApp (+90 531 679 10 14) üzerinden kısaca yazın; kapsamı birlikte netleştirelim.
+Proje yönetimi açısından
+Pazaryeri entegrasyonlarında her pazaryerinin kural ve sınırlarını keşif aşamasında çıkarır, test ortamında sipariş ve stok akışını doğrular, hata yönetimini teslim ölçütüne koyarım. Takvim, pazaryerinin onay süreçlerine göre planlanır. Yöntemimin tamamı için Proje Yönetimi sayfasına bakabilirsiniz.
+Teklif iste: İletişim ve Teklif İste sayfasından ya da WhatsApp (+90 531 679 10 14) üzerinden yazın.

@@ -1,6 +1,4 @@
 {
-  "name": "Kurumsal",
-  "path": "kurumsal",
   "data": [
     {
       "name": {
@@ -18,8 +16,27 @@
       "index": 0,
       "icon": "home",
       "description": {
-        "tr": "Yunus Sevğane kimdir? Gaziantep merkezli yazılım geliştirici; 2014'ten beri Webyapar Yazılım ve Danışmanlık, 200+ kurumsal web sitesi, 10+ mobil uygulama."
+        "tr": "Yunus Sevğane kimdir? Gaziantep merkezli proje yöneticisi; 2014'ten beri Webyapar Yazılım ve Danışmanlık, 200+ kurumsal web sitesi, 10+ mobil uygulama."
       }
+    },
+    {
+      "id": "wamuq6j1h0",
+      "name": {
+        "tr": "Çalışma Biçimi"
+      },
+      "description": {
+        "tr": "Proje yöneticisi olarak nasıl çalıştığım: ön görüşme, yazılı kapsam, düzenli durum bildirimi, aşamalı teslim ve bakım. İşverenin ne bekleyebileceği."
+      },
+      "path": "calisma-bicimi",
+      "icon": "handshake",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 1
     },
     {
       "name": {
@@ -34,7 +51,7 @@
         "body": [],
         "footer": []
       },
-      "index": 1,
+      "index": 2,
       "icon": "home",
       "description": {
         "tr": "Misyonum: web, mobil ve yapay zeka alanlarında ölçeklenebilir, verimli ve güvenli yazılım çözümleri üreterek müşterilerimin işini dijitalde güçlendirmek."
@@ -53,11 +70,32 @@
         "body": [],
         "footer": []
       },
-      "index": 2,
+      "index": 3,
       "icon": "home",
       "description": {
         "tr": "Vizyonum: yazılım geliştirme ile bilgi güvenliğini birlikte düşünen, güvenilir ve tercih edilen bir profesyonel olmak; yapay zekada öncü çözümler üretmek."
       }
+    },
+    {
+      "id": "be41z2rac6",
+      "name": {
+        "tr": "Sıkça Sorulan Sorular"
+      },
+      "description": {
+        "tr": "Proje yöneticisi arayan işverenlerin soruları: uzaktan çalışma, çalışma modeli, sektör deneyimi, yöntemler, ISO uyum projeleri ve teklif süreci."
+      },
+      "path": "sss",
+      "icon": "quiz",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "g7v874"
+        ],
+        "footer": []
+      },
+      "index": 4
     },
     {
       "name": {
@@ -72,10 +110,10 @@
         "body": [],
         "footer": []
       },
-      "index": 3,
+      "index": 5,
       "icon": "home",
       "description": {
-        "tr": "Kalite politikam: müşteri odaklılık, süreç yaklaşımı ve sürekli iyileştirme; ISO 9001:2015 baş denetçi eğitimi ilkeleri."
+        "tr": "Kalite politikam: müşteri odaklılık, süreç yaklaşımı ve sürekli iyileştirme; ISO 9001:2015 baş denetçi eğitimi ilkeleri ve proje yönetimi uygulamam."
       }
     },
     {
@@ -91,7 +129,7 @@
         "body": [],
         "footer": []
       },
-      "index": 4,
+      "index": 6,
       "icon": "home",
       "description": {
         "tr": "sevgane.com gizlilik politikası: Yunus Sevğane tarafından hangi verilerin işlendiği, hangi amaçla kullanıldığı, ne kadar saklandığı ve nasıl korunduğu."
@@ -110,7 +148,7 @@
         "body": [],
         "footer": []
       },
-      "index": 5,
+      "index": 7,
       "icon": "home",
       "description": {
         "tr": "6698 sayılı KVKK kapsamında aydınlatma metni: veri sorumlusu Yunus Sevğane, işlenen kişisel veriler, amaçlar, hukuki sebepler ve veri aktarımı."
@@ -129,7 +167,7 @@
         "body": [],
         "footer": []
       },
-      "index": 6,
+      "index": 8,
       "icon": "home",
       "description": {
         "tr": "KVKK 11. madde kapsamındaki haklarınız (bilgi alma, düzeltme, silme, itiraz) ve Yunus Sevğane'ye başvuru yolları: WhatsApp ve iletişim formu."
@@ -148,7 +186,7 @@
         "body": [],
         "footer": []
       },
-      "index": 7,
+      "index": 9,
       "icon": "home",
       "description": {
         "tr": "sevgane.com yasal uyarı: kullanım koşulları, fikri mülkiyet hakları, üçüncü taraf bağlantılar ve sorumluluk sınırları hakkında bilgilendirme."
@@ -171,10 +209,10 @@
         "body": [],
         "footer": []
       },
-      "index": 8
+      "index": 10
     }
   ],
-  "index": 2,
+  "desc": [],
   "desing": {
     "header": [],
     "body": [

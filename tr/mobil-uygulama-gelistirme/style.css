@@ -565,6 +565,71 @@
   }
 
   
+  @media screen and (min-width: 1025px) {
+    .h0000-teksatir {
+      flex-direction: row;
+      justify-content: flex-start;
+      gap: 24px;
+      box-sizing: border-box;
+      padding-inline: max(20px, calc((100% - var(--max)) / 2));
+      background-color: #1e3046;
+    }
+
+    .h0000-teksatir .h0000body {
+      order: 1;
+      width: auto;
+      flex: 0 0 auto;
+      margin: 8px 0;
+      justify-content: flex-start;
+    }
+
+    .h0000-teksatir .h0000menubody {
+      order: 2;
+      flex: 1 1 auto;
+      width: auto;
+      min-width: 0;
+      background-color: transparent;
+    }
+
+    .h0000-teksatir .h0000menu,
+    .h0000-teksatir .h0000menulistbody,
+    .h0000-teksatir .h0000menulist {
+      width: 100%;
+      box-shadow: none;
+    }
+
+    .h0000-teksatir .h0000title {
+      order: 3;
+      width: auto;
+      flex: 0 0 auto;
+      margin-bottom: 0;
+    }
+
+    .h0000-teksatir .h0000titlebody {
+      width: auto;
+      padding: 0;
+    }
+
+    .h0000-teksatir .h0000menulist ul {
+      flex-wrap: nowrap;
+      justify-content: flex-end;
+    }
+
+    .h0000-teksatir .h0000menulist ul > a,
+    .h0000-teksatir .h0000menulist ul > .h0000menulist-menu {
+      flex: 0 1 auto;
+      border-left: none;
+    }
+  }
+
+  
+  @media screen and (max-width: 1024px) {
+    [dir="rtl"] .h0000-teksatir .h0000body {
+      direction: ltr;
+    }
+  }
+
+  
   @media screen and (max-width: 1024px) {
     .h0000titlebodylang {
       display: none;
@@ -2138,13 +2203,16 @@
     padding-right: 20px;
   }
 
+  
+  .whatsapp-cerezkacin {
+    right: auto;
+    inset-inline-end: 30px;
+    bottom: max(30px, calc(var(--mx-cookie-pad, 0px) + 8px));
+  }
+
   .whatsappicon {
     width: 40px;
     height: 40px;
-  }
-
-  .whatsappicon svg {
-    fill: currentColor;
   }
 
   .whatsappicon svg {

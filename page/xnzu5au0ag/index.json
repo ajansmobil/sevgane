@@ -1,32 +1,36 @@
 {
   "name": {
-    "tr": "İletişim"
+    "tr": "İletişim ve Teklif İste"
   },
   "status": "play",
   "category": "",
   "id": "xnzu5au0ag",
   "url": "",
   "path": "iletisim",
-  "index": 4,
+  "index": 6,
   "icon": "home",
   "desing": {
     "header": [],
     "body": [
       "tp5jo4",
+      "klxhui",
+      "8n2px8",
+      "qw3yz6",
+      "f3gbsb",
       "9tyvhx"
     ],
     "footer": []
   },
   "pathnext": "",
   "description": {
-    "tr": "Yunus Sevğane ile iletişim: WhatsApp (+90 531 679 10 14) ve iletişim formu. Web, mobil, yapay zeka ve bilgi güvenliği projeleri için yazın."
+    "tr": "Proje yöneticisi için teklif isteyin: WhatsApp, telefon ve e-posta. Web, mobil, yapay zekâ ve ISO projeleri; Gaziantep merkezli, uzaktan çalışmaya açık."
   },
   "keyword": {
-    "tr": "iletişim, WhatsApp, Yunus Sevğane, Gaziantep, yazılım geliştirici"
+    "tr": "iletişim, teklif iste, proje yöneticisi Gaziantep, freelance proje yöneticisi, WhatsApp"
   },
-  "update": "2026-11-02T09:03:49.532Z",
+  "update": "2026-11-08T03:27:59.560Z",
   "date": "2025-12-13T03:26:52.490Z",
   "title": {
-    "tr": "İletişim — Yunus Sevğane | WhatsApp ile yazın"
+    "tr": "İletişim ve Teklif İste — Proje Yöneticisi, Gaziantep"
   }
 }
