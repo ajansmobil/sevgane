@@ -2,8 +2,8 @@
   <h1 class="sv-ct-h1">{{h1}}</h1>
   <p class="sv-ct-lead">{{lead}}</p>
   <div class="sv-ct-grid">
-    <form class="sv-ct-form" novalidate data-sv-ct="{&quot;to&quot;:&quot;yunus@sevgane.com&quot;,&quot;subj&quot;:&quot;Web sitesinden mesaj&quot;,&quot;topicLabel&quot;:&quot;Konu&quot;,&quot;nameLabel&quot;:&quot;Ad Soyad&quot;,&quot;emailLabel&quot;:&quot;E-posta&quot;,&quot;orgLabel&quot;:&quot;Kurum&quot;,&quot;msgLabel&quot;:&quot;Mesajınız&quot;,&quot;ok&quot;:&quot;Mesajınız gönderildi, teşekkürler. Genellikle 24 saat içinde dönerim.&quot;,&quot;err&quot;:&quot;Mesaj gönderilemedi. Lütfen doğrudan yazın:&quot;,&quot;errfield&quot;:&quot;Lütfen bu alanı doldurun.&quot;,&quot;erremail&quot;:&quot;Geçerli bir e-posta adresi yazın.&quot;,&quot;errkvkk&quot;:&quot;Devam etmek için onay gerekir.&quot;,&quot;sending&quot;:&quot;Gönderiliyor…&quot;,&quot;rate&quot;:&quot;Çok sık denediniz; biraz sonra yeniden deneyin ya da doğrudan yazın:&quot;,&quot;lang&quot;:&quot;tr&quot;}">
-      <h2>Mesaj gönderin</h2>
+    <form class="sv-ct-form" novalidate data-sv-ct="{{data}}">
+      <h2>{{formtitle}}</h2>
       <div class="sv-ct-row">
         <label class="sv-ct-f"><span>{{lname}}</span><input type="text" name="name" autocomplete="name" required /><em class="sv-ct-err" role="alert"></em></label>
         <label class="sv-ct-f"><span>{{lemail}}</span><input type="email" name="email" autocomplete="email" required dir="ltr" /><em class="sv-ct-err" role="alert"></em></label>
@@ -12,14 +12,14 @@
         <label class="sv-ct-f"><span>{{lorg}} <small>({{lopt}})</small></span><input type="text" name="org" autocomplete="organization" /></label>
         <label class="sv-ct-f"><span>{{ltopic}}</span><select name="topic">{{options}}</select></label>
       </div>
-      <label class="sv-ct-f"><span>Mesajınız</span><textarea name="message" rows="5" required></textarea><em class="sv-ct-err" role="alert"></em></label>
-      <label class="sv-ct-k"><input type="checkbox" name="kvkk" required /><span>Kişisel verilerimin yalnızca bu mesajı yanıtlamak için işlenmesini kabul ediyorum. <a href="/tr/kisisel-veriler/">Aydınlatma metni</a></span></label><em class="sv-ct-err sv-ct-err-k" role="alert"></em>
+      <label class="sv-ct-f"><span>{{lmsg}}</span><textarea name="message" rows="5" required></textarea><em class="sv-ct-err" role="alert"></em></label>
+      <label class="sv-ct-k"><input type="checkbox" name="kvkk" required /><span>{{kvkk}} <a href="{{kvkkhref}}">{{kvkkl}}</a></span></label><em class="sv-ct-err sv-ct-err-k" role="alert"></em>
       <div class="sv-ct-hp" aria-hidden="true"><label>Website <input type="text" name="website" tabindex="-1" autocomplete="off" /></label></div>
       <div class="sv-ct-actions">
         <button type="submit" class="sv-ct-btn">{{send}}</button>
         <a class="sv-ct-btn sv-ct-btn-ghost" href="{{wahref}}" target="_blank" rel="noopener noreferrer">{{wa}}</a>
       </div>
-      <p class="sv-ct-hint">Mesajınız doğrudan bana ulaşır; genellikle 24 saat içinde dönerim. E-posta adresiniz yalnızca yanıt için kullanılır.</p>
+      <p class="sv-ct-hint">{{hint}}</p>
       <p class="sv-ct-status" role="status" aria-live="polite" hidden></p>
     </form>
     <aside class="sv-ct-card" aria-label="{{cardtitle}}">
