@@ -15,6 +15,15 @@ Disallow: /tr/login/
 Disallow: /tr/kayit/
 Disallow: /tr/siparislerim/
 Disallow: /tr/siparis-onay/
+Disallow: /en/hesabim/
+Disallow: /en/sepet/
+Disallow: /en/sepetim/
+Disallow: /en/odeme/
+Disallow: /en/giris/
+Disallow: /en/login/
+Disallow: /en/kayit/
+Disallow: /en/siparislerim/
+Disallow: /en/siparis-onay/
 
 # AI Crawlers
 
@@ -35,6 +44,15 @@ Disallow: /tr/login/
 Disallow: /tr/kayit/
 Disallow: /tr/siparislerim/
 Disallow: /tr/siparis-onay/
+Disallow: /en/hesabim/
+Disallow: /en/sepet/
+Disallow: /en/sepetim/
+Disallow: /en/odeme/
+Disallow: /en/giris/
+Disallow: /en/login/
+Disallow: /en/kayit/
+Disallow: /en/siparislerim/
+Disallow: /en/siparis-onay/
 
 User-agent: OAI-SearchBot
 Allow: /
@@ -53,6 +71,15 @@ Disallow: /tr/login/
 Disallow: /tr/kayit/
 Disallow: /tr/siparislerim/
 Disallow: /tr/siparis-onay/
+Disallow: /en/hesabim/
+Disallow: /en/sepet/
+Disallow: /en/sepetim/
+Disallow: /en/odeme/
+Disallow: /en/giris/
+Disallow: /en/login/
+Disallow: /en/kayit/
+Disallow: /en/siparislerim/
+Disallow: /en/siparis-onay/
 
 User-agent: ChatGPT-User
 Allow: /
@@ -71,6 +98,15 @@ Disallow: /tr/login/
 Disallow: /tr/kayit/
 Disallow: /tr/siparislerim/
 Disallow: /tr/siparis-onay/
+Disallow: /en/hesabim/
+Disallow: /en/sepet/
+Disallow: /en/sepetim/
+Disallow: /en/odeme/
+Disallow: /en/giris/
+Disallow: /en/login/
+Disallow: /en/kayit/
+Disallow: /en/siparislerim/
+Disallow: /en/siparis-onay/
 
 User-agent: ClaudeBot
 Allow: /
@@ -89,6 +125,15 @@ Disallow: /tr/login/
 Disallow: /tr/kayit/
 Disallow: /tr/siparislerim/
 Disallow: /tr/siparis-onay/
+Disallow: /en/hesabim/
+Disallow: /en/sepet/
+Disallow: /en/sepetim/
+Disallow: /en/odeme/
+Disallow: /en/giris/
+Disallow: /en/login/
+Disallow: /en/kayit/
+Disallow: /en/siparislerim/
+Disallow: /en/siparis-onay/
 
 User-agent: Claude-User
 Allow: /
@@ -107,6 +152,15 @@ Disallow: /tr/login/
 Disallow: /tr/kayit/
 Disallow: /tr/siparislerim/
 Disallow: /tr/siparis-onay/
+Disallow: /en/hesabim/
+Disallow: /en/sepet/
+Disallow: /en/sepetim/
+Disallow: /en/odeme/
+Disallow: /en/giris/
+Disallow: /en/login/
+Disallow: /en/kayit/
+Disallow: /en/siparislerim/
+Disallow: /en/siparis-onay/
 
 User-agent: PerplexityBot
 Allow: /
@@ -125,6 +179,15 @@ Disallow: /tr/login/
 Disallow: /tr/kayit/
 Disallow: /tr/siparislerim/
 Disallow: /tr/siparis-onay/
+Disallow: /en/hesabim/
+Disallow: /en/sepet/
+Disallow: /en/sepetim/
+Disallow: /en/odeme/
+Disallow: /en/giris/
+Disallow: /en/login/
+Disallow: /en/kayit/
+Disallow: /en/siparislerim/
+Disallow: /en/siparis-onay/
 
 User-agent: Google-Extended
 Allow: /
@@ -143,6 +206,15 @@ Disallow: /tr/login/
 Disallow: /tr/kayit/
 Disallow: /tr/siparislerim/
 Disallow: /tr/siparis-onay/
+Disallow: /en/hesabim/
+Disallow: /en/sepet/
+Disallow: /en/sepetim/
+Disallow: /en/odeme/
+Disallow: /en/giris/
+Disallow: /en/login/
+Disallow: /en/kayit/
+Disallow: /en/siparislerim/
+Disallow: /en/siparis-onay/
 
 User-agent: Applebot-Extended
 Allow: /
@@ -161,6 +233,15 @@ Disallow: /tr/login/
 Disallow: /tr/kayit/
 Disallow: /tr/siparislerim/
 Disallow: /tr/siparis-onay/
+Disallow: /en/hesabim/
+Disallow: /en/sepet/
+Disallow: /en/sepetim/
+Disallow: /en/odeme/
+Disallow: /en/giris/
+Disallow: /en/login/
+Disallow: /en/kayit/
+Disallow: /en/siparislerim/
+Disallow: /en/siparis-onay/
 
 User-agent: CCBot
 Allow: /
@@ -179,6 +260,15 @@ Disallow: /tr/login/
 Disallow: /tr/kayit/
 Disallow: /tr/siparislerim/
 Disallow: /tr/siparis-onay/
+Disallow: /en/hesabim/
+Disallow: /en/sepet/
+Disallow: /en/sepetim/
+Disallow: /en/odeme/
+Disallow: /en/giris/
+Disallow: /en/login/
+Disallow: /en/kayit/
+Disallow: /en/siparislerim/
+Disallow: /en/siparis-onay/
 
 # Sitemap
 Sitemap: https://sevgane.com/sitemap.xml

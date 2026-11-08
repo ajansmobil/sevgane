@@ -2,7 +2,8 @@
   "data": [
     {
       "name": {
-        "tr": "Hakkımda"
+        "tr": "Hakkımda",
+        "en": "About Me"
       },
       "status": "play",
       "id": "hakkimizda",
@@ -16,16 +17,19 @@
       "index": 0,
       "icon": "home",
       "description": {
-        "tr": "Yunus Sevğane kimdir? Proje yöneticisi ve yazılım geliştirici; 2014'ten beri 200+ kurumsal web sitesi, 10+ mobil uygulama ve 3+ pazaryeri entegrasyonu."
+        "tr": "Yunus Sevğane kimdir? Yazılım kökenli proje yöneticisi; yapay zekâ projelerinde proje lideri / ekip kaptanı olarak uzaktan C-level rollere açık. 2014'ten beri 200+ web sitesi, 10+ mobil uygulama.",
+        "en": "Who is Yunus Sevğane? A project manager with a software engineering background, open to remote C-level roles leading AI projects. 200+ websites and 10+ mobile apps since 2014."
       }
     },
     {
       "id": "wamuq6j1h0",
       "name": {
-        "tr": "Çalışma Biçimi"
+        "tr": "Çalışma Biçimi",
+        "en": "How I Work"
       },
       "description": {
-        "tr": "Proje yöneticisi olarak nasıl çalıştığım: ön görüşme, yazılı kapsam, düzenli durum bildirimi, aşamalı teslim ve bakım. İşverenin ne bekleyebileceği."
+        "tr": "Yapay zekâ ve yazılım projelerinde nasıl çalıştığım: ön görüşme, yazılı kapsam, düzenli durum bildirimi, aşamalı teslim, uzaktan ve farklı saat dilimlerinde çalışma düzeni.",
+        "en": "How I work on AI and software projects: intro call, written scope, regular status updates, staged delivery and a remote working routine across time zones."
       },
       "path": "calisma-bicimi",
       "icon": "handshake",
@@ -40,7 +44,8 @@
     },
     {
       "name": {
-        "tr": "Misyon"
+        "tr": "Misyon",
+        "en": "Mission"
       },
       "status": "pause",
       "id": "misyon",
@@ -54,12 +59,14 @@
       "index": 2,
       "icon": "home",
       "description": {
-        "tr": "Misyonum: web, mobil ve yapay zeka alanlarında ölçeklenebilir, verimli ve güvenli yazılım çözümleri üreterek müşterilerimin işini dijitalde güçlendirmek."
+        "tr": "Misyonum: web, mobil ve yapay zeka alanlarında ölçeklenebilir, verimli ve güvenli yazılım çözümleri üreterek müşterilerimin işini dijitalde güçlendirmek.",
+        "en": "My mission now lives on the About Me page: building scalable, secure and efficient software and AI solutions."
       }
     },
     {
       "name": {
-        "tr": "Vizyon"
+        "tr": "Vizyon",
+        "en": "Vision"
       },
       "status": "pause",
       "id": "vizyon",
@@ -73,16 +80,19 @@
       "index": 3,
       "icon": "home",
       "description": {
-        "tr": "Vizyonum: yazılım geliştirme ile bilgi güvenliğini birlikte düşünen, güvenilir ve tercih edilen bir profesyonel olmak; yapay zekada öncü çözümler üretmek."
+        "tr": "Vizyonum: yazılım geliştirme ile bilgi güvenliğini birlikte düşünen, güvenilir ve tercih edilen bir profesyonel olmak; yapay zekada öncü çözümler üretmek.",
+        "en": "My vision now lives on the About Me page: leading AI teams with software, security and governance thinking together."
       }
     },
     {
       "id": "be41z2rac6",
       "name": {
-        "tr": "Sıkça Sorulan Sorular"
+        "tr": "Sıkça Sorulan Sorular",
+        "en": "FAQ"
       },
       "description": {
-        "tr": "Proje yöneticisi arayan işverenlerin soruları: uzaktan çalışma, çalışma modeli, sektör deneyimi, yöntemler, ISO uyum projeleri ve teklif süreci."
+        "tr": "Uzaktan ve farklı saat dilimlerinde çalışma, açık olduğum AI rolleri, ISO 42001, çalışma modeli ve teklif süreci hakkında sık sorulan sorular.",
+        "en": "Frequently asked questions about remote work across time zones, the AI roles I am open to, ISO 42001, working models and how to get a proposal."
       },
       "path": "sss",
       "icon": "quiz",
@@ -99,7 +109,8 @@
     },
     {
       "name": {
-        "tr": "Kalite Politikam"
+        "tr": "Kalite Politikam",
+        "en": "Quality Policy"
       },
       "status": "pause",
       "id": "kalitepolitikamiz",
@@ -113,12 +124,14 @@
       "index": 5,
       "icon": "home",
       "description": {
-        "tr": "Kalite politikam: müşteri odaklılık, süreç yaklaşımı ve sürekli iyileştirme; ISO 9001:2015 baş denetçi eğitimi ilkeleri ve proje yönetimi uygulamam."
+        "tr": "Kalite politikam: müşteri odaklılık, süreç yaklaşımı ve sürekli iyileştirme; ISO 9001:2015 baş denetçi eğitimi ilkeleri ve proje yönetimi uygulamam.",
+        "en": "My quality approach now lives on the How I Work page: customer focus, process approach and continuous improvement."
       }
     },
     {
       "name": {
-        "tr": "Gizlilik Politikası"
+        "tr": "Gizlilik Politikası",
+        "en": "Privacy Policy"
       },
       "status": "play",
       "id": "gizlilikpolitikasi",
@@ -132,12 +145,14 @@
       "index": 6,
       "icon": "home",
       "description": {
-        "tr": "sevgane.com gizlilik politikası: Yunus Sevğane tarafından hangi verilerin işlendiği, hangi amaçla kullanıldığı, ne kadar saklandığı ve nasıl korunduğu."
+        "tr": "sevgane.com gizlilik politikası: Yunus Sevğane tarafından hangi verilerin işlendiği, hangi amaçla kullanıldığı, ne kadar saklandığı ve nasıl korunduğu.",
+        "en": "sevgane.com privacy policy: which data Yunus Sevğane processes, for what purpose, how long it is kept and how it is protected."
       }
     },
     {
       "name": {
-        "tr": "Kişisel Veriler"
+        "tr": "Kişisel Veriler",
+        "en": "Personal Data"
       },
       "status": "play",
       "id": "kisiselveriler",
@@ -151,12 +166,14 @@
       "index": 7,
       "icon": "home",
       "description": {
-        "tr": "6698 sayılı KVKK kapsamında aydınlatma metni: veri sorumlusu Yunus Sevğane, işlenen kişisel veriler, amaçlar, hukuki sebepler ve veri aktarımı."
+        "tr": "6698 sayılı KVKK kapsamında aydınlatma metni: veri sorumlusu Yunus Sevğane, işlenen kişisel veriler, amaçlar, hukuki sebepler ve veri aktarımı.",
+        "en": "Privacy notice under Law No. 6698 (KVKK): data controller Yunus Sevğane, the personal data processed, purposes, legal bases and data transfers."
       }
     },
     {
       "name": {
-        "tr": "Kullanıcı Hakları"
+        "tr": "Kullanıcı Hakları",
+        "en": "User Rights"
       },
       "status": "play",
       "id": "kullanicahaklari",
@@ -170,12 +187,14 @@
       "index": 8,
       "icon": "home",
       "description": {
-        "tr": "KVKK 11. madde kapsamındaki haklarınız (bilgi alma, düzeltme, silme, itiraz) ve Yunus Sevğane'ye başvuru yolları: WhatsApp ve iletişim formu."
+        "tr": "KVKK 11. madde kapsamındaki haklarınız (bilgi alma, düzeltme, silme, itiraz) ve Yunus Sevğane'ye başvuru yolları: WhatsApp ve iletişim formu.",
+        "en": "Your rights under Article 11 of the KVKK (information, correction, deletion, objection) and how to apply to Yunus Sevğane: WhatsApp and the contact form."
       }
     },
     {
       "name": {
-        "tr": "Yasal Uyarı"
+        "tr": "Yasal Uyarı",
+        "en": "Legal Notice"
       },
       "status": "play",
       "id": "yasaluyari",
@@ -189,16 +208,19 @@
       "index": 9,
       "icon": "home",
       "description": {
-        "tr": "sevgane.com yasal uyarı: kullanım koşulları, fikri mülkiyet hakları, üçüncü taraf bağlantılar ve sorumluluk sınırları hakkında bilgilendirme."
+        "tr": "sevgane.com yasal uyarı: kullanım koşulları, fikri mülkiyet hakları, üçüncü taraf bağlantılar ve sorumluluk sınırları hakkında bilgilendirme.",
+        "en": "sevgane.com legal notice: terms of use, intellectual property rights, third-party links and limits of liability."
       }
     },
     {
       "id": "cerez-politikasi",
       "name": {
-        "tr": "Çerez Politikası"
+        "tr": "Çerez Politikası",
+        "en": "Cookie Policy"
       },
       "description": {
-        "tr": "Bu politika, Yunus Sevğane tarafından işletilen https://sevgane.com internet sitesinde kullanılan çerezleri, bunların…"
+        "tr": "Bu politika, Yunus Sevğane tarafından işletilen https://sevgane.com internet sitesinde kullanılan çerezleri, bunların…",
+        "en": "This policy explains the cookies used on sevgane.com, operated by Yunus Sevğane, what they are used for and how you can manage your preferences."
       },
       "path": "cerez-politikasi",
       "icon": "cookie",

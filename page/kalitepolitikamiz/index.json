@@ -1,13 +1,15 @@
 {
   "name": {
-    "tr": "Kalite Politikam"
+    "tr": "Kalite Politikam",
+    "en": "Quality Policy"
   },
   "status": "pause",
   "id": "kalitepolitikamiz",
   "path": "kalite-politikamiz",
   "category": "",
   "text": {
-    "tr": "<section><h2>Kalite Politikam</h2><p>Hizmetlerimi; müşteri ihtiyacını doğru anlamaya, işi planlı ve izlenebilir yürütmeye ve her teslimden sonra öğrenip iyileştirmeye dayalı bir kalite anlayışıyla sunarım. Bu anlayışın dayanağı, 2025'te Sigmacert Global'den aldığım ISO 9001:2015 Kalite Yönetim Sistemi Baş Denetçi Eğitimi'dir.</p><p>Aşağıdaki ilkeler, kendi çalışma düzenimde referans aldığım kalite yönetimi ilkeleridir. Bu sayfa, bir ISO 9001 belgelendirmesi iddiası taşımaz; yalnızca çalışma biçimimi açıklar.</p><h3>İlkelerim</h3><ul><li><strong>Müşteri odağı:</strong> beklentiyi baştan yazılı netleştirmek, geri bildirimi işin parçası saymak</li><li><strong>Süreç yaklaşımı:</strong> analiz, geliştirme, test ve teslim adımlarını tanımlı yürütmek</li><li><strong>Risk temelli düşünme:</strong> güvenlik ve süreklilik risklerini projenin başında ele almak</li><li><strong>Sürekli iyileştirme:</strong> her proje sonunda yöntemi ve araçları gözden geçirmek</li></ul><p>Memnuniyetsizlik, şikâyet ya da iyileştirme önerilerinizi <a href=\"https://wa.me/905316791014\">WhatsApp (+90 531 679 10 14)</a> veya <a href=\"/tr/iletisim/\">iletişim formu</a> üzerinden iletebilirsiniz; her bildirimi inceler ve dönüş yaparım.</p></section>"
+    "tr": "<section><h2>Kalite Politikam</h2><p>Hizmetlerimi; müşteri ihtiyacını doğru anlamaya, işi planlı ve izlenebilir yürütmeye ve her teslimden sonra öğrenip iyileştirmeye dayalı bir kalite anlayışıyla sunarım. Bu anlayışın dayanağı, 2025'te Sigmacert Global'den aldığım ISO 9001:2015 Kalite Yönetim Sistemi Baş Denetçi Eğitimi'dir.</p><p>Aşağıdaki ilkeler, kendi çalışma düzenimde referans aldığım kalite yönetimi ilkeleridir. Bu sayfa, bir ISO 9001 belgelendirmesi iddiası taşımaz; yalnızca çalışma biçimimi açıklar.</p><h3>İlkelerim</h3><ul><li><strong>Müşteri odağı:</strong> beklentiyi baştan yazılı netleştirmek, geri bildirimi işin parçası saymak</li><li><strong>Süreç yaklaşımı:</strong> analiz, geliştirme, test ve teslim adımlarını tanımlı yürütmek</li><li><strong>Risk temelli düşünme:</strong> güvenlik ve süreklilik risklerini projenin başında ele almak</li><li><strong>Sürekli iyileştirme:</strong> her proje sonunda yöntemi ve araçları gözden geçirmek</li></ul><p>Memnuniyetsizlik, şikâyet ya da iyileştirme önerilerinizi <a href=\"https://wa.me/905316791014\">WhatsApp (+90 531 679 10 14)</a> veya <a href=\"/tr/iletisim/\">iletişim formu</a> üzerinden iletebilirsiniz; her bildirimi inceler ve dönüş yaparım.</p></section>",
+    "en": "<section><h2>My quality approach</h2><p>This page has been merged into the <a href=\"/en/calisma-bicimi/\">How I Work</a> page. I deliver my services with a quality approach built on understanding the customer need correctly, running the work in a planned and traceable way, and learning and improving after every delivery. The basis is the ISO 9001:2015 Quality Management System Lead Auditor course I took in 2025.</p><p>The principles below are the quality-management principles I use as a reference in my own way of working. This page makes no ISO 9001 certification claim; it only explains how I work.</p><h3>My principles</h3><ul><li><strong>Customer focus:</strong> clarifying expectations in writing up front and treating feedback as part of the work</li><li><strong>Process approach:</strong> running analysis, development, testing and delivery as defined steps</li><li><strong>Risk-based thinking:</strong> addressing security and continuity risks at the start of the project</li><li><strong>Continuous improvement:</strong> reviewing method and tools at the end of every project</li></ul><p>You can send dissatisfaction, complaints or suggestions via <a href=\"https://wa.me/905316791014\">WhatsApp (+90 531 679 10 14)</a> or the <a href=\"/en/iletisim/\">contact form</a>; I review every message and reply.</p></section>"
   },
   "desing": {
     "header": [],
@@ -17,14 +19,17 @@
   "index": 5,
   "icon": "home",
   "description": {
-    "tr": "Kalite politikam: müşteri odaklılık, süreç yaklaşımı ve sürekli iyileştirme; ISO 9001:2015 baş denetçi eğitimi ilkeleri ve proje yönetimi uygulamam."
+    "tr": "Kalite politikam: müşteri odaklılık, süreç yaklaşımı ve sürekli iyileştirme; ISO 9001:2015 baş denetçi eğitimi ilkeleri ve proje yönetimi uygulamam.",
+    "en": "My quality approach now lives on the How I Work page: customer focus, process approach and continuous improvement."
   },
   "keyword": {
-    "tr": "kalite politikası, ISO 9001, sürekli iyileştirme, müşteri memnuniyeti, Yunus Sevğane"
+    "tr": "kalite politikası, ISO 9001, sürekli iyileştirme, müşteri memnuniyeti, Yunus Sevğane",
+    "en": "quality policy, ISO 9001, continuous improvement, customer satisfaction, Yunus Sevğane"
   },
-  "update": "2026-11-08T04:21:59.231Z",
+  "update": "2026-11-08T04:40:45.110Z",
   "date": "2025-12-13T03:26:52.524Z",
   "title": {
-    "tr": "Kalite Politikam — Yunus Sevğane"
+    "tr": "Kalite Politikam — Yunus Sevğane",
+    "en": "Quality Policy — Yunus Sevğane"
   }
 }

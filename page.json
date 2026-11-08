@@ -3,10 +3,12 @@
     {
       "id": "cjkjno5l57",
       "name": {
-        "tr": "Proje Yönetimi"
+        "tr": "Proje Yönetimi",
+        "en": "Project Management"
       },
       "description": {
-        "tr": "Web, mobil, yapay zekâ ve ISO uyum projeleri için proje yönetimi: keşif, plan, yürütme, teslim, bakım. Kapsam, bütçe ve risk kontrolüyle yürütürüm."
+        "tr": "Yapay zekâ projelerinde proje lideri / ekip kaptanı: keşiften bakıma yöntem, kapsam-bütçe-risk kontrolü, ISO/IEC 42001 yönetişimi. Uzaktan C-level rollere açığım.",
+        "en": "AI project manager and team lead: a discovery-to-maintenance method, scope-budget-risk control and ISO/IEC 42001 governance. Open to remote C-level roles such as Head of AI."
       },
       "path": "proje-yonetimi",
       "icon": "account_tree",
@@ -23,7 +25,8 @@
     },
     {
       "name": {
-        "tr": "Hizmetlerim"
+        "tr": "Hizmetlerim",
+        "en": "Services"
       },
       "status": "play",
       "category": "",
@@ -41,16 +44,19 @@
       },
       "pathnext": "",
       "description": {
-        "tr": "Proje yönetimi, web geliştirme, mobil uygulama, yapay zekâ, backend, DevOps, bilgi güvenliği, IT danışmanlık ve pazaryeri entegrasyonu hizmetleri."
+        "tr": "Yapay zekâ projeleri, proje yönetimi, web, mobil, backend, DevOps, bilgi güvenliği/ISO, IT danışmanlık ve pazaryeri entegrasyonu: her alanda adım adım yönetim yöntemim.",
+        "en": "AI projects, project management, web, mobile, backend, DevOps, information security/ISO, IT consulting and marketplace integration — and how I manage each area step by step."
       }
     },
     {
       "id": "qbiz7pjmu9",
       "name": {
-        "tr": "Projeler ve Vaka Çalışmaları"
+        "tr": "Projeler ve Vaka Çalışmaları",
+        "en": "Projects and Case Studies"
       },
       "description": {
-        "tr": "200+ kurumsal web sitesi, 10+ mobil uygulama, 3+ pazaryeri entegrasyonu ve altyapı projeleri: proje türlerine göre yürüttüğüm işler ve rolüm."
+        "tr": "200+ kurumsal web sitesi, 10+ mobil uygulama, 3+ pazaryeri entegrasyonu, altyapı ve yapay zekâ projeleri: proje türlerine göre yürüttüğüm işler ve rolüm.",
+        "en": "200+ corporate websites, 10+ mobile apps, 3+ marketplace integrations, infrastructure and AI projects: the kinds of work I have run and my role in them."
       },
       "path": "projeler",
       "icon": "work",
@@ -68,10 +74,12 @@
     {
       "id": "ssih4bmxzd",
       "name": {
-        "tr": "Özgeçmiş"
+        "tr": "Özgeçmiş",
+        "en": "Résumé"
       },
       "description": {
-        "tr": "Yunus Sevğane özgeçmişi: proje yöneticisi ve Senior Engineering Manager, 2006'dan bugüne çalışma geçmişi, eğitimler, yetkinlikler ve teknik araçlar."
+        "tr": "Yunus Sevğane özgeçmişi: 2006'dan bugüne çalışma geçmişi, AI ve ISO eğitimleri, yetkinlikler, teknik araçlar ve uzaktan çalışma deneyimi (Kanada, Dubai, Almanya, İngiltere).",
+        "en": "Yunus Sevğane's résumé: work history since 2006, AI and ISO training, skills, technical tools and remote work experience (Canada, Dubai, Germany, UK)."
       },
       "path": "ozgecmis",
       "icon": "description",
@@ -90,10 +98,12 @@
     {
       "id": "gs6oawb05w",
       "name": {
-        "tr": "Sertifikalar"
+        "tr": "Sertifikalar",
+        "en": "Certificates"
       },
       "description": {
-        "tr": "Eğitim ve sertifikalar: ISO 27001, 42001, 9001, 20000-1 baş denetçi eğitimleri; siber güvenlik, etik hacker, adli bilişim. Proje yöneticisi Yunus Sevğane."
+        "tr": "Eğitim ve sertifikalar: ISO/IEC 42001 (yapay zekâ yönetişimi), 27001, 9001, 20000-1 baş denetçi eğitimleri; siber güvenlik, etik hacker, adli bilişim.",
+        "en": "Education and certificates: ISO/IEC 42001 (AI governance), 27001, 9001 and 20000-1 lead auditor courses; cybersecurity, ethical hacking, digital forensics."
       },
       "path": "sertifikalar",
       "icon": "description",
@@ -110,9 +120,10 @@
     },
     {
       "name": {
-        "tr": "Profil"
+        "tr": "Yasal Bilgiler",
+        "en": "Legal Information"
       },
-      "status": "play",
+      "status": "pause",
       "category": "",
       "id": "yvi9dlb59o",
       "url": "",
@@ -127,13 +138,16 @@
       },
       "pathnext": "",
       "description": {
-        "tr": "Profil ve yasal bilgiler: hakkımda, çalışma biçimi, gizlilik, kişisel veriler, kullanıcı hakları, yasal uyarı ve çerez politikası."
+        "tr": "Yasal bilgiler dizini: gizlilik politikası, kişisel veriler (KVKK), kullanıcı hakları, yasal uyarı ve çerez politikası. Kişisel tanıtım için Hakkımda sayfasına bakın.",
+        "en": "Index of legal information: privacy policy, personal data (KVKK), user rights, legal notice and cookie policy. For a personal introduction see the About Me page."
       },
-      "icon": "home"
+      "icon": "home",
+      "menu": null
     },
     {
       "name": {
-        "tr": "İletişim ve Teklif İste"
+        "tr": "İletişim ve Teklif İste",
+        "en": "Contact and Intro Call"
       },
       "status": "play",
       "category": "",
@@ -156,7 +170,8 @@
       },
       "pathnext": "",
       "description": {
-        "tr": "Proje yöneticisi Yunus Sevğane'den teklif isteyin: WhatsApp, telefon ve e-posta. Web, mobil, yapay zekâ ve ISO projeleri; uzaktan çalışmaya açık."
+        "tr": "AI projeleri için proje lideri / ekip kaptanı Yunus Sevğane'den teklif isteyin: WhatsApp, telefon ve e-posta. Uzaktan C-level rollere ve proje bazlı işlere açığım.",
+        "en": "Book an intro call with Yunus Sevğane, project lead / team captain for AI projects: WhatsApp, phone and e-mail. Open to remote C-level roles and project engagements."
       }
     }
   ],

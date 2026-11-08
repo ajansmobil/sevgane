@@ -5,6 +5,7 @@
     <url>
         <loc>https://sevgane.com/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/" />
         <lastmod>2026-11-08</lastmod>
         <changefreq>weekly</changefreq>
@@ -13,6 +14,16 @@
     <url>
         <loc>https://sevgane.com/tr/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://sevgane.com/en/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/" />
         <lastmod>2026-11-08</lastmod>
         <changefreq>weekly</changefreq>
@@ -21,6 +32,16 @@
     <url>
         <loc>https://sevgane.com/tr/proje-yonetimi/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/proje-yonetimi/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/proje-yonetimi/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/proje-yonetimi/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sevgane.com/en/proje-yonetimi/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/proje-yonetimi/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/proje-yonetimi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/proje-yonetimi/" />
         <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
@@ -29,6 +50,16 @@
     <url>
         <loc>https://sevgane.com/tr/services/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/services/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/services/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/services/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sevgane.com/en/services/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/services/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/services/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/services/" />
         <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
@@ -37,6 +68,16 @@
     <url>
         <loc>https://sevgane.com/tr/projeler/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/projeler/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/projeler/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/projeler/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sevgane.com/en/projeler/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/projeler/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/projeler/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/projeler/" />
         <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
@@ -45,6 +86,16 @@
     <url>
         <loc>https://sevgane.com/tr/ozgecmis/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/ozgecmis/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/ozgecmis/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/ozgecmis/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sevgane.com/en/ozgecmis/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/ozgecmis/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/ozgecmis/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/ozgecmis/" />
         <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
@@ -53,15 +104,17 @@
     <url>
         <loc>https://sevgane.com/tr/sertifikalar/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/sertifikalar/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/sertifikalar/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/sertifikalar/" />
         <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://sevgane.com/tr/kurumsal/</loc>
-        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/kurumsal/" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/kurumsal/" />
+        <loc>https://sevgane.com/en/sertifikalar/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/sertifikalar/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/sertifikalar/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/sertifikalar/" />
         <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -69,6 +122,16 @@
     <url>
         <loc>https://sevgane.com/tr/iletisim/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/iletisim/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/iletisim/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/iletisim/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sevgane.com/en/iletisim/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/iletisim/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/iletisim/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/iletisim/" />
         <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
@@ -77,6 +140,16 @@
     <url>
         <loc>https://sevgane.com/tr/hakkimizda/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/hakkimizda/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/hakkimizda/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/hakkimizda/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sevgane.com/en/hakkimizda/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/hakkimizda/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/hakkimizda/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/hakkimizda/" />
         <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
@@ -85,6 +158,16 @@
     <url>
         <loc>https://sevgane.com/tr/calisma-bicimi/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/calisma-bicimi/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/calisma-bicimi/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/calisma-bicimi/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sevgane.com/en/calisma-bicimi/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/calisma-bicimi/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/calisma-bicimi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/calisma-bicimi/" />
         <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
@@ -93,6 +176,16 @@
     <url>
         <loc>https://sevgane.com/tr/sss/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/sss/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/sss/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/sss/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sevgane.com/en/sss/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/sss/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/sss/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/sss/" />
         <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
@@ -101,46 +194,106 @@
     <url>
         <loc>https://sevgane.com/tr/gizlilik-politikasi/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/gizlilik-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/gizlilik-politikasi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/gizlilik-politikasi/" />
-        <lastmod>2026-11-02</lastmod>
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sevgane.com/en/gizlilik-politikasi/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/gizlilik-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/gizlilik-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/gizlilik-politikasi/" />
+        <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sevgane.com/tr/kisisel-veriler/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/kisisel-veriler/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/kisisel-veriler/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/kisisel-veriler/" />
-        <lastmod>2026-11-02</lastmod>
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sevgane.com/en/kisisel-veriler/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/kisisel-veriler/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/kisisel-veriler/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/kisisel-veriler/" />
+        <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sevgane.com/tr/kullanici-haklari/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/kullanici-haklari/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/kullanici-haklari/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/kullanici-haklari/" />
-        <lastmod>2026-11-02</lastmod>
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sevgane.com/en/kullanici-haklari/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/kullanici-haklari/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/kullanici-haklari/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/kullanici-haklari/" />
+        <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sevgane.com/tr/yasal-uyari/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/yasal-uyari/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/yasal-uyari/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/yasal-uyari/" />
-        <lastmod>2026-11-02</lastmod>
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sevgane.com/en/yasal-uyari/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/yasal-uyari/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/yasal-uyari/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/yasal-uyari/" />
+        <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sevgane.com/tr/cerez-politikasi/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/cerez-politikasi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/cerez-politikasi/" />
-        <lastmod>2026-11-02</lastmod>
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sevgane.com/en/cerez-politikasi/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/cerez-politikasi/" />
+        <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sevgane.com/tr/web-gelistirme/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/web-gelistirme/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/web-gelistirme/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/web-gelistirme/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sevgane.com/en/web-gelistirme/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/web-gelistirme/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/web-gelistirme/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/web-gelistirme/" />
         <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
@@ -149,6 +302,16 @@
     <url>
         <loc>https://sevgane.com/tr/mobil-uygulama-gelistirme/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/mobil-uygulama-gelistirme/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/mobil-uygulama-gelistirme/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/mobil-uygulama-gelistirme/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sevgane.com/en/mobil-uygulama-gelistirme/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/mobil-uygulama-gelistirme/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/mobil-uygulama-gelistirme/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/mobil-uygulama-gelistirme/" />
         <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
@@ -157,6 +320,16 @@
     <url>
         <loc>https://sevgane.com/tr/yapay-zeka-cozumleri/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/yapay-zeka-cozumleri/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/yapay-zeka-cozumleri/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/yapay-zeka-cozumleri/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sevgane.com/en/yapay-zeka-cozumleri/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/yapay-zeka-cozumleri/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/yapay-zeka-cozumleri/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/yapay-zeka-cozumleri/" />
         <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
@@ -165,6 +338,16 @@
     <url>
         <loc>https://sevgane.com/tr/backend-sistem-mimarisi/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/backend-sistem-mimarisi/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/backend-sistem-mimarisi/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/backend-sistem-mimarisi/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sevgane.com/en/backend-sistem-mimarisi/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/backend-sistem-mimarisi/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/backend-sistem-mimarisi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/backend-sistem-mimarisi/" />
         <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
@@ -173,6 +356,16 @@
     <url>
         <loc>https://sevgane.com/tr/devops-altyapi/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/devops-altyapi/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/devops-altyapi/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/devops-altyapi/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sevgane.com/en/devops-altyapi/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/devops-altyapi/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/devops-altyapi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/devops-altyapi/" />
         <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
@@ -181,6 +374,16 @@
     <url>
         <loc>https://sevgane.com/tr/bilgi-guvenligi-iso-27001/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/bilgi-guvenligi-iso-27001/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/bilgi-guvenligi-iso-27001/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/bilgi-guvenligi-iso-27001/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sevgane.com/en/bilgi-guvenligi-iso-27001/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/bilgi-guvenligi-iso-27001/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/bilgi-guvenligi-iso-27001/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/bilgi-guvenligi-iso-27001/" />
         <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
@@ -189,6 +392,16 @@
     <url>
         <loc>https://sevgane.com/tr/it-danismanlik/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/it-danismanlik/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/it-danismanlik/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/it-danismanlik/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sevgane.com/en/it-danismanlik/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/it-danismanlik/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/it-danismanlik/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/it-danismanlik/" />
         <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
@@ -197,6 +410,16 @@
     <url>
         <loc>https://sevgane.com/tr/pazaryeri-entegrasyonlari/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/pazaryeri-entegrasyonlari/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/pazaryeri-entegrasyonlari/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/pazaryeri-entegrasyonlari/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sevgane.com/en/pazaryeri-entegrasyonlari/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://sevgane.com/tr/pazaryeri-entegrasyonlari/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://sevgane.com/en/pazaryeri-entegrasyonlari/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://sevgane.com/tr/pazaryeri-entegrasyonlari/" />
         <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>

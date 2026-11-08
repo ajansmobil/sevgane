@@ -1,6 +1,7 @@
 {
   "name": {
-    "tr": "İletişim ve Teklif İste"
+    "tr": "İletişim ve Teklif İste",
+    "en": "Contact and Intro Call"
   },
   "status": "play",
   "category": "",
@@ -23,14 +24,17 @@
   },
   "pathnext": "",
   "description": {
-    "tr": "Proje yöneticisi Yunus Sevğane'den teklif isteyin: WhatsApp, telefon ve e-posta. Web, mobil, yapay zekâ ve ISO projeleri; uzaktan çalışmaya açık."
+    "tr": "AI projeleri için proje lideri / ekip kaptanı Yunus Sevğane'den teklif isteyin: WhatsApp, telefon ve e-posta. Uzaktan C-level rollere ve proje bazlı işlere açığım.",
+    "en": "Book an intro call with Yunus Sevğane, project lead / team captain for AI projects: WhatsApp, phone and e-mail. Open to remote C-level roles and project engagements."
   },
   "keyword": {
-    "tr": "iletişim, teklif iste, proje yöneticisi, freelance proje yöneticisi, WhatsApp"
+    "tr": "iletişim, teklif iste, AI proje yöneticisi, uzaktan çalışma, WhatsApp",
+    "en": "contact, book an intro call, hire AI project manager, remote AI team lead, WhatsApp"
   },
-  "update": "2026-11-08T03:27:59.560Z",
+  "update": "2026-11-08T04:38:42.307Z",
   "date": "2025-12-13T03:26:52.490Z",
   "title": {
-    "tr": "İletişim ve Teklif İste — Yunus Sevğane, Proje Yöneticisi"
+    "tr": "İletişim ve Teklif İste — Yunus Sevğane, AI Proje Lideri",
+    "en": "Contact — Book an Intro Call | Yunus Sevğane"
   }
 }

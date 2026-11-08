@@ -1,13 +1,15 @@
 {
   "name": {
-    "tr": "Yasal Uyarı"
+    "tr": "Yasal Uyarı",
+    "en": "Legal Notice"
   },
   "status": "play",
   "id": "yasaluyari",
   "path": "yasal-uyari",
   "category": "",
   "text": {
-    "tr": "<section><h2>Yasal Uyarı</h2><p>sevgane.com sitesine erişerek bu koşulları kabul etmiş sayılırsınız. Site, Yunus Sevğane tarafından bilgilendirme amacıyla yayınlanır.</p><h3>Fikri mülkiyet</h3><p>Sitedeki metin, tasarım, logo ve görseller Yunus Sevğane'ye aittir ve 5846 sayılı Fikir ve Sanat Eserleri Kanunu kapsamında korunur. İzin alınmadan kopyalanamaz, çoğaltılamaz veya ticari amaçla kullanılamaz.</p><h3>Sorumluluk sınırı</h3><ul><li>İçerik bilgilendirme amaçlıdır; doğruluğu ve güncelliği için özen gösterilir ancak hata ya da eksiksizlik garantisi verilmez.</li><li>Sitede yer alan üçüncü taraf bağlantılarının (WhatsApp, GitHub, LinkedIn, Instagram, X) içeriğinden ilgili platformlar sorumludur.</li><li>Eğitim ve sertifika bilgileri, ilgili kurumların belgelerine göre özetlenmiştir; resmî doğrulama için ilgili kuruma başvurulmalıdır.</li></ul><p>Bu metin zaman zaman güncellenebilir; geçerli sürüm bu sayfadadır. İlgili mevzuat için <a href=\"/tr/gizlilik-politikasi/\">Gizlilik Politikası</a> ve <a href=\"/tr/cerez-politikasi/\">Çerez Politikası</a> sayfalarına da bakabilirsiniz.</p><p>Sorularınız için <a href=\"https://wa.me/905316791014\">WhatsApp (+90 531 679 10 14)</a> ya da <a href=\"/tr/iletisim/\">iletişim formu</a> kullanılabilir.</p></section>"
+    "tr": "<section><h2>Yasal Uyarı</h2><p>sevgane.com sitesine erişerek bu koşulları kabul etmiş sayılırsınız. Site, Yunus Sevğane tarafından bilgilendirme amacıyla yayınlanır.</p><h3>Fikri mülkiyet</h3><p>Sitedeki metin, tasarım, logo ve görseller Yunus Sevğane'ye aittir ve 5846 sayılı Fikir ve Sanat Eserleri Kanunu kapsamında korunur. İzin alınmadan kopyalanamaz, çoğaltılamaz veya ticari amaçla kullanılamaz.</p><h3>Sorumluluk sınırı</h3><ul><li>İçerik bilgilendirme amaçlıdır; doğruluğu ve güncelliği için özen gösterilir ancak hata ya da eksiksizlik garantisi verilmez.</li><li>Sitede yer alan üçüncü taraf bağlantılarının (WhatsApp, GitHub, LinkedIn, Instagram, X) içeriğinden ilgili platformlar sorumludur.</li><li>Eğitim ve sertifika bilgileri, ilgili kurumların belgelerine göre özetlenmiştir; resmî doğrulama için ilgili kuruma başvurulmalıdır.</li></ul><p>Bu metin zaman zaman güncellenebilir; geçerli sürüm bu sayfadadır. İlgili mevzuat için <a href=\"/tr/gizlilik-politikasi/\">Gizlilik Politikası</a> ve <a href=\"/tr/cerez-politikasi/\">Çerez Politikası</a> sayfalarına da bakabilirsiniz.</p><p>Sorularınız için <a href=\"https://wa.me/905316791014\">WhatsApp (+90 531 679 10 14)</a> ya da <a href=\"/tr/iletisim/\">iletişim formu</a> kullanılabilir.</p></section>",
+    "en": "<section><h2>Legal Notice</h2><p>By accessing sevgane.com you are deemed to accept these terms. The site is published by Yunus Sevğane for information purposes.</p><h3>Intellectual property</h3><p>The text, design, logo and images on the site belong to Yunus Sevğane and are protected under Turkish Law No. 5846 on Intellectual and Artistic Works. They may not be copied, reproduced or used commercially without permission.</p><h3>Limits of liability</h3><ul><li>The content is for information purposes; care is taken over its accuracy and currency, but no guarantee of error-free or complete content is given.</li><li>The relevant platforms are responsible for the content of third-party links on the site (WhatsApp, GitHub, LinkedIn, Instagram, X).</li><li>Education and certificate information is summarized from the documents of the institutions concerned; official verification should be sought from the institution.</li></ul><p>This text may be updated from time to time; the current version is on this page. For the related regulations see the <a href=\"/en/gizlilik-politikasi/\">Privacy Policy</a> and <a href=\"/en/cerez-politikasi/\">Cookie Policy</a> pages.</p><p>For questions you can use <a href=\"https://wa.me/905316791014\">WhatsApp (+90 531 679 10 14)</a> or the <a href=\"/en/iletisim/\">contact form</a>.</p></section>"
   },
   "desing": {
     "header": [],
@@ -17,14 +19,17 @@
   "index": 9,
   "icon": "home",
   "description": {
-    "tr": "sevgane.com yasal uyarı: kullanım koşulları, fikri mülkiyet hakları, üçüncü taraf bağlantılar ve sorumluluk sınırları hakkında bilgilendirme."
+    "tr": "sevgane.com yasal uyarı: kullanım koşulları, fikri mülkiyet hakları, üçüncü taraf bağlantılar ve sorumluluk sınırları hakkında bilgilendirme.",
+    "en": "sevgane.com legal notice: terms of use, intellectual property rights, third-party links and limits of liability."
   },
   "keyword": {
-    "tr": "yasal uyarı, telif hakkı, kullanım koşulları, sorumluluk reddi"
+    "tr": "yasal uyarı, telif hakkı, kullanım koşulları, sorumluluk reddi",
+    "en": "legal notice, copyright, terms of use, disclaimer"
   },
-  "update": "2026-11-02T09:03:49.501Z",
+  "update": "2026-11-08T04:38:42.296Z",
   "date": "2025-12-13T03:26:52.558Z",
   "title": {
-    "tr": "Yasal Uyarı — Yunus Sevğane (sevgane.com)"
+    "tr": "Yasal Uyarı — Yunus Sevğane (sevgane.com)",
+    "en": "Legal Notice — Yunus Sevğane (sevgane.com)"
   }
 }

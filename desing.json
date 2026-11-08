@@ -1,10 +1,10 @@
 {
   "header": [
-    "vey1el",
-    "k4t90c"
+    "vey1el"
   ],
   "body": [
     "dahr2x",
+    "hvr6i7",
     "uf0o5y",
     "qnhhjn",
     "t1hz6l",
@@ -12,7 +12,8 @@
   ],
   "footer": [
     "7wi464",
-    "k725o2"
+    "k725o2",
+    "l182h1"
   ],
   "headerdefault": [
     "vey1el"
@@ -23,7 +24,7 @@
     "k725o2"
   ],
   "headtop": "",
-  "headbottom": "<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@graph\": [{\"@type\": \"Person\", \"@id\": \"https://sevgane.com/#person\", \"name\": \"Yunus Sevğane\", \"jobTitle\": \"Proje Yöneticisi\", \"description\": \"Proje yöneticisi: web, mobil, yapay zekâ ve bilgi güvenliği/ISO uyum projelerini keşiften bakıma yönetir.\", \"url\": \"https://sevgane.com/tr/\", \"image\": \"https://sevgane.com/img/yunusevgane.png\", \"email\": \"yunus@webyapar.com\", \"telephone\": \"+90 531 679 10 14\", \"knowsAbout\": [\"Proje yönetimi\", \"Çevik (Scrum) çalışma\", \"Web geliştirme\", \"Mobil uygulama geliştirme\", \"Yapay zekâ (AI agent, LLM RAG)\", \"Bilgi güvenliği\", \"ISO/IEC 27001\", \"DevOps\"], \"sameAs\": [\"https://linkedin.com/in/yunusevgane\", \"https://github.com/yunusevgane\", \"https://instagram.com/yunusevgane\", \"https://twitter.com/yunusevgane\"]}]}</script>",
+  "headbottom": "<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@graph\": [{\"@type\": \"Person\", \"@id\": \"https://sevgane.com/#person\", \"name\": \"Yunus Sevğane\", \"jobTitle\": \"AI Project Manager / AI Team Lead\", \"description\": \"Software-engineer-turned project manager leading AI projects and teams (AI agents, LLM RAG, fine-tuning) with ISO/IEC 42001 governance; open to remote C-level roles such as Head of AI and AI Program Director. Yapay zekâ projelerinde proje lideri ve ekip kaptanı.\", \"url\": \"https://sevgane.com/tr/\", \"image\": \"https://sevgane.com/img/yunusevgane.png\", \"email\": \"yunus@webyapar.com\", \"telephone\": \"+90 531 679 10 14\", \"knowsAbout\": [\"AI project management\", \"Large language models (LLM)\", \"Retrieval-augmented generation (RAG)\", \"AI agents\", \"LLM fine-tuning\", \"AI governance (ISO/IEC 42001)\", \"Team building and leadership\", \"Remote team management\", \"Project management\", \"Agile (Scrum)\", \"Information security (ISO/IEC 27001)\", \"Full-stack DevOps\", \"Yapay zekâ proje yönetimi\", \"Yapay zekâ yönetişimi\"], \"sameAs\": [\"https://linkedin.com/in/yunusevgane\", \"https://github.com/yunusevgane\", \"https://instagram.com/yunusevgane\", \"https://twitter.com/yunusevgane\"], \"knowsLanguage\": [\"tr\", \"en\"]}]}</script>",
   "colors": {
     "lite": [
       {

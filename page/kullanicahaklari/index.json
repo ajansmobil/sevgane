@@ -1,13 +1,15 @@
 {
   "name": {
-    "tr": "Kullanıcı Hakları"
+    "tr": "Kullanıcı Hakları",
+    "en": "User Rights"
   },
   "status": "play",
   "id": "kullanicahaklari",
   "path": "kullanici-haklari",
   "category": "",
   "text": {
-    "tr": "<section><h2>Kullanıcı Hakları</h2><p>6698 sayılı Kanun'un 11. maddesi uyarınca kişisel verisi işlenen herkes, veri sorumlusu olan Yunus Sevğane'ye başvurarak aşağıdaki haklarını kullanabilir.</p><h3>Haklarınız</h3><ul><li>Kişisel verinizin işlenip işlenmediğini öğrenme</li><li>İşlenmişse buna ilişkin bilgi talep etme</li><li>İşlenme amacını ve amaca uygun kullanılıp kullanılmadığını öğrenme</li><li>Yurt içinde veya yurt dışında aktarıldığı üçüncü kişileri bilme</li><li>Eksik ya da yanlış işlenmişse düzeltilmesini isteme</li><li>Kanun'daki şartlar çerçevesinde silinmesini veya yok edilmesini isteme</li><li>Düzeltme, silme ve yok etme işlemlerinin aktarılan üçüncü kişilere bildirilmesini isteme</li><li>İşlenen verilerin yalnızca otomatik sistemlerle analiz edilmesi sonucu aleyhinize bir sonuç çıkmasına itiraz etme</li><li>Kanuna aykırı işleme nedeniyle zarara uğramanız hâlinde zararın giderilmesini talep etme</li></ul><h3>Başvuru yolu</h3><p>Başvurunuzda kimliğinizi ve talebinizi açıkça belirtmeniz gerekir. Başvurular <a href=\"https://wa.me/905316791014\">WhatsApp (+90 531 679 10 14)</a> ya da <a href=\"/tr/iletisim/\">iletişim formu</a> üzerinden alınır. Talebiniz, niteliğine göre en geç otuz gün içinde yanıtlanır.</p><p>Yanıtımızdan memnun kalmazsanız Kanun kapsamında Kişisel Verileri Koruma Kurulu'na şikâyette bulunma hakkınız saklıdır. Ayrıntılı bilgi için <a href=\"/tr/kisisel-veriler/\">Kişisel Veriler</a> ve <a href=\"/tr/gizlilik-politikasi/\">Gizlilik Politikası</a> sayfalarına bakabilirsiniz.</p></section>"
+    "tr": "<section><h2>Kullanıcı Hakları</h2><p>6698 sayılı Kanun'un 11. maddesi uyarınca kişisel verisi işlenen herkes, veri sorumlusu olan Yunus Sevğane'ye başvurarak aşağıdaki haklarını kullanabilir.</p><h3>Haklarınız</h3><ul><li>Kişisel verinizin işlenip işlenmediğini öğrenme</li><li>İşlenmişse buna ilişkin bilgi talep etme</li><li>İşlenme amacını ve amaca uygun kullanılıp kullanılmadığını öğrenme</li><li>Yurt içinde veya yurt dışında aktarıldığı üçüncü kişileri bilme</li><li>Eksik ya da yanlış işlenmişse düzeltilmesini isteme</li><li>Kanun'daki şartlar çerçevesinde silinmesini veya yok edilmesini isteme</li><li>Düzeltme, silme ve yok etme işlemlerinin aktarılan üçüncü kişilere bildirilmesini isteme</li><li>İşlenen verilerin yalnızca otomatik sistemlerle analiz edilmesi sonucu aleyhinize bir sonuç çıkmasına itiraz etme</li><li>Kanuna aykırı işleme nedeniyle zarara uğramanız hâlinde zararın giderilmesini talep etme</li></ul><h3>Başvuru yolu</h3><p>Başvurunuzda kimliğinizi ve talebinizi açıkça belirtmeniz gerekir. Başvurular <a href=\"https://wa.me/905316791014\">WhatsApp (+90 531 679 10 14)</a> ya da <a href=\"/tr/iletisim/\">iletişim formu</a> üzerinden alınır. Talebiniz, niteliğine göre en geç otuz gün içinde yanıtlanır.</p><p>Yanıtımızdan memnun kalmazsanız Kanun kapsamında Kişisel Verileri Koruma Kurulu'na şikâyette bulunma hakkınız saklıdır. Ayrıntılı bilgi için <a href=\"/tr/kisisel-veriler/\">Kişisel Veriler</a> ve <a href=\"/tr/gizlilik-politikasi/\">Gizlilik Politikası</a> sayfalarına bakabilirsiniz.</p></section>",
+    "en": "<section><h2>User Rights</h2><p>Under Article 11 of Law No. 6698, anyone whose personal data is processed may exercise the following rights by applying to the data controller, Yunus Sevğane.</p><h3>Your rights</h3><ul><li>To learn whether your personal data is processed</li><li>To request information if it has been processed</li><li>To learn the purpose of processing and whether it is used in line with that purpose</li><li>To know the third parties to whom it is transferred in Türkiye or abroad</li><li>To request correction if it is incomplete or inaccurate</li><li>To request deletion or destruction within the conditions set out in the Law</li><li>To request that correction, deletion and destruction be notified to the third parties to whom the data was transferred</li><li>To object to an outcome against you that arises from analysis of the processed data solely by automated systems</li><li>To claim compensation if you suffer damage because of unlawful processing</li></ul><h3>How to apply</h3><p>In your application you need to state your identity and your request clearly. Applications are received via <a href=\"https://wa.me/905316791014\">WhatsApp (+90 531 679 10 14)</a> or the <a href=\"/en/iletisim/\">contact form</a>. Your request is answered within thirty days at the latest, depending on its nature.</p><p>If you are not satisfied with the response, you keep the right to lodge a complaint with the Personal Data Protection Board under the Law. For more detail see <a href=\"/en/kisisel-veriler/\">Personal Data</a> and the <a href=\"/en/gizlilik-politikasi/\">Privacy Policy</a>.</p></section>"
   },
   "desing": {
     "header": [],
@@ -17,14 +19,17 @@
   "index": 8,
   "icon": "home",
   "description": {
-    "tr": "KVKK 11. madde kapsamındaki haklarınız (bilgi alma, düzeltme, silme, itiraz) ve Yunus Sevğane'ye başvuru yolları: WhatsApp ve iletişim formu."
+    "tr": "KVKK 11. madde kapsamındaki haklarınız (bilgi alma, düzeltme, silme, itiraz) ve Yunus Sevğane'ye başvuru yolları: WhatsApp ve iletişim formu.",
+    "en": "Your rights under Article 11 of the KVKK (information, correction, deletion, objection) and how to apply to Yunus Sevğane: WhatsApp and the contact form."
   },
   "keyword": {
-    "tr": "kullanıcı hakları, KVKK madde 11, veri sahibi hakları, başvuru"
+    "tr": "kullanıcı hakları, KVKK madde 11, veri sahibi hakları, başvuru",
+    "en": "user rights, KVKK article 11, data subject rights, application"
   },
-  "update": "2026-11-02T09:03:49.499Z",
+  "update": "2026-11-08T04:38:42.292Z",
   "date": "2025-12-13T03:26:52.549Z",
   "title": {
-    "tr": "Kullanıcı Hakları (KVKK 11) — Yunus Sevğane"
+    "tr": "Kullanıcı Hakları (KVKK 11) — Yunus Sevğane",
+    "en": "User Rights (KVKK Article 11) — Yunus Sevğane"
   }
 }

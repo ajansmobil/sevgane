@@ -68,7 +68,8 @@
       "desing": {
         "color": "#1e3046",
         "name": {
-          "tr": "Bize Ulaşın"
+          "tr": "Bize Ulaşın",
+          "en": "Contact"
         },
         "margin": "30px 0px 30px 0px",
         "stil": "",
@@ -273,20 +274,25 @@
         "btnbg": "#ffffff",
         "btncolor": "#1e3046",
         "badge": {
-          "tr": "Senior Software Developer · Proje Yöneticisi"
+          "tr": "Yazılım kökenli Proje Yöneticisi",
+          "en": "Project Manager with a software engineering background"
         },
         "title": {
-          "tr": "Yunus Sevğane — Proje Yöneticisi"
+          "tr": "Yunus Sevğane — AI Projeleri için Proje Lideri ve Ekip Kaptanı",
+          "en": "Yunus Sevğane — AI Project Manager & Team Lead"
         },
         "description": {
-          "tr": "Web, mobil, yapay zekâ ve bilgi güvenliği/ISO projelerini keşiften bakıma yönetiyorum. Yazılım geliştirici geçmişim sayesinde teknik ekiple aynı dili konuşur, kapsamı, bütçeyi ve riski kontrol altında tutarım. 2014'ten beri 200'den fazla kurumsal web sitesi, 10'dan fazla mobil uygulama."
+          "tr": "Yapay zekâ projelerinde ekibi hedeften teslime yöneten bir proje lideriyim; ISO/IEC 42001 yönetişimiyle güvenli kurarım. Uzaktan C-level rollere (Head of AI, AI Program Director, CTO düzeyi) açığım.",
+          "en": "I lead AI projects and teams from goal to delivery, with ISO/IEC 42001 governance built in. Open to remote C-level roles — Head of AI, AI Program Director, CTO level."
         },
         "btn1Text": {
-          "tr": "Teklif iste"
+          "tr": "Teklif iste",
+          "en": "Book an intro call"
         },
         "btn1Url": "/iletisim/",
         "btn2Text": {
-          "tr": "Proje yönetimi"
+          "tr": "Proje yönetimi",
+          "en": "How I work"
         },
         "btn2Url": "/proje-yonetimi/"
       },
@@ -321,7 +327,8 @@
           "number": 19,
           "suffix": "+",
           "label": {
-            "tr": "Yıl sektör deneyimi"
+            "tr": "Yıl sektör deneyimi",
+            "en": "Years in the industry"
           },
           "icon": "history"
         },
@@ -329,7 +336,8 @@
           "number": 200,
           "suffix": "+",
           "label": {
-            "tr": "Kurumsal web sitesi"
+            "tr": "Kurumsal web sitesi",
+            "en": "Corporate websites"
           },
           "icon": "language"
         },
@@ -337,7 +345,8 @@
           "number": 10,
           "suffix": "+",
           "label": {
-            "tr": "Mobil uygulama"
+            "tr": "Mobil uygulama",
+            "en": "Mobile apps"
           },
           "icon": "smartphone"
         },
@@ -345,7 +354,8 @@
           "number": 3,
           "suffix": "+",
           "label": {
-            "tr": "Pazaryeri entegrasyonu"
+            "tr": "Pazaryeri entegrasyonu",
+            "en": "Marketplace integrations"
           },
           "icon": "hub"
         }
@@ -375,16 +385,20 @@
         "btnbg": "var(--mx-site-primary)",
         "btncolor": "var(--mx-site-primary-contrast)",
         "badge": {
-          "tr": "Hakkımda"
+          "tr": "Hakkımda",
+          "en": "About me"
         },
         "title": {
-          "tr": "Proje yöneticisi bakışı, geliştirici derinliği"
+          "tr": "AI projelerinde yönetici bakışı, geliştirici derinliği",
+          "en": "Management perspective, engineer's depth — for AI projects"
         },
         "description": {
-          "tr": "2006'da grafik tasarımcı olarak başladım; Cemre Teknoloji ve Mor Medya'da yazılım geliştirdim. 2014'ten beri serbest çalışarak ekip ve proje yönetimi süreçlerini yürütüyorum. Bugün web, mobil, yapay zekâ ve DevOps projelerini bilgi güvenliği bakışıyla, kapsam, bütçe ve risk kontrolüyle teslim ediyorum."
+          "tr": "2006'da grafik tasarımcı olarak başladım; Cemre Teknoloji ve Mor Medya'da yazılım geliştirdim, 2014'ten beri serbest çalışarak ekip kurma, ekip ve proje yönetimi süreçlerini yürütüyorum. Bugün yapay zekâ tabanlı çözümleri ve sistem entegrasyonlarını AI agent, LLM RAG ve ince ayar süreçleriyle; ISO/IEC 42001 baş denetçi eğitimimin yönetişim bakışıyla ele alıyorum.",
+          "en": "I started in 2006 as a graphic artist, then built software at Cemre Teknoloji and Mor Medya. Since 2014 I have worked independently, building teams and running team and project management. Today I approach AI-based solutions and system integrations — AI agents, LLM RAG and fine-tuning — through the governance lens of my ISO/IEC 42001 lead auditor training."
         },
         "btn1Text": {
-          "tr": "Devamını oku"
+          "tr": "Devamını oku",
+          "en": "Read more"
         },
         "btn1Url": "/hakkimizda/"
       },
@@ -443,59 +457,105 @@
         "badgebg": "var(--mx-site-primary)",
         "badgecolor": "var(--mx-site-primary-contrast)",
         "badge": {
-          "tr": "Proje yönetimi alanlarım"
+          "tr": "Yetkinlik alanlarım",
+          "en": "Areas of expertise"
         },
         "title": {
-          "tr": "Keşiften bakıma tek muhatap"
+          "tr": "Yapay zekâdan altyapıya tek muhatap",
+          "en": "One point of contact, from AI to infrastructure"
         },
         "description": {
-          "tr": "Projeyi planlayan, ekibi ve tedarikçileri koordine eden, teknik kararı da anlayan ve güvenliği baştan düşünen bir proje yöneticisi."
+          "tr": "Projeyi planlayan, ekibi koordine eden, teknik kararı da anlayan ve yönetişimi baştan düşünen bir proje lideri.",
+          "en": "A project lead who plans the work, coordinates the team, understands the technical decisions and thinks about governance from day one."
         }
       },
       "data": [
         {
-          "icon": "account_tree",
+          "icon": "psychology",
           "name": {
-            "tr": "Proje yönetimi"
+            "tr": "Yapay zekâ projeleri",
+            "en": "AI projects"
           },
           "description": {
-            "tr": "Keşif, plan, yürütme, teslim ve bakım; çevik (Scrum) çalışma, kapsam, bütçe ve risk takibi, ekip ve tedarikçi koordinasyonu."
+            "tr": "AI agent süreçleri, LLM RAG ve LLM ince ayar; yapay zekâ tabanlı çözümler ve sistem entegrasyonları.",
+            "en": "AI agent processes, LLM RAG and LLM fine-tuning; AI-based solutions and system integrations."
+          }
+        },
+        {
+          "icon": "gavel",
+          "name": {
+            "tr": "AI yönetişimi — ISO/IEC 42001",
+            "en": "AI governance — ISO/IEC 42001"
+          },
+          "description": {
+            "tr": "Yapay zekâ yönetim sistemi için baş denetçi eğitimi; risk, sorumluluk ve veri kontrolleri projenin başında planlanır.",
+            "en": "Lead auditor training for AI management systems; risk, accountability and data controls are planned at the start of the project."
+          }
+        },
+        {
+          "icon": "groups",
+          "name": {
+            "tr": "Ekip kurma ve liderlik",
+            "en": "Team building and leadership"
+          },
+          "description": {
+            "tr": "Ekip kurma, ekip ve proje yönetimi; geliştirici, tasarımcı, test ve tedarikçi arasında tek muhatap.",
+            "en": "Building teams and leading them; a single point of contact across developers, designers, testers and suppliers."
+          }
+        },
+        {
+          "icon": "account_tree",
+          "name": {
+            "tr": "Proje yönetimi",
+            "en": "Project management"
+          },
+          "description": {
+            "tr": "Keşif, plan, yürütme, teslim ve bakım; çevik (Scrum) çalışma, kapsam, bütçe ve risk takibi.",
+            "en": "Discovery, planning, delivery, handover and maintenance; agile (Scrum) practice, scope, budget and risk tracking."
           }
         },
         {
           "icon": "devices",
           "name": {
-            "tr": "Web ve mobil projeler"
+            "tr": "Web ve mobil projeler",
+            "en": "Web and mobile projects"
           },
           "description": {
-            "tr": "200'den fazla kurumsal web sitesi ve 10'dan fazla mobil uygulamanın yönetimi ve geliştirmesi."
-          }
-        },
-        {
-          "icon": "psychology",
-          "name": {
-            "tr": "Yapay zekâ projeleri"
-          },
-          "description": {
-            "tr": "AI agent süreçleri, LLM RAG uygulamaları ve ince ayar; veri gizliliği ve yönetişim bakışıyla."
+            "tr": "200'den fazla kurumsal web sitesi ve 10'dan fazla mobil uygulamanın yönetimi ve geliştirmesi.",
+            "en": "Management and development of 200+ corporate websites and 10+ mobile apps."
           }
         },
         {
           "icon": "verified_user",
           "name": {
-            "tr": "Bilgi güvenliği ve ISO uyumu"
+            "tr": "Bilgi güvenliği ve ISO uyumu",
+            "en": "Information security and ISO compliance"
           },
           "description": {
-            "tr": "ISO/IEC 27001, 42001, 9001 ve 20000-1 baş denetçi eğitimleriyle uyum projelerinde kapsam ve risk planlaması."
+            "tr": "ISO/IEC 27001, 42001, 9001 ve 20000-1 baş denetçi eğitimleri; uyum projelerinde kapsam ve risk planlaması.",
+            "en": "Lead auditor training in ISO/IEC 27001, 42001, 9001 and 20000-1; scope and risk planning in compliance projects."
           }
         },
         {
           "icon": "cloud_sync",
           "name": {
-            "tr": "Entegrasyon ve altyapı"
+            "tr": "Entegrasyon ve altyapı",
+            "en": "Integration and infrastructure"
           },
           "description": {
-            "tr": "3'ten fazla pazaryeri entegrasyonu, full stack DevOps, veritabanı ve sistem mimarisi."
+            "tr": "3'ten fazla pazaryeri entegrasyonu, full stack DevOps, veritabanı ve sistem mimarisi.",
+            "en": "3+ marketplace integrations, full-stack DevOps, databases and system architecture."
+          }
+        },
+        {
+          "icon": "public",
+          "name": {
+            "tr": "Uzaktan çalışma",
+            "en": "Remote work"
+          },
+          "description": {
+            "tr": "Kanada, Dubai (BAE), Almanya ve İngiltere'deki projelerde uzaktan çalıştım.",
+            "en": "I have worked remotely on projects in Canada, Dubai (UAE), Germany and the United Kingdom."
           }
         }
       ],
@@ -522,17 +582,21 @@
         "btnbg": "#ffffff",
         "btncolor": "#1e3046",
         "title": {
-          "tr": "Projeniz için teklif alın"
+          "tr": "AI projeniz için konuşalım",
+          "en": "Let's talk about your AI project"
         },
         "description": {
-          "tr": "Hedefinizi iki üç cümleyle yazın; kapsamı, süreyi ve teslim planını birlikte netleştirelim."
+          "tr": "Hedefinizi iki üç cümleyle yazın. Ön görüşmede kapsamı, ekibi ve teslim planını birlikte netleştirelim; ister proje bazlı, ister uzun vadeli bir rol olsun.",
+          "en": "Describe your goal in two or three sentences. In an intro call we clarify scope, team and delivery plan together — whether it is a project engagement or a longer-term role."
         },
         "btn1Text": {
-          "tr": "Teklif iste"
+          "tr": "Teklif iste",
+          "en": "Hire me"
         },
         "btn1Url": "/iletisim/",
         "btn2Text": {
-          "tr": "WhatsApp ile yaz"
+          "tr": "WhatsApp ile yaz",
+          "en": "Message on WhatsApp"
         },
         "btn2Url": "https://wa.me/905316791014"
       },
@@ -569,10 +633,12 @@
         "max": "960px",
         "cvUrl": "",
         "title": {
-          "tr": "Özgeçmiş"
+          "tr": "Özgeçmiş",
+          "en": "Résumé"
         },
         "description": {
-          "tr": "Çalıştığım yerler ve aldığım eğitimler, en yeniden eskiye."
+          "tr": "Çalıştığım yerler ve aldığım eğitimler, en yeniden eskiye.",
+          "en": "Where I have worked and the training I have completed, newest first."
         },
         "filterLabel": {
           "tr": "Kayıt türü",
@@ -611,113 +677,224 @@
             "type": "work",
             "start": "2014",
             "end": "",
-            "title": "Senior Engineering Manager",
-            "org": "Serbest çalışan",
+            "title": {
+              "tr": "Senior Engineering Manager",
+              "en": "Senior Engineering Manager"
+            },
+            "org": {
+              "tr": "Serbest çalışan",
+              "en": "Independent"
+            },
             "place": "",
-            "desc": "200'den fazla kurumsal web sitesi, 3'ten fazla pazaryeri entegrasyonu ve 10'dan fazla mobil uygulama; altyapı geliştirme, ekip kurma ve proje yönetimi.",
+            "desc": {
+              "tr": "200'den fazla kurumsal web sitesi, 3'ten fazla pazaryeri entegrasyonu ve 10'dan fazla mobil uygulama; altyapı geliştirme, ekip kurma ve proje yönetimi.",
+              "en": "200+ corporate websites, 3+ marketplace integrations and 10+ mobile apps; infrastructure development, team building and project management."
+            },
             "tags": [
-              "Web",
-              "Mobil",
-              "DevOps",
-              "Yapay zeka"
+              {
+                "tr": "Web",
+                "en": "Web"
+              },
+              {
+                "tr": "Mobil",
+                "en": "Mobile"
+              },
+              {
+                "tr": "DevOps",
+                "en": "DevOps"
+              },
+              {
+                "tr": "Yapay zeka",
+                "en": "AI"
+              }
             ]
           },
           {
             "type": "work",
             "start": "2012",
             "end": "2014",
-            "title": "Senior Developer",
-            "org": "Mor Medya",
+            "title": {
+              "tr": "Senior Developer",
+              "en": "Senior Developer"
+            },
+            "org": {
+              "tr": "Mor Medya",
+              "en": "Mor Medya"
+            },
             "place": "",
-            "desc": "Yazılım geliştirme.",
+            "desc": {
+              "tr": "Yazılım geliştirme.",
+              "en": "Software development."
+            },
             "tags": [
-              "Yazılım"
+              {
+                "tr": "Yazılım",
+                "en": "Software"
+              }
             ]
           },
           {
             "type": "work",
             "start": "2010",
             "end": "2012",
-            "title": "Software Developer",
-            "org": "Cemre Teknoloji",
+            "title": {
+              "tr": "Software Developer",
+              "en": "Software Developer"
+            },
+            "org": {
+              "tr": "Cemre Teknoloji",
+              "en": "Cemre Teknoloji"
+            },
             "place": "",
-            "desc": "Yazılım geliştirme.",
+            "desc": {
+              "tr": "Yazılım geliştirme.",
+              "en": "Software development."
+            },
             "tags": [
-              "Yazılım"
+              {
+                "tr": "Yazılım",
+                "en": "Software"
+              }
             ]
           },
           {
             "type": "work",
             "start": "2006",
             "end": "2007",
-            "title": "Grafik tasarımcı",
-            "org": "Emre Carpet Design",
+            "title": {
+              "tr": "Grafik tasarımcı",
+              "en": "Graphic artist"
+            },
+            "org": {
+              "tr": "Emre Carpet Design",
+              "en": "Emre Carpet Design"
+            },
             "place": "",
-            "desc": "Grafik tasarım.",
+            "desc": {
+              "tr": "Grafik tasarım.",
+              "en": "Graphic design."
+            },
             "tags": [
-              "Tasarım"
+              {
+                "tr": "Tasarım",
+                "en": "Design"
+              }
             ]
           },
           {
             "type": "edu",
             "start": "2025-08",
             "end": "2025-09",
-            "title": "ISO/IEC 20000-1:2018 BT Hizmet Yönetim Sistemi Baş Denetçilik Eğitimi (120 saat)",
-            "org": "Mudanya Üniversitesi SEM",
+            "title": {
+              "tr": "ISO/IEC 20000-1:2018 BT Hizmet Yönetim Sistemi Baş Denetçilik Eğitimi (120 saat)",
+              "en": "ISO/IEC 20000-1:2018 IT Service Management System Lead Auditor Course (120 hours)"
+            },
+            "org": {
+              "tr": "Mudanya Üniversitesi SEM",
+              "en": "Mudanya University CEC"
+            },
             "place": "",
             "desc": "",
             "tags": [
-              "ISO"
+              {
+                "tr": "ISO",
+                "en": "ISO"
+              }
             ]
           },
           {
             "type": "edu",
             "start": "2025-07",
             "end": "2025-08",
-            "title": "Siber Güvenlik, Etik (Beyaz Şapkalı) Hacker ve Siber Suçlar Uzmanlığı (180'er saat)",
-            "org": "Türk Hava Kurumu Üniversitesi SEM",
+            "title": {
+              "tr": "Siber Güvenlik, Etik (Beyaz Şapkalı) Hacker ve Siber Suçlar Uzmanlığı (180'er saat)",
+              "en": "Cybersecurity, Ethical (White-Hat) Hacker and Cybercrime Expertise (180 hours each)"
+            },
+            "org": {
+              "tr": "Türk Hava Kurumu Üniversitesi SEM",
+              "en": "Turkish Aeronautical Association University CEC"
+            },
             "place": "",
-            "desc": "Üç ayrı uzmanlık eğitimi.",
+            "desc": {
+              "tr": "Üç ayrı uzmanlık eğitimi.",
+              "en": "Three separate expertise courses."
+            },
             "tags": [
-              "Siber güvenlik"
+              {
+                "tr": "Siber güvenlik",
+                "en": "Cybersecurity"
+              }
             ]
           },
           {
             "type": "edu",
             "start": "2025-05",
             "end": "2025-06",
-            "title": "ISO/IEC 42001:2023 Yapay Zeka Yönetim Sistemi ve ISO 9001:2015 Kalite Yönetim Sistemi Baş Denetçi Eğitimleri",
-            "org": "Sigmacert Global",
+            "title": {
+              "tr": "ISO/IEC 42001:2023 Yapay Zeka Yönetim Sistemi ve ISO 9001:2015 Kalite Yönetim Sistemi Baş Denetçi Eğitimleri",
+              "en": "ISO/IEC 42001:2023 AI Management System and ISO 9001:2015 Quality Management System Lead Auditor Courses"
+            },
+            "org": {
+              "tr": "Sigmacert Global",
+              "en": "Sigmacert Global"
+            },
             "place": "",
             "desc": "",
             "tags": [
-              "ISO",
-              "Yapay zeka"
+              {
+                "tr": "ISO",
+                "en": "ISO"
+              },
+              {
+                "tr": "Yapay zeka",
+                "en": "AI"
+              }
             ]
           },
           {
             "type": "edu",
             "start": "2025-04",
             "end": "2025-06",
-            "title": "Adli Bilişim Uzmanlığı Sertifika Eğitimi (100 saat)",
-            "org": "Fırat Üniversitesi SEM",
+            "title": {
+              "tr": "Adli Bilişim Uzmanlığı Sertifika Eğitimi (100 saat)",
+              "en": "Digital Forensics Expertise Certificate Course (100 hours)"
+            },
+            "org": {
+              "tr": "Fırat Üniversitesi SEM",
+              "en": "Fırat University CEC"
+            },
             "place": "",
             "desc": "",
             "tags": [
-              "Adli bilişim"
+              {
+                "tr": "Adli bilişim",
+                "en": "Digital forensics"
+              }
             ]
           },
           {
             "type": "edu",
             "start": "2025-02",
             "end": "2025-03",
-            "title": "ISO/IEC 27001:2022 Bilgi Güvenliği Yönetim Sistemi Baş Denetçi Eğitimi",
-            "org": "Sigmacert Global",
+            "title": {
+              "tr": "ISO/IEC 27001:2022 Bilgi Güvenliği Yönetim Sistemi Baş Denetçi Eğitimi",
+              "en": "ISO/IEC 27001:2022 Information Security Management System Lead Auditor Course"
+            },
+            "org": {
+              "tr": "Sigmacert Global",
+              "en": "Sigmacert Global"
+            },
             "place": "",
             "desc": "",
             "tags": [
-              "ISO",
-              "Bilgi güvenliği"
+              {
+                "tr": "ISO",
+                "en": "ISO"
+              },
+              {
+                "tr": "Bilgi güvenliği",
+                "en": "Information security"
+              }
             ]
           }
         ]
@@ -861,7 +1038,8 @@
       "desing": {
         "number": "905316791014",
         "name": {
-          "tr": "WhatsApp ile yaz"
+          "tr": "WhatsApp ile yaz",
+          "en": "Message on WhatsApp"
         },
         "position": "fixed",
         "bottom": "30px",
@@ -869,7 +1047,8 @@
         "z_index": 10000,
         "responsive": true,
         "message": {
-          "tr": "Merhaba, sevgane.com üzerinden yazıyorum."
+          "tr": "Merhaba, sevgane.com üzerinden yazıyorum.",
+          "en": "Hello, I am writing from sevgane.com."
         },
         "cerezKacin": ""
       },
@@ -925,25 +1104,31 @@
         "errcolor": "var(--mx-color-danger, #b42318)",
         "radius": "16px",
         "title": {
-          "tr": "Teklif formu"
+          "tr": "Teklif formu",
+          "en": "Book an intro call"
         },
         "description": {
-          "tr": "Projenizi ya da sorunuzu kısaca yazın; form mesajınızı hazır hâlde WhatsApp'a taşır, göndermek size kalır. Proje yönetimi, web, mobil, yapay zekâ ve ISO projeleri için yazabilirsiniz."
+          "tr": "Projenizi, ihtiyacınızı ya da rol beklentinizi kısaca yazın; form mesajınızı hazır hâlde WhatsApp'a taşır, göndermek size kalır. Yapay zekâ, proje yönetimi, web, mobil ve ISO projeleri için yazabilirsiniz.",
+          "en": "Briefly describe your project, need or the role you have in mind; the form carries your message to WhatsApp ready to send, and sending is up to you. You can write about AI, project management, web, mobile and ISO projects."
         },
         "panelTitle": {
-          "tr": "İletişim bilgileri"
+          "tr": "İletişim bilgileri",
+          "en": "Contact details"
         },
         "panelText": {
-          "tr": "En hızlı ulaşım yolu WhatsApp'tır. E-posta ve telefon ile de ulaşabilirsiniz; uzaktan çalışmaya açığım."
+          "tr": "En hızlı ulaşım yolu WhatsApp'tır. E-posta ve telefon ile de ulaşabilirsiniz; uzaktan çalışmaya ve farklı saat dilimlerine açığım.",
+          "en": "WhatsApp is the fastest way to reach me. You can also use e-mail and phone; I work remotely and across time zones."
         },
         "address": {
-          "tr": "Türkiye"
+          "tr": "Türkiye (uzaktan çalışıyorum)",
+          "en": "Türkiye (working remotely)"
         },
         "phone": "+90 531 679 10 14",
         "whatsapp": "905316791014",
         "email": "yunus@webyapar.com",
         "hours": {
-          "tr": "Mesajlarınıza WhatsApp ya da e-posta üzerinden dönüş yapılır."
+          "tr": "Mesajlarınıza WhatsApp ya da e-posta üzerinden dönüş yapılır.",
+          "en": "I reply to messages via WhatsApp or e-mail."
         },
         "mapUrl": "",
         "mapEmbed": "",
@@ -963,7 +1148,8 @@
           "ar": "البريد الإلكتروني"
         },
         "hoursTitle": {
-          "tr": "Yanıt"
+          "tr": "Yanıt",
+          "en": "Reply"
         },
         "mapLink": {
           "tr": "Haritada gör",
@@ -976,9 +1162,8 @@
           "ar": "خريطة الموقع"
         },
         "socialTitle": {
-          "tr": "Bizi takip edin",
-          "en": "Follow us",
-          "ar": "تابعنا"
+          "tr": "Beni takip edin",
+          "en": "Follow me"
         },
         "social": [
           {
@@ -1034,33 +1219,45 @@
         },
         "subjects": [
           {
+            "id": "ai",
+            "name": {
+              "tr": "Yapay zekâ projesi / AI rolü",
+              "en": "AI project / AI role"
+            }
+          },
+          {
+            "id": "pm",
+            "name": {
+              "tr": "Proje yönetimi",
+              "en": "Project management"
+            }
+          },
+          {
             "id": "web",
             "name": {
-              "tr": "Web sitesi"
+              "tr": "Web sitesi",
+              "en": "Website"
             }
           },
           {
             "id": "mobil",
             "name": {
-              "tr": "Mobil uygulama"
-            }
-          },
-          {
-            "id": "ai",
-            "name": {
-              "tr": "Yapay zeka"
+              "tr": "Mobil uygulama",
+              "en": "Mobile app"
             }
           },
           {
             "id": "guvenlik",
             "name": {
-              "tr": "Bilgi güvenliği / ISO"
+              "tr": "Bilgi güvenliği / ISO",
+              "en": "Information security / ISO"
             }
           },
           {
             "id": "diger",
             "name": {
-              "tr": "Diğer"
+              "tr": "Diğer",
+              "en": "Other"
             }
           }
         ],
@@ -1136,7 +1333,8 @@
           "ar": "يتم فتح واتساب؛ يمكنك إرسال الرسالة الجاهزة."
         },
         "waIntro": {
-          "tr": "Merhaba, sevgane.com üzerinden yazıyorum."
+          "tr": "Merhaba, sevgane.com üzerinden yazıyorum.",
+          "en": "Hello, I am writing from sevgane.com."
         },
         "panelbg": "var(--mx-site-surface)",
         "paneltext": "var(--mx-site-text)",
@@ -1161,13 +1359,16 @@
           "img": "yunus-banner-1.webp",
           "layout": "right",
           "title": {
-            "tr": "Web · Mobil · Yapay Zeka"
+            "tr": "Web · Mobil · Yapay Zekâ",
+            "en": "Web · Mobile · AI"
           },
           "description": {
-            "tr": "Kurumsal web siteleri, mobil uygulamalar ve yapay zeka çözümleri."
+            "tr": "Kurumsal web siteleri, mobil uygulamalar ve yapay zekâ çözümleri.",
+            "en": "Corporate websites, mobile apps and AI solutions."
           },
           "button": {
-            "tr": "Hizmetlerim"
+            "tr": "Hizmetlerim",
+            "en": "Services"
           },
           "link": "services"
         },
@@ -1176,13 +1377,16 @@
           "img": "yunus-banner-2.webp",
           "layout": "right",
           "title": {
-            "tr": "Bilgi Güvenliği · ISO · DevOps"
+            "tr": "Bilgi Güvenliği · ISO · DevOps",
+            "en": "Information Security · ISO · DevOps"
           },
           "description": {
-            "tr": "Siber güvenlik, adli bilişim ve ISO baş denetçi eğitimleriyle güvenli altyapı."
+            "tr": "Siber güvenlik, adli bilişim ve ISO baş denetçi eğitimleriyle güvenli altyapı.",
+            "en": "Secure infrastructure backed by cybersecurity, digital forensics and ISO lead auditor training."
           },
           "button": {
-            "tr": "Sertifikalar"
+            "tr": "Sertifikalar",
+            "en": "Certificates"
           },
           "link": "sertifikalar"
         }
@@ -1202,10 +1406,12 @@
         "margin": "0",
         "bgcolor": "#13243a",
         "prevLabel": {
-          "tr": "Önceki slayt"
+          "tr": "Önceki slayt",
+          "en": "Previous slide"
         },
         "nextLabel": {
-          "tr": "Sonraki slayt"
+          "tr": "Sonraki slayt",
+          "en": "Next slide"
         }
       },
       "category": "slider",
@@ -1226,7 +1432,8 @@
       "name": "Sayfa Listesi Kare",
       "desing": {
         "name": {
-          "tr": "Sayfa Listesi"
+          "tr": "Sayfa Listesi",
+          "en": "Page list"
         },
         "page": "page",
         "size": 4,
@@ -1286,94 +1493,127 @@
         "accent": "#1e3046",
         "accentText": "#ffffff",
         "badge": {
-          "tr": "SSS"
+          "tr": "SSS",
+          "en": "FAQ"
         },
         "title": {
-          "tr": "Sıkça sorulan sorular"
+          "tr": "Sıkça sorulan sorular",
+          "en": "Frequently asked questions"
         },
         "description": {
-          "tr": "Proje yöneticisi ile çalışmadan önce merak edilenler."
+          "tr": "Birlikte çalışmadan önce merak edilenler: uzaktan çalışma, aradığım roller, yapay zekâ yönetişimi ve çalışma modeli.",
+          "en": "What people ask before we work together: remote work, the roles I am looking for, AI governance and working models."
         }
       },
       "data": [
         {
           "question": {
-            "tr": "Hangi tür projelerde proje yöneticisi olarak çalışıyorsunuz?"
+            "tr": "Hangi tür projelerde çalışıyorsunuz?",
+            "en": "Which kinds of projects do you work on?"
           },
           "answer": {
-            "tr": "Web siteleri ve portallar, mobil uygulamalar, yapay zekâ projeleri (AI agent, LLM RAG), pazaryeri ve sistem entegrasyonları, altyapı/DevOps işleri ve ISO 27001 gibi bilgi güvenliği uyum projelerinde çalışıyorum. 2014'ten beri 200'den fazla kurumsal web sitesi, 10'dan fazla mobil uygulama ve 3'ten fazla pazaryeri entegrasyonu yürüttüm."
+            "tr": "Yapay zekâ projeleri (AI agent, LLM RAG, ince ayar), web siteleri ve portallar, mobil uygulamalar, pazaryeri ve sistem entegrasyonları, altyapı/DevOps işleri ve ISO 27001/42001 gibi uyum projeleri. 2014'ten beri 200'den fazla kurumsal web sitesi, 10'dan fazla mobil uygulama ve 3'ten fazla pazaryeri entegrasyonu yürüttüm.",
+            "en": "AI projects (AI agents, LLM RAG, fine-tuning), websites and portals, mobile apps, marketplace and system integrations, infrastructure/DevOps work and compliance projects such as ISO 27001/42001. Since 2014 I have delivered more than 200 corporate websites, over 10 mobile apps and more than 3 marketplace integrations."
           }
         },
         {
           "question": {
-            "tr": "Uzaktan çalışır mısınız?"
+            "tr": "Uzaktan ve farklı saat dilimlerinde çalışıyor musunuz?",
+            "en": "Do you work remotely and across time zones?"
           },
           "answer": {
-            "tr": "Uzaktan çalışmaya açığım. İletişim ritmini proje başında birlikte belirleriz; yüz yüze görüşme gereken durumlarda planlarız."
+            "tr": "Evet. Kanada, Dubai (BAE), Almanya ve İngiltere'deki projelerde uzaktan çalıştım. Farklı saat dilimlerinde çalışmaya alışkınım: iletişim ritmini, toplantı saatlerini ve karar kayıtlarını proje başında birlikte belirleriz; yazılı ve kayıtlı iletişime ağırlık veririm. Yüz yüze görüşme gereken durumlarda planlarız.",
+            "en": "Yes. I have worked remotely on projects in Canada, Dubai (UAE), Germany and the United Kingdom. I am used to working across time zones: we agree the communication rhythm, meeting times and decision records at the start of the project, and I lean on written, recorded communication. Where an in-person meeting is needed, we plan it."
           }
         },
         {
           "question": {
-            "tr": "Hangi sözleşme ve çalışma modelleriyle çalışıyorsunuz?"
+            "tr": "Hangi pozisyonlara açıksınız?",
+            "en": "Which positions are you open to?"
           },
           "answer": {
-            "tr": "Serbest çalışan olarak proje bazlı ya da süreli danışmanlık şeklinde çalışıyorum. Farklı bir model düşünüyorsanız teklifinizi dinler, uygun olanı ön görüşmede birlikte belirleriz."
+            "tr": "Yapay zekâ projelerinde proje lideri / ekip kaptanı olarak çalışabileceğim, uzaktan C-level düzeyindeki rollere açığım: Head of AI, AI Program Director ya da CTO düzeyi. Bu unvanları taşıdığımı değil, aradığım pozisyonları söylüyorum; deneyimim Özgeçmiş sayfasında. Proje bazlı ya da süreli danışmanlığa da açığım.",
+            "en": "I am open to remote C-level roles where I can work as a project lead / team captain on AI projects: Head of AI, AI Program Director or CTO level. I am not saying I hold these titles — I am saying which positions I am looking for; my experience is on the Résumé page. I am also open to project-based or fixed-term consulting."
           }
         },
         {
           "question": {
-            "tr": "Hangi sektörlerde deneyiminiz var?"
+            "tr": "Hangi çalışma modelleriyle çalışıyorsunuz?",
+            "en": "Which working models do you use?"
           },
           "answer": {
-            "tr": "Deneyimim sektörden çok proje türüne göre gruplanır: kurumsal web siteleri, mobil uygulamalar, pazaryeri entegrasyonları, yapay zekâ ve bilgi güvenliği. Sektörünüzü yazarsanız bu alandaki çalışma örneklerimi paylaşırım."
+            "tr": "Serbest çalışan olarak proje bazlı ya da süreli danışmanlık şeklinde çalışıyorum; uzun vadeli, uzaktan bir rol de değerlendirebilirim. Farklı bir model düşünüyorsanız teklifinizi dinler, uygun olanı ön görüşmede birlikte belirleriz.",
+            "en": "As an independent professional I work project by project or as fixed-term consulting, and I can consider a longer-term remote role. If you have a different model in mind, I will listen to your proposal and we will choose the right one together in the intro call."
           }
         },
         {
           "question": {
-            "tr": "Hangi yöntem ve araçları kullanıyorsunuz?"
+            "tr": "Yapay zekâ projelerini yönetir misiniz?",
+            "en": "Do you manage AI projects?"
           },
           "answer": {
-            "tr": "Çevik (Scrum) yaklaşımıyla kısa sprintler, öncelikli iş listesi ve her sprint sonunda gösterim kullanırım; kapsam, bütçe ve risk takibini yazılı yaparım. Araç tarafında sizin ya da ekibin mevcut görev panosu ve iletişim kanalına uyum sağlarım."
+            "tr": "Evet. AI agent süreçleri, LLM RAG uygulamaları ve ince ayar çalışmalarını hem geliştirici hem proje yöneticisi olarak yürütüyorum. Veri gizliliği ve yetkilendirmeyi ilk aşamada ele alır, küçük bir pilotla başlayıp sonucu ölçtükten sonra genişletirim.",
+            "en": "Yes. I run AI agent processes, LLM RAG applications and fine-tuning work as both a developer and a project manager. I address data privacy and authorization in the first phase, start with a small pilot and expand once the result is measured."
           }
         },
         {
           "question": {
-            "tr": "Teknik bilginiz proje yönetimine ne katıyor?"
+            "tr": "ISO/IEC 42001 yapay zekâ yönetişimine ne katıyor?",
+            "en": "What does ISO/IEC 42001 add to AI governance?"
           },
           "answer": {
-            "tr": "Frontend, backend, DevOps ve yapay zekâ süreçlerinde geliştirici olarak çalıştığım için ekibin tahminlerini sorgulayabilir, riskleri erken görebilir ve kapsam kararlarını teknik gerçeklikle verebilirim."
+            "tr": "ISO/IEC 42001:2023 baş denetçi eğitimi aldım (2025). Bu bakış, bir yapay zekâ sisteminin amacını, sorumlusunu, veri kaynağını, riskini ve izleme biçimini projenin başında tanımlamama yardım eder. Bu bir kurum belgelendirmesi değil, bireysel eğitim ve uygulama deneyimimdir.",
+            "en": "I completed the ISO/IEC 42001:2023 lead auditor course (2025). This perspective helps me define an AI system's purpose, owner, data source, risk and monitoring approach at the start of a project. It is not an organizational certification; it is personal training and hands-on experience."
           }
         },
         {
           "question": {
-            "tr": "Kapsam, bütçe ve riski nasıl kontrol ediyorsunuz?"
+            "tr": "ISO 27001 ve benzeri uyum projelerinde rolünüz nedir?",
+            "en": "What is your role in ISO 27001 and similar compliance projects?"
           },
           "answer": {
-            "tr": "Kapsam yazılı plana bağlanır, değişiklik istekleri süre ve bütçe etkisiyle birlikte onaya sunulur, planlanan ile gerçekleşen düzenli karşılaştırılır. Riskler kayda geçer; sahibi ve önlemi belirlenir."
+            "tr": "ISO/IEC 27001:2022, 42001:2023, 9001:2015 ve 20000-1:2018 alanlarında baş denetçi eğitimleri aldım. Uyum projelerinde kapsam, risk ve dokümantasyon planlamasını yönetebilirim. Bu bir kurum belgelendirmesi anlamına gelmez; bireysel eğitim ve uygulama deneyimimdir.",
+            "en": "I have completed lead auditor training in ISO/IEC 27001:2022, 42001:2023, 9001:2015 and 20000-1:2018. In compliance projects I can manage scope, risk and documentation planning. This does not mean an organizational certification; it is personal training and hands-on experience."
           }
         },
         {
           "question": {
-            "tr": "ISO 27001 ve benzeri uyum projelerinde rolünüz nedir?"
+            "tr": "Teknik bilginiz proje yönetimine ne katıyor?",
+            "en": "What does your technical background add to project management?"
           },
           "answer": {
-            "tr": "ISO/IEC 27001:2022, 42001:2023, 9001:2015 ve 20000-1:2018 alanlarında baş denetçi eğitimleri aldım. Uyum projelerinde kapsam, risk ve dokümantasyon planlamasını yönetebilirim. Bu bir kurum belgelendirmesi anlamına gelmez; bireysel eğitim ve uygulama deneyimimdir."
+            "tr": "Frontend, backend, DevOps ve yapay zekâ süreçlerinde geliştirici olarak çalıştığım için ekibin tahminlerini sorgulayabilir, riskleri erken görebilir ve kapsam kararlarını teknik gerçeklikle verebilirim.",
+            "en": "Because I have worked as a developer in frontend, backend, DevOps and AI processes, I can question a team's estimates, see risks early and make scope decisions grounded in technical reality."
           }
         },
         {
           "question": {
-            "tr": "Yapay zekâ projelerini yönetir misiniz?"
+            "tr": "Hangi yöntem ve araçları kullanıyorsunuz?",
+            "en": "Which methods and tools do you use?"
           },
           "answer": {
-            "tr": "Evet. AI agent süreçleri, LLM RAG uygulamaları ve ince ayar çalışmalarını hem geliştirici hem proje yöneticisi olarak yürütüyorum; veri gizliliği ve yetkilendirmeyi ilk aşamada ele alırım."
+            "tr": "Çevik (Scrum) yaklaşımıyla kısa sprintler, öncelikli iş listesi ve her sprint sonunda gösterim kullanırım; kapsam, bütçe ve risk takibini yazılı yaparım. Araç tarafında sizin ya da ekibin mevcut görev panosu ve iletişim kanalına uyum sağlarım.",
+            "en": "I use an agile (Scrum) approach with short sprints, a prioritized backlog and a demo at the end of each sprint, and I track scope, budget and risk in writing. On tooling I adapt to your or your team's existing task board and communication channel."
           }
         },
         {
           "question": {
-            "tr": "Nasıl teklif alırım?"
+            "tr": "Kapsam, bütçe ve riski nasıl kontrol ediyorsunuz?",
+            "en": "How do you keep scope, budget and risk under control?"
           },
           "answer": {
-            "tr": "İletişim sayfasındaki forma, WhatsApp'a (+90 531 679 10 14) ya da yunus@webyapar.com adresine projenizi iki üç cümleyle yazmanız yeterli. Kapsamı birlikte netleştirir, ardından yazılı bir plan ve teklif paylaşırım."
+            "tr": "Kapsam yazılı plana bağlanır, değişiklik istekleri süre ve bütçe etkisiyle birlikte onaya sunulur, planlanan ile gerçekleşen düzenli karşılaştırılır. Riskler kayda geçer; sahibi ve önlemi belirlenir.",
+            "en": "Scope is tied to a written plan, change requests go for approval with their effect on schedule and budget, and planned versus actual is compared regularly. Risks are recorded, and each gets an owner and a mitigation."
+          }
+        },
+        {
+          "question": {
+            "tr": "Nasıl teklif alırım ya da görüşme ayarlarım?",
+            "en": "How do I get a proposal or book an intro call?"
+          },
+          "answer": {
+            "tr": "İletişim sayfasındaki forma, WhatsApp'a (+90 531 679 10 14) ya da yunus@webyapar.com adresine projenizi veya rol beklentinizi iki üç cümleyle yazmanız yeterli. Kapsamı birlikte netleştirir, ardından yazılı bir plan ve teklif paylaşırım.",
+            "en": "Just describe your project or the role you have in mind in two or three sentences via the contact page form, WhatsApp (+90 531 679 10 14) or yunus@webyapar.com. We clarify the scope together, and I then share a written plan and proposal."
           }
         }
       ],
@@ -1402,16 +1642,20 @@
         "btnbg": "var(--mx-site-primary)",
         "btncolor": "var(--mx-site-primary-contrast)",
         "badge": {
-          "tr": "Teklif iste"
+          "tr": "Teklif iste",
+          "en": "Book an intro call"
         },
         "title": {
-          "tr": "Proje yöneticisi için teklif isteyin"
+          "tr": "AI projeniz veya rol önerisi için yazın",
+          "en": "Write about your AI project or a role"
         },
         "description": {
-          "tr": "Web, mobil, yapay zekâ ya da bilgi güvenliği/ISO uyum projeniz için bir proje yöneticisi arıyorsanız bana doğrudan yazabilirsiniz. Uzaktan çalışmaya açığım. 2014'ten beri 200'den fazla kurumsal web sitesi, 10'dan fazla mobil uygulama ve 3'ten fazla pazaryeri entegrasyonu yürüttüm. En hızlı ulaşım yolu WhatsApp (+90 531 679 10 14); e-posta için yunus@webyapar.com."
+          "tr": "Yapay zekâ, web, mobil ya da bilgi güvenliği/ISO uyum projeniz için bir proje lideri arıyorsanız ya da C-level bir AI rolü için görüşmek istiyorsanız bana doğrudan yazabilirsiniz. Uzaktan çalışmaya açığım; Kanada, Dubai (BAE), Almanya ve İngiltere'deki projelerde uzaktan çalıştım. En hızlı ulaşım yolu WhatsApp (+90 531 679 10 14); e-posta için yunus@webyapar.com.",
+          "en": "If you are looking for a project lead for an AI, web, mobile or information-security/ISO compliance project — or would like to talk about a C-level AI role — write to me directly. I work remotely, and have worked on projects in Canada, Dubai (UAE), Germany and the United Kingdom. WhatsApp (+90 531 679 10 14) is the fastest way; for e-mail use yunus@webyapar.com."
         },
         "btn1Text": {
-          "tr": "WhatsApp ile yaz"
+          "tr": "WhatsApp ile yaz",
+          "en": "Message on WhatsApp"
         },
         "btn1Url": "https://wa.me/905316791014"
       },
@@ -1442,68 +1686,83 @@
         "badgebg": "var(--mx-site-primary)",
         "badgecolor": "var(--mx-site-primary-contrast)",
         "badge": {
-          "tr": "Projeler"
+          "tr": "Projeler",
+          "en": "Projects"
         },
         "title": {
-          "tr": "Hangi projelerde çalışıyorum?"
+          "tr": "Hangi projelerde çalışıyorum?",
+          "en": "Which projects do I work on?"
         },
         "description": {
-          "tr": "Proje yöneticisi olarak yürüttüğüm başlıca iş türleri."
+          "tr": "Proje lideri olarak yürüttüğüm başlıca iş türleri.",
+          "en": "The main kinds of work I run as a project lead."
         }
       },
       "data": [
         {
-          "icon": "language",
+          "icon": "psychology",
           "name": {
-            "tr": "Kurumsal web siteleri"
+            "tr": "Yapay zekâ projeleri",
+            "en": "AI projects"
           },
           "description": {
-            "tr": "Tasarımdan yayına kurumsal web siteleri ve portallar; 200'den fazla site."
+            "tr": "AI agent süreçleri, LLM RAG uygulamaları ve ince ayar çalışmaları.",
+            "en": "AI agent processes, LLM RAG applications and fine-tuning work."
+          }
+        },
+        {
+          "icon": "language",
+          "name": {
+            "tr": "Kurumsal web siteleri",
+            "en": "Corporate websites"
+          },
+          "description": {
+            "tr": "Tasarımdan yayına kurumsal web siteleri ve portallar; 200'den fazla site.",
+            "en": "Corporate websites and portals from design to launch; more than 200 sites."
           }
         },
         {
           "icon": "smartphone",
           "name": {
-            "tr": "Mobil uygulamalar"
+            "tr": "Mobil uygulamalar",
+            "en": "Mobile apps"
           },
           "description": {
-            "tr": "Android ve iOS uygulamaları; Flutter, React Native, Java ve Swift."
-          }
-        },
-        {
-          "icon": "psychology",
-          "name": {
-            "tr": "Yapay zekâ projeleri"
-          },
-          "description": {
-            "tr": "AI agent süreçleri, LLM RAG uygulamaları ve ince ayar çalışmaları."
+            "tr": "Android ve iOS uygulamaları; Flutter, React Native, Java ve Swift.",
+            "en": "Android and iOS apps; Flutter, React Native, Java and Swift."
           }
         },
         {
           "icon": "hub",
           "name": {
-            "tr": "Entegrasyonlar"
+            "tr": "Entegrasyonlar",
+            "en": "Integrations"
           },
           "description": {
-            "tr": "Pazaryeri ve sistem entegrasyonları; 3'ten fazla pazaryeri."
+            "tr": "Pazaryeri ve sistem entegrasyonları; 3'ten fazla pazaryeri.",
+            "en": "Marketplace and system integrations; more than 3 marketplaces."
           }
         },
         {
           "icon": "cloud_sync",
           "name": {
-            "tr": "Altyapı ve DevOps"
+            "tr": "Altyapı ve DevOps",
+            "en": "Infrastructure and DevOps"
           },
           "description": {
-            "tr": "Altyapı geliştirme, backend mimarisi ve yayın süreçleri."
+            "tr": "Altyapı geliştirme, backend mimarisi ve yayın süreçleri.",
+            "en": "Infrastructure development, backend architecture and release processes."
           }
         },
         {
           "icon": "verified_user",
           "name": {
-            "tr": "Bilgi güvenliği ve ISO"
+            "tr": "Bilgi güvenliği ve ISO",
+            "en": "Information security and ISO"
           },
           "description": {
-            "tr": "ISO 27001 ilkelerine uygun projeler; uyum planlaması ve risk takibi."
+            "tr": "ISO 27001 ve 42001 ilkelerine uygun projeler; uyum planlaması ve risk takibi.",
+            "en": "Projects aligned with ISO 27001 and 42001 principles; compliance planning and risk tracking."
           }
         }
       ],
@@ -1532,16 +1791,20 @@
         "btnbg": "var(--mx-site-primary)",
         "btncolor": "var(--mx-site-primary-contrast)",
         "badge": {
-          "tr": "Nasıl başlarız"
+          "tr": "Nasıl başlarız",
+          "en": "How we start"
         },
         "title": {
-          "tr": "Mesajınıza şunları yazın"
+          "tr": "Mesajınıza şunları yazın",
+          "en": "What to include in your message"
         },
         "description": {
-          "tr": "Projenin hedefi ve şu anki durumu (sıfırdan mı, devam eden bir proje mi?); tahmini takvim ve varsa bütçe çerçevesi; mevcut ekip ve kullanılan araçlar; beklediğiniz rol (tam sorumlu proje yöneticisi ya da danışmanlık). Eksik bilgi sorun değil; ön görüşmede birlikte tamamlarız. Merak ettiğiniz çalışma modeli, uzaktan çalışma ve yöntem sorularının cevapları SSS sayfasında."
+          "tr": "Projenin hedefi ve şu anki durumu (sıfırdan mı, devam eden bir proje mi?); tahmini takvim ve varsa bütçe çerçevesi; mevcut ekip ve kullanılan araçlar; beklediğiniz rol (proje lideri, ekip kaptanı, danışmanlık). Eksik bilgi sorun değil; ön görüşmede birlikte tamamlarız. Çalışma modeli, uzaktan çalışma ve yöntem soruları SSS sayfasında.",
+          "en": "The goal of the project and where it stands now (from scratch or already under way); the estimated timeline and budget frame if you have one; the current team and tools; and the role you expect (project lead, team captain, consulting). Missing information is no problem; we complete it together in the intro call. Questions about working models, remote work and method are on the FAQ page."
         },
         "btn1Text": {
-          "tr": "SSS sayfası"
+          "tr": "SSS sayfası",
+          "en": "FAQ page"
         },
         "btn1Url": "/sss/"
       },
@@ -1571,16 +1834,20 @@
         "btnbg": "var(--mx-site-primary)",
         "btncolor": "var(--mx-site-primary-contrast)",
         "badge": {
-          "tr": "Sonrası"
+          "tr": "Sonrası",
+          "en": "What happens next"
         },
         "title": {
-          "tr": "Mesajdan sonra ne olur?"
+          "tr": "Mesajdan sonra ne olur?",
+          "en": "What happens after your message?"
         },
         "description": {
-          "tr": "Mesajınızı okuyup kısa bir ön görüşme için size dönerim. Görüşmede hedefi ve kısıtları netleştirir, ardından kapsam, süre ve teslimleri yazılı bir plana bağlarım. Teklif bu plan üzerinden hazırlanır; belirsiz maddeler baştan konuşulur. Süreci ayrıntılı görmek için çalışma biçimimi okuyabilir, yöntemim için proje yönetimi sayfasına bakabilirsiniz."
+          "tr": "Mesajınızı okuyup kısa bir ön görüşme için size dönerim. Görüşmede hedefi ve kısıtları netleştirir, ardından kapsam, süre ve teslimleri yazılı bir plana bağlarım. Teklif bu plan üzerinden hazırlanır; belirsiz maddeler baştan konuşulur. Süreci ayrıntılı görmek için çalışma biçimimi okuyabilir, yöntemim için proje yönetimi sayfasına bakabilirsiniz.",
+          "en": "I read your message and get back to you for a short intro call. In the call we clarify the goal and the constraints, and I then tie scope, schedule and deliverables to a written plan. The proposal is prepared on that plan; ambiguous items are discussed up front. To see the process in detail, read how I work, or see the project management page for my method."
         },
         "btn1Text": {
-          "tr": "Çalışma biçimi"
+          "tr": "Çalışma biçimi",
+          "en": "How I work"
         },
         "btn1Url": "/calisma-bicimi/"
       },
@@ -1598,6 +1865,167 @@
       "local": "body",
       "data": [],
       "index": 26
+    },
+    {
+      "name": "Güven bandı — uzaktan deneyim",
+      "desing": {
+        "max": "960px",
+        "bgcolor": "var(--mx-site-surface-2)",
+        "color": "var(--mx-site-text)",
+        "muted": "color-mix(in srgb, var(--mx-site-text) 78%, var(--mx-site-bg))",
+        "accent": "var(--mx-site-accent)",
+        "btnbg": "var(--mx-site-primary)",
+        "btncolor": "var(--mx-site-primary-contrast)",
+        "badge": {
+          "tr": "Uzaktan çalışma deneyimi",
+          "en": "Remote work experience"
+        },
+        "title": {
+          "tr": "Kanada · Dubai (BAE) · Almanya · İngiltere",
+          "en": "Canada · Dubai (UAE) · Germany · United Kingdom"
+        },
+        "description": {
+          "tr": "Bu ülkelerdeki projelerde uzaktan çalıştım; farklı saat dilimlerinde çalışmaya alışkınım. Açık olduğum roller: Head of AI, AI Program Director ve CTO düzeyinde uzaktan pozisyonlar.",
+          "en": "I have worked remotely on projects in these countries and am used to working across time zones. Roles I am open to: Head of AI, AI Program Director and CTO-level remote positions."
+        },
+        "btn1Text": {
+          "tr": "Uzaktan çalışma hakkında",
+          "en": "About remote work"
+        },
+        "btn1Url": "/sss/"
+      },
+      "category": "module",
+      "description": "Kısa tanıtım şeridi (açık krem zemin): rozet, başlık, kısa metin ve «Devamı» düğmesi; görsel gerektirmez, tüm renkler desing token'ı. module-tanitim-2'nin görselli iki kolon düzenine hafif alternatif (ana sayfa Hakkımızda özeti).",
+      "version": "1.0.0",
+      "icon": "info",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "hvr6i7",
+      "path": "tanitim-ozet",
+      "local": "body",
+      "data": [],
+      "index": 27
+    },
+    {
+      "name": {
+        "tr": "Çerez Bandı — Alt Şerit",
+        "en": "Cookie Banner — Bottom Bar",
+        "ar": "شريط ملفات الارتباط — شريط سفلي"
+      },
+      "description": "Ekranın altına yaslı tam genişlik tek satır çerez şeridi: solda başlık + metin + politika bağlantısı, sağda eşit ağırlıkta Reddet / Tercihler / Tümünü kabul et. Tercihler şeridin üstünde anahtar (switch) satırı olarak açılır. Rıza sözleşmesi cerez-banner ile birebir aynı: localStorage mxCerezRizaV1 + mxCookieV1, window «mx:cerez-riza» olayı, [data-mx-cerez-tercih] / window.mxCerezTercihAc ile yeniden açma; rizaSurumu değişince ya da 12 ay sonra yeniden sorar.",
+      "path": "cerez-banner-2",
+      "local": "footer",
+      "category": "e-commerce",
+      "subCategory": "alt-serit",
+      "version": "1.0.0",
+      "update": "2026-11-01",
+      "icon": "cookie",
+      "tags": [
+        "çerez",
+        "cookie",
+        "kvkk",
+        "rıza",
+        "consent",
+        "ar"
+      ],
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing; rıza: localStorage mxCerezRizaV1 + «mx:cerez-riza» olayı (cerez-banner ile aynı)"
+      },
+      "desing": {
+        "max": "1200px",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "textcolor": "var(--mx-site-text, #1b1b1b)",
+        "mutedcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #ffffff))",
+        "surface": "var(--mx-site-surface, #f6f6f4)",
+        "surface2": "var(--mx-site-surface-2, #ececea)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 16%, transparent)",
+        "radius": "16px",
+        "privacyUrl": "cerez-politikasi",
+        "rizaSurumu": "1",
+        "title": {
+          "tr": "Çerez tercihleri",
+          "en": "Cookie preferences"
+        },
+        "text": {
+          "tr": "Bu sitede deneyimi iyileştirmek için çerez kullanıyorum; KVKK kapsamındaki ayrıntılar Çerez Politikası'nda.",
+          "en": "I use cookies on this site to improve your experience; details under KVKK and GDPR are in the Cookie Policy."
+        },
+        "acceptText": {
+          "tr": "Tümünü kabul et",
+          "en": "Accept all",
+          "ar": "قبول الكل"
+        },
+        "rejectText": {
+          "tr": "Reddet",
+          "en": "Reject",
+          "ar": "رفض"
+        },
+        "prefsText": {
+          "tr": "Tercihler",
+          "en": "Preferences",
+          "ar": "التفضيلات"
+        },
+        "saveText": {
+          "tr": "Seçimleri kaydet",
+          "en": "Save choices",
+          "ar": "حفظ الاختيارات"
+        },
+        "moreText": {
+          "tr": "Çerez politikası",
+          "en": "Cookie policy",
+          "ar": "سياسة ملفات الارتباط"
+        },
+        "zorunluText": {
+          "tr": "Zorunlu",
+          "en": "Strictly necessary",
+          "ar": "ضرورية"
+        },
+        "zorunluDesc": {
+          "tr": "Oturum ve güvenlik için gerekir; kapatılamaz.",
+          "en": "Needed for session and security; cannot be turned off.",
+          "ar": "مطلوبة للجلسة والأمان؛ لا يمكن إيقافها."
+        },
+        "islevselText": {
+          "tr": "İşlevsel",
+          "en": "Functional",
+          "ar": "وظيفية"
+        },
+        "islevselDesc": {
+          "tr": "Dil ve görünüm gibi tercihlerinizi hatırlar.",
+          "en": "Remembers preferences such as language and display.",
+          "ar": "تتذكر تفضيلاتك مثل اللغة والعرض."
+        },
+        "analitikText": {
+          "tr": "Analitik",
+          "en": "Analytics",
+          "ar": "تحليلية"
+        },
+        "analitikDesc": {
+          "tr": "Sitenin nasıl kullanıldığını ölçer.",
+          "en": "Measures how the site is used.",
+          "ar": "تقيس كيفية استخدام الموقع."
+        },
+        "pazarlamaText": {
+          "tr": "Pazarlama",
+          "en": "Marketing",
+          "ar": "تسويقية"
+        },
+        "pazarlamaDesc": {
+          "tr": "İlgi alanınıza göre içerik ve reklam gösterir.",
+          "en": "Shows content and ads based on your interests.",
+          "ar": "تعرض محتوى وإعلانات وفق اهتماماتك."
+        }
+      },
+      "data": [],
+      "id": "l182h1",
+      "index": 28
     }
   ]
 }
