@@ -2,7 +2,7 @@
 
 > Yapay zekâ projelerinde proje lideri / ekip kaptanı; Head of AI ve AI Program Director gibi uzaktan C-level rollere açığım. AI agent, LLM RAG, ISO 42001.
 
-Web: https://sevgane.com/tr/ · Telefon: +90 531 679 10 14 · E-posta: yunus@webyapar.com · Diller: tr, en (varsayilan: tr)
+Web: https://sevgane.com/tr/ · Telefon: +90 531 679 10 14 · E-posta: yunus@sevgane.com · Diller: tr, en (varsayilan: tr)
 
 ## Sayfalar
 - [Yunus Sevğane — AI Proje Lideri ve Ekip Kaptanı](https://sevgane.com/tr/): Yapay zekâ projelerinde proje lideri / ekip kaptanı; Head of AI ve AI Program Director gibi uzaktan C-level rollere açığım.
