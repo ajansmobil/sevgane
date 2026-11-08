@@ -252,27 +252,11 @@ Bu eğitimleri proje yönetimi sürecime nasıl yansıttığımı Proje Yönetim
 ---
 
 ## Kurumsal
-https://sevgane.com/tr/hakkimizda/
+https://sevgane.com/tr/kurumsal/
 
 Kurumsal bilgiler: hakkımda, misyon, vizyon, kalite politikası, gizlilik, kişisel veriler, kullanıcı hakları, yasal uyarı ve çerez politikası.
 
-Hakkımızda
-Yunus Sevğane
-Gaziantep merkezli bir proje yöneticisiyim. Web, mobil, yapay zekâ ve bilgi güvenliği/ISO uyum projelerini keşiften bakıma kadar yönetiyorum. Yazılım geliştirici geçmişim sayesinde teknik ekiple aynı dili konuşur, kapsam, bütçe ve riski teknik gerçeklikle birlikte ele alırım. Bu yaklaşımın ayrıntısı Proje Yönetimi ve Çalışma Biçimi sayfalarında.
-Frontend, backend, DevOps ve yapay zekâ geliştirme süreçlerinde sağlam yazılım geliştirme ilkelerini uygularım. 2025 itibarıyla siber güvenlik, etik hacker, adli bilişim ve ISO yönetim sistemleri denetçiliği alanlarında aldığım eğitimlerle bu bakışı bilgi güvenliği tarafına da taşıdım.
-Çalışma hayatım
-2014 – günümüz: Webyapar Yazılım ve Danışmanlık (kendi şirketim) — Senior Engineering Manager
-2012 – 2014: Mor Medya — Senior Developer
-2010 – 2012: Cemre Teknoloji — Software Developer
-2006 – 2007: Emre Carpet Design — Grafik tasarımcı
-Webyapar Yazılım ve Danışmanlık çatısı altında 200'den fazla kurumsal web sitesi, 3'ten fazla pazaryeri entegrasyonu ve 10'dan fazla mobil uygulama geliştirdim. Birçok özel projede altyapı geliştirme ve ekip kurma sorumluluğu aldım.
-Uzmanlık alanlarım
-Proje yönetimi (kapsam, bütçe, risk, ekip) ve full stack DevOps
-Penetrasyon testi, siber güvenlik ve adli bilişim
-ISO yönetim sistemleri (27001, 42001, 9001, 20000-1)
-AI agent süreçleri, LLM RAG ve LLM ince ayarı
-Eğitim ve sertifika ayrıntıları için Sertifikalar , çalışma geçmişi için Özgeçmiş sayfasına bakabilirsiniz. Projeniz için WhatsApp (+90 531 679 10 14) üzerinden yazabilirsiniz.
-Teklif için İletişim ve Teklif İste , yöntem için Proje Yönetimi , iş türleri için Projeler sayfalarına bakabilirsiniz.
+Kurumsal Bilgiler — Yunus Sevğane
 
 ---
 
