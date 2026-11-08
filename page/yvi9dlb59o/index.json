@@ -10,7 +10,9 @@
   "index": 5,
   "desing": {
     "header": [],
-    "body": [],
+    "body": [
+      "wis0b2"
+    ],
     "footer": []
   },
   "pathnext": "",
@@ -24,7 +26,7 @@
   "text": {
     "tr": "<section><h2>Kurumsal Bilgiler</h2><p>Bu bölümde beni, çalışma ilkelerimi ve siteye ilişkin yasal bilgilendirmeleri bulabilirsiniz. Yunus Sevğane, Webyapar Yazılım ve Danışmanlık adıyla 2014'ten beri faaliyet göstermektedir. Burada anlatılanlar, belgelerime ve çalışma geçmişime dayanır; doğrulanamayan hiçbir bilgi yer almaz.</p><h3>Tanıtım</h3><ul><li><a href=\"/tr/hakkimizda/\">Hakkımızda</a></li><li><a href=\"/tr/misyon/\">Misyon</a></li><li><a href=\"/tr/vizyon/\">Vizyon</a></li><li><a href=\"/tr/kalite-politikamiz/\">Kalite Politikamız</a></li></ul><h3>Gizlilik ve yasal bilgilendirmeler</h3><ul><li><a href=\"/tr/gizlilik-politikasi/\">Gizlilik Politikası</a></li><li><a href=\"/tr/kisisel-veriler/\">Kişisel Veriler</a></li><li><a href=\"/tr/kullanici-haklari/\">Kullanıcı Hakları</a></li><li><a href=\"/tr/yasal-uyari/\">Yasal Uyarı</a></li><li><a href=\"/tr/cerez-politikasi/\">Çerez Politikası</a></li></ul><p>Siteye ilişkin yasal metinler, kişisel verilerinizin hangi kapsamda işlendiğini ve haklarınızı açıklar; bu metinlerin tamamına yukarıdaki bağlantılardan ulaşabilirsiniz.</p><p>Eğitim ve sertifikalarım için <a href=\"/tr/sertifikalar/\">Sertifikalar</a>, çalışma geçmişim için <a href=\"/tr/ozgecmis/\">Özgeçmiş</a> sayfasına bakabilirsiniz. Her konuda <a href=\"https://wa.me/905316791014\">WhatsApp (+90 531 679 10 14)</a> üzerinden bana yazabilirsiniz.</p></section>"
   },
-  "update": "2026-11-08T03:36:14.377Z",
+  "update": "2026-11-08T03:37:49.425Z",
   "date": "2025-12-13T03:26:52.462Z",
   "title": {
     "tr": "Kurumsal Bilgiler — Yunus Sevğane"
