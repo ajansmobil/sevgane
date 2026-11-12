@@ -1,35 +1,35 @@
 <section class="sv-ct modulex-ct">
-  <h1 class="sv-ct-h1">{{h1}}</h1>
-  <p class="sv-ct-lead">{{lead}}</p>
+  <h1 class="sv-ct-h1">İletişim</h1>
+  <p class="sv-ct-lead">Projenizi ya da rol beklentinizi birkaç cümleyle yazın; genellikle 24 saat içinde dönerim.</p>
   <div class="sv-ct-grid">
-    <form class="sv-ct-form" novalidate data-sv-ct="{{data}}">
-      <h2>{{formtitle}}</h2>
+    <form class="sv-ct-form" novalidate data-sv-ct="{&quot;to&quot;:&quot;yunus@sevgane.com&quot;,&quot;subj&quot;:&quot;Web sitesinden mesaj&quot;,&quot;topicLabel&quot;:&quot;Konu&quot;,&quot;nameLabel&quot;:&quot;Ad Soyad&quot;,&quot;emailLabel&quot;:&quot;E-posta&quot;,&quot;orgLabel&quot;:&quot;Kurum&quot;,&quot;msgLabel&quot;:&quot;Mesajınız&quot;,&quot;ok&quot;:&quot;Mesajınız gönderildi, teşekkürler. Genellikle 24 saat içinde dönerim.&quot;,&quot;err&quot;:&quot;Mesaj gönderilemedi. Lütfen doğrudan yazın:&quot;,&quot;errfield&quot;:&quot;Lütfen bu alanı doldurun.&quot;,&quot;erremail&quot;:&quot;Geçerli bir e-posta adresi yazın.&quot;,&quot;errkvkk&quot;:&quot;Devam etmek için onay gerekir.&quot;,&quot;sending&quot;:&quot;Gönderiliyor…&quot;,&quot;rate&quot;:&quot;Çok sık denediniz; biraz sonra yeniden deneyin ya da doğrudan yazın:&quot;,&quot;lang&quot;:&quot;tr&quot;}">
+      <h2>Mesaj gönderin</h2>
       <div class="sv-ct-row">
-        <label class="sv-ct-f"><span>{{lname}}</span><input type="text" name="name" autocomplete="name" required /><em class="sv-ct-err" role="alert"></em></label>
-        <label class="sv-ct-f"><span>{{lemail}}</span><input type="email" name="email" autocomplete="email" required dir="ltr" /><em class="sv-ct-err" role="alert"></em></label>
+        <label class="sv-ct-f"><span>Ad Soyad</span><input type="text" name="name" autocomplete="name" required /><em class="sv-ct-err" role="alert"></em></label>
+        <label class="sv-ct-f"><span>E-posta</span><input type="email" name="email" autocomplete="email" required dir="ltr" /><em class="sv-ct-err" role="alert"></em></label>
       </div>
       <div class="sv-ct-row">
-        <label class="sv-ct-f"><span>{{lorg}} <small>({{lopt}})</small></span><input type="text" name="org" autocomplete="organization" /></label>
-        <label class="sv-ct-f"><span>{{ltopic}}</span><select name="topic">{{options}}</select></label>
+        <label class="sv-ct-f"><span>Kurum <small>(isteğe bağlı)</small></span><input type="text" name="org" autocomplete="organization" /></label>
+        <label class="sv-ct-f"><span>Konu</span><select name="topic"><option value="AI proje liderliği">AI proje liderliği</option><option value="C-level / Head of AI rolü">C-level / Head of AI rolü</option><option value="Danışmanlık">Danışmanlık</option><option value="Diğer">Diğer</option></select></label>
       </div>
-      <label class="sv-ct-f"><span>{{lmsg}}</span><textarea name="message" rows="5" required></textarea><em class="sv-ct-err" role="alert"></em></label>
-      <label class="sv-ct-k"><input type="checkbox" name="kvkk" required /><span>{{kvkk}} <a href="{{kvkkhref}}">{{kvkkl}}</a></span></label><em class="sv-ct-err sv-ct-err-k" role="alert"></em>
+      <label class="sv-ct-f"><span>Mesajınız</span><textarea name="message" rows="5" required></textarea><em class="sv-ct-err" role="alert"></em></label>
+      <label class="sv-ct-k"><input type="checkbox" name="kvkk" required /><span>Kişisel verilerimin yalnızca bu mesajı yanıtlamak için işlenmesini kabul ediyorum. <a href="/tr/kisisel-veriler/">Aydınlatma metni</a></span></label><em class="sv-ct-err sv-ct-err-k" role="alert"></em>
       <div class="sv-ct-hp" aria-hidden="true"><label>Website <input type="text" name="website" tabindex="-1" autocomplete="off" /></label></div>
       <div class="sv-ct-actions">
-        <button type="submit" class="sv-ct-btn">{{send}}</button>
-        <a class="sv-ct-btn sv-ct-btn-ghost" href="{{wahref}}" target="_blank" rel="noopener noreferrer">{{wa}}</a>
+        <button type="submit" class="sv-ct-btn">Gönder</button>
+        <a class="sv-ct-btn sv-ct-btn-ghost" href="https://wa.me/905316791014" target="_blank" rel="noopener noreferrer">WhatsApp ile yaz</a>
       </div>
-      <p class="sv-ct-hint">{{hint}}</p>
+      <p class="sv-ct-hint">Mesajınız doğrudan bana ulaşır; genellikle 24 saat içinde dönerim. E-posta adresiniz yalnızca yanıt için kullanılır.</p>
       <p class="sv-ct-status" role="status" aria-live="polite" hidden></p>
     </form>
-    <aside class="sv-ct-card" aria-label="{{cardtitle}}">
-      <h2>{{cardtitle}}</h2>
-      {{card}}
+    <aside class="sv-ct-card" aria-label="İletişim bilgileri">
+      <h2>İletişim bilgileri</h2>
+      <ul><li><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg><span><a href="mailto:yunus@sevgane.com" dir="ltr">yunus@sevgane.com</a></span></li><li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 11.5a8 8 0 0 1-11.9 7L4 20l1.5-4A8 8 0 1 1 20 11.5z"/><path d="M9 8.5c0 3 2.5 5.5 5.5 5.5l1-1.5-2-1-.8.7a3.5 3.5 0 0 1-1.6-1.6l.7-.8-1-2z"/></svg><span><a href="https://wa.me/905316791014" target="_blank" rel="noopener noreferrer">WhatsApp <bdi dir="ltr">+90 531 679 10 14</bdi></a></span></li><li><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M8 10v7M8 7v.01M12 17v-4a2 2 0 0 1 4 0v4M12 10v7"/></svg><span><a href="https://linkedin.com/in/yunusevgane" target="_blank" rel="noopener noreferrer">LinkedIn</a></span></li><li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 19c-4 1.2-4-2-6-2.5M15 21v-3.2a2.8 2.8 0 0 0-.8-2.2c2.7-.3 5.5-1.3 5.5-6a4.6 4.6 0 0 0-1.3-3.2 4.3 4.3 0 0 0-.1-3.2s-1-.3-3.4 1.3a11.600 11.600 0 0 0-6 0C6.500 2.900 5.500 3.200 5.500 3.200a4.300 4.300 0 0 0-.1 3.200A4.600 4.600 0 0 0 4 9.600c0 4.600 2.800 5.700 5.500 6A2.800 2.800 0 0 0 8.700 17.800V21"/></svg><span><a href="https://github.com/yunusevgane" target="_blank" rel="noopener noreferrer">GitHub</a></span></li><li><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"/></svg><span>Uzaktan · Avrupa, Kuzey Amerika ve Körfez saat dilimleri</span></li><li><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg><span>Genellikle 24 saat içinde dönerim</span></li></ul>
     </aside>
   </div>
   <div class="sv-ct-after">
-    <h2>{{aftertitle}}</h2>
-    <ol>{{steps}}</ol>
+    <h2>Mesajdan sonra ne olur</h2>
+    <ol><li><strong>Mesajınızı okurum</strong><span>Genellikle 24 saat içinde size dönerim.</span></li><li><strong>Kısa bir ön görüşme</strong><span>Hedefi, kapsamı ve ekibi birlikte netleştiririz.</span></li><li><strong>Çalışma biçimi</strong><span>Uygunsa proje bazlı ya da uzun vadeli rolün kapsamını yazılı olarak netleştiririz.</span></li></ol>
   </div>
 </section>
 <style>

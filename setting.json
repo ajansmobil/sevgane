@@ -4,9 +4,9 @@
   "description": {
     "tr": "Yapay zekâ projelerinde proje lideri / ekip kaptanı; Head of AI ve AI Program Director gibi uzaktan C-level rollere açığım. AI agent, LLM RAG, ISO 42001.",
     "en": "AI project manager and team lead open to remote C-level roles (Head of AI, AI Program Director). Agents, RAG, ISO/IEC 42001. Remote: Canada, UAE, Germany.",
-    "ar": "مدير مشاريع ذكاء اصطناعي وقائد فريق منفتح على أدوار C-level عن بُعد (Head of AI, AI Program Director). وكلاء، RAG، ISO/IEC 42001. عن بُعد: كندا، الإمارات، ألمانيا.",
-    "de": "KI-Projektmanager und Teamleiter, offen für Remote-C-Level-Rollen (Head of AI, AI Program Director). Agents, RAG, ISO/IEC 42001. Remote: Kanada, VAE, Deutschland.",
-    "es": "Director de proyectos de IA y líder de equipo, abierto a puestos C-level remotos (Head of AI, AI Program Director). Agentes, RAG, ISO/IEC 42001. Remoto: Canadá, EAU, Alemania."
+    "ar": "مدير مشاريع ذكاء اصطناعي وقائد فريق منفتح على أدوار C-level عن بُعد (Head of AI, AI Program Director). وكلاء، RAG، ISO 42001. كندا وألمانيا والإمارات.",
+    "de": "KI-Projektmanager und Teamleiter, offen für Remote-C-Level-Rollen (Head of AI, AI Program Director). Agents, RAG, ISO 42001. Remote: Kanada, VAE, Deutschland.",
+    "es": "Director de proyectos y líder de IA, abierto a puestos C-level remotos (Head of AI, AI Program Director). Agentes, RAG, ISO 42001. Remoto: Canadá, EAU, Alemania"
   },
   "keyword": {
     "tr": "yapay zekâ proje yöneticisi, AI proje lideri, Head of AI, AI Program Director, uzaktan çalışma, takım kaptanı, LLM RAG, AI agent, ISO 42001, yapay zekâ yönetişimi, Yunus Sevğane",
@@ -19,9 +19,9 @@
   "name": {
     "tr": "Yunus Sevğane — AI Proje Lideri ve Ekip Kaptanı",
     "en": "Yunus Sevğane — AI Project Manager & Remote AI Team Lead",
-    "ar": "Yunus Sevğane — مدير مشروع ذكاء اصطناعي وقائد فريق ذكاء اصطناعي عن بُعد",
+    "ar": "Yunus Sevğane — مدير مشاريع ذكاء اصطناعي عن بُعد",
     "de": "Yunus Sevğane — KI-Projektmanager & Remote-KI-Teamleiter",
-    "es": "Yunus Sevğane — Director de proyectos de IA y líder remoto de equipos de IA"
+    "es": "Yunus Sevğane — Director de proyectos de IA remoto"
   },
   "domain": "sevgane.com",
   "langs": {

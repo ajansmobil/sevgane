@@ -29,7 +29,7 @@
     "en": "Your rights under Article 11 of the KVKK (information, correction, deletion, objection) and how to apply to Yunus Sevğane: WhatsApp and the contact form.",
     "ar": "حقوقك بموجب المادة 11 من KVKK (الاطلاع والتصحيح والحذف والاعتراض) وكيفية التقدم بطلب إلى Yunus Sevğane: عبر WhatsApp ونموذج التواصل.",
     "de": "Ihre Rechte nach Artikel 11 des KVKK (Auskunft, Berichtigung, Löschung, Widerspruch) und wie Sie sich an Yunus Sevğane wenden: WhatsApp und Kontaktformular.",
-    "es": "Sus derechos conforme al artículo 11 de la KVKK (información, rectificación, supresión, oposición) y cómo dirigirse a Yunus Sevğane: WhatsApp y formulario de contacto."
+    "es": "Sus derechos según el artículo 11 de la KVKK (información, rectificación, supresión, oposición) y cómo dirigirse a Yunus Sevğane: WhatsApp y formulario."
   },
   "keyword": {
     "tr": "kullanıcı hakları, KVKK madde 11, veri sahibi hakları, başvuru",
@@ -38,13 +38,13 @@
     "de": "Nutzerrechte, KVKK Artikel 11, Rechte betroffener Personen, Antrag",
     "es": "derechos del usuario, artículo 11 de la KVKK, derechos del interesado, solicitud"
   },
-  "update": "2026-11-08T05:20:16.434Z",
+  "update": "2026-11-12T07:16:31.561Z",
   "date": "2025-12-13T03:26:52.549Z",
   "title": {
     "tr": "Kullanıcı Hakları (KVKK 11) — Yunus Sevğane",
     "en": "User Rights (KVKK Article 11) — Yunus Sevğane",
     "ar": "حقوق المستخدم (المادة 11 من KVKK) — Yunus Sevğane",
     "de": "Nutzerrechte (KVKK Artikel 11) — Yunus Sevğane",
-    "es": "Derechos del usuario (artículo 11 de la KVKK) — Yunus Sevğane"
+    "es": "Derechos del usuario (art. 11 KVKK) — Yunus Sevğane"
   }
 }

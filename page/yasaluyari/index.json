@@ -26,8 +26,8 @@
   "icon": "home",
   "description": {
     "tr": "sevgane.com yasal uyarı: kullanım koşulları, fikri mülkiyet hakları, üçüncü taraf bağlantılar ve sorumluluk sınırları hakkında bilgilendirme.",
-    "en": "sevgane.com legal notice: terms of use, intellectual property rights, third-party links and limits of liability.",
-    "ar": "الإشعار القانوني لموقع sevgane.com: شروط الاستخدام وحقوق الملكية الفكرية وروابط الأطراف الثالثة وحدود المسؤولية.",
+    "en": "sevgane.com legal notice: terms of use, intellectual property rights, third-party links, limits of liability and how to contact Yunus Sevğane.",
+    "ar": "الإشعار القانوني لموقع sevgane.com: شروط الاستخدام وحقوق الملكية الفكرية وروابط الأطراف الثالثة وحدود المسؤولية وكيفية التواصل معنا.",
     "de": "Rechtliche Hinweise von sevgane.com: Nutzungsbedingungen, geistige Eigentumsrechte, Links zu Dritten und Haftungsbeschränkungen.",
     "es": "Aviso legal de sevgane.com: condiciones de uso, derechos de propiedad intelectual, enlaces de terceros y límites de responsabilidad."
   },
@@ -38,7 +38,7 @@
     "de": "rechtliche Hinweise, Urheberrecht, Nutzungsbedingungen, Haftungsausschluss",
     "es": "aviso legal, derechos de autor, condiciones de uso, exención de responsabilidad"
   },
-  "update": "2026-11-08T05:20:16.441Z",
+  "update": "2026-11-12T07:16:31.527Z",
   "date": "2025-12-13T03:26:52.558Z",
   "title": {
     "tr": "Yasal Uyarı — Yunus Sevğane (sevgane.com)",

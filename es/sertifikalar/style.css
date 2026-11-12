@@ -346,6 +346,18 @@
     }
   }
 
+  
+  @media (max-width: 768px) {
+    .whatsapp {
+      min-height: 48px;
+      bottom: calc(30px + var(--mx-altbar-h, 0px) + env(safe-area-inset-bottom, 0px));
+    }
+
+    .whatsapp-cerezkacin {
+      bottom: max(calc(30px + var(--mx-altbar-h, 0px)), calc(var(--mx-cookie-pad, 0px) + 8px));
+    }
+  }
+
 
   
   .f0002-cb2 {

@@ -28,8 +28,8 @@
     "tr": "6698 sayılı KVKK kapsamında aydınlatma metni: veri sorumlusu Yunus Sevğane, işlenen kişisel veriler, amaçlar, hukuki sebepler ve veri aktarımı.",
     "en": "Privacy notice under Law No. 6698 (KVKK): data controller Yunus Sevğane, the personal data processed, purposes, legal bases and data transfers.",
     "ar": "إشعار الخصوصية بموجب القانون رقم 6698 (KVKK): المسؤول عن البيانات Yunus Sevğane، والبيانات الشخصية المعالَجة، والأغراض، والأسس القانونية، ونقل البيانات.",
-    "de": "Datenschutzhinweis nach dem Gesetz Nr. 6698 (KVKK): Verantwortlicher Yunus Sevğane, verarbeitete personenbezogene Daten, Zwecke, Rechtsgrundlagen und Datenübermittlungen.",
-    "es": "Aviso de privacidad conforme a la Ley n.º 6698 (KVKK): responsable del tratamiento Yunus Sevğane, datos personales tratados, finalidades, bases jurídicas y transferencias de datos."
+    "de": "Datenschutzhinweis nach Gesetz Nr. 6698 (KVKK): Verantwortlicher Yunus Sevğane, verarbeitete Daten, Zwecke, Rechtsgrundlagen und Datenübermittlung.",
+    "es": "Aviso de privacidad según la Ley n.º 6698 (KVKK): responsable Yunus Sevğane, datos personales tratados, finalidades, bases jurídicas y transferencias."
   },
   "keyword": {
     "tr": "kişisel veriler, KVKK aydınlatma metni, veri sorumlusu, 6698",
@@ -38,13 +38,13 @@
     "de": "personenbezogene Daten, KVKK-Datenschutzhinweis, Verantwortlicher, Gesetz 6698",
     "es": "datos personales, aviso de privacidad KVKK, responsable del tratamiento, Ley 6698"
   },
-  "update": "2026-11-08T05:20:16.427Z",
+  "update": "2026-11-12T07:16:31.550Z",
   "date": "2025-12-13T03:26:52.541Z",
   "title": {
     "tr": "Kişisel Veriler ve KVKK Aydınlatma — Yunus Sevğane",
     "en": "Personal Data and KVKK Privacy Notice — Yunus Sevğane",
     "ar": "إشعار الخصوصية بشأن البيانات الشخصية وKVKK — Yunus Sevğane",
-    "de": "Personenbezogene Daten und KVKK-Datenschutzhinweis — Yunus Sevğane",
+    "de": "Personenbezogene Daten und KVKK-Hinweis — Yunus Sevğane",
     "es": "Datos personales y aviso de privacidad KVKK — Yunus Sevğane"
   }
 }

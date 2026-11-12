@@ -521,6 +521,8 @@
 
   .b0000-pd5-cta-wa {
     background: #fff;
+    
+    background: light-dark(#fff, var(--mx-site-surface, #fff));
     color: var(--mx-site-text);
     border: 1px solid rgba(30, 48, 70, 0.12);
   }
@@ -549,6 +551,7 @@
     gap: 10px;
     padding: 12px 14px;
     background: #fff;
+    background: light-dark(#fff, var(--mx-site-surface, #fff)); 
     border: 1px solid rgba(30, 48, 70, 0.08);
     border-radius: 8px;
     text-decoration: none;
@@ -1332,6 +1335,18 @@
     [class*="f0001"] {
       animation: none !important;
       transition: none !important;
+    }
+  }
+
+  
+  @media (max-width: 768px) {
+    .whatsapp {
+      min-height: 48px;
+      bottom: calc(30px + var(--mx-altbar-h, 0px) + env(safe-area-inset-bottom, 0px));
+    }
+
+    .whatsapp-cerezkacin {
+      bottom: max(calc(30px + var(--mx-altbar-h, 0px)), calc(var(--mx-cookie-pad, 0px) + 8px));
     }
   }
 

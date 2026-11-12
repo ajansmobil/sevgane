@@ -1,6 +1,93 @@
 {
   "data": [
     {
+      "id": "iw4fianwe9",
+      "name": {
+        "tr": "Uzaktan AI Projeleri: Kanada, Almanya, Dubai",
+        "en": "Remote AI Projects: Canada, Germany, Dubai",
+        "ar": "مشاريع ذكاء اصطناعي عن بُعد: كندا وألمانيا ودبي",
+        "de": "Remote-KI-Projekte: Kanada, Deutschland, Dubai",
+        "es": "Proyectos de IA remotos: Canadá, Alemania, Dubái"
+      },
+      "description": {
+        "tr": "Kanada (görüntü işleme), Almanya (kargo ve depo yapay zekâsı) ve Dubai'de (AI destekli topraksız tarım) son beş yılda uzaktan çalıştığım projeler.",
+        "en": "Remote AI projects of the last five years: Canada (image processing), Germany (cargo and warehouse AI), Dubai (AI-assisted soilless farming).",
+        "ar": "مشاريع عن بُعد خلال خمس سنوات: كندا (معالجة الصور) وألمانيا (ذكاء اصطناعي للشحن والمستودعات) ودبي (زراعة بلا تربة بدعم الذكاء الاصطناعي).",
+        "de": "Remote-KI-Projekte der letzten fünf Jahre: Kanada (Bildverarbeitung), Deutschland (KI für Fracht und Lager), Dubai (erdloser Anbau mit KI).",
+        "es": "Proyectos de IA remotos de cinco años: Canadá (procesamiento de imágenes), Alemania (IA para carga y almacén) y Dubái (cultivo sin suelo con IA)."
+      },
+      "path": "uzaktan-ai-projeleri",
+      "icon": "public",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "wis0b2"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "id": "b1q7s1m6fi",
+      "name": {
+        "tr": "ISO/IEC 42001 Yapay Zekâ Yönetişimi",
+        "en": "ISO/IEC 42001 AI Governance",
+        "ar": "حوكمة الذكاء الاصطناعي ISO/IEC 42001",
+        "de": "KI-Governance nach ISO/IEC 42001",
+        "es": "Gobernanza de la IA con ISO/IEC 42001"
+      },
+      "description": {
+        "tr": "ISO/IEC 42001 yapay zekâ yönetim sistemi nedir, proje liderliğinde nasıl uygulanır? Baş denetçi eğitimi (2025), ne yapıp ne yapmadığım ve SSS.",
+        "en": "What is the ISO/IEC 42001 AI management system and how is it applied in project leadership? Lead auditor training (2025), what I do and do not do, and FAQ.",
+        "ar": "ما نظام إدارة الذكاء الاصطناعي ISO/IEC 42001 وكيف يُطبَّق في قيادة المشاريع؟ تدريب كبير المدققين (2025)، ما أفعله وما لا أفعله، وأسئلة شائعة.",
+        "de": "Was ist das KI-Managementsystem ISO/IEC 42001 und wie wird es in der Projektleitung angewendet? Lead-Auditor-Schulung (2025), was ich tue und nicht tue, FAQ.",
+        "es": "¿Qué es el sistema de gestión de IA ISO/IEC 42001 y cómo se aplica en la dirección de proyectos? Formación de auditor jefe (2025), qué hago y qué no, y FAQ."
+      },
+      "path": "iso-42001-yapay-zeka-yonetisimi",
+      "icon": "verified_user",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "wis0b2"
+        ],
+        "footer": []
+      },
+      "index": 1
+    },
+    {
+      "id": "7aa158p9wu",
+      "name": {
+        "tr": "Uzaktan Head of AI ve AI Program Director",
+        "en": "Remote Head of AI and AI Program Director",
+        "ar": "رئيس الذكاء الاصطناعي ومدير برامج الذكاء الاصطناعي عن بُعد",
+        "de": "Head of AI und AI Program Director (remote)",
+        "es": "Head of AI y director de programas de IA (remoto)"
+      },
+      "description": {
+        "tr": "Yunus Sevğane, yapay zekâ projelerinde proje lideri olarak uzaktan Head of AI ve AI Program Director rollerine açık. Rolün tanımı, ilk 90 gün planı ve SSS.",
+        "en": "Yunus Sevğane is a project lead open to remote Head of AI and AI Program Director roles. What the roles mean, a first-90-days plan, working remotely and FAQ.",
+        "ar": "Yunus Sevğane قائد مشاريع ذكاء اصطناعي منفتح على أدوار Head of AI وAI Program Director عن بُعد. تعريف الدور وخطة أول 90 يومًا وأسئلة شائعة.",
+        "de": "Yunus Sevğane, Projektleiter für KI-Projekte, ist offen für Remote-Rollen als Head of AI und AI Program Director. Rollenbild, 90-Tage-Plan, Remote-Arbeit, FAQ.",
+        "es": "Yunus Sevğane, líder de proyectos de IA, está abierto a puestos remotos de Head of AI y director de programas de IA. Rol, plan de 90 días, trabajo remoto y FAQ."
+      },
+      "path": "head-of-ai-remote",
+      "icon": "workspace_premium",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "wis0b2"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
       "id": "cjkjno5l57",
       "name": {
         "tr": "Proje Yönetimi",
@@ -13,8 +100,8 @@
         "tr": "Yapay zekâ projelerinde proje lideri / ekip kaptanı: keşiften bakıma yöntem, kapsam-bütçe-risk kontrolü, ISO 42001. Uzaktan C-level rollere açığım.",
         "en": "AI project manager and team lead: discovery-to-maintenance method, scope-budget-risk control, ISO 42001 governance. Open to remote C-level roles.",
         "ar": "مدير مشروع ذكاء اصطناعي وقائد فريق: منهجية من الاستكشاف إلى الصيانة، وتحكم في النطاق والميزانية والمخاطر، وحوكمة ISO 42001. منفتح على أدوار C-level عن بُعد.",
-        "de": "KI-Projektmanager und Teamleiter: Methode von der Analyse bis zur Wartung, Kontrolle von Umfang, Budget und Risiko, ISO-42001-Governance. Offen für Remote-C-Level-Rollen.",
-        "es": "Director de proyectos y líder de equipo de IA: método del descubrimiento al mantenimiento, control de alcance, presupuesto y riesgo, gobernanza ISO 42001. Abierto a puestos remotos C-level."
+        "de": "KI-Projektmanager und Teamleiter: Methode von der Analyse bis zur Wartung, Kontrolle von Umfang, Budget und Risiko, ISO-42001-Governance. Remote C-Level.",
+        "es": "Director de proyectos y líder de equipo de IA: método del descubrimiento al mantenimiento, control de alcance, presupuesto y riesgo, ISO 42001. Remoto C-level."
       },
       "path": "proje-yonetimi",
       "icon": "account_tree",
@@ -27,7 +114,7 @@
         ],
         "footer": []
       },
-      "index": 0
+      "index": 3
     },
     {
       "name": {
@@ -42,7 +129,7 @@
       "id": "hs54qzyeyo",
       "url": "",
       "path": "services",
-      "index": 1,
+      "index": 4,
       "icon": "home",
       "desing": {
         "header": [],
@@ -72,9 +159,9 @@
       "description": {
         "tr": "200+ kurumsal web sitesi, 10+ mobil uygulama, 3+ pazaryeri entegrasyonu, altyapı ve yapay zekâ projeleri: proje türlerine göre yürüttüğüm işler ve rolüm.",
         "en": "200+ corporate websites, 10+ mobile apps, 3+ marketplace integrations, infrastructure and AI projects: the kinds of work I have run and my role in them.",
-        "ar": "أكثر من 200 موقع مؤسسي، وأكثر من 10 تطبيقات جوال، وأكثر من 3 عمليات تكامل مع الأسواق الإلكترونية، ومشاريع بنية تحتية وذكاء اصطناعي: أنواع الأعمال التي أدرتها ودوري فيها.",
-        "de": "200+ Unternehmenswebsites, 10+ mobile Apps, 3+ Marktplatz-Integrationen, Infrastruktur- und KI-Projekte: die Arten von Arbeiten, die ich geleitet habe, und meine Rolle darin.",
-        "es": "Más de 200 sitios web corporativos, más de 10 aplicaciones móviles, más de 3 integraciones con marketplaces, infraestructura y proyectos de IA: los tipos de trabajo que he dirigido y mi papel en ellos."
+        "ar": "أكثر من 200 موقع مؤسسي وأكثر من 10 تطبيقات جوال وأكثر من 3 عمليات تكامل مع الأسواق الإلكترونية ومشاريع بنية تحتية وذكاء اصطناعي ودوري فيها.",
+        "de": "200+ Unternehmenswebsites, 10+ mobile Apps, 3+ Marktplatz-Integrationen, Infrastruktur- und KI-Projekte: Arten der Arbeit, die ich geleitet habe.",
+        "es": "Más de 200 webs corporativas, 10 apps móviles, 3 integraciones con marketplaces, infraestructura y proyectos de IA: lo que he dirigido y mi papel."
       },
       "path": "projeler",
       "icon": "work",
@@ -87,7 +174,7 @@
         ],
         "footer": []
       },
-      "index": 2
+      "index": 5
     },
     {
       "id": "ssih4bmxzd",
@@ -102,8 +189,8 @@
         "tr": "Yunus Sevğane özgeçmişi: 2006'dan bugüne çalışma geçmişi, AI ve ISO eğitimleri, yetkinlikler ve uzaktan çalışma deneyimi (Kanada, Dubai, Almanya).",
         "en": "Yunus Sevğane's résumé: work history since 2006, AI and ISO training, skills, technical tools and remote work experience (Canada, Dubai, Germany).",
         "ar": "السيرة الذاتية لـ Yunus Sevğane: سجل العمل منذ 2006، وتدريب الذكاء الاصطناعي وISO، والمهارات، والأدوات التقنية، وخبرة العمل عن بُعد (كندا ودبي وألمانيا).",
-        "de": "Lebenslauf von Yunus Sevğane: beruflicher Werdegang seit 2006, KI- und ISO-Ausbildung, Fähigkeiten, technische Werkzeuge und Remote-Erfahrung (Kanada, Dubai, Deutschland).",
-        "es": "Currículum de Yunus Sevğane: trayectoria desde 2006, formación en IA e ISO, competencias, herramientas técnicas y experiencia en remoto (Canadá, Dubái, Alemania)."
+        "de": "Lebenslauf von Yunus Sevğane: Werdegang seit 2006, KI- und ISO-Ausbildung, Fähigkeiten, Werkzeuge und Remote-Erfahrung (Kanada, Dubai, Deutschland).",
+        "es": "Currículum de Yunus Sevğane: trayectoria desde 2006, formación en IA e ISO, competencias, herramientas y experiencia remota (Canadá, Dubái, Alemania)."
       },
       "path": "ozgecmis",
       "icon": "description",
@@ -117,7 +204,7 @@
         ],
         "footer": []
       },
-      "index": 3
+      "index": 6
     },
     {
       "id": "gs6oawb05w",
@@ -131,9 +218,9 @@
       "description": {
         "tr": "Eğitim ve sertifikalar: ISO/IEC 42001 (yapay zekâ yönetişimi), 27001, 9001, 20000-1 baş denetçi eğitimleri; siber güvenlik, etik hacker, adli bilişim.",
         "en": "Education and certificates: ISO/IEC 42001 (AI governance), 27001, 9001 and 20000-1 lead auditor courses; cybersecurity, ethical hacking, digital forensics.",
-        "ar": "التعليم والشهادات: دورات المدقق الرئيسي في ISO/IEC 42001 (حوكمة الذكاء الاصطناعي) و27001 و9001 و20000-1؛ والأمن السيبراني والاختراق الأخلاقي والأدلة الجنائية الرقمية.",
-        "de": "Ausbildung und Zertifikate: Lehrgänge zum Lead Auditor für ISO/IEC 42001 (KI-Governance), 27001, 9001 und 20000-1; Cybersicherheit, Ethical Hacking, digitale Forensik.",
-        "es": "Formación y certificados: cursos de auditor líder en ISO/IEC 42001 (gobernanza de la IA), 27001, 9001 y 20000-1; ciberseguridad, hacking ético, análisis forense digital."
+        "ar": "التعليم والشهادات: دورات كبير المدققين في ISO/IEC 42001 و27001 و9001 و20000-1؛ والأمن السيبراني والاختراق الأخلاقي والأدلة الجنائية الرقمية.",
+        "de": "Ausbildung und Zertifikate: Lead-Auditor-Lehrgänge für ISO/IEC 42001, 27001, 9001 und 20000-1; Cybersicherheit, Ethical Hacking, digitale Forensik.",
+        "es": "Formación y certificados: cursos de auditor líder en ISO/IEC 42001, 27001, 9001 y 20000-1; ciberseguridad, hacking ético y análisis forense digital."
       },
       "path": "sertifikalar",
       "icon": "description",
@@ -146,7 +233,7 @@
         ],
         "footer": []
       },
-      "index": 4
+      "index": 7
     },
     {
       "name": {
@@ -158,7 +245,7 @@
       "id": "yvi9dlb59o",
       "url": "",
       "path": "kurumsal",
-      "index": 5,
+      "index": 8,
       "desing": {
         "header": [],
         "body": [
@@ -186,7 +273,7 @@
       "description": {
         "tr": "Yapay zekâ projelerinde proje yönetimi, ISO/IEC 42001 yönetişimi ve uzaktan ekip liderliği üzerine yazılar. Yazar: Yunus Sevğane.",
         "en": "Posts on project management in AI projects, ISO/IEC 42001 governance and remote team leadership. Written by Yunus Sevğane.",
-        "ar": "مقالات حول إدارة المشاريع في مشاريع الذكاء الاصطناعي، وحوكمة ISO/IEC 42001، وقيادة الفرق عن بُعد. بقلم Yunus Sevğane.",
+        "ar": "مقالات حول إدارة المشاريع في مشاريع الذكاء الاصطناعي وحوكمة ISO/IEC 42001 وقيادة الفرق عن بُعد، بقلم Yunus Sevğane، مدير مشاريع ذكاء اصطناعي.",
         "de": "Beiträge zum Projektmanagement in KI-Projekten, zu ISO/IEC-42001-Governance und zur Führung von Remote-Teams. Verfasst von Yunus Sevğane.",
         "es": "Artículos sobre gestión de proyectos en proyectos de IA, gobernanza ISO/IEC 42001 y liderazgo de equipos remotos. Escritos por Yunus Sevğane."
       },
@@ -201,7 +288,7 @@
         ],
         "footer": []
       },
-      "index": 6
+      "index": 9
     },
     {
       "name": {
@@ -216,7 +303,7 @@
       "id": "xnzu5au0ag",
       "url": "",
       "path": "iletisim",
-      "index": 7,
+      "index": 10,
       "icon": "home",
       "desing": {
         "header": [],
@@ -231,7 +318,7 @@
         "en": "Book an intro call with Yunus Sevğane, project lead for AI projects: WhatsApp, phone, e-mail. Open to remote C-level roles and project work.",
         "ar": "احجز مكالمة تعريفية مع Yunus Sevğane، قائد مشاريع الذكاء الاصطناعي: WhatsApp والهاتف والبريد الإلكتروني. منفتح على أدوار C-level عن بُعد والعمل بالمشاريع.",
         "de": "Kennenlerngespräch buchen bei Yunus Sevğane, Projektleiter für KI-Projekte: WhatsApp, Telefon, E-Mail. Offen für Remote-C-Level-Rollen und Projektarbeit.",
-        "es": "Reserve una llamada introductoria con Yunus Sevğane, líder de proyecto para proyectos de IA: WhatsApp, teléfono, correo electrónico. Abierto a puestos remotos C-level y a trabajo por proyecto."
+        "es": "Reserve una llamada con Yunus Sevğane, líder de proyectos de IA: WhatsApp, teléfono, correo. Abierto a puestos remotos C-level y trabajo por proyecto."
       }
     }
   ],

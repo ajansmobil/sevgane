@@ -54,6 +54,121 @@ Teklif iste WhatsApp ile yaz
 
 ---
 
+## Uzaktan AI Projeleri: Kanada, Almanya, Dubai
+https://sevgane.com/tr/uzaktan-ai-projeleri/
+
+Kanada (görüntü işleme), Almanya (kargo ve depo yapay zekâsı) ve Dubai'de (AI destekli topraksız tarım) son beş yılda uzaktan çalıştığım projeler.
+
+Uzaktan AI Projeleri: Kanada, Almanya, Dubai
+Uzaktan yürüttüğüm yapay zekâ projeleri
+Yunus Sevğane , son beş yılda Kanada, Almanya ve Dubai'deki yapay zekâ projelerinde eşzamanlı olarak uzaktan çalışmıştır. Bu sayfa, projelerin alanını ve bu tür işleri nasıl yönettiğimi anlatır. Şirket adı, süre ya da sonuç rakamı yazmıyorum; ölçülmemiş bir iddiayı sayfaya koymam. Ayrıntıyı görüşmede paylaşabilirim.
+Kanada: görüntü işleme
+Görüntü işleme (bilgisayarlı görü) projelerinde başarı çoğu zaman modelden önce veriyle belirlenir. Bu tür işlerde ilk sorularım şunlardır: görüntüler hangi koşullarda alınıyor, etiketleme kuralı kim tarafından ve nasıl denetleniyor, modelin yanlış yaptığı örnekler nasıl toplanıp bir sonraki sürüme giriyor? Değerlendirme için ayrı bir örnek seti tutulur ve model sürümleri bu sete göre karşılaştırılır. Saha ile geliştirici ekip farklı yerlerde olduğunda bu kuralların yazılı olması, uzaktan çalışmanın en önemli güvencesidir.
+Almanya: kargo ve depo yapay zekâsı
+Kargo ve depo operasyonlarında yapay zekâ, çoğunlukla mevcut depo ve sevkiyat sistemlerinin içine girmek zorundadır. Bu yüzden entegrasyon, model kadar önemlidir. Bu tür işlerde istisna akışını (model emin değilse ne olur?), insan onay noktalarını, kesinti durumunda eski yönteme dönüş planını ve vardiya düzenine uygun devreye almayı baştan yazıya dökerim. Pilot tek bir hat ya da tek bir depo ile başlar, sonuç ölçülmeden genişletilmez.
+Dubai: yapay zekâ destekli topraksız tarım
+Topraksız tarımda yapay zekâ, sensör verisini ve ortam kontrolünü karar desteğine bağlar. Yönetim açısından kritik noktalar şunlardır: sensör verisinin güvenilirliği ve kalibrasyonu, önerinin kimin onayıyla uygulamaya geçtiği, otomasyon devre dışı kaldığında manuel işletme ve tesis ekibiyle uzaktaki ekip arasındaki iletişim ritmi. Karar kayıtları, “model neden bunu önerdi ve biz neden uyguladık” sorusunu sonradan cevaplanabilir kılar.
+Üç projede ortak olan yönetim çerçevesi
+Önce pilot: hedef ve başarı ölçütü yazılır, küçük kapsamla başlanır, sonuç ölçülür.
+Yazılı ve kayıtlı iletişim: karar kaydı, ortak görev panosu, kısa düzenli durum bildirimi.
+Saat dilimi düzeni: ortak bir görüşme penceresi; geri kalan iş eşzamanlı olmayan, yazılı akışla yürür.
+Yönetişim baştan: amaç, sorumlu, veri, risk ve izleme ISO/IEC 42001 bakışıyla tanımlanır.
+Sık sorulan sorular
+Hangi ülkelerde uzaktan çalıştınız?
+Kanada, Almanya ve Dubai (BAE). Bu üç ülkedeki yapay zekâ projelerinde son beş yılda eşzamanlı olarak uzaktan çalıştım.
+Bu projelerde şirket adı ve rakam neden yok?
+Ölçülmemiş ya da paylaşım izni olmayan bilgiyi yayımlamıyorum. Ayrıntıyı görüşmede, uygun olduğu ölçüde paylaşabilirim.
+Farklı saat dilimlerinde nasıl çalışıyorsunuz?
+Ortak bir görüşme penceresi, yazılı karar kayıtları ve ortak görev panosuyla. Ayrıntı için uzaktan AI ekibi yönetimi yazısına bakabilirsiniz.
+Görüşme için
+İlk adım kısa bir ön görüşmedir. İletişim sayfasından ya da WhatsApp (+90 531 679 10 14) üzerinden yazabilir, e-posta için yunus@sevgane.com adresini kullanabilirsiniz.
+İlgili sayfalar
+Uzaktan Head of AI ve AI Program Director
+Uzaktan AI ekibi yönetmek (blog)
+Projeler ve Vaka Çalışmaları
+Yapay Zekâ Projeleri
+Sıkça sorulan sorular
+
+---
+
+## ISO/IEC 42001 Yapay Zekâ Yönetişimi
+https://sevgane.com/tr/iso-42001-yapay-zeka-yonetisimi/
+
+ISO/IEC 42001 yapay zekâ yönetim sistemi nedir, proje liderliğinde nasıl uygulanır?
+
+ISO/IEC 42001 Yapay Zekâ Yönetişimi
+ISO/IEC 42001 nedir?
+ISO/IEC 42001:2023 , kuruluşların yapay zekâyı sorumlu biçimde geliştirmesi, sağlaması ya da kullanması için bir yapay zekâ yönetim sistemi kurmasını tarif eden uluslararası standarttır. Tek bir modeli ya da ürünü değil, kuruluşun yapay zekâyı nasıl yönettiğini ele alır: politika, roller ve sorumluluklar, risk ve etki değerlendirmesi, yaşam döngüsü, veri, üçüncü taraflar, izleme ve sürekli iyileştirme. Yapısı ISO/IEC 27001 gibi diğer yönetim sistemi standartlarıyla uyumludur; bu yüzden bilgi güvenliği yönetimi olan kuruluşlar için tanıdık bir iskelet sunar.
+Benim durumum: baş denetçi eğitimi, kurum belgelendirmesi değil
+Yunus Sevğane , ISO/IEC 42001:2023 Yapay Zeka Yönetim Sistemi Baş Denetçi Eğitimini Haziran 2025'te Sigmacert Global'de tamamlamıştır. Bu bir eğitim belgesidir ; bir kuruluş adına belgelendirme ya da bağımsız denetim yaptığım anlamına gelmez. Standardı, yapay zekâ projelerini yönetirken çalışma yöntemi olarak kullanıyorum. Kuruluşunuzun belgelendirilmesi gerekiyorsa bağımsız bir uzmana ya da akredite bir belgelendirme kuruluşuna başvurmanızı öneririm. Eğitimlerimin tam listesi Sertifikalar sayfasındadır.
+Proje liderliğinde ne yapıyorum?
+Amaç ve kapsam: yapay zekâ sisteminin hangi iş sorusuna hizmet ettiği ve nerede kullanılmayacağı yazılır.
+Sorumluluk: iş sahibi, teknik sahip ve itiraz noktası belirlenir; genişletme, durdurma ve geri alma kararının kimde olduğu bellidir.
+Veri: kaynak, izin, kişisel veri riski, erişim ve saklama kuralları ilk haftalarda netleşir.
+Risk ve etki: riskler sahibi ve önlemiyle kayıt altına alınır; insan onayı gereken noktalar belirlenir.
+Üçüncü taraflar: dış model, servis ve veri sağlayıcılarına hangi verinin gittiği ve sağlayıcı değişirse ne olacağı yazılır.
+İzleme ve iyileştirme: canlıdayken neyin hangi sıklıkla izleneceği ve bulguların bir sonraki karara nasıl dönüşeceği tanımlanır.
+Bu soruların ayrıntılı listesi için proje liderinin ISO/IEC 42001 kontrol listesi yazısına bakın.
+Ne yapmıyorum?
+Kuruluşunuz adına ISO/IEC 42001 belgesi vermem, akredite denetim yapmam ve hukuki uyum görüşü bildirmem. Standart gönüllüdür ve yasal yükümlülüklerin yerine geçmez. Benim katkım, yönetişimi projenin sonuna eklenen bir belge yığını yerine, kararları besleyen bir kayıt olarak baştan kurmaktır.
+Sık sorulan sorular
+ISO/IEC 42001 ile ISO/IEC 27001 arasındaki fark nedir?
+ISO/IEC 27001 bilgi güvenliği yönetim sistemini, ISO/IEC 42001 ise yapay zekâ yönetim sistemini tarif eder. İkisi de ortak bir yönetim sistemi iskeleti kullanır; 42001 ek olarak yapay zekâya özgü risk, etki, şeffaflık ve yaşam döngüsü konularını ele alır.
+ISO 42001 baş denetçisi misiniz?
+ISO/IEC 42001:2023 baş denetçi eğitimini tamamladım. Bu eğitim belgesi, bir belgelendirme kuruluşu adına denetçi olduğum anlamına gelmez; eğitimden edindiğim bakışı proje yönetiminde kullanırım.
+ISO 42001 zorunlu mu?
+Standart gönüllüdür. Müşteri, ihale ya da düzenleme beklentisi nedeniyle gündeme gelebilir; yasal yükümlülüklerin yerine geçmez.
+Küçük bir yapay zekâ projesinde de uygulanır mı?
+Evet, ölçeğe uygun biçimde: amaç, sorumlu, veri, risk ve izleme için kısa bir kayıt çoğu proje için yeterli bir başlangıçtır.
+Görüşme için
+İlk adım kısa bir ön görüşmedir. İletişim sayfasından ya da WhatsApp (+90 531 679 10 14) üzerinden yazabilir, e-posta için yunus@sevgane.com adresini kullanabilirsiniz.
+İlgili sayfalar
+ISO/IEC 42001 kontrol listesi (blog)
+Bilgi Güvenliği ve ISO Uyumu
+Eğitim ve Sertifikalar
+Yapay Zekâ Projeleri
+Uzaktan Head of AI ve AI Program Director
+
+---
+
+## Uzaktan Head of AI ve AI Program Director
+https://sevgane.com/tr/head-of-ai-remote/
+
+Yunus Sevğane, yapay zekâ projelerinde proje lideri olarak uzaktan Head of AI ve AI Program Director rollerine açık.
+
+Uzaktan Head of AI ve AI Program Director
+Head of AI ve AI Program Director nedir?
+Head of AI , bir kuruluşta yapay zekâ girişimlerinin stratejisini, önceliklerini, ekibini ve risklerini sahiplenen yöneticidir. AI Program Director ise birbirine bağlı birden çok yapay zekâ projesini tek bir program olarak yönetir: bütçe, bağımlılıklar, teslimler ve yönetişim onun masasındadır. İki rol de teknik bir model kurmaktan çok, doğru işin seçilmesini, ekibin kurulmasını ve sonucun ölçülmesini sağlar.
+Ben kimim, hangi rolü arıyorum?
+Yunus Sevğane , yazılım geliştirici kökenli bir proje yöneticisidir; yapay zekâ projelerinde proje lideri / ekip kaptanı olarak çalışır. 2014'ten beri ekip ve proje yönetimi yürütüyor; AI agent süreçleri, LLM RAG ve LLM ince ayarı alanlarında çalıştı. Açık olduğu roller: uzaktan Head of AI, AI Program Director ve CTO düzeyinde C-level pozisyonlar. Bu unvanları taşıdığını değil, aradığı rolleri söylüyor; deneyimi Özgeçmiş sayfasındadır.
+Bu rolde ilk 90 gün nasıl ilerler?
+1–30. gün, keşif: iş hedefleri, mevcut yapay zekâ girişimleri, veri ve sistem envanteri, ekip ve tedarikçi haritası ile ilk risk kaydı çıkarılır. Neyin yapılmayacağı da yazılı hâle gelir.
+31–60. gün, pilot ve yönetişim: ölçülebilir başarı ölçütü olan bir ya da iki pilot seçilir; her birinin sahibi ve karar hakları belirlenir. Amaç, sorumlu, veri kaynağı ve izleme biçimi ISO/IEC 42001 bakışıyla baştan tanımlanır.
+61–90. gün, ölçüm ve genişletme kararı: pilot sonuçları, planlanan ve gerçekleşen bütçe-zaman karşılaştırması ve ekip kurma planı yönetime sunulur; genişletme, durdurma ya da yön değiştirme kararı yazılı alınır.
+Uzaktan ve farklı saat dilimlerinde nasıl çalışırım?
+Kanada, Dubai (BAE) ve Almanya'daki projelerde uzaktan çalıştım ( ayrıntı ). Uzaktan çalışmanın dayanağı yazılı ve kayıtlı iletişimdir: karar kayıtları, ortak görev panosu, kısa ve düzenli durum bildirimi ve saat dilimleri arasında ortak bir görüşme penceresi. Bu sayede ekipler birbirini beklemeden ilerler. Ayrıca uzaktan yapay zekâ ekibi yönetimi yazısına bakabilirsiniz.
+Hangi çerçeveyle yönetirim?
+Önce pilot, sonra ölçek: hedef ve başarı ölçütü yazılır, küçük bir pilotla başlanır, sonuç ölçülür. Kapsam değişiklikleri yazılı alınır ve süreye-bütçeye etkisiyle karara bağlanır. Riskler sahibi ve önlemiyle kayda geçer. Yönetim ile teknik ekip aynı karar kaydına bakar. Ayrıntı için Proje Yönetimi sayfasına bakın.
+Sık sorulan sorular
+Head of AI ile AI Program Director arasındaki fark nedir?
+Head of AI, kuruluşun yapay zekâ stratejisini ve ekibini sahiplenir. AI Program Director, birbirine bağlı yapay zekâ projelerini bütçe, bağımlılık, teslim ve yönetişim açısından tek program olarak yürütür. Küçük kuruluşlarda iki rol aynı kişide birleşebilir.
+Uzaktan C-level bir rolde nasıl çalışıyorsunuz?
+Yazılı ve kayıtlı iletişim, karar kayıtları, ortak görev panosu ve saat dilimleri arasında ortak bir görüşme penceresiyle. Kanada, Dubai ve Almanya'daki projelerde uzaktan çalıştım.
+ISO/IEC 42001 belgeniz var mı?
+ISO/IEC 42001:2023 Yapay Zeka Yönetim Sistemi Baş Denetçi Eğitimini 2025'te tamamladım. Bu bir eğitim belgesidir; bir kuruluş adına belgelendirme ya da denetim yaptığım anlamına gelmez.
+Hangi çalışma modelleri uygun?
+Tam zamanlı, dönemsel ya da danışmanlık biçimindeki modeller görüşmede netleşir; kapsam, süre ve teslimler yazılı bir plana dönüştürülür.
+Görüşme için
+İlk adım kısa bir ön görüşmedir. İletişim sayfasından ya da WhatsApp (+90 531 679 10 14) üzerinden yazabilir, e-posta için yunus@sevgane.com adresini kullanabilirsiniz.
+İlgili sayfalar
+Proje Yönetimi
+ISO/IEC 42001 yapay zekâ yönetişimi
+Uzaktan AI projeleri: Kanada, Almanya, Dubai
+Özgeçmiş
+Sıkça sorulan sorular
+
+---
+
 ## Proje Yönetimi
 https://sevgane.com/tr/proje-yonetimi/
 
@@ -95,6 +210,7 @@ Frontend, backend, DevOps ve yapay zekâ süreçlerini bildiğim için ekibin ta
 Nasıl başlarız?
 İlk adım kısa bir ön görüşmedir: hedefi ve beklentiyi dinlerim; kapsam, süre ve teslimleri yazılı bir plana dönüştürürüm. Ayrıntı için çalışma biçimimi okuyabilir, iş türleri için projeler sayfasına bakabilirsiniz.
 Teklif almak için: Teklif iste sayfasından ya da WhatsApp (+90 531 679 10 14) üzerinden yazın. Ayrıca Çalışma Biçimi ve SSS sayfalarına bakabilirsiniz.
+Ayrıca: Uzaktan Head of AI ve AI Program Director · ISO/IEC 42001 Yapay Zekâ Yönetişimi · Uzaktan AI Projeleri: Kanada, Almanya, Dubai · LLM RAG projelerinde proje yönetimi: kapsam, veri, değerlendirme
 
 ---
 
@@ -156,6 +272,7 @@ AI agent süreçleri, LLM RAG ve ince ayar çalışmaları ile ISO 27001 bilgi g
 Vaka çalışması nasıl anlatılır?
 Görüşmelerde bir projeyi dört başlıkla anlatırım: durum, yaklaşım, rolüm ve teslim. Sizin sektörünüze ve proje türünüze yakın örnekleri iletişim sırasında paylaşabilirim. Yöntemim için Proje Yönetimi sayfasına bakabilirsiniz.
 Teklif almak için: Teklif iste sayfasından ya da WhatsApp (+90 531 679 10 14) üzerinden projenizi iki üç cümleyle yazın. Ayrıca Proje Yönetimi , Çalışma Biçimi ve SSS sayfalarına bakabilirsiniz.
+Ayrıca: Uzaktan Head of AI ve AI Program Director · ISO/IEC 42001 Yapay Zekâ Yönetişimi · Uzaktan AI Projeleri: Kanada, Almanya, Dubai · LLM RAG projelerinde proje yönetimi: kapsam, veri, değerlendirme
 
 ---
 
@@ -190,6 +307,7 @@ Tasarım
 Adobe Photoshop, Adobe Illustrator, Adobe XD
 Çalışma geçmişimde grafik tasarımdan yazılım geliştirmeye, oradan altyapı, bilgi güvenliği ve yapay zekâya uzanan bir çizgi var; bu geniş bakış, projeleri hem görsel hem teknik hem de yönetişim açısından bütün olarak ele almamı sağlar.
 Daha ayrıntılı bilgi için Sertifikalar sayfasına bakabilir ya da WhatsApp (+90 531 679 10 14) üzerinden yazabilirsiniz.
+Ayrıca: Uzaktan Head of AI ve AI Program Director · ISO/IEC 42001 Yapay Zekâ Yönetişimi · Uzaktan AI Projeleri: Kanada, Almanya, Dubai · LLM RAG projelerinde proje yönetimi: kapsam, veri, değerlendirme
 Özgeçmiş
 Çalıştığım yerler ve aldığım eğitimler, en yeniden eskiye.
 Deneyim 2014 – Halen
@@ -272,6 +390,7 @@ Gaziantep Ticaret Odası eğitimleri
 2017: Pazarlama Stratejileri ve Müşteri İlişkileri Yönetimi; Diksiyon, Etkili Konuşma ve Topluluğa Hitabet
 Bu eğitimler baş denetçi eğitimi ve katılım belgeleridir; kurum adına verilmiş bir belgelendirme anlamına gelmez. Tüm çalışma geçmişi için Özgeçmiş sayfasına bakınız.
 Bu eğitimleri proje yönetimi sürecime nasıl yansıttığımı Proje Yönetimi sayfasında, teklif için İletişim sayfasında bulabilirsiniz.
+Ayrıca: Uzaktan Head of AI ve AI Program Director · ISO/IEC 42001 Yapay Zekâ Yönetişimi · Uzaktan AI Projeleri: Kanada, Almanya, Dubai · LLM RAG projelerinde proje yönetimi: kapsam, veri, değerlendirme
 
 ---
 
@@ -293,6 +412,10 @@ Yazıyı oku →
 Ekip Liderliği · 8 Kasım 2026 · 3 dk okuma
 Uzaktan ve farklı saat dilimlerinde yapay zekâ ekibi yönetmek
 Uzaktan çalışan, farklı saat dilimlerine yayılmış bir yapay zekâ ekibini yönetmek: yazılı iletişim, karar kayıtları, iletişim ritmi, gösterim ve devir.
+Yazıyı oku →
+Proje Yönetimi · 12 Kasım 2026 · 5 dk okuma
+LLM RAG projelerinde proje yönetimi: kapsam, veri, değerlendirme
+LLM RAG projesini yönetirken kapsam, kaynak belgeler, yetkilendirme, değerlendirme seti ve izleme nasıl ele alınır? Proje liderinin adım adım çerçevesi.
 Yazıyı oku →
 Bu blogda hangi konular var?
 Yapay zekâ projelerinde (AI agent, LLM RAG, ince ayar) proje yöneticisinin rolü ve karar çerçevesi
@@ -364,6 +487,7 @@ Yapay zekâ ekiplerini hedeften teslime taşıyan, yazılım geliştirme ile gü
 Yasal bilgiler
 Bu site kişisel bir sitedir; veri sorumlusu Yunus Sevğane'dir. Gizlilik Politikası , Kişisel Veriler , Kullanıcı Hakları , Yasal Uyarı ve Çerez Politikası sayfalarında ayrıntıları bulabilirsiniz.
 Eğitim ve sertifika ayrıntıları için Sertifikalar , çalışma geçmişi için Özgeçmiş sayfasına bakabilirsiniz. Teklif için İletişim ve Teklif İste , doğrudan yazmak için WhatsApp (+90 531 679 10 14) kullanabilirsiniz.
+Ayrıca: Uzaktan Head of AI ve AI Program Director · ISO/IEC 42001 Yapay Zekâ Yönetişimi · Uzaktan AI Projeleri: Kanada, Almanya, Dubai · LLM RAG projelerinde proje yönetimi: kapsam, veri, değerlendirme
 
 ---
 
@@ -401,6 +525,7 @@ Sürekli iyileştirme: her proje sonunda yöntemi ve araçları gözden geçirme
 Açık iletişim: kapsamı, süreci ve teslimleri baştan netleştirmek
 Memnuniyetsizlik, şikâyet ya da iyileştirme önerilerinizi WhatsApp veya iletişim formu üzerinden iletebilirsiniz; her bildirimi inceler ve dönüş yaparım.
 Teklif almak için: Teklif iste sayfasından ya da WhatsApp (+90 531 679 10 14) üzerinden projenizi iki üç cümleyle yazın. Ayrıca Proje Yönetimi , Çalışma Biçimi ve SSS sayfalarına bakabilirsiniz.
+Ayrıca: Uzaktan Head of AI ve AI Program Director · ISO/IEC 42001 Yapay Zekâ Yönetişimi · Uzaktan AI Projeleri: Kanada, Almanya, Dubai · LLM RAG projelerinde proje yönetimi: kapsam, veri, değerlendirme
 
 ---
 
@@ -420,6 +545,7 @@ Kanada, Dubai (BAE) ve Almanya'daki projelerde uzaktan çalıştım
 Çevik (Scrum) çalışma, kapsam, bütçe ve risk yönetimi, ekip ve tedarikçi koordinasyonu
 ISO/IEC 27001, 42001, 9001 ve 20000-1 baş denetçi eğitimleri
 Teklif ya da görüşme için İletişim ve Teklif İste sayfasını kullanabilir ya da WhatsApp (+90 531 679 10 14) üzerinden yazabilirsiniz.
+Ayrıca: Uzaktan Head of AI ve AI Program Director · ISO/IEC 42001 Yapay Zekâ Yönetişimi · Uzaktan AI Projeleri: Kanada, Almanya, Dubai · LLM RAG projelerinde proje yönetimi: kapsam, veri, değerlendirme
 SSS
 Sıkça sorulan sorular
 Birlikte çalışmadan önce merak edilenler: uzaktan çalışma, aradığım roller, yapay zekâ yönetişimi ve çalışma modeli.
@@ -526,7 +652,7 @@ Sorularınız için WhatsApp (+90 531 679 10 14) ya da iletişim formu kullanıl
 ## Çerez Politikası
 https://sevgane.com/tr/cerez-politikasi/
 
-Bu politika, Yunus Sevğane tarafından işletilen https://sevgane.com internet sitesinde kullanılan çerezleri, bunların…
+Yunus Sevğane tarafından işletilen sevgane.com sitesinde kullanılan çerezler, kullanım amaçları ve çerez tercihlerinizi nasıl yönetebileceğiniz.
 
 Çerez Politikası
 Çerez Politikası
@@ -722,6 +848,7 @@ Model seçimi ve ince ayar kararını nasıl veriyorsunuz?
 Bu sayfa bir AI belgelendirmesi iddiası mı?
 Hayır. ISO/IEC 42001:2023 baş denetçi eğitimi bireysel bir eğitimdir; bu sayfa o bakışla çalışma yöntemimi anlatır.
 Başlamak için: hedefinizi iki üç cümleyle İletişim ve Teklif İste sayfasından ya da WhatsApp (+90 531 679 10 14) üzerinden yazın. Yöntemimin bütünü için Proje Yönetimi , çalışma ritmim için Çalışma Biçimi , diğer alanlar için Hizmetlerim sayfasına bakabilirsiniz. Uzaktan çalışmaya açığım; farklı saat dilimlerindeki ekiplerle çalışma deneyimim SSS sayfasında.
+Ayrıca: Uzaktan Head of AI ve AI Program Director · ISO/IEC 42001 Yapay Zekâ Yönetişimi · Uzaktan AI Projeleri: Kanada, Almanya, Dubai · LLM RAG projelerinde proje yönetimi: kapsam, veri, değerlendirme
 
 ---
 
@@ -896,13 +1023,14 @@ Hayır. Belgelendirme akredite kuruluşların işidir; ben uyum çalışmasını
 Küçük bir ekip için ISO 27001 anlamlı mı?
 Kapsamı küçük ve gerçekçi çizildiğinde evet; bunu ihtiyaç görüşmesinde birlikte değerlendiririz.
 Başlamak için: hedefinizi iki üç cümleyle İletişim ve Teklif İste sayfasından ya da WhatsApp (+90 531 679 10 14) üzerinden yazın. Yöntemimin bütünü için Proje Yönetimi , çalışma ritmim için Çalışma Biçimi , diğer alanlar için Hizmetlerim sayfasına bakabilirsiniz. Uzaktan çalışmaya açığım; farklı saat dilimlerindeki ekiplerle çalışma deneyimim SSS sayfasında.
+Ayrıca: Uzaktan Head of AI ve AI Program Director · ISO/IEC 42001 Yapay Zekâ Yönetişimi · Uzaktan AI Projeleri: Kanada, Almanya, Dubai · LLM RAG projelerinde proje yönetimi: kapsam, veri, değerlendirme
 
 ---
 
 ## IT Danışmanlık
 https://sevgane.com/tr/it-danismanlik/
 
-Teknoloji seçimi, ekip kurma ve tedarikçi koordinasyonu: ihtiyaç görüşmesinden yol haritasına IT danışmanlık yöntemim.
+Teknoloji seçimi, ekip kurma ve tedarikçi koordinasyonu: ihtiyaç görüşmesinden yol haritasına, IT danışmanlık projelerini nasıl yönettiğim.
 
 IT Danışmanlık
 IT Danışmanlık ve Ekip Liderliği
@@ -954,6 +1082,41 @@ Bu, kapsama göre değişir; ön görüşmede kısa bir çerçeve çıkarır, ar
 Sürekli bir rol olarak çalışabilir misiniz?
 Proje bazlı ya da süreli danışmanlık dışında uzun vadeli, uzaktan bir rol için de açığım; ayrıntıyı iletişim sayfasından yazabilirsiniz.
 Başlamak için: hedefinizi iki üç cümleyle İletişim ve Teklif İste sayfasından ya da WhatsApp (+90 531 679 10 14) üzerinden yazın. Yöntemimin bütünü için Proje Yönetimi , çalışma ritmim için Çalışma Biçimi , diğer alanlar için Hizmetlerim sayfasına bakabilirsiniz. Uzaktan çalışmaya açığım; farklı saat dilimlerindeki ekiplerle çalışma deneyimim SSS sayfasında.
+
+---
+
+## LLM RAG projelerinde proje yönetimi: kapsam, veri, değerlendirme
+https://sevgane.com/tr/llm-rag-projelerinde-proje-yonetimi/
+
+LLM RAG projesini yönetirken kapsam, kaynak belgeler, yetkilendirme, değerlendirme seti ve izleme nasıl ele alınır?
+
+LLM RAG projelerinde proje yönetimi: kapsam, veri, değerlendirme
+Proje Yönetimi · 12 Kasım 2026 · 5 dk okuma · Yunus Sevğane
+RAG (retrieval-augmented generation), bir dil modelinin yanıtını kuruluşun kendi belgelerinden getirilen parçalara dayandırdığı yaklaşımdır. Bu yazı, bir RAG projesini yöneten kişinin hangi kararları erkenden yazıya dökmesi gerektiğini anlatır; ölçülmüş bir sonuç iddiası değil, çalışma yöntemimdir.
+RAG projesi neden yönetim sorunudur?
+RAG projelerinde model çoğu zaman hazır bir hizmettir; asıl iş, hangi belgelerin kullanılacağı, kimin neyi görebileceği ve yanıtın doğruluğunun nasıl ölçüleceği gibi kararlardadır. Bu kararlar yazılı olmazsa proje “demo güzel, canlıda güvenilmez” noktasına gelir. Aşağıdaki adımlar, yapay zekâ projelerinde kullandığım sırayla gider.
+1. Kapsam: hangi soruya cevap verecek?
+İlk adım, sistemin hangi kullanıcı sorularına cevap vereceğini ve neyi cevaplamayacağını yazmaktır. “Şirketin tüm belgelerini sorgula” kapsam değil, dilektir. Örnek kullanıcı soruları toplanır; bunlar hem kapsamı hem de sonraki değerlendirmeyi belirler.
+2. Kaynak belgeler ve veri sahipliği
+Hangi belgeler dizine girer? Güncel mi, çelişen sürümleri var mı, kişisel veri içeriyor mu? Her belge grubunun bir sahibi olmalı; belge değiştiğinde dizinin nasıl yenileneceği baştan tanımlanır. Yanıtın dayanağı gösterilebilmeli: kullanıcı hangi belgenin hangi bölümünden cevap üretildiğini görebilmeli.
+3. Yetkilendirme
+RAG, erişimi olmayan kişiye gizli belge içeriğini sızdırabilir. Bu nedenle erişim kuralı sorgu aşamasında uygulanır ve ilk planda yazılır: kim hangi belge grubuna sorabilir? Bu madde sonradan eklenecek bir özellik değil, mimari kararıdır.
+4. Değerlendirme seti
+Gerçek kullanıcı sorularından ve beklenen kaynak belgelerden oluşan küçük bir değerlendirme seti hazırlanır. Her sürüm, bu sete göre karşılaştırılır; “iyi görünüyor” ile yetinilmez. Yanıtın doğru belgeyi bulup bulmadığı ile bulunan belgeden doğru sonuç çıkarıp çıkarmadığı ayrı ayrı bakılır.
+5. Pilot, maliyet ve gecikme
+Pilot kısıtlı bir kullanıcı grubuyla yapılır. Bu aşamada yanıt süresi ve kullanım maliyeti ölçülür; genişletme kararı doğruluk, süre ve maliyet birlikte değerlendirilerek yazılı alınır.
+6. İzleme ve değişiklik yönetimi
+Canlıdayken kullanıcı geri bildirimi, yanıtsız kalan sorular ve belge değişiklikleri izlenir. Model, istem ya da belge kümesi değiştiğinde değerlendirme seti yeniden çalıştırılır. Bu süreç ISO/IEC 42001 kontrol listesindeki yaşam döngüsü ve izleme sorularıyla örtüşür.
+Sık sorulan sorular
+RAG ile ince ayar (fine-tuning) arasındaki fark nedir?
+RAG, yanıtı sorgu anında getirilen belge parçalarına dayandırır; belgeler değişince dizin yenilenir. İnce ayar ise modelin kendisini örneklerle eğitir. İkisi birlikte de kullanılabilir; seçim veri güncelliği, izlenebilirlik ve maliyete göre yapılır.
+RAG projesinde en sık yapılan yönetim hatası nedir?
+Değerlendirme setini ve yetkilendirmeyi sona bırakmak. İkisi de mimariyi etkilediği için ilk planda yazılmalıdır.
+RAG projesi ne kadar sürer?
+Süre belge sayısına, yetkilendirme karmaşıklığına ve entegrasyonlara bağlıdır; kapsam yazıldıktan sonra pilotun süresi planlanır. Ölçülmemiş bir süre vaat etmem.
+Yazar: Yunus Sevğane
+Yazılım geliştirici kökenli proje yöneticisi. Yapay zekâ projelerinde proje lideri / ekip kaptanı olarak uzaktan C-level rollere (Head of AI, AI Program Director) açık.
+Hakkımda · Ön görüşme
 
 ---
 

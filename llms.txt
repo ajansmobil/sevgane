@@ -6,6 +6,9 @@ Web: https://sevgane.com/tr/ · Telefon: +90 531 679 10 14 · E-posta: yunus@sev
 
 ## Sayfalar
 - [Yunus Sevğane — AI Proje Lideri ve Ekip Kaptanı](https://sevgane.com/tr/): Yapay zekâ projelerinde proje lideri / ekip kaptanı; Head of AI ve AI Program Director gibi uzaktan C-level rollere açığım.
+- [Uzaktan AI Projeleri: Kanada, Almanya, Dubai](https://sevgane.com/tr/uzaktan-ai-projeleri/): Kanada (görüntü işleme), Almanya (kargo ve depo yapay zekâsı) ve Dubai'de (AI destekli topraksız tarım) son beş yılda uzaktan çalıştığım projeler.
+- [ISO/IEC 42001 Yapay Zekâ Yönetişimi](https://sevgane.com/tr/iso-42001-yapay-zeka-yonetisimi/): ISO/IEC 42001 yapay zekâ yönetim sistemi nedir, proje liderliğinde nasıl uygulanır?
+- [Uzaktan Head of AI ve AI Program Director](https://sevgane.com/tr/head-of-ai-remote/): Yunus Sevğane, yapay zekâ projelerinde proje lideri olarak uzaktan Head of AI ve AI Program Director rollerine açık.
 - [Proje Yönetimi](https://sevgane.com/tr/proje-yonetimi/): Yapay zekâ projelerinde proje lideri / ekip kaptanı: keşiften bakıma yöntem, kapsam-bütçe-risk kontrolü, ISO 42001.
 - [Hizmetlerim](https://sevgane.com/tr/services/): Yapay zekâ projeleri, proje yönetimi, web, mobil, backend, DevOps, ISO uyumu, IT danışmanlık ve pazaryeri entegrasyonu: her alanda yönetim yöntemim.
 - [Projeler ve Vaka Çalışmaları](https://sevgane.com/tr/projeler/): 200+ kurumsal web sitesi, 10+ mobil uygulama, 3+ pazaryeri entegrasyonu, altyapı ve yapay zekâ projeleri: proje türlerine göre yürüttüğüm işler ve rolüm.
@@ -20,14 +23,15 @@ Web: https://sevgane.com/tr/ · Telefon: +90 531 679 10 14 · E-posta: yunus@sev
 - [Kişisel Veriler](https://sevgane.com/tr/kisisel-veriler/): 6698 sayılı KVKK kapsamında aydınlatma metni: veri sorumlusu Yunus Sevğane, işlenen kişisel veriler, amaçlar, hukuki sebepler ve veri aktarımı.
 - [Kullanıcı Hakları](https://sevgane.com/tr/kullanici-haklari/): KVKK 11.
 - [Yasal Uyarı](https://sevgane.com/tr/yasal-uyari/): sevgane.com yasal uyarı: kullanım koşulları, fikri mülkiyet hakları, üçüncü taraf bağlantılar ve sorumluluk sınırları hakkında bilgilendirme.
-- [Çerez Politikası](https://sevgane.com/tr/cerez-politikasi/): Bu politika, Yunus Sevğane tarafından işletilen https://sevgane.com internet sitesinde kullanılan çerezleri, bunların…
+- [Çerez Politikası](https://sevgane.com/tr/cerez-politikasi/): Yunus Sevğane tarafından işletilen sevgane.com sitesinde kullanılan çerezler, kullanım amaçları ve çerez tercihlerinizi nasıl yönetebileceğiniz.
 - [Web Geliştirme](https://sevgane.com/tr/web-gelistirme/): 200'den fazla kurumsal web sitesi: HTML, CSS, JavaScript, Node.js ve ASP ile hızlı, güvenli ve aramaya uygun web çözümleri; adım adım yönetim yöntemim.
 - [Mobil Uygulama Geliştirme](https://sevgane.com/tr/mobil-uygulama-gelistirme/): 10'dan fazla mobil uygulama: Flutter, React Native, Java ve Swift ile Android ve iOS; sprint, test ve mağaza sürecini nasıl yönettiğim.
 - [Yapay Zekâ Projeleri](https://sevgane.com/tr/yapay-zeka-cozumleri/): AI agent, LLM RAG ve ince ayar projelerinde proje lideri; ISO/IEC 42001 yönetişim bakışı.
 - [Backend ve Sistem Mimarisi](https://sevgane.com/tr/backend-sistem-mimarisi/): Node.js, ASP, MongoDB, Redis ve T-SQL ile ölçeklenebilir, güvenli backend ve veritabanı mimarisi; karar kaydından geçiş planına yönetim yöntemim.
 - [DevOps ve Altyapı](https://sevgane.com/tr/devops-altyapi/): Full stack DevOps: planlı, tekrarlanabilir ve geri alınabilir yayınlar; altyapı, yedekleme ve izleme düzenini nasıl yönettiğim.
 - [Bilgi Güvenliği ve ISO Uyumu](https://sevgane.com/tr/bilgi-guvenligi-iso-27001/): ISO/IEC 27001 ve 42001 baş denetçi eğitimi; siber güvenlik ve adli bilişim.
-- [IT Danışmanlık](https://sevgane.com/tr/it-danismanlik/): Teknoloji seçimi, ekip kurma ve tedarikçi koordinasyonu: ihtiyaç görüşmesinden yol haritasına IT danışmanlık yöntemim.
+- [IT Danışmanlık](https://sevgane.com/tr/it-danismanlik/): Teknoloji seçimi, ekip kurma ve tedarikçi koordinasyonu: ihtiyaç görüşmesinden yol haritasına, IT danışmanlık projelerini nasıl yönettiğim.
+- [LLM RAG projelerinde proje yönetimi: kapsam, veri, değerlendirme](https://sevgane.com/tr/llm-rag-projelerinde-proje-yonetimi/): LLM RAG projesini yönetirken kapsam, kaynak belgeler, yetkilendirme, değerlendirme seti ve izleme nasıl ele alınır?
 - [Yapay zekâ projelerinde proje yöneticisinin rolü](https://sevgane.com/tr/yapay-zeka-projelerinde-proje-yoneticisinin-rolu/): AI agent, LLM RAG ve ince ayar projelerinde proje yöneticisi ne yapar?
 - [ISO/IEC 42001 ile yapay zekâ yönetişimi: proje liderinin kontrol listesi](https://sevgane.com/tr/iso-iec-42001-yapay-zeka-yonetisimi-kontrol-listesi/): ISO/IEC 42001 bakışıyla bir yapay zekâ projesinde proje liderinin sorması gereken sorular: amaç, sorumlu, veri, risk, etki, üçüncü taraflar ve izleme.
 - [Uzaktan ve farklı saat dilimlerinde yapay zekâ ekibi yönetmek](https://sevgane.com/tr/uzaktan-ve-farkli-saat-dilimlerinde-ai-ekibi-yonetmek/): Uzaktan çalışan, farklı saat dilimlerine yayılmış bir yapay zekâ ekibini yönetmek: yazılı iletişim, karar kayıtları, iletişim ritmi, gösterim ve devir.

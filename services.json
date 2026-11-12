@@ -42,7 +42,7 @@
         "en": "10+ mobile apps with Flutter, React Native, Java and Swift for Android and iOS — and how I manage sprints, testing and the store release process.",
         "ar": "أكثر من 10 تطبيقات جوال باستخدام Flutter وReact Native وJava وSwift لنظامي Android وiOS — وكيف أدير السباقات والاختبار وعملية الإصدار في المتاجر.",
         "de": "10+ mobile Apps mit Flutter, React Native, Java und Swift für Android und iOS – und wie ich Sprints, Tests und den Store-Release-Prozess steuere.",
-        "es": "Más de 10 aplicaciones móviles con Flutter, React Native, Java y Swift para Android e iOS, y cómo gestiono los sprints, las pruebas y el proceso de publicación en las tiendas."
+        "es": "Más de 10 apps móviles con Flutter, React Native, Java y Swift para Android e iOS, y cómo gestiono sprints, pruebas y publicación en las tiendas."
       },
       "index": 1,
       "icon": "phone_android",
@@ -64,8 +64,8 @@
         "tr": "AI agent, LLM RAG ve ince ayar projelerinde proje lideri; ISO/IEC 42001 yönetişim bakışı. Head of AI ve AI Program Director gibi uzaktan rollere açığım.",
         "en": "Project lead for AI agent, LLM RAG and fine-tuning work, with an ISO/IEC 42001 governance lens. Open to remote Head of AI and AI Program Director roles.",
         "ar": "قائد مشروع لأعمال وكلاء الذكاء الاصطناعي وLLM RAG والضبط الدقيق، بمنظور حوكمة ISO/IEC 42001. منفتح على أدوار Head of AI وAI Program Director عن بُعد.",
-        "de": "Projektleiter für KI-Agent-, LLM-RAG- und Fine-Tuning-Arbeiten, mit ISO/IEC-42001-Governance-Blick. Offen für Remote-Rollen als Head of AI und AI Program Director.",
-        "es": "Líder de proyecto para agentes de IA, LLM RAG y fine-tuning, con enfoque de gobernanza ISO/IEC 42001. Abierto a puestos remotos de Head of AI y AI Program Director."
+        "de": "Projektleiter für KI-Agent-, LLM-RAG- und Fine-Tuning-Arbeiten, mit ISO/IEC-42001-Blick. Offen für Remote-Rollen als Head of AI und AI Program Director.",
+        "es": "Líder de proyecto para agentes de IA, LLM RAG y fine-tuning, con gobernanza ISO/IEC 42001. Abierto a puestos remotos de Head of AI y AI Program Director."
       },
       "index": 2,
       "icon": "psychology",
@@ -88,7 +88,7 @@
         "en": "Scalable, secure backend and database architecture with Node.js, ASP, MongoDB, Redis and T-SQL — from decision records to migration planning.",
         "ar": "بنية واجهة خلفية وقواعد بيانات قابلة للتوسّع وآمنة بـ Node.js وASP وMongoDB وRedis وT-SQL — من سجلات القرارات إلى تخطيط الترحيل.",
         "de": "Skalierbare, sichere Backend- und Datenbankarchitektur mit Node.js, ASP, MongoDB, Redis und T-SQL – von Entscheidungsprotokollen bis zur Migrationsplanung.",
-        "es": "Arquitectura de backend y bases de datos escalable y segura con Node.js, ASP, MongoDB, Redis y T-SQL: desde registros de decisiones hasta planificación de migraciones."
+        "es": "Arquitectura de backend y bases de datos escalable y segura con Node.js, ASP, MongoDB, Redis y T-SQL: de los registros de decisiones a la migración."
       },
       "index": 3,
       "icon": "storage",
@@ -108,8 +108,8 @@
       "category": "",
       "description": {
         "tr": "Full stack DevOps: planlı, tekrarlanabilir ve geri alınabilir yayınlar; altyapı, yedekleme ve izleme düzenini nasıl yönettiğim.",
-        "en": "Full-stack DevOps: planned, repeatable, reversible releases — and how I manage infrastructure, backup and monitoring.",
-        "ar": "DevOps الشامل: إصدارات مخططة وقابلة للتكرار والتراجع — وكيف أدير البنية التحتية والنسخ الاحتياطي والمراقبة.",
+        "en": "Full-stack DevOps: planned, repeatable and reversible releases, and how I manage infrastructure, backup and monitoring in my projects.",
+        "ar": "DevOps الشامل: إصدارات مخططة وقابلة للتكرار والتراجع، وكيف أدير البنية التحتية والنسخ الاحتياطي والمراقبة والتحديثات في مشاريعي المختلفة.",
         "de": "Full-Stack-DevOps: geplante, wiederholbare, umkehrbare Releases – und wie ich Infrastruktur, Backup und Monitoring steuere.",
         "es": "DevOps full-stack: despliegues planificados, repetibles y reversibles, y cómo gestiono la infraestructura, las copias de seguridad y la monitorización."
       },
@@ -133,8 +133,8 @@
         "tr": "ISO/IEC 27001 ve 42001 baş denetçi eğitimi; siber güvenlik ve adli bilişim. Kapsam, risk, doküman ve tetkik hazırlığını nasıl yönettiğim.",
         "en": "ISO/IEC 27001 and 42001 lead auditor training plus cybersecurity and digital forensics — how I manage scope, risk, documentation and audit readiness.",
         "ar": "تدريب المدقق الرئيسي في ISO/IEC 27001 و42001 إضافة إلى الأمن السيبراني والأدلة الجنائية الرقمية — كيف أدير النطاق والمخاطر والتوثيق والجاهزية للتدقيق.",
-        "de": "Lead-Auditor-Schulung für ISO/IEC 27001 und 42001 sowie Cybersicherheit und digitale Forensik – wie ich Umfang, Risiko, Dokumentation und Audit-Bereitschaft steuere.",
-        "es": "Formación de auditor líder en ISO/IEC 27001 y 42001, más ciberseguridad y análisis forense digital: cómo gestiono el alcance, el riesgo, la documentación y la preparación para auditorías."
+        "de": "Lead-Auditor-Schulung für ISO/IEC 27001 und 42001, Cybersicherheit und digitale Forensik – wie ich Umfang, Risiko, Dokumentation und Audits steuere.",
+        "es": "Formación de auditor líder en ISO/IEC 27001 y 42001, ciberseguridad y análisis forense: cómo gestiono alcance, riesgo, documentación y auditorías."
       },
       "index": 5,
       "icon": "security",
@@ -153,9 +153,9 @@
       "path": "it-danismanlik",
       "category": "",
       "description": {
-        "tr": "Teknoloji seçimi, ekip kurma ve tedarikçi koordinasyonu: ihtiyaç görüşmesinden yol haritasına IT danışmanlık yöntemim.",
+        "tr": "Teknoloji seçimi, ekip kurma ve tedarikçi koordinasyonu: ihtiyaç görüşmesinden yol haritasına, IT danışmanlık projelerini nasıl yönettiğim.",
         "en": "Technology selection, team building and supplier coordination — my IT consulting method from the first conversation to the roadmap.",
-        "ar": "اختيار التقنيات وبناء الفرق وتنسيق الموردين — منهجي في الاستشارات التقنية من المحادثة الأولى إلى خارطة الطريق.",
+        "ar": "اختيار التقنيات وبناء الفرق وتنسيق الموردين: منهجي في الاستشارات التقنية، من المحادثة الأولى حتى خارطة الطريق والتسليم والمتابعة بعد التسليم.",
         "de": "Technologieauswahl, Teamaufbau und Lieferantenkoordination — meine Methode der IT-Beratung vom ersten Gespräch bis zur Roadmap.",
         "es": "Selección de tecnología, creación de equipos y coordinación de proveedores: mi método de consultoría de TI desde la primera conversación hasta la hoja de ruta."
       },

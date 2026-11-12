@@ -23,8 +23,8 @@
         "tr": "Yunus Sevğane kimdir? Yazılım kökenli proje yöneticisi; AI projelerinde proje lideri olarak uzaktan C-level rollere açık. 200+ web sitesi, 10+ mobil uygulama.",
         "en": "Who is Yunus Sevğane? A project manager with a software background, open to remote C-level roles leading AI projects. 200+ websites, 10+ mobile apps.",
         "ar": "من هو Yunus Sevğane؟ مدير مشروع من خلفية برمجية، منفتح على أدوار C-level عن بُعد لقيادة مشاريع الذكاء الاصطناعي. أكثر من 200 موقع ويب وأكثر من 10 تطبيقات جوال.",
-        "de": "Wer ist Yunus Sevğane? Ein Projektmanager mit Softwarehintergrund, offen für Remote-C-Level-Rollen in der Leitung von KI-Projekten. 200+ Websites, 10+ mobile Apps.",
-        "es": "¿Quién es Yunus Sevğane? Director de proyectos con formación en software, abierto a puestos remotos C-level liderando proyectos de IA. Más de 200 sitios web y más de 10 apps móviles."
+        "de": "Wer ist Yunus Sevğane? Projektmanager mit Softwarehintergrund, offen für Remote-C-Level-Rollen in der Leitung von KI-Projekten. 200+ Websites, 10+ Apps.",
+        "es": "¿Quién es Yunus Sevğane? Director de proyectos con formación en software, abierto a puestos remotos C-level en proyectos de IA. 200+ webs y 10+ apps."
       }
     },
     {
@@ -40,8 +40,8 @@
         "tr": "AI ve yazılım projelerinde nasıl çalışırım: ön görüşme, yazılı kapsam, düzenli durum bildirimi, aşamalı teslim, uzaktan ve farklı saat dilimlerinde çalışma.",
         "en": "How I work on AI and software projects: intro call, written scope, regular status updates, staged delivery and a remote working routine across time zones.",
         "ar": "كيف أعمل على مشاريع الذكاء الاصطناعي والبرمجيات: مكالمة تعريفية، ونطاق مكتوب، وتحديثات حالة منتظمة، وتسليم على مراحل، وروتين عمل عن بُعد عبر المناطق الزمنية.",
-        "de": "Wie ich in KI- und Softwareprojekten arbeite: Kennenlerngespräch, schriftlicher Umfang, regelmäßige Statusberichte, etappenweise Lieferung und eine Remote-Arbeitsroutine über Zeitzonen hinweg.",
-        "es": "Cómo trabajo en proyectos de IA y de software: llamada introductoria, alcance por escrito, informes de estado periódicos, entrega por fases y una rutina de trabajo remoto entre zonas horarias."
+        "de": "Wie ich in KI- und Softwareprojekten arbeite: Kennenlerngespräch, schriftlicher Umfang, Statusberichte, etappenweise Lieferung, Remote-Arbeit über Zeitzonen.",
+        "es": "Cómo trabajo en proyectos de IA y software: llamada introductoria, alcance escrito, informes de estado, entrega por fases y trabajo remoto entre zonas horarias."
       },
       "path": "calisma-bicimi",
       "icon": "handshake",
@@ -110,7 +110,7 @@
         "en": "Frequently asked questions about remote work across time zones, the AI roles I am open to, ISO 42001, working models and how to get a proposal.",
         "ar": "أسئلة شائعة عن العمل عن بُعد عبر المناطق الزمنية، وأدوار الذكاء الاصطناعي التي أنفتح عليها، وISO 42001، ونماذج العمل، وكيفية الحصول على عرض.",
         "de": "Häufige Fragen zu Remote-Arbeit über Zeitzonen hinweg, den KI-Rollen, für die ich offen bin, ISO 42001, Arbeitsmodellen und wie Sie ein Angebot erhalten.",
-        "es": "Preguntas frecuentes sobre trabajo remoto entre zonas horarias, puestos de IA a los que estoy abierto, ISO 42001, modelos de colaboración y cómo obtener una propuesta."
+        "es": "Preguntas frecuentes: trabajo remoto entre zonas horarias, puestos de IA a los que estoy abierto, ISO 42001, modelos de colaboración y propuesta."
       },
       "path": "sss",
       "icon": "quiz",
@@ -168,7 +168,7 @@
       "description": {
         "tr": "sevgane.com gizlilik politikası: Yunus Sevğane tarafından hangi verilerin işlendiği, hangi amaçla kullanıldığı, ne kadar saklandığı ve nasıl korunduğu.",
         "en": "sevgane.com privacy policy: which data Yunus Sevğane processes, for what purpose, how long it is kept and how it is protected.",
-        "ar": "سياسة الخصوصية لموقع sevgane.com: ما البيانات التي يعالجها Yunus Sevğane، ولأي غرض، ومدة الاحتفاظ بها، وكيف تُحمى.",
+        "ar": "سياسة الخصوصية لموقع sevgane.com: ما البيانات التي يعالجها Yunus Sevğane، ولأي غرض، ومدة الاحتفاظ بها، وكيف تُحمى، وحقوقك في هذا الشأن.",
         "de": "Datenschutzerklärung von sevgane.com: welche Daten Yunus Sevğane verarbeitet, zu welchem Zweck, wie lange sie aufbewahrt und wie sie geschützt werden.",
         "es": "Política de privacidad de sevgane.com: qué datos trata Yunus Sevğane, con qué finalidad, durante cuánto tiempo se conservan y cómo se protegen."
       }
@@ -196,8 +196,8 @@
         "tr": "6698 sayılı KVKK kapsamında aydınlatma metni: veri sorumlusu Yunus Sevğane, işlenen kişisel veriler, amaçlar, hukuki sebepler ve veri aktarımı.",
         "en": "Privacy notice under Law No. 6698 (KVKK): data controller Yunus Sevğane, the personal data processed, purposes, legal bases and data transfers.",
         "ar": "إشعار الخصوصية بموجب القانون رقم 6698 (KVKK): المسؤول عن البيانات Yunus Sevğane، والبيانات الشخصية المعالَجة، والأغراض، والأسس القانونية، ونقل البيانات.",
-        "de": "Datenschutzhinweis nach dem Gesetz Nr. 6698 (KVKK): Verantwortlicher Yunus Sevğane, verarbeitete personenbezogene Daten, Zwecke, Rechtsgrundlagen und Datenübermittlungen.",
-        "es": "Aviso de privacidad conforme a la Ley n.º 6698 (KVKK): responsable del tratamiento Yunus Sevğane, datos personales tratados, finalidades, bases jurídicas y transferencias de datos."
+        "de": "Datenschutzhinweis nach Gesetz Nr. 6698 (KVKK): Verantwortlicher Yunus Sevğane, verarbeitete Daten, Zwecke, Rechtsgrundlagen und Datenübermittlung.",
+        "es": "Aviso de privacidad según la Ley n.º 6698 (KVKK): responsable Yunus Sevğane, datos personales tratados, finalidades, bases jurídicas y transferencias."
       }
     },
     {
@@ -224,7 +224,7 @@
         "en": "Your rights under Article 11 of the KVKK (information, correction, deletion, objection) and how to apply to Yunus Sevğane: WhatsApp and the contact form.",
         "ar": "حقوقك بموجب المادة 11 من KVKK (الاطلاع والتصحيح والحذف والاعتراض) وكيفية التقدم بطلب إلى Yunus Sevğane: عبر WhatsApp ونموذج التواصل.",
         "de": "Ihre Rechte nach Artikel 11 des KVKK (Auskunft, Berichtigung, Löschung, Widerspruch) und wie Sie sich an Yunus Sevğane wenden: WhatsApp und Kontaktformular.",
-        "es": "Sus derechos conforme al artículo 11 de la KVKK (información, rectificación, supresión, oposición) y cómo dirigirse a Yunus Sevğane: WhatsApp y formulario de contacto."
+        "es": "Sus derechos según el artículo 11 de la KVKK (información, rectificación, supresión, oposición) y cómo dirigirse a Yunus Sevğane: WhatsApp y formulario."
       }
     },
     {
@@ -248,8 +248,8 @@
       "icon": "home",
       "description": {
         "tr": "sevgane.com yasal uyarı: kullanım koşulları, fikri mülkiyet hakları, üçüncü taraf bağlantılar ve sorumluluk sınırları hakkında bilgilendirme.",
-        "en": "sevgane.com legal notice: terms of use, intellectual property rights, third-party links and limits of liability.",
-        "ar": "الإشعار القانوني لموقع sevgane.com: شروط الاستخدام وحقوق الملكية الفكرية وروابط الأطراف الثالثة وحدود المسؤولية.",
+        "en": "sevgane.com legal notice: terms of use, intellectual property rights, third-party links, limits of liability and how to contact Yunus Sevğane.",
+        "ar": "الإشعار القانوني لموقع sevgane.com: شروط الاستخدام وحقوق الملكية الفكرية وروابط الأطراف الثالثة وحدود المسؤولية وكيفية التواصل معنا.",
         "de": "Rechtliche Hinweise von sevgane.com: Nutzungsbedingungen, geistige Eigentumsrechte, Links zu Dritten und Haftungsbeschränkungen.",
         "es": "Aviso legal de sevgane.com: condiciones de uso, derechos de propiedad intelectual, enlaces de terceros y límites de responsabilidad."
       }
@@ -264,10 +264,10 @@
         "es": "Política de cookies"
       },
       "description": {
-        "tr": "Bu politika, Yunus Sevğane tarafından işletilen https://sevgane.com internet sitesinde kullanılan çerezleri, bunların…",
+        "tr": "Yunus Sevğane tarafından işletilen sevgane.com sitesinde kullanılan çerezler, kullanım amaçları ve çerez tercihlerinizi nasıl yönetebileceğiniz.",
         "en": "This policy explains the cookies used on sevgane.com, operated by Yunus Sevğane, what they are used for and how you can manage your preferences.",
         "ar": "توضح هذه السياسة ملفات تعريف الارتباط المستخدمة على sevgane.com الذي يديره Yunus Sevğane، وما تُستخدم من أجله، وكيف يمكنك إدارة تفضيلاتك.",
-        "de": "Diese Richtlinie erläutert die auf sevgane.com, betrieben von Yunus Sevğane, verwendeten Cookies, wofür sie eingesetzt werden und wie Sie Ihre Einstellungen verwalten können.",
+        "de": "Diese Richtlinie erläutert die auf sevgane.com von Yunus Sevğane verwendeten Cookies, wofür sie eingesetzt werden und wie Sie Ihre Einstellungen verwalten.",
         "es": "Esta política explica las cookies que se utilizan en sevgane.com, sitio operado por Yunus Sevğane, para qué sirven y cómo puede gestionar sus preferencias."
       },
       "path": "cerez-politikasi",
